@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/campaigns.loc		
+campaigns_description_mk_attila_early	AD 1212	true
+campaigns_description_mk_attila_late	AD 1380	true
+campaigns_onscreen_name_bel_attila	The Last Roman	true
+campaigns_onscreen_name_cha_attila	Age of Charlemagne	true
+campaigns_description_cha_attila	AD768	true
+campaigns_onscreen_name_mk_attila_early	Grand Campaign (1212)	true
+campaigns_description_bel_attila	AD533	true
+campaigns_onscreen_name_mk_attila_late	Grand Campaign (1380)	true

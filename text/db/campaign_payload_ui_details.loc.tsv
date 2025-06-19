@@ -1,0 +1,230 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_payload_ui_details.loc		
+campaign_payload_ui_details_description_bel_pope_2	Trait Gained: Fidei Defensor 	true
+campaign_payload_ui_details_description_bel_pope_1	Trait Gained: Defender of Harmony	true
+campaign_payload_ui_details_description_dummy_payload_viking_take_land_northumbria	Recieve a Northumbrian region.	true
+campaign_payload_ui_details_description_dummy_pope_ancillary	The Pope joins Charlemagne's court.	true
+campaign_payload_ui_details_description_bel_antonina_gems_1	Reputation Damage	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_2	Some minor repairs might just be enough to stop the dam from bursting...	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_3	Extensive repair work will likely prevent all but a small amount of damage.	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_1	Leaving the dam to its fate costs no money, but the damage is likely to be serious... It may even burst!	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_4	Fully repairing the dam will keep it in good working order and keep the farmers happy.	true
+campaign_payload_ui_details_description_dummy_ybor_level_A_choice_1	Prised from the cold grasp of a rival king.	true
+campaign_payload_ui_details_description_dummy_ybor_level_A_choice_2	Said by the priesthood to confer wisdom and the protection of Godan.	true
+campaign_payload_ui_details_description_cha_carloman_succession_1_war	War will soon be declared between you.	true
+campaign_payload_ui_details_description_dummy_venedi_1_repeat	We can pay the Huns a large tribute, this should guarantee our safety.	true
+campaign_payload_ui_details_description_dummy_venedi_2_repeat	Delivering the Huns substantial amounts of food should guarantee our safety.	true
+campaign_payload_ui_details_description_dummy_venedi_3_repeat	Refusing to give the Huns anything will undoubtedly stoke their anger.	true
+campaign_payload_ui_details_description_dummy_payload_joyeuse	"Charlemagne receives his legendary sword ""Joyeuse""!"	true
+campaign_payload_ui_details_description_att_mission_accepted_dummy	Mission Issued	true
+campaign_payload_ui_details_description_att_mission_rejected_dummy	Mission Rejected	true
+campaign_payload_ui_details_description_adopt	Character adopted: %2%	true
+campaign_payload_ui_details_description_dummy_ollam_ri_picti_choice_1	The black mirror of its surface reflects mankind’s every secret.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_picti_choice_2	The primordial trees promise life to the brave and death to the unwary.	true
+campaign_payload_ui_details_description_dummy_payload_unforeseen_consequences	There may be unforeseen consequences...	true
+campaign_payload_ui_details_description_bel_photius_1	Income Increase	true
+campaign_payload_ui_details_description_damage_buildings_home_region	Damage Buildings	true
+campaign_payload_ui_details_description_bel_rumours_1	You may become a laughing stock, but you will be very wealthy for your pains.	true
+campaign_payload_ui_details_description_bel_rumours_2	Forego material gain in order to preserve your honour. 	true
+campaign_payload_ui_details_description_dummy_payload_charlemagne_war	Charlemagne declares war on you!	true
+campaign_payload_ui_details_description_bel_narses_response_2	Trait Gained: Supreme Commander	true
+campaign_payload_ui_details_description_bel_narses_response_1	Trait Gained: Hand-Picked	true
+campaign_payload_ui_details_description_dummy_payload_pope_relinquish	The Pope relinquishes his claim on Ravenna.	true
+campaign_payload_ui_details_description_dummy_payload_viking_take_land_mercia	Recieve a Mercian region.	true
+campaign_payload_ui_details_description_lose_trait	Trait lost: %1%	true
+campaign_payload_ui_details_description_spawn_agent	Agent recruited: %1% in %2%	true
+campaign_payload_ui_details_description_dummy_payload_remove_viking_bundle	"Remove ""Restless Warriors"" faction effect."	true
+campaign_payload_ui_details_description_bel_narses_2	Disobeying this order will increase your own strength and status, but offend the Emperor.	true
+campaign_payload_ui_details_description_bel_narses_1	Placate the Emperor and gain a useful general, but at the cost of personal power.	true
+campaign_payload_ui_details_description_gain_trait	Trait gained: %1%	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_2	Building Unlocked: Spice Trading Port	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_3	Building Unlocked: Royal Mint	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_1	Building Unlocked: Oriental Port	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1i_choice_2	The Ri has no time for tall tales, but he does for gold!	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1i_choice_1	The Ri wishes to see this marvel for himself.	true
+campaign_payload_ui_details_description_dummy_eos_civil_war	A civil war will soon break out...	true
+campaign_payload_ui_details_description_dummy_cordoba_1_1_tax	[[rgba:160:0:0]]-20% Tax Rate[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_payload_dam_inspired_farmers	Inspired Farmers in Zafar	true
+campaign_payload_ui_details_description_dummy_pope_help_1_2	The Lombards' envoy implores you to see reason. He claims these promises were of a time long since passed.	true
+campaign_payload_ui_details_description_dummy_pope_help_1_1	The Pope’s envoy requests you enforce the promise made by the Lombards. He asserts that men of honour must keep their word.	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_2	Reinforcing Army Dispatched 	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_3	Reinforcing Army Arrives	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_1	Significant improvement in Ostrogothic relations	true
+campaign_payload_ui_details_description_dummy_eos_sassanid_unhappy	The Sassanid leader will not be pleased...	true
+campaign_payload_ui_details_description_building_restriction_change	%1%	true
+campaign_payload_ui_details_description_dummy_payload_frankish_kingdom_name	"Become the ""Kingdom of the Franks""."	true
+campaign_payload_ui_details_description_dummy_pagan_rebels	Pagan rebels rise up across Saxony!	true
+campaign_payload_ui_details_description_dummy_payload_ceded_ravenna	Ravenna ceded to the Papal States.	true
+campaign_payload_ui_details_description_dummy_payload_dam_1_fully_repaired	The Dam is fully repaired	true
+campaign_payload_ui_details_description_dummy_payload_spanish_kingdom_name	"Become the ""Kingdom of Spain""."	true
+campaign_payload_ui_details_description_dummy_payload_offer_ravenna	Cede Ravenna to the Papal States.	true
+campaign_payload_ui_details_description_diplomatic_attitude_change	Attitude: %+1% with %2%	true
+campaign_payload_ui_details_description_bel_pope_request_1	Gain troops and promote the official faith of the Empire.	true
+campaign_payload_ui_details_description_bel_pope_request_2	Allow the Pope to stay on in the interest of religious and diplomatic harmony. 	true
+campaign_payload_ui_details_description_dummy_payload_english_kingdom_name	"Become the ""Kingdom of England""."	true
+campaign_payload_ui_details_description_dummy_payload_italian_kingdom_name	"Become the ""Kingdom of Italy""."	true
+campaign_payload_ui_details_description_dumm_eos_insult_war	The Sassanids declare war on you!	true
+campaign_payload_ui_details_description_dummy_venedi_food_1	[[rgba:160:0:0]]-50 Food[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_2	[[rgba:160:0:0]]-100 Food[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_3	[[rgba:160:0:0]]-150 Food[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_4	[[rgba:160:0:0]]-250 Food[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_name_change_3	"Become the ""Empire of the East"""	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1ii_choice_2	A simple, effective way to win any battle of wills.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1ii_choice_1	The Ri backs down for neither man nor beast.	true
+campaign_payload_ui_details_description_dummy_eos_settle_dont_absorb	Let those you have liberated remain your allies. You will not absorb any of their lands.	true
+campaign_payload_ui_details_description_cha_carloman_succession_war_declared	Carloman’s faction declares war on you	true
+campaign_payload_ui_details_description_justinian_photius_2	Dedicate yourself to Antonina and become vastly wealthy at the expense of honour. 	true
+campaign_payload_ui_details_description_justinian_photius_1	Refuse Antonina and earn the Emperor's favour and reinforcements.	true
+campaign_payload_ui_details_description_party_power_change	Control: %+1%%	true
+campaign_payload_ui_details_description_spawn_unit	Unit recruited to target force: %1%	true
+campaign_payload_ui_details_description_dummy_payload_dam_5_destroyed	The Dam has been ruined	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_response_1	Trait Gained: Well Watered 	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_response_2	Theodosius Adopted	true
+campaign_payload_ui_details_description_dummy_payload_cordoba_caliphate_name	"Become the ""Caliphate of Cordoba""."	true
+campaign_payload_ui_details_description_bel_theodora_amalasuntha_2	The Empress may sabotage your finances, but you can earn troops by completing the mission. 	true
+campaign_payload_ui_details_description_bel_theodora_amalasuntha_1	Cancel the mission and infuriate Justinian. The Empress, however, is a staggeringly wealthy ally. 	true
+campaign_payload_ui_details_description_dummy_venedi_tax_2	[[rgba:160:0:0]]-30% Tax Rate[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_3	[[rgba:160:0:0]]-40% Tax Rate[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_1	[[rgba:160:0:0]]-20% Tax Rate[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_4	[[rgba:160:0:0]]-60% Tax Rate[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_sclaveni_reward_offensive	You will gain permanent offensive improvements.	true
+campaign_payload_ui_details_description_dummy_sclaveni_reward_defensive	You will gain permanent defensive improvements.	true
+campaign_payload_ui_details_description_dummy_payload_dam_3_medium_damage	The Dam suffers Medium Damage	true
+campaign_payload_ui_details_description_dummy_saxon_1_1	If you convert, Charlemagne will likely show mercy, but Christianity will take hold.	true
+campaign_payload_ui_details_description_dummy_saxon_1_2	People will respect your stance against Charlemagne, but your men will be executed.	true
+campaign_payload_ui_details_description_dummy_avars_proven_khagan	"Remove ""An Unproven Khagan"" faction effect."	true
+campaign_payload_ui_details_description_marriage_random	Character marries: %1%	true
+campaign_payload_ui_details_description_dummy_cordoba_1_3	Like most situations, this is one that can be resolved through peaceful negotiation.	true
+campaign_payload_ui_details_description_dummy_cordoba_1_2	If you muster your forces at the shoreline, the enemy may back away from such a display.	true
+campaign_payload_ui_details_description_dummy_cordoba_1_1	Let them have your gold, surely an invasion would do more harm than losing a few coins?	true
+campaign_payload_ui_details_description_dummy_cordoba_1_4	Surely an empty threat does not require a response?	true
+campaign_payload_ui_details_description_cha_carloman_succession_3_bankroll	Separatists have taken control of some territory in your name.	true
+campaign_payload_ui_details_description_dummy_payload_dam_5_flood	Major flood in Zafar	true
+campaign_payload_ui_details_description_att_bundle_dummy_antonina_theodosius_rejected_2	Your army has contracted dysentery!	true
+campaign_payload_ui_details_description_become_retainer	Retainer appointment accepted	true
+campaign_payload_ui_details_description_dummy_antes_1_2	This is clearly a ruse of the most base and transparent kind. To let him live after attempting such chicanery would be an insult to the tribe and the gods.	true
+campaign_payload_ui_details_description_dummy_antes_2_2	The man has played the entire tribe for fools. This trickery cannot stand. Find him and destroy him.	true
+campaign_payload_ui_details_description_dummy_antes_1_1	This is, admittedly, a most dubious request, yet the chance of gaining Rome’s favour is surely worth the risk.	true
+campaign_payload_ui_details_description_dummy_antes_2_1	There is little that can be done to undo the sullying of your reputation, and no guarantee he can be caught and brought to justice. Let him go, and move on.	true
+campaign_payload_ui_details_description_loyalty_change	Loyalty: %+1% for %2%	true
+campaign_payload_ui_details_description_cha_carloman_succession_2_alliance	Carloman's faction will be extremely favourable towards you in future	true
+campaign_payload_ui_details_description_dummy_eos_settle_absorb	Absorb the lands of those allies you have liberated.	true
+campaign_payload_ui_details_description_spawn_unit_home_region	%1%	true
+campaign_payload_ui_details_description_dummy_payload_dam_foreman_trait	Faction leader gains the 'Chief Overseer' trait	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A2_choice_1	The man is clearly insane, and now the Ri has a date with a fish.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B2_choice_1	The man cannot be trusted, so the Ri gives him a fitting end.  	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A2_choice_2	A legendary king would make a powerful ally.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B2_choice_2	Perhaps this way he can make amends for the wrongs he perpetrated.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A3_choice_1	Kelpie offspring are said to make great rides. 	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A3_choice_2	She may have much to teach the Ri.	true
+campaign_payload_ui_details_description_marriage	Characters marry: %2% with %1%	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_3	Increased Control	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_2	Increased Integrity	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_1	Large Lump Sum	true
+campaign_payload_ui_details_description_dummy_payload_religious_event_rebelion_choice_1	We have neither time nor money to spare on these heretics. Call out their empty threat.	true
+campaign_payload_ui_details_description_dummy_payload_religious_event_rebelion_choice_2	His people have suffered enough. If we can make amends, so be it.	true
+campaign_payload_ui_details_description_bel_antonina_rumours_1	Theodosius Murdered 	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1_choice_1	It must be the Cat Sith, the infamous shape-shifting witch!	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B1_choice_1	If he can save them, the Ri will. 	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1_choice_2	It’s a cat. It should honour him!   	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B1_choice_2	If the skin had power they would have used it already.	true
+campaign_payload_ui_details_description_dummy_payload_dam_2_low_damage	The Dam suffers Low damage	true
+campaign_payload_ui_details_description_dummy_ollam_ri_votadini_choice_1	The black mirror of its surface reflects mankind’s every secret.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_votadini_choice_2	The primordial trees promise life to the brave and death to the unwary.	true
+campaign_payload_ui_details_description_bel_theodora_ioanina_2	Protect your family honour and please your wife by killing the rapist.	true
+campaign_payload_ui_details_description_bel_theodora_ioanina_1	Defy your wife and earn troops from the Empress, but at the expense of your reputation. 	true
+campaign_payload_ui_details_description_divorce	Characters divorce: %1% from %2%	true
+campaign_payload_ui_details_description_bel_antonina_photius_1	Photius Murdered 	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_1	Rich and powerful, a druid is still, ultimately, the tool of others.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_2	What else is a weapon, a cup or an instrument?	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_3	You grab the fish and run. The old man will not follow you. 	true
+campaign_payload_ui_details_description_embezzle	Funds embezzled: %1%	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B_choice_1	They must have a chance to prove their innocence.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B_choice_2	Really? A pig? They deserve to die for that lie alone.	true
+campaign_payload_ui_details_description_dummy_payload_become_hre	"You are now the ""Holy Roman Empire""."	true
+campaign_payload_ui_details_description_dummy_payload_charlemagne_threat	Charlemagne will soon issue you a dilemma.	true
+campaign_payload_ui_details_description_dummy_pope_attacked_1_2	Accept the money and return him. Roma must solve its own disputes, lest you be accused of meddling to increase your own power. 	true
+campaign_payload_ui_details_description_dummy_pope_attacked_1_1	Leo has clearly been wronged. Promise to escort him to Roma and earn the title of Holy Roman Emperor!	true
+campaign_payload_ui_details_description_dummy_eos_insult_1_choice_2	Try and change the subject as discreetly as possible by giving your assent.	true
+campaign_payload_ui_details_description_dummy_eos_insult_1_choice_1	Risk the Shahanshah’s wrath by confronting him directly.	true
+campaign_payload_ui_details_description_dummy_payload_saxon_kingdom_name	"Become the ""Kingdom of Saxony""."	true
+campaign_payload_ui_details_description_dummy_eos_insult_3_choice_2	Please the king, but risk deeply wounding the pride of your people when word gets out.	true
+campaign_payload_ui_details_description_dummy_eos_insult_3_choice_1	Tell him you see his point of view but would be no king if you failed to defend your subjects.	true
+campaign_payload_ui_details_description_treasury_change	Treasury: %+1%	true
+campaign_payload_ui_details_description_dummy_eos_insult_2_choice_2	You will not put your pride over the safety of your people.	true
+campaign_payload_ui_details_description_dummy_eos_insult_2_choice_1	You will not be spoken to this way, cast him out and consequences be damned!	true
+campaign_payload_ui_details_description_gravitas_change	Influence: %+1% for %2%	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_unlock_building_1	Building Unlocked: Victory Parade	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_unlock_building_2	Building Unlocked: Imperial Muster	true
+campaign_payload_ui_details_description_cha_carloman_succession_victory	Take control of the whole of Carloman's territory.	true
+campaign_payload_ui_details_description_att_reinforcements_dummy	Reinforcements Arrive	true
+campaign_payload_ui_details_description_dummy_venedi_2	Delivering the Huns substantial amounts of food should guarantee our safety.	true
+campaign_payload_ui_details_description_dummy_venedi_3	Refusing to give the Huns anything will undoubtedly stoke their anger.	true
+campaign_payload_ui_details_description_dummy_venedi_1	We can pay the Huns a large tribute, this should guarantee our safety.	true
+campaign_payload_ui_details_description_LOOKUP[mk_dummy_mission_england_take_normandy_failure]	Unable to lead his armies to victory, the King must return to England to lick his wounds. The consequences are sure to be known shortly...	true
+campaign_payload_ui_details_description_att_choice_issued_dummy	A dilemma will soon occur.	true
+campaign_payload_ui_details_description_damage_buildings	Damage Buildings	true
+campaign_payload_ui_details_description_dummy_payload_avar_khaganate_name	"Become the ""Avar Khaganate""."	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_units_2	New Units Unlocked	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_units_1	New Units Unlocked	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_1	Your wife is one of your greatest assets when pleased, but your men may think you weak.	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_2	Impress your men, but a spurned Antonina will hit you where it hurts the most. 	true
+campaign_payload_ui_details_description_demolish_building_chain	Demolish Building	true
+campaign_payload_ui_details_description_lose_ancillary	Household lost: %1%	true
+campaign_payload_ui_details_description_dummy_daughter_2	Dismiss these rumours as baseless. What do you care of the people’s opinion? You are the king!	true
+campaign_payload_ui_details_description_dummy_daughter_1	Put an end to your daughter’s promiscuity, and restore your reputation at the cost of her anger.	true
+campaign_payload_ui_details_description_bel_antonina_anastasius_1	Anastasius Murdered 	true
+campaign_payload_ui_details_description_dummy_payload_viking_peace_northumbria	Peace with the Kingdom of Northumbria.	true
+campaign_payload_ui_details_description_cha_carloman_succession_4	Staying out of Carloman's succession may seem wise, but an opportunity may be lost.	true
+campaign_payload_ui_details_description_cha_carloman_succession_3	By bankrolling the separatists we will acquire some of the lands they have captured thus far.	true
+campaign_payload_ui_details_description_cha_carloman_succession_2	Supporting his son is bound to generate a great deal of goodwill between your two factions.	true
+campaign_payload_ui_details_description_cha_carloman_succession_1	Taking Carloman's lands will cause his men to make a power play of their own.	true
+campaign_payload_ui_details_description_bel_rumours_response_1	Trait Gained: Cuckold	true
+campaign_payload_ui_details_description_spawn_agent_home_region	Agent recruited in capital: %1%	true
+campaign_payload_ui_details_description_dummy_payload_iron_crown	Charlemagne receives the Iron Crown of Lombardy!	true
+campaign_payload_ui_details_description_dummy_payload_general_recruited	This character has become a statesman in your faction.	true
+campaign_payload_ui_details_description_dummy_mercia_1_2	This man is too important to lose, yet Alcuin will doubtless be unhappy if he is forced to stay.	true
+campaign_payload_ui_details_description_dummy_mercia_2_2	Alcuin remains your most important scholar, the kingdom will be worse off without him.	true
+campaign_payload_ui_details_description_dummy_mercia_1_1	Letting Alcuin leave is what the scholar wants. Who are we to deny such a request?	true
+campaign_payload_ui_details_description_dummy_mercia_2_1	Risking the ire of Alcuin could be as bad as losing him. Do not burn bridges, and let him go.	true
+campaign_payload_ui_details_description_gain_ancillary	Household gained: %1%	true
+campaign_payload_ui_details_description_kill_character	Character killed: %1%	true
+campaign_payload_ui_details_description_dummy_sclaveni_1	Take the fight to these Hunnic dogs. You must beat them decisively several times to prove our strength beyond doubt.	true
+campaign_payload_ui_details_description_dummy_sclaveni_2	Let the Huns come to you. Defend your settlements against their onslaught and emerge victorious.	true
+campaign_payload_ui_details_description_att_mission_issued_dummy	A mission will soon be issued.	true
+campaign_payload_ui_details_description_rebellion	Rebellion	true
+campaign_payload_ui_details_description_dummy_ybor_level_C4_choice_2	Ybor’s rhetoric needs no divine backing – he chooses the king. 	true
+campaign_payload_ui_details_description_dummy_ybor_level_C4_choice_1	Is a god not greater than a king? Ybor accepts the priest’s offer.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B2_choice_2	His words laced with authority, Ybor lashes the farmers into action.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C2_choice_2	Any man may take life, only the great may give it. 	true
+campaign_payload_ui_details_description_dummy_ybor_level_B2_choice_1	Feeling Godan’s presence surrounding him, Ybor plunges into the fire.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C2_choice_1	By slaying the evil before it does harm, a healer will never be needed. 	true
+campaign_payload_ui_details_description_dummy_ollam_ri_ebdani_choice_1	The black mirror of its surface reflects mankind’s every secret.	true
+campaign_payload_ui_details_description_dummy_payload_dam_4_high_damage	The Dam suffers High Damage	true
+campaign_payload_ui_details_description_dummy_ollam_ri_ebdani_choice_2	The primordial trees promise life to the brave and death to the unwary.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C3_choice_2	Ybor retreats to a sacred glade to seek the cure directly from Godan.  	true
+campaign_payload_ui_details_description_dummy_ybor_level_C3_choice_1	Ybor descends on the village to heal the populace directly.  	true
+campaign_payload_ui_details_description_seek_wife	Seek Wife	true
+campaign_payload_ui_details_description_dummy_payload_viking_kingdom_name	"Become the ""Kingdom of the Vikings""."	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_4	You could earn the respect of Charlemagne by remaining defiant, though you may just as easily miss an opportunity to sway his opinion.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_1_1	Ceding Ravenna will diminish your strength, but honouring Pepin’s agreement will sow goodwill between you and the Papacy.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_1	The threat Charlemagne poses is great. Relenting and ceding Ravenna may be the wisest option at this stage.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_3_1	Comply with Charlemagne’s demands and cede Ravenna to the Papal States. This is now the only way to avoid war with him.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_3	Grovel to Charlemagne and he may side with you in this matter, but you may lose the respect of your people by doing so.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_1_2	Strategically speaking, Ravenna is not a region to be given up easily, but refusing to accept the Pope’s demands will likely draw his anger.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_2	Offering a large sum of money could lead the Pope to relinquish his claims over this territory.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_3_2	If this region is too important, or if your pride too great, then war with Charlemagne is now the only option left open to you.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B1_choice_2	Godan will see he is repaid.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C1_choice_2	Alone, Ybor steps forward with sweet words of reason and persuasion.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B1_choice_1	Words can turn a man’s head and pierce his heart.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C1_choice_1	With fiery exhortations, Ybor plunges into the heart of the mob. 	true
+campaign_payload_ui_details_description_dummy_viking_bloodlust	Your direct and unwavering refusal to accept peace will surely inspire your men!	true
+campaign_payload_ui_details_description_cha_carloman_succession_loyalists	A loyalist army now defends Carloman's capital.	true
+campaign_payload_ui_details_description_dummy_irminsul_destroyed	Pagans rise up in anger at the ruins of the Irminsul!	true
+campaign_payload_ui_details_description_dummy_payload_viking_peace_mercia	Peace with the Kingdom of Mercia.	true
+campaign_payload_ui_details_description_dummy_verden_4	All pagans will hear of this massacre, you can only hope that they will see the light.	true
+campaign_payload_ui_details_description_dummy_verden_3	Killing their leaders will send a strong message to the other captives.	true
+campaign_payload_ui_details_description_dummy_verden_2	Forcing their leaders to accept baptism could sway the others.	true
+campaign_payload_ui_details_description_dummy_verden_1	Your mercy would surely show the Saxons that peaceful co-existence is mutually beneficial.	true
+campaign_payload_ui_details_description_wound_character	Character wounded: %1%	true
+campaign_payload_ui_details_description_assign_character_to_post	Office appointed: %1%, %2%	true

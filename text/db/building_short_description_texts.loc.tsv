@@ -1,0 +1,850 @@
+key	text	tooltip
+#Loc;1;text/db/building_short_description_texts.loc		
+building_short_description_texts_short_description_cha_bld_barracks_1	A collection of men with spears is better than a mob with nothing.	true
+building_short_description_texts_short_description_cha_bld_barracks_2	Train hard, fight well. Some of you may yet survive.	true
+building_short_description_texts_short_description_cha_bld_barracks_3	Some of you may die; but that is a sacrifice I am willing to make.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_major_1	The gods love those brave enough to seek the bounty of the forest.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_major_2	Those who shed their blood for the tribe have much to be thankful for.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_major_3	Let the life blood flow forth and nourish this altar.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_major_4	Honour the Raging One and all will be well.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_major_5	Let the spirit of Godan run through you, and inspire your victory!	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_carpenter_2	The backbone of riders is the bow, hewn from strong wood by the skilled. 	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_carpenter_3	Bending the bough and treating the tree, this is the art of the carpenter.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_carpenter_4	Ingenious contrivances, for the good of the people and woe of the enemy.	true
+building_short_description_texts_short_description_cha_bld_church_school_1	To improve lives through knowledge is the Christian way indeed.	true
+building_short_description_texts_short_description_cha_bld_church_school_2	Keepers of knowledge should also impart it, you would think.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_1	What can't be made here isn't needed on campaign	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_yurthmaker_3	Some may call them crude, yet the yurt is the nomad's way of life.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_yurthmaker_2	The yurt, subject to the harshness of nomadic life, requires careful maintenance.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_yurthmaker_4	This yurt is for no ordinary man…	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_3	Serenity is only a fifty-foot winch and a prayer away.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_2	From this lofty position, a great man interprets the wisdom of God for those below.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_1	Impressive devotion, being a hermit, but what happens when we run out of bread?	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_basketweaver_4	Many hands make light work. 	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_basketweaver_2	A wise man puts all his eggs in one basket and watches it carefully.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_basketweaver_3	The skill of the weaver is passed from generation to generation.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_livestock_2	A wise shepherd watches his flock day and night.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_livestock_3	A herd provides more than just food.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_livestock_4	The size of a man's herd is an indication of his wealth.	true
+building_short_description_texts_short_description_cha_bld_treasury_1	Coins hold power beyond wealth. They are legitimacy. They are loyalty.	true
+building_short_description_texts_short_description_cha_bld_treasury_3	The coffers of the state, from which funds are drawn according to need and favour.	true
+building_short_description_texts_short_description_cha_bld_treasury_2	When your face is everywhere, there can be no doubt who rules.	true
+building_short_description_texts_short_description_cha_bld_tengrism_2	A wise man loves the stars too fondly to be afraid of the night.	true
+building_short_description_texts_short_description_cha_bld_tengrism_3	Honour great Tengri and his blessings will be yours.	true
+building_short_description_texts_short_description_cha_bld_tengrism_1	The lightning strikes the highest mountain.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_church_2	Where men gather to hear the word of God.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_church_3	Love your enemies; pray for those who persecute you.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_church_4	Let all voices be raised in prayer.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_1	Generals might win wars, but quartermasters win battles.	true
+building_short_description_texts_short_description_cha_bld_olive_1	One olive tree is good, many are better.	true
+building_short_description_texts_short_description_cha_bld_olive_3	The fruit of the olive tree makes for good business.	true
+building_short_description_texts_short_description_cha_bld_olive_2	The humble olive reveals its value when crushed under stone.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_generic_1	Treated correctly, the eastern deserts are as fertile as a western meadow.	true
+building_short_description_texts_short_description_cha_bld_cloth_3	There are many advantages to owning a really nice carpet.	true
+building_short_description_texts_short_description_cha_bld_cloth_2	Many looms are better than one.	true
+building_short_description_texts_short_description_cha_bld_cloth_1	The threads of life are woven into the weaver's art.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_generic_1	I remember when this was all fields. Oh, it still is...	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_1	Ye shall know the truth, and the truth shall set you free.	true
+building_short_description_texts_short_description_cha_bld_court_1	The more important the lord, the bigger the smile.	true
+building_short_description_texts_short_description_cha_bld_court_3	Amongst these hallowed halls, the real business of power is conducted.	true
+building_short_description_texts_short_description_cha_bld_court_2	Let the nobles gather to hear the words of their king!	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_1	If we take care of the land, it will take care of us.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_1	All great men honour the gods and love their women. 	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_1	Fruit is meat and drink for so many.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_military_3	A maritime power needs somewhere to berth its fleet. 	true
+building_short_description_texts_short_description_att_bld_barbarian_port_military_2	A safe quay from which to launch raids.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_military_4	The greatest navies, berthed here.	true
+building_short_description_texts_short_description_cha_bld_manor_2	By the ruler's generosity, his vassals may acquire power and status of their own.	true
+building_short_description_texts_short_description_cha_bld_manor_3	Ambition held in check through the dissemination of privilege.	true
+building_short_description_texts_short_description_cha_bld_manor_1	The lord of the manor dictates the lives of all who live upon it.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_4_hermes	Let Hermes be your voice between the gods and this world.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_1	A warrior does not need more than a weapon and a roof over his head.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_2	Fight hard, and fight often. There will always be a greater opponent!	true
+building_short_description_texts_short_description_bel_bld_camp_officers_1	There are those who follow, and those who lead.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_3	In the depths of the very earth itself, we give thanks and praise.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_2	Glory to God, hewn from stone and immortalised in rock.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_1	The One God does not care where you worship him, so long as you do.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_4	The Cathedral stands testament to the divine link between God and King.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_sands_civic_caravans_4	Words flow like spice. You will find both here.	true
+building_short_description_texts_short_description_att_bld_nomad_community_market_4	A place to relax and be entertained before talk of trade begins in earnest.	true
+building_short_description_texts_short_description_att_bld_nomad_community_market_2	Everything has a price. Just maybe not the first one you hear.	true
+building_short_description_texts_short_description_att_bld_nomad_community_market_3	All the goods that are and will be, foreign and local, stored here.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_sands_civic_caravans_3	When the going gets tough, stop. Obviously.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_sands_civic_caravans_2	Stay a while and listen.	true
+building_short_description_texts_short_description_cha_bld_fields_2	Grain makes the bread that feeds the masses. It all starts here.	true
+building_short_description_texts_short_description_cha_bld_fields_3	Land is power, granted to vassals and retainers, in return for their fealty.	true
+building_short_description_texts_short_description_cha_bld_fields_1	Treated correctly, even a desert may become a meadow.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_church_5_legendary	God above, and the son below. This is the word of the Lord.	true
+building_short_description_texts_short_description_att_slav_zadruga_1_short	Mutual benefit brought about by hard work and communal existence - such is the zadruga.	true
+building_short_description_texts_short_description_att_slav_zadruga_2_short	Loyalty to family runs deeper than to any king.	true
+building_short_description_texts_short_description_att_slav_zadruga_3_short	For the good of the family, all must know their role and be ready.	true
+building_short_description_texts_short_description_att_slav_zadruga_4_short	Hard work. Fraternity. Community.	true
+building_short_description_texts_short_description_cha_bld_medina_3	There's a splendid carpet shop around here somewhere, just can't quite remember where...	true
+building_short_description_texts_short_description_cha_bld_medina_2	Enter the labyrinth at your own risk.	true
+building_short_description_texts_short_description_cha_bld_medina_1	The old town is a maze, beautiful and labyrinthine in its complexity.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_grain_3	Grain fuels the minds from which empires are grown.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_grain_2	Grain makes the bread that feeds the masses. It all starts here.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_grain_4	Abundance and wealth are the same thing.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_slave_4	Everything, and everyone, has a price.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_slave_2	Some are born free, but not all die that way.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_slave_3	Those who allow themselves to be enslaved are little better than cattle.	true
+building_short_description_texts_short_description_cha_bld_garrison_1	Able-bodied townsfolk, determined to protect their homes.	true
+building_short_description_texts_short_description_cha_bld_garrison_2	They may not number many, but this garrison fights with zeal.	true
+building_short_description_texts_short_description_cha_bld_garrison_3	A sizeable defensive force, these men will hold the line.	true
+building_short_description_texts_short_description_att_bld_religion_other_1	Eko Eko Azarak... Eko Osiris…	true
+building_short_description_texts_short_description_bel_bld_camp_food_meat_2	A room for storing meat. Only meat. All the time.	true
+building_short_description_texts_short_description_bel_bld_camp_food_meat_3	Once preserved, the food must be kept in a dry area.	true
+building_short_description_texts_short_description_bel_bld_camp_food_meat_4	Bloodied. Inelegant. Crude. A fowl executioner.	true
+building_short_description_texts_short_description_cha_bld_hospice_1	The monks ensure that the sick pass as peacefully as their maladies allow.	true
+building_short_description_texts_short_description_cha_bld_hospice_2	Those closest to God may sometimes heal through him.	true
+building_short_description_texts_short_description_att_slav_wonder_military_2_short	Now that the wolves are running, perhaps you could do something to stop their bite?	true
+building_short_description_texts_short_description_att_slav_wonder_military_3_short	Now that the wolves are running, perhaps you could do something to stop their bite?	true
+building_short_description_texts_short_description_att_bld_religion_catholic_minor_1	"John answered, saying unto them all I indeed baptize you with water."""""	true
+building_short_description_texts_short_description_att_bld_religion_catholic_minor_3	All things are possible to him that believeth.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_minor_2	Faith is being sure of what we hope for and certain of what we do not see.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_minor_4	A beautiful life does not just happen, it is built daily by prayer.	true
+building_short_description_texts_short_description_cha_bld_siege_workshop_2	The engines of death and destruction, hewn from the humble tree.	true
+building_short_description_texts_short_description_cha_bld_siege_workshop_1	Great engines of war, crafted from strong oaks.	true
+building_short_description_texts_short_description_cha_bld_trader_2	Here, commerce thrives at a local level from dawn until dusk.	true
+building_short_description_texts_short_description_cha_bld_trader_3	A focal point for local trade, all manner of goods can be bought at the market hall.	true
+building_short_description_texts_short_description_cha_bld_trader_1	The trading post connects those who live far apart with each other, that all may prosper.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_slave_4	I'll do you a deal - five for the price of four?	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_slave_3	The cost of human life is surprisingly reasonable.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_chieftain_5_legendary_celtic	In which songs are sung of heroism and valour, with great whimsy!	true
+building_short_description_texts_short_description_cha_bld_library_1	Only through cultivation of the past can we influence the future.	true
+building_short_description_texts_short_description_cha_bld_madrasa_1	A school for the teaching of elementary reading, writing, and mathematics, so even the poorest may know their world.	true
+building_short_description_texts_short_description_cha_bld_library_3	Law, science and medicine. For all our futures.	true
+building_short_description_texts_short_description_cha_bld_madrasa_2	Focused, secondary education, for the more advanced student of Islam.	true
+building_short_description_texts_short_description_cha_bld_library_2	Every word is a weapon.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_2	Where the local defence force muster their strength.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_1	Men will always fight for their way of life.	true
+building_short_description_texts_short_description_bel_bld_camp_food_grain_4	An abundance of grain is an abundance of wealth.	true
+building_short_description_texts_short_description_bel_bld_camp_food_grain_2	Grain makes the bread that feeds the masses.	true
+building_short_description_texts_short_description_bel_bld_camp_food_grain_3	Grain fuels the minds from which empires are grown.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_1	Even the smallest of vessels needs a safe place to moor.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_noblemen_2	Official business goes on within this camp. 	true
+building_short_description_texts_short_description_att_bld_religion_celtic_major_2	A likeness carved in stone has many powers.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_major_3	Together they stand, until the end of time.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_major_1	I will put a stone on your cairn.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_major_4	Those who honour mighty Camulos will know victory and taste glory.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_major_5	May the bright star of Belenus guide you always.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_1	Many hands make light work, but these hands make GREAT work.	true
+building_short_description_texts_short_description_att_bld_all_ruins	The husk of a once-thriving settlement, its inhabitants scattered to the winds.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_2	Two for that, you must be mad! It's worth at least ten!	true
+building_short_description_texts_short_description_cha_bld_council_1	Speak and we shall listen. I can promise nothing further.	true
+building_short_description_texts_short_description_att_bld_eos_military_infantry_5_judaism	Belief in the divine drives men to staggering strength.	true
+building_short_description_texts_short_description_cha_bld_council_2	The tribunal gathers to hear evidence and pass judgement.	true
+building_short_description_texts_short_description_cha_bld_council_3	A grand space for assembly, entreatment, and the decision-making therein.	true
+building_short_description_texts_short_description_att_slav_wonder_1_short	The wolf, noble and powerful, deserves both our fear and our reverence.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_forge_2	Although iron is tougher, bronze adorns its wearer like nothing else.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_forge_3	Steel ensures its bearers are both honoured and respected.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_forge_4	Fire destroys, but it can also create.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_infantry_4	You are the ones who will bring us victory! Clog their lungs with your fury!	true
+building_short_description_texts_short_description_cha_bld_fighter_2	Are you not entertained? No? Really? There's just no pleasing some people...	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_infantry_3	Foot soldiers may gain less glory than riders, but they serve a crucial purpose.	true
+building_short_description_texts_short_description_cha_bld_fighter_1	My money's on the Suebian - he's just quicker...	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_1	This man is wise beyond his years, which are already quite significant.	true
+building_short_description_texts_short_description_att_bld_all_resources_port_spice_3	The sea is a gateway to the wider world.	true
+building_short_description_texts_short_description_att_bld_all_resources_port_spice_2	The ancestors watch over those who sail the seas.	true
+building_short_description_texts_short_description_att_bld_all_resources_port_spice_1	All rivers flow in to the sea.	true
+building_short_description_texts_short_description_att_bld_all_resources_port_spice_4	The wonders of the world flow through this thriving port.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_minor_generic_2	For most people, a village is their whole world.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_minor_generic_3	Small towns breed ambitious men.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_minor_generic_1	Small communities thrive through shared endeavour.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_minor_generic_4	Behind their walls, these people are the strength of an Empire.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_minor_generic_1	Small communities thrive through shared endeavour.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_minor_generic_2	For most people, a village is their whole world.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_minor_generic_3	Small towns breed ambitious men.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_minor_generic_4	Behind their walls, these people are the strength of the Empire.	true
+building_short_description_texts_short_description_bel_bld_roman_military_3	Here you will learn to fight. To survive. To kill.	true
+building_short_description_texts_short_description_bel_bld_roman_military_2	They are calling you to war; will you answer?	true
+building_short_description_texts_short_description_bel_bld_roman_military_1	Heed the rallying cry; make ready!	true
+building_short_description_texts_short_description_bel_bld_roman_military_4	In the name of your king, you will fight!	true
+building_short_description_texts_short_description_att_bld_religion_tengri_minor_4	It is right and proper to honour your ancestors.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_minor_1	Wood speaks to those who are willing to listen.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_minor_2	They seek him here, they seek him there, they seek that shaman everywhere.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_minor_3	Only the brave may dance within the shaman's circle.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_wagonmaker_2	Purely pragmatic, carts carry large quantities as far as a mule can drag them.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_wagonmaker_3	Larger than a cart, the wagon hauls cargo and men across the vast steppes.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_wagonmaker_4	Solidly constructed, they'll get you there in the end, if not in style.	true
+building_short_description_texts_short_description_mk_bld_religion_jewish_community_4	''I don't know what goes on in that half-church you call a Synagogue, but here, we don't talk business on Yom Kippur.''	true
+building_short_description_texts_short_description_mk_bld_religion_jewish_community_3	Rulers may protect the Jews in their realms, recognizing their utility in developing the commercial interest of the country.	true
+building_short_description_texts_short_description_mk_bld_religion_jewish_community_2	The separate Jewish Quarters may give a sense of community and some protection from mob violence from outside. Sometimes, its' residence are given the right to exercise their own Jewish law and customs there	true
+building_short_description_texts_short_description_mk_bld_religion_jewish_community_1	It was common for the Jews in a settlement to be relegated to their own neighborhood due to their beliefs and how others treated them.	true
+building_short_description_texts_short_description_bel_bld_camp_sanitation_1	Everybody does it. Why be private about it? 	true
+building_short_description_texts_short_description_bel_bld_camp_sanitation_3	From the lowliest grunt, to the highest-born general…	true
+building_short_description_texts_short_description_bel_bld_camp_sanitation_2	Sometimes, we all need a little privacy.	true
+building_short_description_texts_short_description_bel_bld_camp_sanitation_4	Room to sit, bathe, and plot the day away…	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_tavern_3	Drink deep and toast the gods.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_tavern_4	There is nothing in life that a large quantity of mead cannot fix.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_chickens_4	Sport brings men's blood to the boil and the gold from their hands. 	true
+building_short_description_texts_short_description_cha_bld_barbarian_city_1	The humble building blocks of greatness.	true
+building_short_description_texts_short_description_cha_bld_barbarian_city_2	A respectable, growing hub of industrious endeavour.	true
+building_short_description_texts_short_description_cha_bld_barbarian_city_3	A beacon of culture and prosperity.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_chickens_2	A bird in the hand is worth two in the bush.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_chickens_3	Chickens provide much and ask for little.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_palace_5_legendary	The true power of the east, made real before your eyes.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_sack_3	The spoils of glorious victory, rightfully claimed.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_sack_2	The trade and barter of loot. That is the right of conquerors.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_sack_4	Look upon this treasure and know you are in victory's company.	true
+building_short_description_texts_short_description_cha_bld_tavern_3	Safety and sustenance lie somewhere along the road.	true
+building_short_description_texts_short_description_cha_bld_tavern_2	Drink deep and toast the heavens.	true
+building_short_description_texts_short_description_cha_bld_tavern_1	The weary traveller may find sustenance and rest, safe from the road's privations.	true
+building_short_description_texts_short_description_att_bld_eos_military_infantry_5_semitic	The blessings of God makes swords strike truer, and harder.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_grain_3	Try not to get lost, it's a maize in there! No really, it's wheat.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_grain_2	Wheat is the basis of bread, and so the basis of life.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_1	All great men honour the gods and seek communion with them.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_grain_4	Millions of tonnes of wheat, driving the kingdom to greatness.	true
+building_short_description_texts_short_description_cha_bld_church_1	The faithful gather to hear the Lord's word, and belong.	true
+building_short_description_texts_short_description_cha_bld_church_2	The abbot is father to the community, spiritually speaking.	true
+building_short_description_texts_short_description_cha_bld_church_3	Faith solidified, the cathedral spires stretch to the heavens.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_2	The finest goods, just for you my friend!	true
+building_short_description_texts_short_description_cha_bld_estate_3	The world in microcosm, with all the intrigues of the real thing.	true
+building_short_description_texts_short_description_cha_bld_estate_2	A gift from the Emir. Yes, as far as the eye can see - it is all mine.	true
+building_short_description_texts_short_description_cha_bld_estate_1	Great houses require land to pay their upkeep.	true
+building_short_description_texts_short_description_att_bld_celtic_farm_livestock_2	Well, if you don't pen them in, they'll get out, right?	true
+building_short_description_texts_short_description_att_bld_celtic_farm_livestock_3	This is where the cows go. Until they are required.	true
+building_short_description_texts_short_description_att_bld_celtic_farm_livestock_4	When summer comes, and the cold relents, the tribe moves.	true
+building_short_description_texts_short_description_cha_bld_alcazar_3	Only a suicidal fool would attempt to assail the royal citadel.	true
+building_short_description_texts_short_description_cha_bld_alcazar_2	A fortress fit for a caliph, and defended as such.	true
+building_short_description_texts_short_description_cha_bld_alcazar_1	They will not get in here; not with their lives.	true
+building_short_description_texts_short_description_bel_bld_camp_military_1	When the Empire calls, will you answer?	true
+building_short_description_texts_short_description_bel_bld_camp_military_2	Only the best need apply. Are you the best?	true
+building_short_description_texts_short_description_bel_bld_camp_military_3	Those who have fought before - fight further!	true
+building_short_description_texts_short_description_bel_bld_camp_military_4	Here you will learn to fight. To survive. To kill.	true
+building_short_description_texts_short_description_cha_bld_munya_2	The perfect space for the enjoyment of art and literature.	true
+building_short_description_texts_short_description_cha_bld_munya_3	A lavish residence for the noble aristocrat - its garden a wonder in itself.	true
+building_short_description_texts_short_description_cha_bld_munya_1	A noble house and garden, designed harmoniously as a single space.	true
+building_short_description_texts_short_description_cha_bld_mosque_3	A dazzling structure, created in joyful celebration of God.	true
+building_short_description_texts_short_description_cha_bld_mosque_2	All must hear the call to prayer.	true
+building_short_description_texts_short_description_cha_bld_mosque_1	A place of worship, where one may prostrate himself in prayer.	true
+building_short_description_texts_short_description_cha_bld_paganism_4	My strength is the strength of the pillar, the strength of the earth.	true
+building_short_description_texts_short_description_cha_bld_paganism_2	The gods inhabit the earth and all living things.	true
+building_short_description_texts_short_description_cha_bld_paganism_3	A place to worship. To worship your gods, my gods, THE gods.	true
+building_short_description_texts_short_description_cha_bld_paganism_1	All great men honour the gods and love their women. 	true
+building_short_description_texts_short_description_cha_bld_spring_2	Water sustains life, why should it not heal?	true
+building_short_description_texts_short_description_cha_bld_spring_1	The spring is proof of the Mother’s love for her children.	true
+building_short_description_texts_short_description_cha_bld_marble_1	Marble is admired, then desired, by many.	true
+building_short_description_texts_short_description_cha_bld_marble_2	The greatest public works are carved from this beautiful stone.	true
+building_short_description_texts_short_description_cha_bld_marble_3	Marble, produced here in great quantities, to feed man's lust for beauty.	true
+building_short_description_texts_short_description_att_bld_nomad_community_1	Share a story, practice archery, or just be amongst your comrades.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_church_4	The price of wisdom is above rubies.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_church_2	The spirit indeed is willing, but the flesh is weak…	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_church_3	Be sober, be vigilant; because the devil seeks whom he may devour.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_4_sol	Undefeated sun, glowing benefactor, we thank you for this day…	true
+building_short_description_texts_short_description_att_bld_religion_tengri_major_1	The lightning strikes the highest mountain.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_major_2	Honour the Eternal Sky and all will be well.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_major_3	A wise man loves the stars too fondly to be afraid of the night.	true
+building_short_description_texts_short_description_att_bld_religion_tengri_major_4	Honour great Tengri and his blessings will be yours.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_fire_1	Fire, giver of heat and bringer of the light.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_fire_2	There is purity in the flames.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_fire_3	The sacred flame holds back the night and disorder.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_fire_4	A beacon in the darkness, bringing light and order to the world.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_burial_3	The glorious dead should never be forgotten.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_burial_2	These stone sentinels stand guard over the earth and its sacred places.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_burial_4	Deep beneath the earth they sleep, until the gods have need of them.	true
+building_short_description_texts_short_description_cha_bld_port_military_2	The shipwright builds, his nation dominates.	true
+building_short_description_texts_short_description_cha_bld_port_military_1	A maritime power needs somewhere to berth its fleet. 	true
+building_short_description_texts_short_description_cha_bld_copper_2	Sulfides are extracted from open-face mines prior to smelting.	true
+building_short_description_texts_short_description_cha_bld_copper_3	All that is copper will be gold.	true
+building_short_description_texts_short_description_cha_bld_copper_1	The red metal of Cyprus can also be found elsewhere.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_monestary_4	The order dwells here, to ponder the mysteries of faith.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_monestary_2	A place to remove oneself, and contemplate.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_monestary_3	The monastery is home to the teachers of the faith.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_faction_4	The Cathedral stands testament to the divine link between God and King.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_faction_1	The One God does not care where you worship him, so long as you do.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_faction_2	Glory to God, hewn from stone and immortalised in rock.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_major_faction_3	In the depths of the very earth itself, we give thanks and praise.	true
+building_short_description_texts_short_description_att_bld_nomad_herders_1	Livestock, as much as war, defines nomadic success.	true
+building_short_description_texts_short_description_att_slav_religion_major_1_short	Lord of all the Gods, Perun offers protection and strength to those who worship him.	true
+building_short_description_texts_short_description_att_slav_religion_major_2_short	Like Perun's mighty axe, all will be returned to him in the end.	true
+building_short_description_texts_short_description_att_slav_religion_major_3_short	Perun's belongings receive his divine protection.	true
+building_short_description_texts_short_description_att_slav_religion_major_4_short	Perun commands the elements and, as such, man's every waking hour.	true
+building_short_description_texts_short_description_att_slav_religion_minor_1_short	Praise to Mokosh for the bountiful harvest, the plentiful fields, and a healthy family.	true
+building_short_description_texts_short_description_att_slav_religion_minor_2_short	With praise and work come the bounties of the earth, as provided by Mokosh.	true
+building_short_description_texts_short_description_att_slav_religion_minor_3_short	With the loom of fate, Mokosh controls all of our destinies. 	true
+building_short_description_texts_short_description_att_slav_religion_minor_4_short	Rest safe in the knowledge that your fate is in Mokosh's hands.	true
+building_short_description_texts_short_description_att_bld_eastmig_weapon_upgrade_1	Whether made, found or stolen, our means are stored here.	true
+building_short_description_texts_short_description_att_bld_eastmig_weapon_upgrade_3	For a people who don't often stay still, the ability to move munitions easily is key.	true
+building_short_description_texts_short_description_att_bld_eastmig_weapon_upgrade_2	To weather combat's storm an army must be well stocked, prepared, and armed. To the teeth.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_caravans_2	Stay a while and listen.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_caravans_3	When the going gets tough, stop. Obviously.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_caravans_4	Words flow like spice. You will find both here.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_noblemen_warlord_3	What is discussed here affects the lives of thousands.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_noblemen_warlord_4	The warlord has earned his bounties through the blood of a thousand others.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_entertain_3	Awfully nice day for a spot of Polo, Shapur!	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_entertain_4	Polo without the noble refinement. And the horses. And the sticks.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_gold_3	Beautiful jewellery, emblazoned through careful craftsmanship.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_gold_2	One man's junk is another's treasure, but this is literally treasure.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_gold_4	The master goldsmith finds the money. The king spends it.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_major_1	The humble building blocks of greatness.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_slaves_4	Those who allow themselves to be enslaved are little better than cattle.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_major_3	A beacon of culture and prosperity.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_major_2	A respectable, growing hub of industrious endeavour.	true
+building_short_description_texts_short_description_att_bld_roman_east_city_major_4	Scale and grandeur that defines civilization.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_slaves_3	Some men are born free, but not all die that way.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_major_3	A beacon of culture and prosperity.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_major_2	A respectable, growing hub of industrious endeavour.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_major_1	The humble building blocks of greatness.	true
+building_short_description_texts_short_description_att_bld_roman_west_city_major_4	Scale and grandeur that defines civilization.	true
+building_short_description_texts_short_description_att_bld_roman_water_aqueducts_3	Towering channels of water, dissecting the city.	true
+building_short_description_texts_short_description_att_bld_roman_water_aqueducts_2	Stores of life-giving, clean water for the masses.	true
+building_short_description_texts_short_description_att_bld_roman_water_aqueducts_4	Water, water, everywhere. Some of it is surprisingly drinkable.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_major_1	The beating heart of Empire; a centre for control.	true
+building_short_description_texts_short_description_att_slav_bld_city_major_1	The zupa binds the tribes together, giving them focus and purpose.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_curing_2	The finest foods, preserved with salt and smoke.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_curing_3	To prepare for the coming cold, ample stocks are required.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_curing_1	Salted, sugared and braced to face the ravages of time.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_church_5_legendary	The word of God is as written, unchanging, and worshipped.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_coin_3	Money talks. Incessantly.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_coin_2	Coin is wealth now, not your cows and fields.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_coin_4	It's easy to be an icon when your face is on a coin.	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_vineyard_4	Wine brings out the truth of any situation.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_entertain_4	You'll laugh, you'll cry - it'll change your life!	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_vineyard_2	Vines as far as the eye can see, and the profit to go with them.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_entertain_3	Friends, Romans, Countrymen! Shut up and listen.	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_vineyard_3	Much like a man, pressing reveals the grape's true nature…	true
+building_short_description_texts_short_description_bel_bld_roman_civic_entertain_2	Unaccustomed as I am to public speaking…	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_food_3	It's simple. You give me money, I give you this pear. Easy!	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_food_4	Food is the lifeblood of Empire.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_morale_2	Once the date is dry, it has many uses. All of them delicious.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_morale_3	Man will try to make alcohol from absolutely anything. Anything.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_morale_4	Date Wine. The perfect wine for a date. Or a pre-arranged marriage.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_grove_lb_4	Give praise to nature. Sever head from body.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_faction_1	Impressive devotion, being a hermit, but what happens when we run out of bread?	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_general_3	Everything, and everyone, has a price.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_bonecarver_2	There is always a plentiful supply of bone for the craftsman.	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_faction_2	From this lofty position, a great man interprets the wisdom of God for those below.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_bonecarver_3	Delicate and intricate patterns can easily be worked into bone. 	true
+building_short_description_texts_short_description_att_bld_eos_religion_east_church_minor_faction_3	Serenity is only a fifty-foot winch and a prayer away.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_bonecarver_4	The master hunter’s many trophies display his greatness for all to see.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_general_4	A place to relax and be entertained before talk of trade begins in earnest.	true
+building_short_description_texts_short_description_att_bld_nomad_community_cooking_2	Share the warmth, and conjure a tale from amongst the flames.	true
+building_short_description_texts_short_description_att_bld_nomad_community_cooking_3	If he is to fight well, a man must also eat well.	true
+building_short_description_texts_short_description_att_bld_nomad_community_cooking_4	Jaguars' earlobes - get 'em while they're hot, they're lovely!	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_mine_4	What matter men's lives compared to gold's beauty?	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_mine_2	The lure of gold makes even the wisest man forget himself.	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_mine_3	Great seams of gold, running like rivers through stone…	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_weapons_3	The right blade won't just take lives, it will save yours.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_weapons_2	The modern world is born of the forge.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_weapons_4	My enemies will tremble before the prowess of my arms!	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_1	The craft and skill of artisans has descended through generations.	true
+building_short_description_texts_short_description_att_bld_celtic_raiding_4	From here, a man may direct raids against his rivals, and toast his victories.	true
+building_short_description_texts_short_description_att_bld_celtic_raiding_1	We attack at dawn. The cows won't know what's hit 'em!	true
+building_short_description_texts_short_description_att_bld_celtic_raiding_3	Once you have cows, you have to take them somewhere!	true
+building_short_description_texts_short_description_att_bld_celtic_raiding_2	Raiders want money. Cattle is money.	true
+building_short_description_texts_short_description_att_slav_bld_city_minor_1	Eventually, every tribe must stop, every tribe must stand.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_cavalry_3	The desert is an inhospitable place for horses, where only the hardiest survive.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_storage_2	To harness the power of the wind for ventilation is a fine thing indeed.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_storage_3	This underground chamber is cooled by the flow of wind and water.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_storage_4	Ice is always welcome in the searing heat of the desert.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_major_1	Everyone needs a place to gather to feel part of society.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_blacksmith_4	Here, metal can be poured, moulded and shaped into any shape you choose.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_blacksmith_3	When he stares into the flames, the blacksmith sees what must be done.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_blacksmith_2	A bad workman blames his tools, a good one buys new ones.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_shaman_2	The people look to their shamans for wisdom, guidance and healing.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_shaman_3	Shaman says… stand on one leg! Haha, no. Sorry. You are deathly ill.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_shaman_4	What this Shaman cannot commune is not worth communing.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_skirmisher_2	The javelin, the plumbata, the bow. These men will master each one and more.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_skirmisher_3	Positioned right next door, skirmishers screen their infantry even away from the battlefield.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_skirmisher_4	Agility, dexterity, alacrity; a skirmisher must hone each of these skills.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_minor_4	When man can control the path of water he is closer to his Creator.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_minor_1	We must thank the gods for what flows from the depths of the earth.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_minor_3	Parched earth grows no crops.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_minor_2	Water is a blessing from the gods. It is wise to conserve it.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_minor_4	Everyone must do his part to protect the town.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_minor_1	Where levied subjects muster to train and become soldiers.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_minor_3	Keeping your forces in one place ensures their discipline.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_minor_2	Organising a levy for campaign requires planning and space.	true
+building_short_description_texts_short_description_att_bld_roman_civic_entertain_2	O Bacchus, bless this theatre that it might entertain the masses.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_wine_4	Who are you to resist it, huh?	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_wine_4	In vino, veritas.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_wine_2	Pass the wine, will you please? You see, it's not all doom and gloom.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_market_wine_3	Nothing seems as bad through wine's sweet lens.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_wine_3	Wine is the punctuation in life's otherwise relentless sentence.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_cavalry_3	The lance is the tool that makes the cavalry charge devastating.	true
+building_short_description_texts_short_description_cha_bld_court_council_1	Where a man may meet his accusers head on, and justice be served.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_cavalry_4	Charge for them and, when you see their fear, run it through!	true
+building_short_description_texts_short_description_cha_bld_court_council_3	The council meet to decide matters of law, through the lens of doctrine.	true
+building_short_description_texts_short_description_cha_bld_court_council_2	A display of state power surely, yet truth may also be found here.	true
+building_short_description_texts_short_description_att_bld_eos_mint	Coins hold power beyond wealth. They are legitimacy. They are loyalty.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_grove_4	Wisdom lies deep within the forest.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_grove_3	Even in the depths of winter the gods watch over their people.	true
+building_short_description_texts_short_description_att_bld_religion_germanic_minor_grove_2	The gods inhabit the earth and all living things.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_major_1	A wise man prepares for a poor harvest and a long winter.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_church_5_legendary	The Holy See, in all things, has absolute authority.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_major_3	Food stored away from envious eyes may yet last the winter.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_major_2	During harsh winters a full belly is the most welcome of guests.	true
+building_short_description_texts_short_description_cha_bld_market_town_mus_2	Every ambitious merchant has to start somewhere.	true
+building_short_description_texts_short_description_att_bld_barbarian_water_major_4	Left in the smokehouse, meat lasts longer and tastes better.	true
+building_short_description_texts_short_description_cha_bld_market_town_mus_3	Where life is dedicated to commerce, and the building of wealth therein.	true
+building_short_description_texts_short_description_cha_bld_market_town_mus_1	A hub of local trade, where goods are exchanged to ease life's harshnesses.	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_noblemen_administrator_4	Where shall we ride next? Where next shall death visit?	true
+building_short_description_texts_short_description_att_bld_nomad_nobility_noblemen_administrator_3	What is good for the tribe is good for all. These men decide what is 'good'.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_archers_3	The bow is not an extension of the arm, it is an extension of the soul.	true
+building_short_description_texts_short_description_att_bld_nomad_warriors_archers_4	Archery on foot. Archery from horseback. Every aspect of the bow must be mastered.	true
+building_short_description_texts_short_description_att_bld_all_livestock_generic_1	In the east, good pasture is much sought after.	true
+building_short_description_texts_short_description_twr2_rome_rome_Slums_short	The downfall of every empire begins here.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_weavery_4	There are many advantages to owning a really nice carpet.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_weavery_3	Many looms are better than one.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_weavery_2	The threads of life are woven into the weaver's art.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_treasury_4	Under the Sakellarios' watchful eye, funds are distributed according to need.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_treasury_2	Anything to declare?	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_treasury_3	It's easy to be an icon when your face is on a coin.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_minor_4	A surplus of water can bring joy as well as life.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_minor_1	Precious water for the whole community to share.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_minor_3	Underground channels carry water securely over vast distances.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_minor_2	When water can be channelled, the desert is not an obstacle to life.	true
+building_short_description_texts_short_description_att_bld_roman_water_major_1	...And I thought they smelled bad on the outside!	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_armor_4	Armour fit for a king, and for the defenders of kings.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_armor_3	Clad a man in armour, put a sword in his hand, and he may defend the Empire.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_armor_2	A leather breastplate will stop a spear, if only for a moment.	true
+building_short_description_texts_short_description_bel_bld_all_industry_major_generic_1	The industrial backbone of a great nation.	true
+building_short_description_texts_short_description_att_bld_religion_arian_minor_4	Proclaim your devotion without travelling far.	true
+building_short_description_texts_short_description_att_bld_religion_arian_minor_3	Those who have died for the Lord, and His son, preserved here.	true
+building_short_description_texts_short_description_att_bld_religion_arian_minor_2	A small place for the faithful to pray.	true
+building_short_description_texts_short_description_att_bld_religion_arian_minor_1	Bathe in the waters of God, and be born.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_faction_1	A small monument, with the right sentiment, has every bit the impact of an obelisk.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_faction_3	The stones stand as testament to what has been before.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_faction_2	The stars may align, and with a little thought, we may yet divine the fate of man…	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_cattle_4	Calves, oxen, heifers. We serve all your bovine needs!	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_cattle_3	You'll always get a high price for cattle, no matter the brand.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_weapon_3	Hot stuff, coming through!	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_weapon_2	The heat and the hammer make this a humid, but worthwhile, place for a soldier.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_weapon_4	What is wrought by the master blacksmith will last a lifetime.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_major_1	The governance of a city is no simple task.	true
+building_short_description_texts_short_description_cha_bld_port_fishing_2	The bounty of the oceans can be highly profitable.	true
+building_short_description_texts_short_description_cha_bld_port_fishing_1	Fish, like men, tend to take the bait left for them.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_free_4	A melting pot of cultures, strengthening the tribe by their presence.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_free_3	Pledge service, and you will know equal treatment.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_agriculture_4	Sometimes the earth needs a little assistance.	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_agriculture_3	Crofting keeps thieves and predators away, producing superior crops. 	true
+building_short_description_texts_short_description_att_bld_barbarian_farm_agriculture_2	There is nothing nobler than to work the earth.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_localpalace_3	A nobleman's duty is to remind the people of their place in his world.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_localpalace_2	Governance should take place in plain sight, where it can be feared.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_food_4	A place to buy and sell, where everyone profits.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_food_3	Meat! Fresh meat! GOOD meat!	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_localpalace_4	The people must be reminded why their betters are, er, better.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_faction_4	And you shall be unto me a kingdom of priests, and a holy nation.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_faction_2	Through careful, thorough study, the secrets shall be revealed.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_faction_3	That which was spoken, recorded for evermore.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_faction_1	The teachings of God, passed down through Moses to us.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_water_3	The gods dwell within, waiting to hear the prayers of men.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_water_2	Pure and untainted, water is the bringer of life.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_water_4	When the earth is watered with blood, our prayers will be answered.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_monument_3	Immortalise your victory for the world to see.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_monument_2	Let the people see your triumphs; hewn from grit and stone.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_monument_4	There is no greater proof of glory than this testament; a proclamation to the gods.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_school_4	A place of learning and culture, where the rich become the powerful.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_school_3	Knowledge is power.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_armour_4	You won't find better armour in Constantinople itself!	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_armour_2	No I don't know how the tent isn't on fire, either.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_armour_3	As battle looms, the armourer makes himself heard.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_baths_4	The struggles of nobility are taxing. Relax and let your worries wash away.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_baths_3	Let the heat and the water purify you.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_baths_2	Retire for a while, speak freely, and be clean.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_water_major_1	In the eastern deserts, water is life.	true
+building_short_description_texts_short_description_att_bld_roman_water_minor_3	Each room is hotter, and sweatier, than the last.	true
+building_short_description_texts_short_description_att_bld_roman_water_minor_2	Room to sit, bathe, and plot the day away…	true
+building_short_description_texts_short_description_att_bld_roman_water_minor_1	A simple space to wash, and maybe talk.	true
+building_short_description_texts_short_description_att_bld_roman_water_minor_4	A majestic testament to empire, replete with giant sweatbox.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_garrison_3	A sizeable defensive force, these men will hold the line.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_garrison_2	They may not number many, but this garrison fights with zeal.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_garrison_1	Able-bodied townsfolk, determined to protect their homes.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_garrison_4	These men have stood these walls, and defended them, for a long time.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_greathall_2	Power is a curious thing. Invisible, yet must be seen to be believed.	true
+building_short_description_texts_short_description_mk_bld_all_resources_sugar_2	It looks like salt, but it tastes like honey. And it can make a man rich.	true
+building_short_description_texts_short_description_mk_bld_all_resources_sugar_3	Sugar is delicious in many ways, but it's even better once it is turned into silver at the markets.	true
+building_short_description_texts_short_description_mk_bld_all_resources_sugar_1	Across the Muslim world, and beyond, the honey of the cane is a highly sought commodity.	true
+building_short_description_texts_short_description_mk_bld_all_resources_sugar_4	Plantations are tough, they need a constant supply of labour. The not-free kind.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pottery_4	Well-fired bricks and tiles speed great works to completion.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pottery_2	Simple clay makes greatness possible.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pottery_3	Drying bricks and tiles in the sun requires space	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_2	By god and man, there shall be justice.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_1	Everywhere must have some small room of solace, for worship.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_palace_3	If a man's wealth is not displayed how will others know his greatness?	true
+building_short_description_texts_short_description_att_bld_all_livestock_sheep_4	Sheep pens keep their predators, both man and beast, at bay. 	true
+building_short_description_texts_short_description_att_bld_all_livestock_sheep_2	A source of meat and warmth on freezing desert nights.	true
+building_short_description_texts_short_description_att_bld_all_livestock_sheep_3	Allowed to graze freely, sheep provide good meat and wool.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_palace_4	A palace fit for the King of Kings himself.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_chieftain_4	A wise warlord keeps his strongest men about him at all times.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_chieftain_3	It is important for men to gather and share the joys of life.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_faction_1	Pray to the ibex, so that the rains are plentiful and the harvest vast.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_faction_3	The Lord of the Ibex shall guide your way through the dark.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_faction_2	With spear in hand and thunder in his wake, the God of the Morning Star will guide us to victory.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_faction_4	Let the Children of Almaqah gather here and give praise.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_minor_1	From his grand palace the governor dictates the king's will. 	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_alamanni_4	A connoisseur knows the ruby from the aquamarine, the lapis lazuli from the morganite.	true
+building_short_description_texts_short_description_att_bld_roman_civic_major_1	If you have something to say, this is the place to say it.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_alamanni_1	Rubies, sapphires, diamonds - treasures of the earth laid bare.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_alamanni_2	The process of taking raw gems and making them shine is an artful craft.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_alamanni_3	A sword inlaid with jewels may be gaudy to some, but demonstrates power well enough.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_quarry_4	Marble, produced here in great quantities, to feed man's lust for beauty.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_cattle_3	Five cows, that's final. Don't be bullish about this.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_cattle_4	A congregation of priced cows; a bovine image.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_quarry_2	Marble is admired, then desired, by many.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_quarry_3	Great temples and works of art are carved from this beautiful stone.	true
+building_short_description_texts_short_description_bel_bld_camp_officers_prison_2	Keep it secret. Keep it safe	true
+building_short_description_texts_short_description_bel_bld_camp_officers_prison_3	Stay a while, at the Emperor's pleasure.	true
+building_short_description_texts_short_description_bel_bld_camp_officers_prison_4	Your fate is no longer your own. It is for others to decide.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_cavalry_4	The Pushtinghban requires more than skill; you must commit your very life!	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_cavalry_1	Warriors can fight from horseback, but not all riders are warriors.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_cavalry_3	Bow, lance, sword; a man must master all elements of cavalry combat.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_cavalry_2	The nobility swell the ranks, but they too must learn to fight.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_faction_2	Purity and sanctity. Wash the unpleasantries of life away.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_faction_3	Even Moses would have thought this was a lot of water.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_faction_1	Simplicity in natural water and purity in its cleansing power.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_spice_4	He who controls the spice, controls the world…	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_spice_3	Along the Silk Road, from exotic climbs, to you.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_inf_3	To fight takes guts. To fight well takes discipline.	true
+building_short_description_texts_short_description_bel_bld_roman_water_major_4	A wise man prepares for a poor harvest and a long winter.	true
+building_short_description_texts_short_description_bel_bld_roman_water_major_3	An abundance of grain is an abundance of wealth.	true
+building_short_description_texts_short_description_bel_bld_roman_water_major_2	The food has to go somewhere before eating, surely?	true
+building_short_description_texts_short_description_bel_bld_roman_water_major_1	Food stored away from envious eyes may yet last the winter.	true
+building_short_description_texts_short_description_cha_bld_trader_mus_3	A focal point for local trade, all manner of goods can be bought and sold here.	true
+building_short_description_texts_short_description_cha_bld_trader_mus_2	Here, commerce thrives at a local level from dawn until dusk.	true
+building_short_description_texts_short_description_cha_bld_trader_mus_1	The trading post connects those who live far apart with each other, so that all may prosper.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_monestary_2	Quiet contemplation brings man closer to God.	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_monestary_3	To live in His image and likeness is a blessed life. 	true
+building_short_description_texts_short_description_att_bld_religion_orthodox_major_monestary_4	Those that share the word with others are brought closer to Him.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_governor_2	A man governs, so too must he rest away from those he leads.	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_governor_3	Room for the governor to stroll around the gardens and ruminate on the commoners. 	true
+building_short_description_texts_short_description_att_bld_roman_west_civic_governor_4	From his grandiose home, the governor sees the people as no more than ants.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_armory_2	Anyone can make a weapon, but it takes skill to craft one.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_armory_3	Forging weapons of war requires a practiced eye and a steady hand.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_armory_4	It is no small task to equip an army for war.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_governor_2	An impressive building to silence the doubters. This city is here to stay.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_governor_3	A sprawling pile fit for the Emperor's hand.	true
+building_short_description_texts_short_description_att_bld_roman_east_civic_governor_4	Just in case it wasn't clear exactly who is in charge…	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_burial_3	The honoured dead should never be forgotten.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_burial_2	Sentinels to stand guard over the sacred earth.	true
+building_short_description_texts_short_description_att_bld_religion_celtic_minor_burial_4	They sleep beneath the earth until the gods have need of them.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_slave_4	The world is carried on backs sold to the highest bidder.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_generic_1	Industrious people are happy people.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_market_slave_3	C'mon madam, look at the calves on that!	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_chieftain_5_legendary	Step inside for your audience. Don't touch the mead horn. Or that skull…	true
+building_short_description_texts_short_description_att_bld_roman_civic_entertain_drama_4	All the world's a stage! This stage, in particular.	true
+building_short_description_texts_short_description_att_bld_roman_civic_entertain_arena_3	Are you not entertained!?	true
+building_short_description_texts_short_description_att_bld_roman_civic_entertain_arena_4	Roll up, roll up! See the dazzling spectacle before your very eyes!	true
+building_short_description_texts_short_description_att_bld_roman_civic_entertain_drama_3	Performances that may change you. 'May' being the operative word...	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_storyteller_3	Tales of bravery and valour always bring men to the fireside. 	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_storyteller_5	Every tribe must have a king, but who does he answer to?	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_storyteller_4	Listen to his words, for he is wise beyond the understanding of mortal men.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_library_2	Law, science and medicine. For all our futures.	true
+building_short_description_texts_short_description_bel_bld_roman_water_minor_3	The difference between a cistern and a reservoir is usually the roof.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_library_3	Learning fit for a king.	true
+building_short_description_texts_short_description_bel_bld_roman_water_minor_2	It's quite simple, really - water goes in the tank, and stays there until required.	true
+building_short_description_texts_short_description_att_bld_roman_civic_library_3	The best weapons in the world to those who know how to use them.	true
+building_short_description_texts_short_description_bel_bld_roman_water_minor_1	Precious water for the whole community to share.	true
+building_short_description_texts_short_description_att_bld_roman_civic_library_2	Scribes, secluded and determined, documenting history.	true
+building_short_description_texts_short_description_att_bld_roman_civic_library_4	Only the educated are free.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_library_4	You cannot die with an unfinished book.	true
+building_short_description_texts_short_description_bel_bld_roman_water_minor_4	When man can control the path of water he is closer to the Creator.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_tannery_4	Thick skin will serve you well; a thick cuirass better.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_tannery_2	A tanned hide is a valuable one.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_tannery_3	Here we make the hide durable. You don't want to know how.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_generic_1	The hard-working, beating heart of any city. 	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_jeweler_4	A true craftsman sees beauty in the simplest of things.	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_jeweler_2	The most beautiful made more so by the smith's hand.	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_jeweler_3	Liquid gold can be used to make many fine objects.	true
+building_short_description_texts_short_description_bel_bld_roman_civic_major_1	If you have something to say, this is the place to say it.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_claypit_2	The earth provides the means to create beautiful objects.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_claypit_3	The ability to join and fix great stones is valuable indeed.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_claypit_4	Men with the skill to work such strange material command respect. 	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_monestary_3	Where your treasure is, will your heart be also?	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_monestary_2	And the work of righteousness shall be peace.	true
+building_short_description_texts_short_description_att_bld_religion_catholic_major_monestary_4	The Lord giveth, and the Lord taketh away; blessed be His name.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_cavalry_4	A cavalryman must be ready to ride out at a moment's notice.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_cavalry_2	The horse will carry you into battle, but it is you who must fight.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_cavalry_3	Where can you find both horse and rider?	true
+building_short_description_texts_short_description_%placeholder%	%placeholder%	true
+building_short_description_texts_short_description_cha_bld_barracks_mus_1	A collection of men with spears is better than a mob with nothing.	true
+building_short_description_texts_short_description_cha_bld_barracks_mus_3	Some of you may die; but that is a sacrifice I am willing to make.	true
+building_short_description_texts_short_description_cha_bld_barracks_mus_2	Train hard, fight well. Some of you may yet survive.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_forge_4	Go into battle properly clad, and work the field just as well suited.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_1	Wake at four. Train until you collapse. Then do it again.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_forge_2	Metal can be wrought into weapons of war, clasps, wheel axles, even spoons.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_forge_3	Tempered steel and tempered spirits make a nomad fierce.	true
+building_short_description_texts_short_description_att_bld_all_resources_furs_2	Stalked in the forest, too close to hide.	true
+building_short_description_texts_short_description_att_bld_all_resources_furs_3	How much!? Are you trying to fleece me?	true
+building_short_description_texts_short_description_att_bld_all_resources_furs_1	In touch with the ground. On the hunt.	true
+building_short_description_texts_short_description_att_bld_all_resources_furs_4	A place to barter and buy. Prices are firm but fair.	true
+building_short_description_texts_short_description_cha_bld_city_3	A beacon of culture and prosperity.	true
+building_short_description_texts_short_description_cha_bld_city_2	A respectable, growing hub of industrious endeavour.	true
+building_short_description_texts_short_description_cha_bld_city_1	The humble building blocks of greatness.	true
+building_short_description_texts_short_description_att_bld_all_resources_gold_1	All that is gold may not glitter but if it does, you're probably minted.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_2	It takes great skill to cut and shape the treasures of the earth.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_3	Sparkling gems draw admiring eyes to the trader's stall.	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_1	Diamonds are, well, everyone's best friend. Right?	true
+building_short_description_texts_short_description_att_bld_all_resources_gems_4	I can get you anything you want, just name your price. No questions asked…	true
+building_short_description_texts_short_description_att_bld_roman_west_military_infantry_2	Soldiers eat, drink, sleep, and breathe here.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_infantry_3	A strong infantry is built on regiment and order.	true
+building_short_description_texts_short_description_att_bld_roman_west_military_infantry_4	A mighty army rises each morning knowing death may greet it.	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_fruit_2	Olives, figs, apples. A modest crop.	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_fruit_3	500 apples a day keep the bankers away.	true
+building_short_description_texts_short_description_att_bld_all_resources_orchards_fruit_4	The wise keep a stock of dried fruit in the stores, for any occasion.	true
+building_short_description_texts_short_description_cha_bld_market_town_3	Where life is dedicated to commerce, and the building of wealth therein.	true
+building_short_description_texts_short_description_cha_bld_market_town_2	Every ambitious merchant has to start somewhere.	true
+building_short_description_texts_short_description_cha_bld_market_town_1	A hub of local trade, where goods are exchanged to ease life's harshnesses.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_1	Open your heart and let the light shine in.	true
+building_short_description_texts_short_description_att_bld_all_resources_dyes_4	All that is copper will be gold.	true
+building_short_description_texts_short_description_att_bld_all_resources_dyes_2	The red metal of Cyprus can also be found elsewhere.	true
+building_short_description_texts_short_description_att_bld_all_resources_dyes_3	Sulfides are extracted from open-face mines prior to smelting.	true
+building_short_description_texts_short_description_att_bld_all_resources_dyes_1	It may not be gold, but only the fool dimisses this most useful of metals.	true
+building_short_description_texts_short_description_cha_bld_blacksmith_1	What is wrought by the master blacksmith will last a lifetime.	true
+building_short_description_texts_short_description_cha_bld_blacksmith_2	The modern world is born of the forge.	true
+building_short_description_texts_short_description_bel_bld_camp_food_1	The food has to go somewhere before eating, surely?	true
+building_short_description_texts_short_description_att_bld_nomad_herders_goats_4	You can never miss the goats. Just follow the bleats.	true
+building_short_description_texts_short_description_cha_bld_mead_hall_1	Drink deep and toast the gods.	true
+building_short_description_texts_short_description_cha_bld_mead_hall_2	A warrior needs no more than a weapon and a roof over his head.	true
+building_short_description_texts_short_description_cha_bld_mead_hall_3	In which songs are sung of heroism and valour.	true
+building_short_description_texts_short_description_att_bld_nomad_herders_goats_2	Goats are simple, and unassuming, but they provide a living.	true
+building_short_description_texts_short_description_att_bld_nomad_herders_goats_3	Goats have a mind of their own, see, so you've got to trap them in!	true
+building_short_description_texts_short_description_cha_bld_gold_1	The lure of gold makes even the wisest man forget himself.	true
+building_short_description_texts_short_description_cha_bld_gold_3	To uncover the earth’s most beauteous of gifts, one must delve deep.	true
+building_short_description_texts_short_description_cha_bld_gold_2	Great seams of gold, running like rivers through stone…	true
+building_short_description_texts_short_description_att_bld_roman_water_sewers_2	All that waste has to go somewhere.	true
+building_short_description_texts_short_description_att_bld_roman_water_sewers_3	Channels of effluent, joined together and funnelled away.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_1	Simplicity in natural water and purity in its cleansing power.	true
+building_short_description_texts_short_description_att_bld_roman_civic_market_2	Please, please, come closer… I have all manner of wares…	true
+building_short_description_texts_short_description_att_bld_roman_water_sewers_4	Everybody does it. I mean networking, obviously.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_3	Even Moses would have thought this was a lot of water.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_minor_2	Purity and sanctity. Wash the unpleasantries of life away.	true
+building_short_description_texts_short_description_bel_bld_camp_camp_1	An army must rest after a long march in unknown lands.	true
+building_short_description_texts_short_description_bel_bld_camp_camp_3	The standards must be rested and defended behind solid defences.	true
+building_short_description_texts_short_description_bel_bld_camp_camp_2	Desert, plains or marsh, the camp must be made to exacting specifications.	true
+building_short_description_texts_short_description_cha_bld_scriptorium_2	When knowledge is power, it is important to conserve it for future use.	true
+building_short_description_texts_short_description_bel_bld_camp_camp_4	The army has need of solid shelter. For how long? Well…	true
+building_short_description_texts_short_description_cha_bld_scriptorium_3	Knowledge of the scriptures, and artistic flare, put to the best use.	true
+building_short_description_texts_short_description_cha_bld_scriptorium_1	When few can read and write there is always work for those who can.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_burial_4	Buried deep, the dead cannot contaminate the living. 	true
+building_short_description_texts_short_description_mk_bld_all_resources_silver_4	A symbol of the monarch, silver coinage projects his wealth and power wherever merchants go.	true
+building_short_description_texts_short_description_mk_bld_all_resources_silver_2	Towns are born just from the discovery of a mine.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_burial_1	Lay their bodies before the open sky so that they may find peace.	true
+building_short_description_texts_short_description_mk_bld_all_resources_silver_3	Silver fuels the economy of kingdoms and fills the treasury.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_burial_2	The living should not suffer the dead to be among them.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_major_burial_3	A place of bones, where the dead are laid to rest.	true
+building_short_description_texts_short_description_mk_bld_all_resources_silver_1	It's not gold, but it's still the source of immense wealth.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_mason_2	The column represents power and glory.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_mason_3	The statue? A permanent embodiment of the will.	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_mason_4	Whatever you desire, made; in granite, marble or limestone.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_city_minor_generic_1	Governance should take place in plain sight, where it can be feared.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_city_minor_generic_3	The people must be reminded why their betters are, er, better.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_city_minor_generic_2	A nobleman's duty is to remind the people of their place in his world.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_city_minor_generic_4	From his grand palace the governor dictates the king's will. 	true
+building_short_description_texts_short_description_att_bld_all_resources_marble_1	It takes strength and skill to split great pieces of stone.	true
+building_short_description_texts_short_description_att_bld_all_livestock_horses_4	A much sought after breed, the Nisean is a prince amongst horses.	true
+building_short_description_texts_short_description_att_bld_all_livestock_horses_3	The finest steeds require special care and attention.	true
+building_short_description_texts_short_description_att_bld_all_livestock_horses_2	Strong sons are born of strong fathers.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_4	Let the Children of Almaqah gather here and give praise.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_2	With spear in hand and thunder in his wake, the God of the Morning Star will guide us to victory.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_3	The Lord of the Ibex shall guide your way through the dark.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_major_1	Pray to the ibex, so that the rains are plentiful and the harvest vast.	true
+building_short_description_texts_short_description_att_bld_eos_pleasure_4	A thousand pleasures in one hour, or your money back!	true
+building_short_description_texts_short_description_att_bld_eos_pleasure_1	Everybody needs a friend in troubled times.	true
+building_short_description_texts_short_description_att_bld_eos_pleasure_2	Lie back, relax, and let the worries of life be forgotten for now.	true
+building_short_description_texts_short_description_att_bld_eos_pleasure_3	Sin is no more than a word.	true
+building_short_description_texts_short_description_cha_bld_craftsmen_1	Thread and yarn, woven, make fabric to both clothe and shelter.	true
+building_short_description_texts_short_description_cha_bld_craftsmen_2	Clothing the people is as important as arming them.	true
+building_short_description_texts_short_description_att_bld_eos_military_infantry_5_zoroastrian	A righteous man will fight with terrifying zeal.	true
+building_short_description_texts_short_description_cha_bld_craftsmen_3	Everybody needs clothes; the wise man profits from this need.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_vegetables_4	I think the carrot infinitely more fascinating than the geranium…	true
+building_short_description_texts_short_description_att_bld_all_agriculture_vegetables_2	This is a fertile land and we will thrive.	true
+building_short_description_texts_short_description_att_bld_all_agriculture_vegetables_3	Fed by water from the mountains, the crops will flourish.	true
+building_short_description_texts_short_description_att_bld_roman_west_senate_5_legendary	Let there be order here, whilst chaos swirls around us.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_minor_1	May the Apostle of Light shine his light upon you.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_minor_2	All men must chose between light and darkness.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_minor_3	We must give thanks for the warming light of the sun.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_minor_4	Not all who walk in darkness are lost.	true
+building_short_description_texts_short_description_cha_bld_wine_market_3	Nothing seems as bad through wine's sweet lens.	true
+building_short_description_texts_short_description_cha_bld_wine_market_2	Pass the wine, will you please? You see, it's not all doom and gloom.	true
+building_short_description_texts_short_description_cha_bld_wine_market_1	Wine is the punctuation in life's otherwise relentless sentence.	true
+building_short_description_texts_short_description_att_bld_all_resources_lead_2	The glassmaker's art is magic made clear to all.	true
+building_short_description_texts_short_description_att_bld_all_resources_lead_3	The glassmaker's art is magic made clear to all.	true
+building_short_description_texts_short_description_att_bld_all_resources_lead_1	The glassmaker's art is magic made clear to all.	true
+building_short_description_texts_short_description_att_bld_all_resources_lead_4	The glassmaker's art is magic made clear to all.	true
+building_short_description_texts_short_description_att_bld_eastmig_city_3	Desert people, living their lives under the gaze of the sun.	true
+building_short_description_texts_short_description_att_bld_eastmig_city_2	We have thousands of such caches, and only a few of us know them all.	true
+building_short_description_texts_short_description_att_bld_eastmig_city_1	What may seem squalid is the home to a thousand thousand.	true
+building_short_description_texts_short_description_att_bld_eastmig_city_4	The saddle is a fortress.	true
+building_short_description_texts_short_description_cha_bld_iron_1	Iron ensures its bearers are both honoured and respected.	true
+building_short_description_texts_short_description_cha_bld_iron_2	Iron ore, once refined, makes something more valuable, and infinitely more dangerous.	true
+building_short_description_texts_short_description_cha_bld_iron_3	Behold! The age of steel is upon us, with ruin sure to follow.	true
+building_short_description_texts_short_description_cha_bld_goldsmith_1	The hard-working, beating heart of any city. 	true
+building_short_description_texts_short_description_cha_bld_goldsmith_3	The master goldsmith finds the money. The king spends it.	true
+building_short_description_texts_short_description_cha_bld_goldsmith_2	The most beautiful made more so by the smith's hand.	true
+building_short_description_texts_short_description_cha_bld_food_market_2	We all need to eat. This man profits from that simple fact.	true
+building_short_description_texts_short_description_cha_bld_food_market_3	Everything, and everyone, has a price.	true
+building_short_description_texts_short_description_cha_bld_food_market_1	A place to buy and sell, where everyone profits.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_wood_2	Working wood into useful objects is a valuable skill.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_wood_3	All great buildings, and the power they demonstrate, start here.	true
+building_short_description_texts_short_description_att_bld_all_military_upgrades_wood_4	The engines of death and destruction, hewn from the humble tree.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pewter_4	Production day and night; a veritable pewter city.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pewter_3	Forks have their purpose, but a plate is worth its weight in, er, pewter.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_pewter_2	If it contains tin, it can be made into pewter.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_commerce_4	The quartermaster sees the men are both fed and armed.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_commerce_3	My Lord, know that your lancers made the decisive blow in our favour…	true
+building_short_description_texts_short_description_att_bld_eastmig_community_commerce_2	Let our story be recorded, so that others may marvel.	true
+building_short_description_texts_short_description_att_bld_all_livestock_cows_4	The cow is a versatile, profitable animal.	true
+building_short_description_texts_short_description_att_bld_all_livestock_cows_2	Herding cattle is vastly preferable to herding cats.	true
+building_short_description_texts_short_description_att_bld_all_livestock_cows_3	The cattle roams the fields with an envious carelessness.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_trade_3	Wealth and prosperity are bought and sold here.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_trade_2	Without trade the people cannot flourish.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_trade_4	Ships from all over the world dock here to trade their wares.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_monestary_3	Many lights shining together are the brightest of all.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_monestary_2	Alone in the dark, a man will follow the light.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_monestary_4	Books are the light of the world. 	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_minor_3	Doing good is not a duty, it is a joy, for it increases our health and happiness.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_minor_2	Good words, good thoughts, good deeds.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_minor_1	A wise man seeks purity in all that he does.	true
+building_short_description_texts_short_description_att_bld_religion_zoroastrian_minor_4	Form no covetous desire so the demon of greed may not deceive.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_1	The teachings of God, passed down through Moses to us.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_3	That which was spoken, recorded for evermore.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_2	Through careful, thorough study, the secrets shall be revealed.	true
+building_short_description_texts_short_description_att_bld_eos_religion_judaism_major_4	And you shall be unto me a kingdom of priests, and a holy nation.	true
+building_short_description_texts_short_description_att_bld_roman_east_senate_5_legendary	Let there be order here, whilst chaos swirls around us.	true
+building_short_description_texts_short_description_cha_bld_horse_show_1	The horse can be a welcome mirror of the best in human nature.	true
+building_short_description_texts_short_description_cha_bld_horse_show_2	Through which the ruling house's power and strength are communicated.	true
+building_short_description_texts_short_description_cha_bld_long_hall_3	Power is a curious thing. Invisible, yet must be seen to be believed.	true
+building_short_description_texts_short_description_cha_bld_long_hall_2	The noble's duty is two-fold: to the king, and to the people - that they may know their place.	true
+building_short_description_texts_short_description_cha_bld_long_hall_1	The warrriors gather here to celebrate, or drown, the day's events.	true
+building_short_description_texts_short_description_att_bld_barbmigs_community_1	Respite, just for a few hours, from the privations of campaign.	true
+building_short_description_texts_short_description_cha_bld_mill_3	The natural motion of the tides, harnessed to feed the masses.	true
+building_short_description_texts_short_description_cha_bld_mine_3	Deep tunnels and shafts are dug to access rich ore deposits.	true
+building_short_description_texts_short_description_cha_bld_mill_2	The latest technology can be moved to where it will be most effective.	true
+building_short_description_texts_short_description_cha_bld_mine_2	Rich veins of ore can be accessed via deep tunnels and shafts.	true
+building_short_description_texts_short_description_cha_bld_mill_1	By which the elements themselves grind the corn.	true
+building_short_description_texts_short_description_cha_bld_mine_1	Shallow mining is less dangerous, but also less lucrative.	true
+building_short_description_texts_short_description_cha_bld_port_trade_2	Ships from all over the world dock here to trade their wares.	true
+building_short_description_texts_short_description_cha_bld_port_trade_1	Wealth and prosperity are bought and sold here.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_mosaic_2	Beautiful art calls for beautiful materials.	true
+building_short_description_texts_short_description_att_bld_all_industry_major_mosaic_3	Not the outward appearance of things, but their inner significance…	true
+building_short_description_texts_short_description_att_bld_all_industry_major_mosaic_4	One man creates art, many artists create profit.	true
+building_short_description_texts_short_description_att_bld_all_resources_iron_1	Now comes the reign of iron, and man's undoing with it.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_2	The stars may align, and with a little thought, we may yet divine the fate of man…	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_3	The stones stand as testament to what has been before.	true
+building_short_description_texts_short_description_att_bld_eos_religion_semitic_minor_1	A small monument, with the right sentiment, has every bit the impact of an obelisk.	true
+building_short_description_texts_short_description_cha_bld_lead_3	Although delicate and beautiful, glass has many practical uses.	true
+building_short_description_texts_short_description_cha_bld_lead_2	Extreme heat is needed to extract lead from ore. 	true
+building_short_description_texts_short_description_cha_bld_lead_1	As civilisation's need for lead grows, industrialised mining is the only answer.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_weaver_2	Thread and yarn, woven, make fabric to both clothe and shelter.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_weaver_3	…Because you never know when you might need to weave.	true
+building_short_description_texts_short_description_att_bld_nomad_artisan_weaver_4	Clothing the people is as important as arming them.	true
+building_short_description_texts_short_description_cha_bld_salt_3	A valuable preservative, salt can be traded for almost anything.	true
+building_short_description_texts_short_description_cha_bld_salt_2	Harvesting salt on a large scale is a lucrative enterprise.	true
+building_short_description_texts_short_description_cha_bld_salt_1	A little salt is useful, a lot is profitable.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_2	A place to worship. To worship your gods, my gods, THE gods.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_3	For all your worshipping needs.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_1	This place is blessed by the gods. It is a hallowed place.	true
+building_short_description_texts_short_description_cha_bld_bimaristan_2	There is no disease that Allah has created, except that He also has created its remedy.	true
+building_short_description_texts_short_description_cha_bld_bimaristan_1	"The new ""medicine"" is practiced here, so the sick may be healed."	true
+building_short_description_texts_short_description_att_bld_all_resources_wood_1	Warmth, and shelter from the elements, can be found here naturally.	true
+building_short_description_texts_short_description_att_bld_all_resources_wood_2	How much wood could a woodcutter cut?	true
+building_short_description_texts_short_description_att_bld_all_resources_wood_3	From which empires are both built and fuelled.	true
+building_short_description_texts_short_description_att_bld_all_resources_wood_4	From great ships of war to humble homes, wood has many uses.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_gardens_3	Paradise made real, here on earth.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_civic_court_gardens_4	A heavenly retreat for the lord of all he surveys.	true
+building_short_description_texts_short_description_cha_bld_monastery_3	A place apart from the world, its monks devote themselves wholly to contemplation and prayer.	true
+building_short_description_texts_short_description_cha_bld_monastery_2	Through their example, the cathedral friars ensure the spiritual wellbeing of its congregation.	true
+building_short_description_texts_short_description_cha_bld_monastery_1	You do not need a towering cathedral to talk to God.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_infantry_5	Glory belongs only to the victorious.	true
+building_short_description_texts_short_description_att_bld_eastmig_military_infantry_4	The defeat of one's enemies is a spoil in itself.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_infantry_2	Some of you may die; but that is a sacrifice I am willing to make.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_infantry_3	Train hard, fight well. Some of you may yet survive.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_infantry_1	A collection of men with spears is better than a mob with nothing.	true
+building_short_description_texts_short_description_att_bld_eastern_sassanid_military_infantry_4	Fighting with zeal in the name of the king is more than expectation; it is duty.	true
+building_short_description_texts_short_description_att_bld_nomad_city_2	Even the relentless horde must stop a while and recover.	true
+building_short_description_texts_short_description_att_bld_nomad_city_3	The greater the horde, the larger the feasting ground must be.	true
+building_short_description_texts_short_description_att_bld_nomad_city_0	Stop, sit, stay a while and rest.	true
+building_short_description_texts_short_description_att_bld_nomad_city_1	Rest amongst friends. Thousands of them.	true
+building_short_description_texts_short_description_att_bld_eos_military_infantry_5_east_church	Religious fervour, and skill at arms, make for dangerous enemies.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_church_2	We give thanks to the Supreme Illuminator for his sacrifices.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_church_3	To live in darkness is no life at all.	true
+building_short_description_texts_short_description_att_bld_religion_manichaeist_major_church_4	A temple of light, built to honour the Apostle of Light.	true
+building_short_description_texts_short_description_cha_bld_wood_1	How much wood could a woodcutter cut?	true
+building_short_description_texts_short_description_cha_bld_wood_3	From great ships of war to humble homes, wood has many uses.	true
+building_short_description_texts_short_description_cha_bld_wood_2	From which empires are both built and fuelled.	true
+building_short_description_texts_short_description_cha_bld_wine_3	The man with wine is king for a day, but very much the fool on the next.	true
+building_short_description_texts_short_description_cha_bld_wine_2	Entire wagons, loaded with wine. Imagine it…	true
+building_short_description_texts_short_description_cha_bld_wine_1	Wine fetches a mighty price, if you don't drink it all first…	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_livestock_3	The cattle pen is mightier than the herd.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_livestock_2	The cow is food, and milk. The cow is sustenance.	true
+building_short_description_texts_short_description_bel_bld_all_agriculture_livestock_4	The cow, oblivious, will never know its bovine benefit to mankind.	true
+building_short_description_texts_short_description_cha_bld_hall_elders_2	Listen to his words, for he is wise beyond the understanding of mortal men.	true
+building_short_description_texts_short_description_cha_bld_hall_elders_1	Tales of bravery and valour always bring men to the fireside. 	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_unit_cost_3	To keep cool in the desert sun and warm during the freezing nights that follow.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_unit_cost_2	An important fabric in the struggle against the desert's relentless heat.	true
+building_short_description_texts_short_description_att_bld_eastmig_industry_unit_cost_4	It is useful to keep the sand, and at time the deluge, out of one's living space.	true
+building_short_description_texts_short_description_att_bld_all_resources_silk_4	If you can't get it here, it's not worth having.	true
+building_short_description_texts_short_description_att_bld_all_resources_silk_2	The lifeblood of nations flows along the Silk Road.	true
+building_short_description_texts_short_description_att_bld_all_resources_silk_3	Fine goods from all over the world can be bought here.	true
+building_short_description_texts_short_description_att_bld_all_resources_silk_1	The road is long, with many a winding turn. Leading to Rome.	true
+building_short_description_texts_short_description_att_bld_all_resources_salt_4	A valuable preservative, salt can be traded for almost anything.	true
+building_short_description_texts_short_description_att_bld_all_resources_salt_2	A little salt is useful, a lot is profitable.	true
+building_short_description_texts_short_description_att_bld_all_resources_salt_3	Harvesting salt on a large scale is a lucrative enterprise.	true
+building_short_description_texts_short_description_att_bld_all_resources_salt_1	Valued the world over, salt is a precious resource.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_carpenter_4	Great engines of war, crafted from strong oaks.	true
+building_short_description_texts_short_description_att_bld_eos_marib_dam	A monumental testament to the ingenuity of our forebears. With some slight flaws…	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_carpenter_2	The trees are a living for those who know their secrets.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_carpenter_3	The skill of the carpenter puts roofs over heads.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_fish_2	Man has fished the rivers and oceans for generations.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_fish_3	Fish, like men, tend to take the bait left for them.	true
+building_short_description_texts_short_description_att_bld_barbarian_port_fish_4	The bounty of the oceans can be highly profitable.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_nobles_2	United, no man can stand against our will.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_nobles_3	Zeal and fervour work wonders, but nothing happens without a plan.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_nobles_4	A war must be plotted, prepared and directed if it is to be successful.	true
+building_short_description_texts_short_description_att_bld_nomad_community_wine_2	Wine fetches a mighty price, if you don't drink it all first…	true
+building_short_description_texts_short_description_att_bld_nomad_community_wine_3	Entire wagons, loaded with wine. Imagine it…	true
+building_short_description_texts_short_description_att_bld_nomad_community_wine_4	In many ways, a tribesman with wine is the most powerful man of all.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_minor_4	The Supreme Gods watch over the world of man.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_minor_2	Rendered in stone, the divine image projects godliness.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_minor_3	The gods' glorious victory, towering skywards.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_minor_1	Behold the statue, and see the gods made real.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_church_3	A building for the spirit, filled with souls. Our souls.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_church_2	A centre of religion, a home to the faithful.	true
+building_short_description_texts_short_description_att_bld_religion_arian_major_church_4	A resplendent tribute to the highest glory to God.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_siege_4	Exquisite bows, and composite creations of death, are his art.	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_siege_3	That bow with THESE arrows? Oh dear…	true
+building_short_description_texts_short_description_bel_bld_camp_workshop_siege_2	Even far from home, this man knows how to work wood.	true
+building_short_description_texts_short_description_att_bld_all_livestock_camels_3	Hardy, desert animals bred for harsh desert conditions.	true
+building_short_description_texts_short_description_att_bld_all_livestock_camels_2	Watch out, they spit. Told you…	true
+building_short_description_texts_short_description_att_bld_all_livestock_camels_4	Few animals are as ideally suited to the desert life as the camel.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_4_cult	Glory to the Emperor, divine and victorious!	true
+building_short_description_texts_short_description_cha_bld_cloth_market_2	Clothing the people is as important as arming them.	true
+building_short_description_texts_short_description_cha_bld_cloth_market_3	Everybody needs clothes; the wise man profits from this need.	true
+building_short_description_texts_short_description_cha_bld_cloth_market_1	Thread and yarn, woven, make fabric to both clothe and shelter.	true
+building_short_description_texts_short_description_att_bld_barbarian_industry_1	An artistic eye is both useful and profitable.	true
+building_short_description_texts_short_description_att_bld_eastmig_community_1	World-spanning wars have to start somewhere.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_1	From here, the leader surveys and commands.	true
+building_short_description_texts_short_description_bel_bld_camp_officers_tents_4	Absolute military authority lies here.	true
+building_short_description_texts_short_description_bel_bld_camp_officers_tents_3	From here, his battles are planned, directed, and executed.	true
+building_short_description_texts_short_description_bel_bld_camp_officers_tents_2	An officer must know the right course of action at all times.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_4_serapis	Praise Serapis, and you shall not want, in this life or beyond.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_quarry_3	Great buildings are hewn from great stones.	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_quarry_2	Made by the earth, cut by man. 	true
+building_short_description_texts_short_description_att_bld_all_industry_minor_quarry_4	When workers live on-site their productivity improves.	true
+building_short_description_texts_short_description_att_bld_all_resources_olives_1	In the shade of olive trees, much contemplation can be had.	true
+building_short_description_texts_short_description_att_bld_all_resources_olives_2	One olive tree is good, many are better.	true
+building_short_description_texts_short_description_att_bld_all_resources_olives_3	The humble olive reveals its value when crushed under stone.	true
+building_short_description_texts_short_description_att_bld_all_resources_olives_4	The fruit of the olive tree makes for good business.	true
+building_short_description_texts_short_description_cha_bld_race_track_2	Through which the ruling house's power and strength are communicated.	true
+building_short_description_texts_short_description_cha_bld_race_track_1	The horse can be a welcome mirror of the best in human nature.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_elders_3	We have survived so long, and so well, because we have endured together.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_elders_2	The guiding hands, the voices of reason, offering surety and logic.	true
+building_short_description_texts_short_description_att_bld_eastmig_leadership_elders_4	Foolish is the man who ignores the elders' advice.	true
+building_short_description_texts_short_description_att_slav_wonder_civic_2_short	Let Svarog's fire invigorate your soul with purpose.	true
+building_short_description_texts_short_description_att_slav_wonder_civic_3_short	Let Svarog's fire invigorate your soul with purpose.	true
+building_short_description_texts_short_description_att_bld_nomad_herders_cattle_4	Could I interest you, perhaps, in some milk?	true
+building_short_description_texts_short_description_att_bld_nomad_herders_cattle_3	There is a serene beauty to the cow, don't you think?	true
+building_short_description_texts_short_description_att_bld_nomad_herders_cattle_2	A properly cared-for cow will sustain a family for many years.	true
+building_short_description_texts_short_description_bel_bld_camp_market_2	A well-stocked camp is its own economy.	true
+building_short_description_texts_short_description_bel_bld_camp_market_3	The finest goods, just for you my friend!	true
+building_short_description_texts_short_description_bel_bld_camp_market_1	Come, see! The finest wares in the camp!	true
+building_short_description_texts_short_description_bel_bld_camp_market_4	If you can't buy it on 5th street, you don't need it.	true
+building_short_description_texts_short_description_att_bld_religion_grecoroman_major_4_isis	The universal mother hears your worship.	true
+building_short_description_texts_short_description_att_bld_all_livestock_pigs_2	Nurturing animals helps to make them taste delicious.	true
+building_short_description_texts_short_description_att_bld_all_livestock_pigs_3	Pigs are actually very clean animals, don't you know?	true
+building_short_description_texts_short_description_att_bld_all_livestock_pigs_4	Be wary of any man who keeps a pig farm…	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_amber_3	"“See the fly transfixed within? It was swatted by Achilles himself…"""	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_amber_4	When a single piece is worth more than a man, you know you're in the right trade.	true
+building_short_description_texts_short_description_att_bld_barbarian_civic_market_amber_5	If you want things, chances are you can find them here.	true

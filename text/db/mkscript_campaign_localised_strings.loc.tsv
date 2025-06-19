@@ -1,0 +1,60 @@
+key	text	tooltip
+#Loc;1;text/db/mkscript_campaign_localised_strings.loc		
+campaign_localised_strings_string_mk_faction_armenian_kingdom	Kingdom of Armenia	true
+campaign_localised_strings_string_mk_faction_armenian_kingdom_objective	Own the regions of Dvin and Van.	true
+campaign_localised_strings_string_mk_faction_byzantine_empire	Byzantine Empire	true
+campaign_localised_strings_string_mk_faction_byzantine_empire_objective	Own the region of Constantinople.	true
+campaign_localised_strings_string_mk_faction_goldenhorde	Golden Horde	true
+campaign_localised_strings_string_mk_faction_goldenhorde_objective	Own the regions of Saqsin, Bilyar, Suvar, Derbent, Tana, Kursk, Ryazan, Sharukan, Caffa, and Bilgorod.	true
+campaign_localised_strings_string_mk_faction_holy_roman_empire	Holy Roman Empire	true
+campaign_localised_strings_string_mk_faction_ilkhanate	Ilkhanate	true
+campaign_localised_strings_string_mk_faction_ilkhanate_objective	Own the regions of Bushehr, Shiraz, Kerman, Ahvaz, Isfahan, Yazd, Hamadan, Tabriz, Ray, Nishapur, Merv, Herat, Zaranj, Pahrah, and Hormuz.	true
+campaign_localised_strings_string_mk_faction_italian_kingdom	Kingdom of Italy	true
+campaign_localised_strings_string_mk_faction_italian_kingdom_objective	placeholder	true
+campaign_localised_strings_string_mk_faction_polish_kingdom	Kingdom of Poland	true
+campaign_localised_strings_string_mk_faction_polish_kingdom_objective	Own the regions of Gdansk, Poznan, Wroclaw, and Krakow.	true
+campaign_localised_strings_string_mk_faction_roman_empire	Roman Empire	true
+campaign_localised_strings_string_mk_faction_serbian_kingdom	Kingdom of Serbia	true
+campaign_localised_strings_string_mk_faction_spanish_kingdom	Kingdom of Spain	true
+campaign_localised_strings_string_mk_faction_spanish_kingdom_objective	Own all regions of Hispania except for those initially held by Portugal.	true
+campaign_localised_strings_string_mk_mission_crusades_take_jerusalem	Own the region of Jerusalem.	true
+campaign_localised_strings_string_mk_mission_story_england_take_normandy	Own the region of Rouen.	true
+campaign_localised_strings_string_mk_mission_story_england_war_with_france	Be at war with France.	true
+campaign_localised_strings_string_mk_mission_story_france_survive_invasion	Ensure that the region of Rouen does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_mission_story_hre_hold_frankfurt	Hold the region of Frankfurt or kill the false emperor, while ensuring that your faction leader does not die.	true
+campaign_localised_strings_string_mk_mission_story_sicily_take_frankfurt	Own the region of Frankfurt or kill the Holy Roman Emperor, while ensuring that your faction leader does not die.	true
+campaign_localised_strings_string_mk_story_spanish_reconquista_objective	Ensure that the entirey of the Spanish peninsula is owned by Catholic factions.	true
+campaign_localised_strings_string_public_order_pope	Excommunicated	true
+campaign_localised_strings_string_public_order_pope_tooltip	Your excommunication has deeply affected public order.	true
+campaign_localised_strings_string_unit_restriction_mk_cuman_t1_light_HA	[[col:red]]To recruit this unit, the Cumans must first settle in your lands.[[/col]]	true
+campaign_localised_strings_string_unit_restriction_mk_cuman_t1_light_lancers	[[col:red]]To recruit this unit, the Cumans must first settle in your lands.[[/col]]	true
+campaign_localised_strings_string_mk_crusades_defend_aegyptus_alexandria_objective	Ensure that the region of Alexandria does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_aegyptus_oxyrhynchus_objective	Ensure that the region of Cairo does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_africa_carthago_objective	Ensure that the region of Tunis does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_aquitania_elusa_objective	Ensure that the region of Toulouse does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_baetica_corduba_objective	Ensure that the region of Cordoba does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_britannia_superior_londinium_objective	Ensure that the region of London does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_carthaginensis_toletum_objective	Ensure that the region of Toledo does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_germania_uburzis_objective	Ensure that the region of Frankfurt does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_italia_roma_objective	Ensure that the region of Rome does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_lugdunensis_turonum_objective	Ensure that the region of Paris does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_macedonia_thessalonica_objective	Ensure that the region of Thessalonica does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_palaestinea_aelia_capitolina_objective	Ensure that the region of Jerusalem does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_syria_antiochia_objective	Ensure that the region of Antioch does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_tarraconensis_tarraco_objective	Ensure that the region of Barcelona does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_defend_thracia_constantinopolis_objective	Ensure that the region of Constantinople does not fall into enemy hands.	true
+campaign_localised_strings_string_mk_crusades_take_aegyptus_alexandria_objective	Own the region of Alexandria or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_aegyptus_oxyrhynchus_objective	Own the region of Cairo or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_africa_carthago_objective	Own the region of Tunis or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_aquitania_elusa_objective	Own the region of Toulouse or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_baetica_corduba_objective	Own the region of Cordoba or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_britannia_superior_londinium_objective	Own the region of London or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_carthaginensis_toletum_objective	Own the region of Toledo or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_germania_uburzis_objective	Own the region of Frankfurt or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_italia_roma_objective	Own the region of Rome or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_lugdunensis_turonum_objective	Own the region of Paris or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_macedonia_thessalonica_objective	Own the region of Thessalonica or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_palaestinea_aelia_capitolina_objective	Own the region of Jerusalem or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_syria_antiochia_objective	Own the region of Antioch or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_tarraconensis_tarraco_objective	Own the region of Barcelona or assist another Catholic faction in taking it.	true
+campaign_localised_strings_string_mk_crusades_take_thracia_constantinopolis_objective	Own the region of Constantinople or assist another Catholic faction in taking it.	true

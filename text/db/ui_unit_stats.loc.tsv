@@ -1,0 +1,82 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_stats.loc		
+ui_unit_stats_onscreen_name_stat_bonus_vs_infantry	Attack Against Infantry	true
+ui_unit_stats_onscreen_name_stat_melee_damage_base	Melee Base Damage	true
+ui_unit_stats_onscreen_name_stat_charge_bonus	Charge Bonus	true
+ui_unit_stats_tooltip_text_stat_capture_power	How fast a unit can capture different locations in settlement battles.	true
+ui_unit_stats_tooltip_text_stat_charge_bonus	This increases a unit's melee attack and damage when charging. This does not represent the physical impact of the charge.	true
+ui_unit_stats_onscreen_name_stat_reloading	Rate of Fire	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_elephants	The melee bonus this unit receives when fighting against elephants.	true
+ui_unit_stats_onscreen_name_stat_weapon_range	Range	true
+ui_unit_stats_tooltip_text_stat_weapon_range	A long range enables you to hit enemies from a distance, but weapons are still more accurate at shorter ranges.	true
+ui_unit_stats_onscreen_name_stat_men_count	Men Count	true
+ui_unit_stats_tooltip_text_stat_melee_defence	This determines the chance of a unit being hit whilst in melee.||This only works in melee and provides no protection from missiles!	true
+ui_unit_stats_onscreen_name_stat_bonus_vs_elephants	Attack Against Elephants	true
+ui_unit_stats_tooltip_text_stat_speed	The speed at which the unit moves around the battlefield.	true
+ui_unit_stats_tooltip_text_stat_ship_health	Ship Health	true
+ui_unit_stats_tooltip_text_stat_ammo	The amount of ammunition this unit can carry into battle.||Once this has been exhausted the unit will be forced to switch to melee to continue fighting.||After the battle, ammunition is fully replenished.	true
+ui_unit_stats_onscreen_name_stat_ship_health	Hull Strength	true
+ui_unit_stats_tooltip_text_stat_melee_attack	This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle-hardened troops will gain experience through melee, improving this skill.	true
+ui_unit_stats_onscreen_name_stat_first_strike	First Strike	true
+ui_unit_stats_onscreen_name_stat_ammo	Ammunition	true
+ui_unit_stats_tooltip_text_stat_missile_damage_base	Ranged Base Damage	true
+ui_unit_stats_tooltip_text_stat_first_strike	Determines who strikes first at the beginning of combat.	true
+ui_unit_stats_onscreen_name_stat_missile_damage_base	Missile Base Damage	true
+ui_unit_stats_onscreen_name_stat_melee_attack	Melee Attack	true
+ui_unit_stats_tooltip_text_stat_shield_armour	Reduced damage due to shield.	true
+ui_unit_stats_onscreen_name_scalar_bracing	Entity Mass	true
+ui_unit_stats_tooltip_text_stat_weapon_damage	The damage caused by a unit's weapon, split between base and armour piercing.||Armour-piercing damage is always applied; base damage can be blocked by armour.	true
+ui_unit_stats_onscreen_name_stat_missile_block_chance	Missile Block Chance	true
+ui_unit_stats_onscreen_name_stat_missile_damage_ap	Armour-Piercing Damage	true
+ui_unit_stats_tooltip_text_stat_missile_block_chance	The percentage chance that the shield will block (non-artillery) missiles. (%)	true
+ui_unit_stats_onscreen_name_stat_spotting	Spotting	true
+ui_unit_stats_tooltip_text_stat_shield_defence	Defence or evasion bonus attained from the shield.	true
+ui_unit_stats_onscreen_name_stat_accuracy	Accuracy	true
+ui_unit_stats_tooltip_text_stat_reloading	The rate at which this unit can fire.||This is improved with experience.	true
+ui_unit_stats_onscreen_name_scalar_entity_charge_speed_modifier	Charge Speed	true
+ui_unit_stats_tooltip_text_stat_accuracy	The likelihood of hitting the enemy when firing.	true
+ui_unit_stats_tooltip_text_stat_health	This determines how many hits a unit can withstand alongside armour and melee defence.	true
+ui_unit_stats_tooltip_text_stat_spotting	From how far a unit can spot enemies.	true
+ui_unit_stats_onscreen_name_stat_ship_douse_fire	Douse Fire	true
+ui_unit_stats_tooltip_text_stat_ship_douse_fire	Douse Fire	true
+ui_unit_stats_tooltip_text_stat_remaining_ammo	Adding ammunition to naval units.	true
+ui_unit_stats_onscreen_name_stat_bonus_vs_cavalry	Attack Against Cavalry	true
+ui_unit_stats_onscreen_name_scalar_entity_deceleration_modifier	Deceleration	true
+ui_unit_stats_onscreen_name_scalar_entity_acceleration_modifier	Acceleration	true
+ui_unit_stats_tooltip_text_stat_armour	How resistant a unit is to missile fire and melee attacks.	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_cavalry	The melee bonus this unit receives when fighting against cavalry and elephants.	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_infantry	The melee bonus this unit receives when fighting against infantry.	true
+ui_unit_stats_tooltip_text_stat_melee_damage_base	Melee Damage Base	true
+ui_unit_stats_tooltip_text_stat_ship_health_fire	How much fire damage the ship can sustain before catching fire.	true
+ui_unit_stats_onscreen_name_stat_ship_health_fire	Fire Resistance	true
+ui_unit_stats_tooltip_text_stat_morale	A unit with high morale is less likely to rout in the face of danger. Morale is improved by experience in battle.	true
+ui_unit_stats_tooltip_text_stat_defence	Unit's defence potential	true
+ui_unit_stats_onscreen_name_stat_defence	Defence	true
+ui_unit_stats_tooltip_text_stat_attack	Unit's attack potential	true
+ui_unit_stats_tooltip_text_stat_missile_damage	The damage caused by a missile attack, split between base, armour piercing and explosive.||Armour-piercing damage is always applied, base and explosive damage can be blocked by armour.||Explosive damage has an area of effect.	true
+ui_unit_stats_tooltip_text_stat_hiding	How well this unit can hide.	true
+ui_unit_stats_onscreen_name_stat_capture_power	Capture Power	true
+ui_unit_stats_onscreen_name_stat_shield_armour	Shield Armour	true
+ui_unit_stats_tooltip_text_scalar_bracing	Mass of each entity in the unit.	true
+ui_unit_stats_onscreen_name_stat_ship_move_speed	Speed	true
+ui_unit_stats_onscreen_name_stat_weapon_damage	Melee Damage	true
+ui_unit_stats_tooltip_text_stat_ship_move_speed	How quickly the ship is able to move.	true
+ui_unit_stats_tooltip_text_scalar_spotting_range	A way to change the default range at which a unit can spot others hiding.	true
+ui_unit_stats_onscreen_name_scalar_spotting_range	Spotting Range	true
+ui_unit_stats_tooltip_text_stat_melee_damage_ap	Melee Damage Ap	true
+ui_unit_stats_onscreen_name_stat_melee_damage_ap	Armour-piercing Damage	true
+ui_unit_stats_onscreen_name_stat_hiding	Hiding	true
+ui_unit_stats_onscreen_name_stat_missile_damage	Missile Damage	true
+ui_unit_stats_tooltip_text_stat_missile_damage_ap	Ranged AP Damage	true
+ui_unit_stats_onscreen_name_stat_attack	Attack	true
+ui_unit_stats_onscreen_name_stat_morale	Morale	true
+ui_unit_stats_tooltip_text_stat_men_count	Default number of men a unit has.	true
+ui_unit_stats_onscreen_name_stat_health	Health	true
+ui_unit_stats_onscreen_name_stat_melee_defence	Melee Defence	true
+ui_unit_stats_tooltip_text_scalar_entity_charge_speed_modifier	The additional speed used for charging the final distance to the target.	true
+ui_unit_stats_onscreen_name_stat_speed	Speed	true
+ui_unit_stats_onscreen_name_stat_shield_defence	Shield Defence	true
+ui_unit_stats_onscreen_name_stat_armour	Armour	true
+ui_unit_stats_tooltip_text_scalar_entity_deceleration_modifier	The rate that the unit slows to a stop.	true
+ui_unit_stats_tooltip_text_scalar_entity_acceleration_modifier	The rate at which the unit accelerates.	true
+ui_unit_stats_onscreen_name_stat_remaining_ammo	Added Ammunition	true

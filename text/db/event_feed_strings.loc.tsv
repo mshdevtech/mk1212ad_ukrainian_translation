@@ -1,0 +1,505 @@
+key	text	tooltip
+#Loc;1;text/db/event_feed_strings.loc		
+event_feed_strings_text_att_event_feed_string_faction_succession_description_king_of_kings	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_secondary_detail	#(technology.description)\\n	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_female	Joyous occasion! These family members have been blessed with a daughter.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_secondary_detail	History is full of the stories of great men wasted under the command of weak rulers. Justinian, alas, has proved himself just such a lord – his jealousy hampering Belisarius at every turn, eventually becoming a threat to his life and position. The Emperor may have been born to rule, but Belisarius was also born with a destiny. He will restore the faded glory of the Western Empire, and any impediments will be left behind. Justinian is furious at this betrayal, and overcoming him will be as much of a challenge as the conquest of Italy. Nonetheless, Belisarius embraces the task. Unleashed, he will bring the world to its knees!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_secondary_detail	Practice makes perfect. Your people's olive-growing expertise remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_all_primary_detail	#(ancillary)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_title	Bards' Hall Unlocked	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_dissolved_description	Changing circumstances have resulted in the need for us to dissolve trade relations with this faction.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description_theirs	This faction has been destroyed by their enemies.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail	Trespassing near: #(force.region)\\n\\nOwning faction: #(faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_description	The enemy scourge have ransacked our settlement, leaving desolation in their wake!	true
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_description	Our subject has died under suspicious circumstances. Beware enemy agents.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_unavailable_primary_details	Targets Lost	true
+event_feed_strings_text_att_event_feed_string_plague_starts_secondary_detail	Location: #(region)	true
+event_feed_strings_text_att_event_feed_string_provinces_building_all_primary_detail	#(building)	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male	Our agent has accomplished his mission with due diligence and loyalty!	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description	Our forces have contracted the plague whilst passing through infected territory!	true
+event_feed_strings_text_att_event_feed_string_provinces_building_demolished_secondary_detail	#(building.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_roman	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_region_and_province_primary_detail	#(settlement.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_primary_detail	New Religions	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_all_primary_detail	#(faction.known_to)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_primary_detail	[ph] Avar Khaganate Formed Primary Detail	true
+event_feed_strings_text_att_event_feed_string_scripted_event_primary_detail	#(primary_detail)	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_description	We have detected a foreign force attempting to lay an ambush!	true
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description	Plague has spread to our settlement from nearby lands and infected the populace!	true
+event_feed_strings_text_att_event_feed_string_horde_building_demolished_description	This building has been demolished. The population surplus once invested in it may now be applied elsewhere.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description_theirs	An enemy force has begun its investment of one of our settlements! We are surrounded!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_manipulated_description	Our vassal has declared independence, egged on by a manipulative third-party.	true
+event_feed_strings_text_att_event_feed_string_faction_event_mission_aborted_secondary_detail	#(mission.description)	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_description	We have stripped this enemy settlement of its riches and razed it to the ground, as is the right of the conqueror.	true
+event_feed_strings_text_att_event_feed_string_agent_action_all_primary_detail	#(action_info)	true
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description_nomadic	The brave warriors of this horde have known many victories, establishing a legacy for which they will be long remembered.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_recipient_region_province	Capital: #(recipient.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_secondary_detail	The Western Roman Empire has risen in glory once more! For years it has slumbered: diluted, profaned and finally crushed by barbarian hordes. But it has lived on, sustained by the aspirations of the true Romans who sought to restore it through the ages.\\n\\nOther Emperors have tried and failed, dragged down by the weight of this task. Only the spiritual successor to the great conquerors of old, the likes of Julius Caesar, Augustus and Marcus Aurelius, could succeed in this task. Now, just such a man has risen.\\n\\nAll hail Belisarius, Lord of the Western Empire!	true
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_description	It is time for a new beginning. Our people have settled once more.	true
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_secondary_detail	Current Power: #(party.power)%	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_title	Empires of Sand	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_secondary_detail	#(mission.description)\\n\\nBonus objectives complete: #(mission.completed_bonus_objectives)/#(mission.total_bonus_objectives)\\n	true
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description	The brave men of this army have known many victories, establishing a legacy for which they will be long remembered.	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_all_primary_detail	#(region)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_secondary_detail	Capital: #(faction_2.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_secondary_detail	The Western Empire has risen in glory once more! The Romans squandered their inheritance, assuming that glory was their birthright. But the Empire is greater than they are - it survived their fall and has waited patiently to be resurrected by a worthy people.\\n\\nWe are those people! Once we were dismissed as barbarians, but now we are truer Romans in spirit than those of pure blood. We alone have inherited their vigour and martial prowess – we alone are capable of undertaking the task of restoring their once-great Empire!\\n\\nAll hail the New Western Roman Empire!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_client_state_description	Following a period of negotiation, this faction has agreed to become our vassal.	true
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_description	This man has completed his term in office. He may now be appointed to a higher one.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description	Our non-aggression pact with this faction has come to an end. Beware violence.	true
+event_feed_strings_text_att_event_feed_string_provinces_all_province_primary_detail	#(province)	true
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_ends_description	This force has procured enough food to sate themselves - they are no longer suffering from a shortage of food.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_eastern	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
+event_feed_strings_text_att_event_feed_string_character_wounded_description	Our faithful subject has been wounded by the enemy. Death was beyond their power, however.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_secondary_detail	This is a time of radical religious change. Nations abandon old traditions and forge new paths almost overnight. Split religious chains allow you to exert much greater control in that area, essential if you wish to access religion-specific buildings, units, victory conditions, technologies and events.\\nHowever, these changes are not welcomed by all. Factions following new religions suffer [[col:red]]severe public order penalties[[/col]] from the presence of rival faiths. Use priests, technologies, governors and buildings to crush dissenting voices and spread your chosen religion across the land!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_primary_detail	King’s Market is now available.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_secondary_detail	The darkness gradually abates and life returns to the earth. The crop yield is bountiful, our children are healthier and people are optimistic for a prosperous future.	true
+event_feed_strings_text_att_event_feed_string_agent_recruited_primary_detail	#(agent), #(agent.type)	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail	Rank: #(character.rank)\\n\\nCommanding: #(character.force)\\n\\nOpponent: #(opponent.primary_general), #(opponent.primary_force), #(opponent)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_primary_detail	#(agent)	true
+event_feed_strings_text_att_event_feed_string_faction_event_incident_secondary_detail	#(incident.description)	true
+event_feed_strings_text_att_event_feed_string_province_food_shortage_ends_description	This produce is at last sufficient; no longer is this province suffering from a shortage of food.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_secondary_detail	War weariness has decreased; the people and the land are finally recovering from the wars you have been waging. As the lives of the common folk return to normal and the fatigue suffered by your troops over many long campaigns is fading also.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_secondary_detail	War weariness has increased! Your people grow angry and demand an end to these incessant wars. Worse still, your troops begin to show fatigue from your long military campaigns; if your men can no longer fight then the fighting will soon come to an end, but likely not in the way you intended. You should begin the peace process; your subjects need respite from conflict - give them time to heal, and your men time to recover.	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_description	Our coffers are empty. This will have dire consequences for our people, and soon.	true
+event_feed_strings_text_att_event_feed_string_horde_building_secondary_detail	#(building.force)	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_female	Our agent failed to kill her mark, but nevertheless managed to inflict a palpable wound.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male_theirs	Their agent, obviously no match for the task before him, has been wounded during his escape attempt.	true
+event_feed_strings_text_att_event_feed_string_faction_event_mission_success_secondary_detail	#(mission.description)	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_secondary_detail	Raided by: #(raider), #(raider.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_event_dilemma_secondary_detail	#(dilemma.description)	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female	Despite her best efforts, our agent has met with frustration. She has failed in her mission!	true
+event_feed_strings_text_att_event_feed_string_character_trait_gained_secondary_detail	Gained by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_province_description	This is no ordinary rebellion; separatists within this province have mobilised to utterly overthrow your rule. Civil war is upon us!	true
+event_feed_strings_text_att_event_feed_string_military_all_founded_secondary_detail	Founded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_military_force_decimated_description	This force has been decimated as a disciplinary measure, thereby diminishing the chance of mutiny.	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_male	A member of your family has sired an illegitimate son. This may be awkward.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_secondary_detail	Commerce is encouraged, for it is the road to prosperity for all. If you want things, chances are they can be found here.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract marble, but their skill in working with it remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_title	Justinian’s Support is Ending	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail	Age: #(character.age)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_title	Temple of Belenus Unlocked	true
+event_feed_strings_text_att_event_feed_string_province_development_points_available_secondary_detail	Population surplus: #(development_points)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_theirs	This faction has joined a war in progress. Time will tell if their decision was the right one.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_by	#(war_faction_1)	true
+event_feed_strings_text_att_event_feed_string_military_navy_rank_gained_description	The brave men of this navy have known many victories, establishing a legacy for which they will be long remembered.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_secondary_detail	When the Romans landed in Africa, they tried to pay the Moors off with trinkets - a gilded silver staff and a silver crown, a white cloak, a white tunic, and a gilded boot.\\n\\nThe Moors watched as trespassers fought over their ancestral lands - biding their time, waiting for a moment of weakness.\\n\\nNow that moment has arrived, and the Moors have risen as one to reclaim their birthright. They will scour the coast like the desert wind, purging every last trace of the oppression that has befallen them for so long. 	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female	Success follows in the wake of this woman; her task was executed succesfully!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_description	We now share a common enemy with our allies. Their possessions may now be targeted during war coordination efforts: engage in diplomacy in order to assess mutual threats and issue strategic requests.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_secondary_detail	While he was meditating on flight - a greater calamity than death itself - he decided to seek knowledge of the future through soothsayers. So, as was their custom, they examined the entrails of cattle and certain streaks in bones that had been scraped, and foretold disaster for the Huns. \\n\\n Having lost in battle, Attila's troops are demoralised and have started to doubt his powers. Surely his next defeat will be his last?	true
+event_feed_strings_text_att_event_feed_string_character_dies_action_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_emperor	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_primary_detail	#(technology)	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_secondary_detail	Province: #(settlement.province)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male	Our agent has utterly failed in his mission and has been wounded whilst trying to make good his escape.	true
+event_feed_strings_text_att_event_feed_string_character_rank_gained_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_invited_by	Invited by: #(war_faction_2)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description_theirs	The military access agreement between these two factions has collapsed.	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail_theirs	New religion: #(faction.state_religion)\\n\\nFormer religion: #(old_religion)\\n	true
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_description	Food shortages are affecting this force. Measures must be taken before the desperate people rise up against us.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_emerges_description	This faction, once thought lost, has risen from the ashes.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_secured_description	We have secured complete control of this province.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_nomadic	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_secondary_detail	Father: #(father)\\n\\nMother: #(mother)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_description	We have lost absolute control of this province to a rival faction. They will pay for this in time.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_secondary_detail	Contesting faction: #(contesting)\\n	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_female	A member of your family has sired an illegitimate daughter. This may be awkward.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_description	One of our loyal subjects has secured household members and objects to help our cause.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_secondary_detail	Current public order: #(public_order_and_delta.first)\\n\\nPredicted change: #(public_order_and_delta.second)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_building_constructed_secondary_detail	#(building.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description_them	Our puppet state has declared independence.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female_theirs	This agent's attempt to undermine our plans has backfired gloriously, wounding her in the process.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_description	The enemy has resorted to violent looting of our captured settlement, stealing what is ours and terrorising the populace. This aggression will not stand!	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_description	Our expenditure exceeds our financial means. We will be bankrupt unless we take measures to remedy this.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male	Unusually dissapointing, our agent has in this instance failed in his assigned duty.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_primary_detail	#(edict)	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail_theirs	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_description	We have a surplus of population in this force, ready to invest towards camp development.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_ally	We have joined our allies in a bid to rid the world of our mutual enemies.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_description	The insolent people of this province have risen up against us! They must be swiftly, and brutally crushed!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description	We have established a military access agreement with this faction and may traverse their lands peacefully.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail	Besieging force: #(besieger.general), #(besieger)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description_theirs	These two factions have established a trade agreement.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_secondary_detail	Sacked by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_all_primary_detail	#(ally)	true
+event_feed_strings_text_att_event_feed_string_military_all_disbanded_secondary_detail	Disbanded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_military_opponent_all_primary_detail	#(opponent)	true
+event_feed_strings_text_att_event_feed_string_faction_event_incident_primary_detail	#(payload.target)	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female_theirs	Their agent, with frustrating determination, has seen her task to its successful completion.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_primary_detail	Olives are now available.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_stephen_4	Pope Stephen IV	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_roman	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_description	Our enemies have razed one of our settlements to the ground! They must be made to pay for this ignominy!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_secondary_detail	In this age of uncertainty and turmoil, there is no depth to which the power hungry, in their depravity, will stoop. The Vandals are content to merely imprison the old and infirm, but the Ostrogoths have surpassed this indignity, imprisoning their widowed queen for her pro-Roman inclinations.\\n\\nIt is a deliberately provocative action, sired by fear, defiance and ambition. The Romans are desperate to reconquer their homelands, and this may be their last chance to do so.\\n\\nAs these two mighty powers face off, others scheme, looking for ways to turn the struggle to their own advantage.\\n\\nAnd all the while, a frightened woman waits. 	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_all_primary_detail	#(instigator)	true
+event_feed_strings_text_att_event_feed_string_military_path_blocked_secondary_detail	Location: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_description	Unfortunate circumstances have led to the loss of a household member or object.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_yours	This faction has joined forces with us in a bid to rid the world of our mutual enemies.	true
+event_feed_strings_text_att_event_feed_string_faction_event_mission_primary_detail	#(mission)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_recipient	#(recipient)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_title	Reformation of the Western Empire	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description	We have negotiated a trade agreement with this faction. Let the goods flow!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_primary_detail	Reformation Possible	true
+event_feed_strings_text_att_event_feed_string_military_force_decimated_primary_detail	#(force)	true
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_secondary_detail	Location: #(heir.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_primary_detail	Increased	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_secondary_detail	Location: #(instigator.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_title	Hilderic Executed	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_cancelled_description	Circumstances have made it impossible to maintain this provincial edict.	true
+event_feed_strings_text_att_event_feed_string_placeholder_secondary_detail	Placeholder Secondary Detail - DO NOT LOCALISE\\n	true
+event_feed_strings_text_att_event_feed_string_faction_political_subject_description	Engage in faction politics to deal with your subject, or wait until this stately business has blown over.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_manipulated_description	This faction has been convinced to rescind our military access. Be wary of them trespassing.	true
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_secondary_detail	Former capital: #(capital)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description	This faction was no match for their enemies; they are no more.	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_description	Time marches on. We have achieved much, but our people face ever increasing odds.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_manipulated_description	Our puppet state has declared independence, egged on by a manipulative third-party.	true
+event_feed_strings_text_att_event_feed_string_faction_event_dilemma_primary_detail	#(dilemma.target)	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_secondary_detail	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_secondary_detail	Practice makes perfect. Your people's tanning skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_all_primary_detail	#(province)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_vassal_description	Following a period of forceful 'negotiation', this faction has become our puppet state.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_female	The enemy was no match for our agent's deadly skill; she successfully killed her mark.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male_theirs	Failure becomes this man and his masters; his plans have come undone - he has failed!	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_victory_objective_complete_description	History is written by those who survive. We have emerged victorious from this dark period; our strength and wisdom guiding us to the future.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_description	Unrest in this province has reached critical levels; if we do not act at once, the enraged populace will rebel against us!	true
+event_feed_strings_text_att_event_feed_string_character_wounded_description_theirs	Our agent, with tenacious skill, has wounded an enemy subject.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_secondary_detail	Target: #(target)\\n\\nAllegiance: #(target.faction)\\n\\nLocation: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_secondary_detail	[ph] Avar Khaganate Secondary Detail	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target)\\n\\nOutcome: #(result)\\n\\nLocation: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_event_mission_issued_secondary_detail	#(mission.description)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_primary_detail	I. Ashen Skies	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description_theirs	Travel and trade from a plague-infested settlement of ours has spread the disease to nearby lands.	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_all_primary_detail	#(settlement.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_eugene_2	Pope Eugene II	true
+event_feed_strings_text_att_event_feed_string_generic_description_placeholder	Quod erat demonstrandum - DO NOT LOCALISE	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_description	Our forces have ransacked an enemy settlement, wreaking destruction and stripping its wealth.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female_theirs	Their agent, outwitted and inept, has become undone and failed to complete her task.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_secondary_detail	Looted by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_capital_description	The enemy has seized our capital! We must retake it at all costs!	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_description	Disaster! We have lost this settlement to the enemy!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description	We have resolved our differences with this faction and negotiated a peace treaty. Time will tell if it lasts.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_manipulated_description	The lies of others have led to the termination of our trade relations with this faction.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_primary_detail	The Langobards are coming!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_secondary_detail	#(secondary_detail)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_primary_detail	Decreased	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_secondary_detail	Province: #(settlement.province)\\n\\nCaptured from: #(captured_from)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_title	Plague	true
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_primary_detail	#(heir)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description_theirs	The defensive alliance between these two factions has collapsed.	true
+event_feed_strings_text_att_event_feed_string_military_all_raised_secondary_detail	Raised by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_secondary_detail	Target: #(target)\\n\\nAllegiance: #(target.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_secondary_detail	Justinian will soon stop paying these men. It will then be up to you to maintain this force.	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail_female	Age: #(character.age)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_description	Following a period of absence, this subject is ready to return to duty.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description	Our defensive alliance with this faction has collapsed. We must rely on our own shields now, and not those of others.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_attacker_result	#(attacker_result)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description	Our fleet has ended its blockade of this port.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract iron, but their skill in working with it remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description_theirs	The non-aggression pact between these two factions has collapsed.	true
+event_feed_strings_text_att_event_feed_string_character_trait_lost_secondary_detail	Lost by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_defender_result	#(defender_result)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_title	Climate Change	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_paschal_1	Pope Paschal I	true
+event_feed_strings_text_att_event_feed_string_province_cannot_abandon_settlement_description	Due to circumstances beyond our control we are unable to abandon our settlement and withdraw.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_title	Langobards!	true
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail	Commanded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_secondary_detail	Practice makes perfect. Your people's woodworking skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract gold, but their skill in working with it remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_all_secondary_detail	Location: #(settlement.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_description	During occupation of an enemy settlement, our forces looted its riches. The inhabitants will not soon forget this aggression.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_invited_by	#(war_faction_2)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_title	Climate Change	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description_theirs	These two factions have resolved their differences and negotiated a peace treaty.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_secondary_detail	Practice makes perfect. Your people's wine-making skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_provinces_all_settlement_primary_detail	#(settlement)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_primary_detail	IV. Clear Skies	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_primary_detail	#(faction_2)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_primary_detail	#(force)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_primary_detail	A Great Pestilence	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_all_primary_detail	#(faction)	true
+event_feed_strings_text_att_event_feed_string_military_attrition_description	 	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_description	This treacherous man has defied your will and started a civil war. He must be stopped before he can become too powerful.	true
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_primary_detail	#(unit)	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_description_theirs	One of our forces has been detected while attempting an ambush!	true
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_description	Camp integrity has reached critical levels; if we do not act at once, there will be mutiny!	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail	Blockading force: #(blockader.general), #(blockader)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_all_primary_detail	#(blockaded.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nCommanding: #(character.force)\\n\\nOpponent: #(opponent.primary_general), #(opponent.primary_force)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_province_settlement_province_secondary_detail	Province: #(settlement.province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_secondary_detail	His holiness, the Pope has been gathered up to God, ending a fruitful chapter in Church history. A new Pope has been elected without delay; this man has a chance to guide all Christendom, few are more important or hold more sway than he does. All good Christian leaders should support the new Pope if called upon to do so, it can only be for the good of their kingdoms – but be aware, by the same token, that crossing him could have dire consequences.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_primary_detail	Marble is now available.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract gems, but their skill in working them remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_faction_event_mission_failed_secondary_detail	#(mission.description)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract lead, but their skill in working with it remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description	Our military alliance with this faction has collapsed. Our own strength must suffice now.	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_primary_detail	#(faction.state_religion)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description	Our army has begun its investment of this enemy settlement. They are surrounded!	true
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_secondary_detail	Contesting faction: #(contesting)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail_theirs	Allegiance: #(force.faction)\\n\\nTrespassing near: #(force.region)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_enemy	This faction has joined  our enemies to fight against us. They will pay for this in time.	true
+event_feed_strings_text_att_event_feed_string_faction_event_all_description	#(event.description_text)	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description	A disease-ridden force has spread the fetid plague to our settlement!	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male_theirs	Their agent, tenacious and frustrating, has accomplished his mission!	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail	New Pope Elected	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_primary_detail	The Emperor’s good grace nears its end.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_secondary_detail	Practice makes perfect. Your people's salt-extraction skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail_theirs	Blockading force: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail_theirs	Agent: #(agent), #(agent.type)\\n\\nAllegiance: #(agent.faction)\\n\\nTarget: #(target.region_and_province)\\n\\nOutcome: #(result)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_description	Despite their best attempts, our agent has been discovered by another faction.	true
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail	#(character)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description_theirs	The military alliance between these two factions has collapsed.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_primary_detail	Bards’ Hall is now available.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description_them	Our vassal has declared independence.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_adrian_1	Pope Adrian I	true
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail_theirs	Commanded by: #(force.general), #(force.faction)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description	We have embraced another religion, a test of faith as we seek answers to life's great mysteries.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_secondary_detail	Lost by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_secondary_detail	The disasters which war heaps upon the head of mankind are unending. Rome’s attempts to reclaim its Empire have ravaged the continent, leaving this proud land broken and vulnerable.\\n\\nLong have the Langobards waited for such an opportunity. Now they descend, belongings on their backs and swords in hand, to claim Italy as their own. They seek no payoff, no peaceful settlement – dominion is their only aim, and they will not spare those who stand in their way.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_lost_description	Our supply of this resource has been compromised.	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail	Allegiance: #(ambusher.faction)\\n\\nLocation: #(ambusher.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_province_development_points_available_description	We have a surplus of population in this province, ready to invest towards local development.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description_theirs	These two factions have established a non-aggression pact.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_draw	Our battle with the enemy has ended in stalemate.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_all_primary_detail	#(resource)	true
+event_feed_strings_text_att_event_feed_string_character_dies_political_assassination_description	Some will go to any length to further their ambitions, even murder.	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_description	Mutiny within this force has caused a division in the ranks. Many have deserted to form a separatist force: they must be stopped!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_title	The Western Empire Rises Again	true
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description_theirs	We have destroyed an army belonging to the enemy. Their troops are feed for carrion.	true
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description_theirs	We have destroyed an enemy navy, casting its men into a watery grave.	true
+event_feed_strings_text_att_event_feed_string_world_climate_change_description	The years grow colder, and snow creeps ever further south, lasting longer.\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_military_attrition_secondary_detail	Men lost: #(men_lost)\\n\\nLocation: #(force.region_and_province)\\n\\n#(attrition)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description_theirs	These two factions have established a defensive alliance. To attack one is now to attack them both.	true
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_secondary_detail	Profession: #(character.role)\\n\\nFormer office: #(post)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target.region_and_province)\\n\\nOutcome: #(result)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_primary_detail	  	true
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_description	Change is coming. Our people are now on the move, free to conquer or settle where we please.	true
+event_feed_strings_text_att_event_feed_string_province_slums_description	Left in a state of neglect, an area of our settlement has turned into slums.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_barbarian	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nOwning faction: #(from.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_province_food_shortage_description	Food shortages are affecting this province. Measures must be taken before the people rise up against us in desperation.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_title	Climate Change	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_not_available_description	Diplomatic circumstances have dictated that we have lost a common enemy with our allies. Their possessions may no longer be targeted for war coordination through diplomacy.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_joined_theirs	#(war_faction_1) vs. #(joining_faction)	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_defender	Opponent: #(attacker)\\n\\nForces: #(defender.primary_force) vs. #(attacker.primary_force)\\n\\nCommanders: #(defender.primary_general) vs. #(attacker.primary_general)\\n\\nCasualties: #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount) vs.#(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount)\\n\\nLocation: #(defender.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_manipulated_description	Our military alliance with this faction has collapsed, by the clandestine workings of another. We must now fight on alone.	true
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_description	Knowledge is power - DO NOT LOCALISE	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_secondary_detail	Expenditure: #(expenditure)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_title	Amalasuntha Imprisoned	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_description	Our settlement is on the verge of capitulating to the enemy! We must strike at once.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description_theirs	These two factions have established a military alliance. War with one is now war with both.	true
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_secondary_detail	Location: #(unit.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_secondary_detail	Province: #(settlement.province)\\n\\nCaptured by: #(occupier)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female	Our agent has utterly failed in her mission and has been wounded by the enemy in retaliation.	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_capital_description	Our valiant forces have, with righteous zeal, recaptured our capital from the enemy.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_secondary_detail	Province: #(province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_description	Our forces have claimed this settlement, allowing us to further our military and civic ambitions.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_description	You have abandoned this settlement, taking anything of worth and leaving the land desolate.	true
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_secondary_detail	Population surplus: #(development_points)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_secondary_detail	Conditions: #(effects)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description_theirs	Diplomacy has failed; these two factions are now at war.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_secondary_detail	Rank: #(new_leader.rank)\\nAge: #(new_leader.age)\\n\\nSucceding: #(former_leader)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_secondary_detail	The Roman Empire is in the rotting grasp of a plague like no other. It moves like an unseen wind, striking down families and even villages as soon as it appears, leaving a trail of blackened, suppurating corpses in its wake. Refugees spread across the globe, bringing their pestilence with them.\\nMany see it as further evidence of the much-prophesised end of days - burning wrath poured from the chalice of God’s judgement - and demand that the correct obeisance is duly paid.\\nOther, more practical minds demand alternative solutions. Dramatic improvements in sanitation and the end of trade with infected nations may stem or even stop the disease in its tracks.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_primary_detail	#(new_leader)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor	#(actor)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_title	Furs Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_military_army_raised_description	We have reinstated a former army. Its name continues to echo through the ages.	true
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_description	The balance of power has shifted. As a result, what it means to rule here has changed also.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail	Besieging force: #(besieger.general), #(besieger)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_primary_detail	Only a Man	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_secondary_detail	History is full of the stories of great men wasted under the command of weak rulers. Justinian, alas, proved himself just such a lord – his jealousy hampering Belisarius at every turn, eventually becoming a threat to his life and position.\\n\\nThe Emperor may have been born to rule, but Belisarius was also born with a destiny. He will restore the faded glory of the Western Empire, and any impediments will be left behind.\\n\\nJustinian is furious at this betrayal, and overcoming him will be as much of a challenge as the conquest of Italy. Nonetheless, Belisarius embraces the task. Unleashed, he will bring the world to its knees!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_secondary_detail	He was indeed a lover of war, yet restrained in action, mighty in counsel, gracious to supplicants and lenient with those under his protection. \\n\\n With the death of the previous warlord, Attila seized power. Now he leads the hordes, and their armies swell in number.	true
+event_feed_strings_text_att_event_feed_string_character_trait_lost_description	Much like the shifting heavens, this man has abandoned what he once thought as true.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description	We have established a military alliance with this faction, thereby strengthening us both.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description_theirs	A foreign force has entered our territory without permission; be wary of their intention.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_title	Wood Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_title	Iron Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_secondary_detail	Current integrity: #(public_order_and_delta.first)\\n\\nPredicted change: #(public_order_and_delta.second)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_title	Wine Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_secondary_detail	Regent: #(new_leader)	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_theirs	Agent: #(agent), #(agent.type)\\n\\nAllegiance: #(agent.faction)\\n\\nTarget: #(target)\\n\\nOutcome: #(result)\\n\\nLocation: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description_theirs	Trade between these two factions has ceased.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_issued_description	The governor of this province has issued an edict and will maintain it until commanded otherwise.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_title	Gems Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_primary_detail	#(ambusher)	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_leo_3	Pope Leo III	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_secondary_detail	Razed by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description_theirs	A rival fleet is blockading one of our ports!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_title	Gold Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_title	Salt Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_lost_description	History is written by those who survive. What will they say of us, now that our people are no more?	true
+event_feed_strings_text_att_event_feed_string_all_null	 	true
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_secondary_detail	Location: #(instigator.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_title	Betrayal!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description	We no longer have a military access agreement with this faction. Beware trespassing.	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_cannot_fail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target)\\n\\nLocation: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_title	Moors!	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_primary_detail	#(raider.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_against	#(joining_faction)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_description	We have received word: our ally intends to attack this enemy settlement at the next available opportunity.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient	#(actor)\\n #(recipient)	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_settlement_description	Raids within our region are affecting local public order and food production.	true
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_description	This man has been declared your heir and will ascend to the throne upon your passing.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description	We have granted our puppet state independence.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_high_king	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail	Former religion: #(old_religion)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_attacker	Opponent: #(defender)\\n\\nForces: #(attacker.primary_force) vs. #(defender.primary_force)\\n\\nCommanders: #(attacker.primary_general) vs. #(defender.primary_general)\\n\\nCasualties: #(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount) vs. #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount)\\n\\nLocation: #(attacker.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_secondary_detail	You are lauded for upholding the Bardic tradition. Here, songs will be sung of your heroism and valour, with great whimsy!	true
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_description	As our power increases, so too does our capacity for decisive action.	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_secondary_detail	The Roman Empire rises again! Responding to threats to its sovereignty, new forces are abroad.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_secondary_detail	The sign of a great leader is in knowing how far your people can be pushed. Wars are significant, dramatic events that should not be undertaken lightly.\\nEach turn you are at war your faction’s war weariness will increase. When it reaches a high enough level your faction will begin to receive penalties that will increase as time wears on. Additionally, losing battles will have drastic effects on war weariness depending on the severity of your defeat.\\nYou can, however, seek respite during peacetime. While at peace your war weariness will reduce quickly; furthermore, signing peace treaties will cause a large one-off reduction.\\nShould war be forced upon you, however, you may slow, halt, or even reverse war weariness levels by winning decisive battles and, as a last resort, by withdrawing your men to within your own borders to help slow its increase.\\nWars must be concluded swiftly and decisively; manage diplomacy carefully but be aware that at times of conflict the greatest enemy sometimes lies within.	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_secondary_detail	Expenditure: #(expenditure)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_recruited_secondary_detail	Location: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description_theirs	The world is full of mysteries. In search of answers, this faction has embraced another religion.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_gained_description	This resource will be a great asset to us.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description	Trade relations with this faction have been terminated.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_all_manipulated_secondary_detail	Manipulated by: #(negotiated_by)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail_theirs	Spread to: #(to)\\n\\nSpread from: #(from)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_political_subject_primary_detail	#(dilemma)	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description_theirs	Our forces, riddled with plague, have spread their disease.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_winner	Victory! We have triumphed over the enemy!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description	We have established a defensive alliance with this faction, thereby protecting us both.	true
+event_feed_strings_text_att_event_feed_string_military_navy_raised_description	We have reinstated a former navy. Its name continues to echo through the ages.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_title	Lead Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail_theirs	Location: #(ambusher.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_great_kan	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_manipulated_description	Our defensive alliance with this faction has collapsed. We blame the machinations of another for the relationship breakdown.	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_description	We have lost absolute control of this sea region to a rival faction.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_secondary_detail	Gained by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_trade_route_description	A force is raiding our trade route!	true
+event_feed_strings_text_att_event_feed_string_military_navy_withdraws_description	Unwilling to fight on the enemy's terms, our navy has withdrawn from battle.	true
+event_feed_strings_text_att_event_feed_string_military_attrition_primary_detail	#(force)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_secondary_detail	The Romans have landed in Africa! In response, Gelimer, the Vandal king, has executed the old pro-Roman sovereign, Hilderic, after years of imprisonment.\\n\\nThe death of this broken old man promises to plunge the conflict into even greater depths of ferocity! There is no turning back for the Vandals now; no possibility of a peaceful resolution.\\n\\nThe rest of the world looks on with bated breath. Perhaps the Romans are no longer a force to be reckoned with – can they punish this act of brazen defiance with their trademark unflinching brutality? Or will the Vandals defeat the invaders and usher in a new era of barbarian defiance? 	true
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male	Our agent successfully killed his mark, removing a potential threat once and for all.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_secondary_detail	Age: #(character.age)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description	Our forces have crossed, unpermitted, into foreign territory; this will have diplomatic repercussions.	true
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description	This is a dark day: our army has been utterly destroyed by the enemy.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_primary_detail	The King of the Huns	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_primary_detail	The Broken Bow	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description_theirs	These two factions have established a military access agreement.	true
+event_feed_strings_text_att_event_feed_string_character_dies_action_description	This worthy subject has fallen serving his lord and his people. Honour to him!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description	We are at war. Our enemies will submit or be destroyed.	true
+event_feed_strings_text_att_event_feed_string_character_trait_all_primary_detail	#(trait)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_primary_detail	Salt is now available.	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description	Our valiant commander has fallen in battle! Honour him!	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail_theirs	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_placeholder_primary_detail	Placeholder Primary Detail - DO NOT LOCALISE	true
+event_feed_strings_text_att_event_feed_string_military_all_force_primary_detail	#(force)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_title	Attila	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_primary_detail	The Moors are coming!!!	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_male	Joyous occasion! These family members have been blessed with a son.	true
+event_feed_strings_text_att_event_feed_string_military_army_founded_description	Glorious day! We have founded a new army.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_primary_detail	Gems are now available.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_primary_detail	Furs are now available.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_nomadic	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_barbarian	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description	Our fleet has begun blockading this enemy port.	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_controlled_description	We have secured complete control of these waters.	true
+event_feed_strings_text_att_event_feed_string_character_rank_gained_description	Diligence and duty have paid off - this character has increased in rank.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male_theirs	One of our own has been murdered in cold blood by an enemy agent!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_primary_detail	III. Breaking Dawn	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_title	Roman Empire retaliates!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_secondary_detail	The darkness gradually abates and life returns to the earth. The crop yield is bountiful, our children are healthier and people are optimistic for a prosperous future.	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description	Plague has passed from one military force to another; our troops are sick and dying.	true
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_secondary_detail	New capital: #(capital)\\n	true
+event_feed_strings_text_att_event_feed_string_world_climate_change_description_2	Climate change is afoot; as the perennial winter draws closer, lands become less fertile compelling people ever south and westward in search of warmer, less hostile climes.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_title	War Weariness	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_ally	Joining you against: #(joining_faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_primary_detail	The Birth	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail_theirs	Faction:#(agent.faction)\\n\\n Location: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_title	Age of Charlemagne	true
+event_feed_strings_text_att_event_feed_string_agent_recruited_description	This new agent is ready and eager to serve.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_secondary_detail	He was a man born into the world to shake nations; the scourge of all lands, whose name brought fear to all mankind. \\n\\n Far to the east, in the Scythian wastes, a child is born to the royal Hunnic line. Destined for greatness, he was named Attila.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_primary_detail	 	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male_theirs	The enemy came dangerously close to murdering one of our own. Fortunately, the wounds will heal given time.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_secondary_detail	Looted by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_description	This province is experiencing unusual seasonal conditions.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_title	War Weariness	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_secondary_detail	Parents: #(father) - #(mother)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_famine_description	We are consuming more food than we are capable of producing. People are starving and tensions are high.	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail	Location: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_primary_detail	War Weariness Information	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_title	Climate Change	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_secondary_detail	Belenus smiles upon you. May his bright star guide you always.	true
+event_feed_strings_text_att_event_feed_string_plague_all_primary_detail	#(plague)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_secondary_detail	The Tanukhids are a tribe dedicated to a single purpose – rebellion. As such they may only sustain themselves through constant conquest. However, their hordes are unable to grow their own food and they may only sustain themselves by vanquishing an enemy settlement and living off its supplies for a limited number of turns.\\nAs they win battles, fame increases and new followers flock to their banner. Each victory will earn the horde significant growth for the next five turns. Additionally, by entering raiding stance they may rouse local support, earning free units every turn.\\nPersecution against Eastern Christianity led to the  first Tanukhid rebellion. When, eventually, the Tanukhids settle once more, they  will face severe public order penalties for religious differences with the local populations.\\nThe challenges facing the Tanukhids are great, but so too are their means.\\nGo forth and reduce the Roman Empire to ash!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_primary_detail	II. Darkness Abates	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_secondary_detail	Razed by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description	This is a dark day: our entire navy has been destroyed.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_male	Life is indiscriminate in its cruelty. This boy passed away before coming of age.	true
+event_feed_strings_text_att_event_feed_string_military_army_withdraws_description	Unwilling to fight on the enemy's terms, our army has withdrawn from battle.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_female	Life is indiscriminate in its cruelty. This girl passed away before coming of age.	true
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail_role	#(character), #(character.role)	true
+event_feed_strings_text_att_event_feed_string_faction_political_subject_secondary_detail	Subject: #(subject)\\n\\n#(dilemma.description)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_eastern	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
+event_feed_strings_text_att_event_feed_string_provinces_building_demolished_description	This building has been demolished and its land may now be redeveloped.	true
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_description	Rumour has it that this man's loyalty is wavering. If we are to avoid civil war, we must ensure that it does not fall any further.	true
+event_feed_strings_text_att_event_feed_string_military_force_decimated_secondary_detail	Order given by: #(force.general)\\n\\nLocation: #(force.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description_theirs	Our forces have unwittingly brought a pestilence upon foreign soil.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_loser	Tragedy! The enemy has vanquished our forces in battle.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_primary_detail	Wood is now available.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_primary_detail	Gold is now available.	true
+event_feed_strings_text_att_event_feed_string_plague_starts_description	A foul pestilence has erupted within our lands, no doubt a result of filth and squalor. Sanitation is key to fending off disease!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_primary_detail	Lead is now available.	true
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_description	This unit is now trained and ready to fight for our cause.	true
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail_type	#(character), #(character.type)	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_primary_detail	Wine is now available.	true
+event_feed_strings_text_att_event_feed_string_military_all_rank_secondary_detail	Rank: #(force.rank)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description_theirs	An enemy force has ended its investment of our settlement!	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description_theirs	An enemy fleet has lifted its blockade of our port!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_secondary_detail	They plucked out the hair of their heads and made their faces hideous with deep wounds, that the renowned warrior might be mourned; not by effeminate wailings and tears, but by the blood of men. \\n\\n Attila, the Scourge of God, lies vanquished. Without his leadership the hordes weaken and begin to dissipate.	true
+event_feed_strings_text_att_event_feed_string_character_born_all_primary_detail	#(child)	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description	We have established a non-aggression pact with this faction, helping to ensure our mutual survival.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_secondary_detail	Sacked by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_title	Olives Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_description_theirs	Ever lurking, but not always unseen - we have uncovered this foreign operative!	true
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_secondary_detail	Location: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail_theirs	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nLocation: #(from.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail_theirs	Blockading force: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nOwning faction: #(from.faction)\\n\\nLocation: #(from.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_secondary_detail	Your conquests are countless and so your fame reaches across the world! As you survey your achievements, your thoughts turn to the Western Roman Empire - broken but not entirely forgotten.\\n\\nThere has never been a better time – or a better leader - to resurrect this fallen giant and reconquer its former territory. Act now and surpass the achievements of those who came before you! Don the robes of the Caesars of old and stride forth in Rome’s name! 	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_primary_detail	#(mission)	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description_theirs	Our noble enemy has fallen in battle against us!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_description	We have established contact with this faction and may now establish relations or, should we see fit, make war with them.	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description_theirs	This force has taken ill while crossing our plague-ridden territory.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_title	[ph] Avar Khaganate Formed Title	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_title	King's Market Unlocked	true
+event_feed_strings_text_att_event_feed_string_military_army_disbanded_description	This army has been retired from active service. It may be reinstated at a later time if we feel that it's reputation is worthy.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_description	We have received word: our ally intends to attack this enemy force at the next available opportunity.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_secondary_detail	“During this year a most dread portent took place. For the sun gave forth its light without brightness, and it seemed exceedingly like the sun in eclipse, for the beams it shed were not clear.” - Procopius\\n\\nDark times are upon us; the earth has withered and blackened, the crops have failed, and the priests speak of damnation! Has the Lord forsaken His kingdom?	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_primary_detail	Temple of Belenus is now available.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description_theirs	Our agent, with the cold calculation of forethought, has assassinated an enemy subject according to your whim.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male	The mark narrowly avoided death by our agent's hand, but did not escape unscathed.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_title	The Western Empire Rises Again	true
+event_feed_strings_text_att_event_feed_string_military_navy_disbanded_description	This navy has been recalled from active service. It may be reinstated at a later time if we feel that its reputation is worthy.	true
+event_feed_strings_text_att_event_feed_string_provinces_building_constructed_description	#(building.description)	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_description	Life has taken its toll upon our venerable subject; they are no more.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_title	Belisarius Declares Independence	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_primary_detail	Iron is now available.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description	We have granted our vassal independence.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_title	Empires of Sand	true
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_faction_region_province	Capital: #(faction.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_secondary_detail	Finally, the sun has risen again, painting the land with its vivid colours. The people give thanks to God for the restoration of their livelihoods. It is a good time to be alive.	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_ends_description	The separatists have been crushed; the civil war is over.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description	Our army has ended its investment of this enemy settlement.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description	Our faithful subject has been assassinated with callous brutality by enemy agents.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_manipulated_description	This faction has ended its non-aggression pact with us, convinced of the need by a manipulative third party.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_title	New Pope Elected	true
+event_feed_strings_text_att_event_feed_string_military_all_location_only_secondary_detail	Location: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_primary_details	Targets Available	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_primary_detail	Tanukhids	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail	Blockading force: #(blockader.general), #(blockader)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_title	Marble Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_military_navy_founded_description	Glorious day! We have established a new navy.	true
+event_feed_strings_text_att_event_feed_string_character_trait_gained_description	Through the trials of life, this man has learned much, both good and bad.	true
+event_feed_strings_text_att_event_feed_string_military_path_blocked_description	Our progress has been obstructed; an alternative route must be plotted.	true
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_secondary_detail	Imperium level: #(faction.fame_level)\\n\\n#(faction.fame_level_description)\\n	true

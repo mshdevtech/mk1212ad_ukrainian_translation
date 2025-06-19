@@ -1,0 +1,16 @@
+key	text	tooltip
+#Loc;1;text/db/projectile_shot_type_enum.loc		
+projectile_shot_type_enum_button_tooltip_text_small_arm_heavy	Heavy Shot||Causes greater armour piercing but less regular damage and takes more time to reload. Most efficient against heavily-armoured enemies. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_torch	Torch	true
+projectile_shot_type_enum_button_tooltip_text_small_arm_default	Standard Shot||This is the standard shot type for this unit. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_artillery_default	Standard Round||This is the standard shot type for this unit. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_artillery_explosive	Explosive Round||Causes high damage over a large area, but takes more time to reload. Most efficient against tight formations. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_small_arm_flaming	Flaming Shot||Has a considerable morale impact and does more regular but less armour piercing damage. Most efficient against lightly-armoured enemies and buildings. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_artillery_whistling	Whistling Round||Causes less damage, but has a fearsome sound. Adversely affects the morale, melee attack and firing rate of any unit it passes over. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_artillery_flammable	Flaming Round||This round completely ignores armour, but takes more time to reload. Most efficient against units on flammable ground and buildings. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_small_arm_whistling	Whistling Shot||Causes very little damage, but has a fearsome sound. Adversely affects the morale, melee attack and reload time of targets, as well as any unit it passes over. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_artillery_poison	Poison Round||Reduces enemy's melee attack, melee defence and causes fatigue. Also reduces firing range. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_small_arm_extended	Extended Shot||Has greater range but causes less damage. These values are further modified by the unit itself.	true
+projectile_shot_type_enum_button_tooltip_text_small_arm_poison	Poison Shot||Poisons the target unit, causing casualties over time.	true
+projectile_shot_type_enum_button_tooltip_text_oil	Burning Oil	true
+projectile_shot_type_enum_button_tooltip_text_explosives	Explosive Pot	true

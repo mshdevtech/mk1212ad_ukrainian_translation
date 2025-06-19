@@ -1,0 +1,71 @@
+key	text	tooltip
+#Loc;1;text/db/formations.loc		
+formations_tooltip_triple_line_melee	Melee Front Triple Line||Arranges units in three lines with melee infantry in the front, missile infantry in the middle and cavalry at the back.	true
+formations_name_spear	Spear	true
+formations_name_wedge	Wedge	true
+formations_tooltip_double_line_land	Double Line||Arranges units in two lines without placing them based on their type.	true
+formations_description_simplex_acies	A basic army formation with well-spaced spearmen in the front row, equally spaced melee infantry behind with cavalry at the back and missile infantry deployed out front.	true
+formations_description_triplex_acies	An army formation that places melee infantry in three lines, with the lightest in the front and spearmen in the last line. Missile infantry are deployed in front with cavalry at the rear on the flanks.	true
+formations_description_double_acies	An army formation with two well-spaced lines of melee infantry with spearmen on the flanks and cavalry behind. Missile infantry form a screen at the front.	true
+formations_description_column	Arranges units in a column. Useful for crossing rivers or for advancing into settlements. Places missile infantry in the front, melee infantry in the middle and cavalry in the rear.	true
+formations_tooltip_mis_light_centre	Flanking Missile Single||Create a strong battery of missile fire in your centre, with melee ships poised to close in from the flanks.||The further from the centre, the heavier the ship.	true
+formations_tooltip_double_line_sorted	Double Line Sorted||Arranges units in two lines with missile infantry put into the front row, melee infantry in the second with cavalry on the flanks.	true
+formations_tooltip_mis_heavy_centre	Heavy Missile Single||Shatter the enemy's centre with missile fire whilst your heavy melee ships close in on their flanks.||The closer to the centre, the heavier the ship.	true
+formations_description_triple_line_missile	Arranges units in three lines with missile infantry in the front, melee infantry in the middle and cavalry at the back.	true
+formations_name_triple_line_missile	Missile Front Triple Line	true
+formations_name_triplex_acies	Triplex Acies	true
+formations_name_simplex_acies	Simplex Acies	true
+formations_description_double_sailing	PLACEHOLDER	true
+formations_tooltip_crescent	Crescent||The battle line bows inwards, drawing the enemy fleet into the centre, allowing you to encircle and trap them.	true
+formations_name_double_line_sorted	Double Line Sorted	true
+formations_description_triple_line_cavalry	Arranges units in three lines with cavalry in front, missile infantry in the middle and melee infantry at the back.	true
+formations_tooltip_sailing	Battle Line||A standard battle line, with heavy ships forming the centre, and light and missile ships taking up the flanks.	true
+formations_tooltip_mis_double_line	Missile Double Line||A two-deep formation that arranges your fleet with missile ships at the fore and melee ships at the rear.	true
+formations_tooltip_single_line_sorted	Sorted Single Line||Arranges units in a single line with melee infantry in the middle, missile infantry beside them and cavalry on the flanks.	true
+formations_name_single_line	Single Line	true
+formations_description_single_line	Arranges units in an unorganised single line. Useful for quickly getting units into a line.	true
+formations_name_single_line_sorted	Sorted Single Line	true
+formations_tooltip_mel_heavy_centre	Heavy Melee Single||Punch through the enemy line with your heavy melee ships and use your missile ships to harass their flanks.||The closer to the centre, the heavier the ship.	true
+formations_description_wedge	PLACEHOLDER	true
+formations_tooltip_mel_light_centre	Flanking Melee Single||Present a strong attacking front to the enemy's centre with your melee ships, whilst your missile ships cover the flanks.||The further from the centre, the heavier the ship.	true
+formations_tooltip_skirmish	Skirmish||An army formation with missile infantry in the front line flanked by missile cavalry. Melee infantry form the second line with melee cavalry on the flanks.	true
+formations_description_spear	PLACEHOLDER	true
+formations_name_triple_line_cavalry	Cavalry Front Triple Line	true
+formations_name_double_acies	Double Acies	true
+formations_tooltip_mel_double_line	Melee Double Line||A two-deep formation that arranges your fleet with melee ships at the fore and missile ships at the rear.	true
+formations_tooltip_wedge	Wedge||Stab through the enemy line with your forward melee ships. This will give you room to manoeuvre and rake their decks with fire before boarding.	true
+formations_tooltip_triple_line_missile	Missile Front Triple Line||Arranges units in three lines with missile infantry in the front, melee infantry in the middle and cavalry at the back.	true
+formations_name_triple_line_melee	Melee Front Triple Line	true
+formations_tooltip_spear	Spear||Drive a hole through the enemy's line with heavy capital ships at the point, melee ships at the centre and missile support at the rear.	true
+formations_description_mel_heavy_centre	PLACEHOLDER	true
+formations_description_single_line_sorted	Arranges units in a single line with melee infantry in the middle, missile infantry beside them and cavalry on the flanks.	true
+formations_description_skirmish	An army formation with missile infantry in the front line flanked by missile cavalry. Melee infantry form the second line with melee cavalry on the flanks.	true
+formations_description_mel_light_centre	PLACEHOLDER	true
+formations_name_double_line_land	Double Line	true
+formations_description_mis_light_centre	PLACEHOLDER	true
+formations_tooltip_double_sailing	Double Line||A strong attacking front. Two rows, with missile ships at the flanks and rear, with melee ships at the centre.	true
+formations_description_sailing	PLACEHOLDER	true
+formations_tooltip_triple_line_cavalry	Cavalry Front Triple Line||Arranges units in three lines with cavalry in front, missile infantry in the middle and melee infantry at the back.	true
+formations_name_mel_double_line	Melee Double Line	true
+formations_description_mis_double_line	PLACEHOLDER	true
+formations_name_column	Column	true
+formations_description_mis_heavy_centre	PLACEHOLDER	true
+formations_name_mis_double_line	Missile Double Line	true
+formations_description_mel_double_line	PLACEHOLDER	true
+formations_description_double_line_sorted	Arranges units in two lines with missile infantry put into the front row, melee infantry in the second with cavalry on the flanks.	true
+formations_name_sailing	Battle Line	true
+formations_tooltip_single_line	Single Line||Arranges units in an unorganised single line.	true
+formations_tooltip_column	Column||Arranges units in a column with missile infantry in front, melee infantry in the middle and cavalry at the rear.	true
+formations_name_double_sailing	Double Line	true
+formations_description_crescent	PLACEHOLDER	true
+formations_tooltip_double_acies	Double Acies||An army formation with two well-spaced lines of melee infantry with spearmen on the flanks and cavalry behind. Missile infantry form a screen at the front.	true
+formations_name_mel_light_centre	Flanking Melee Single	true
+formations_name_skirmish	Skirmish	true
+formations_tooltip_triplex_acies	Triplex Acies||An army formation that places melee infantry in three lines, with the lightest in the front and spearmen in the last line. Missile infantry are deployed in front with cavalry at the rear on the flanks.	true
+formations_tooltip_simplex_acies	Simplex Acies||A basic army formation with well-spaced spearmen in the front row, equally spaced melee infantry behind with cavalry at the back and missile infantry deployed out front.	true
+formations_name_mel_heavy_centre	Heavy Melee Single	true
+formations_name_mis_heavy_centre	Heavy Missile Single 	true
+formations_name_mis_light_centre	Flanking Missile Single	true
+formations_description_double_line_land	Arranges units in two lines without placing them based on their type. This formation is good for quickly putting units of the same type into two lines.	true
+formations_description_triple_line_melee	Arranges units in three lines with melee infantry in the front, missile infantry in the middle and cavalry at the back.	true
+formations_name_crescent	Crescent	true
