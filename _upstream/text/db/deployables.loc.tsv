@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/deployables.loc		
+deployables_description_deployable_brimstone	Brimstone (sulphur) and bitumen, amongst other things, can be composited to create a highly dangerous weapon. Bitumen helps a slow-burning brimstone composite stick to things, especially men and mounts, causing severe burns if not death. In addition to fire arrows, the mixture can also be poured from towers during sieges. A brimstone pit can be deployed before a battle begins and ignited when an enemy charge is underway, ideally too late for it to be aborted.	true
+deployables_description_deployable_spiketrap	Spike traps are sunken stakes or groups of stakes concealed by foliage which collapses when stepped on, causing injury or death by impalement.	true
+deployables_name_deployable_stakes	Stakes	true
+deployables_tooltip_deployable_sharp_stones	Sharp stones impede a unit's progress, presenting an easy target for missile troops.	true
+deployables_name_deployable_caltrop	Sudes Caltrops	true
+deployables_description_deployable_caltrop	Sudes are an extremely versatile weapon. Due to the nature of their construction they can be placed in the ground to create low palisades or interlocked to create a caltrop shape. In caltrop form, sudes can kill charging/running units from either direction (something that stakes cannot).	true
+deployables_name_deployable_spiketrap	Spike Traps	true
+deployables_name_deployable_brimstone	Brimstone Pits	true
+deployables_tooltip_deployable_stakes	Stakes cause damage to mounted units approaching from the front. They cause extra damage if the unit is moving quickly.	true
+deployables_description_deployable_fireball	Rocks, logs and hay bales can be set alight and used to disrupt battlelines prior to an attack or weaken the morale of the defenders. Objects can doused in pitch, brimstone, resin, sap, etc. depending on the desired effect. These deployable items are best used in ambush situations and/or on undulating terrain.	true
+deployables_name_deployable_fireball	Fireballs	true
+deployables_description_deployable_sharp_stones	Sharp stone beds are created from various types of stone, constructed as a form of non-lethal defence around settlements. Stones can either sunk into the ground or layed in irregular piles. Infantry find these difficult objects to traverse, whereas cavalry can only pass through by picking routes between the stones. This slowing effect produces an effective killing zone in and around the stones, ideal ground for missile units to trap their targets.	true
+deployables_tooltip_deployable_fireball	Fireballs roll downhill and cause great damage to all units in their path. They can be activated by clicking on a unit and then on a fireball.\\n\\nUnits must be in melee mode to activate fireballs.	true
+deployables_description_deployable_stakes	Wooden stakes are one  of the most common settlement defences. A simple yet effective device, sharpened stakes are set in 45 degree lines to impale charging men or horses. They can easily be navigated around when moving slowly, but even this can be used to the advantage of missile units. Stakes angled this way can also enable defenders to sally forth without the risk of impalement.	true
+deployables_name_deployable_sharp_stones	Sharp Stone Beds	true
+deployables_tooltip_deployable_caltrop	Sudes cause damage to mounted units approaching from any angle, and extra damage if they are moving quickly.	true
+deployables_tooltip_deployable_brimstone	Fire pits can be ignited to set alight unsuspecting units. They can be activated by flaming projectiles or unit interaction.	true
+deployables_tooltip_deployable_spiketrap	Spike traps are a concealed danger, causing casualties to any units who attempt to move across them.	true

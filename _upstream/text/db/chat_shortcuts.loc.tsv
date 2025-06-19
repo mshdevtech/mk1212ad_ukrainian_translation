@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/chat_shortcuts.loc		
+chat_shortcuts_description_unblock	unblocks specified players chat and voice (/unblock player_name)	true
+chat_shortcuts_description_profile	shows profile of specified player (/profile player_name)	true
+chat_shortcuts_description_r	reply to last person who whispered to you (/r message)	true
+chat_shortcuts_description_pm	send private message to specified player (/pm player_name message)	true
+chat_shortcuts_description_unmute	unmutes specified players chat and voice for current session (/unmute player_name)	true
+chat_shortcuts_description_team	chat to players in current team (/team message)	true
+chat_shortcuts_description_help	shows all available chat shortcut commands for current game area (/help)	true
+chat_shortcuts_description_block	blocks specified players chat and voice permanently until unblocked (/block player_name)	true
+chat_shortcuts_description_mute	mutes specified players chat and voice for current session (/mute player_name)	true
+chat_shortcuts_description_invite	invites specified player to current game (/invite player_name)	true
+chat_shortcuts_description_all	chat to all players in current game (/all message)	true
+chat_shortcuts_description_add	adds specified player as a friend (/add player_name)	true

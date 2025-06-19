@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/abilities.loc		
+abilities_on_screen_description_hinder_agent	Hinder a rival agent's progress or compell them to join your side.	true
+abilities_on_screen_description_command_force	 	true
+abilities_on_screen_description_assist_army	Enhance an army's effectiveness using your agent's particular talents.	true
+abilities_on_screen_description_hinder_army	Diminish a rival army's battle effectiveness or hinder their campaign map progress.	true
+abilities_on_screen_name_hinder_agent	Manipulate Agent	true
+abilities_on_screen_name_hinder_army	Hinder Army	true
+abilities_on_screen_name_hinder_settlement	Disrupt Settlement	true
+abilities_on_screen_name_assist_army	Support Army	true
+abilities_on_screen_description_hinder_settlement	Disrupt day-to-day affairs within a rival settlement through acts of sabotage or interference.	true
+abilities_on_screen_name_hinder_province	Disrupt Province	true
+abilities_on_screen_name_assist_province	Assist Province	true
+abilities_on_screen_name_hinder_character	Assassinate	true
+abilities_on_screen_name_passive_ability	 	true
+abilities_on_screen_description_assist_province	Put your agent's talents to use by bolstering provincial effectiveness.	true
+abilities_on_screen_description_passive_ability	 	true
+abilities_on_screen_name_command_force	 	true
+abilities_on_screen_description_hinder_character	Target a rival character for assassination.	true
+abilities_on_screen_description_hinder_province	Diminish provincial effectiveness using your agent's particular talents.	true

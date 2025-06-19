@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/settlement_occupation_options.loc		
+settlement_occupation_options_tooltip_occupation_decision_resettle	Resettle||As a migrating horde, the option is now yours to settle your army down in this settlement and cease migration.	true
+settlement_occupation_options_tooltip_occupation_decision_colonise	Colonise||Settle down soldiers.	true
+settlement_occupation_options_tooltip_occupation_decision_liberate	Liberate||You return the original owners of this region to power, resurrecting their faction. All captives are released.||They will be immensely grateful for this.	true
+settlement_occupation_options_tooltip_occupation_decision_do_nothing	Do nothing	true
+settlement_occupation_options_tooltip_occupation_decision_raze_without_occupy	Raze||All buildings are destroyed and the settlement is torched.	true
+settlement_occupation_options_tooltip_occupation_decision_gift_to_another_faction	Reclaim||Reclaim this region for the Empire! Restored to its former glory, Rome will dominate for another thousand years!||You hand control of this region to the Roman Empire.	true
+settlement_occupation_options_tooltip_occupation_decision_vassal	Subjugate||The conquered faction will become a vassal of yours.	true
+settlement_occupation_options_tooltip_occupation_decision_raze	Raze||All destructible buildings in the settlement are destroyed and no treasure are taken. All captives are killed.||Public order is reduced and the previous owner will hate you.	true
+settlement_occupation_options_tooltip_occupation_decision_occupy	Occupy||You peacefully occupy the settlement and all captives are released.	true
+settlement_occupation_options_tooltip_occupation_decision_loot	Loot & Occupy||You gain money from looting, but buildings in the settlement are damaged. All captives are enslaved.|| Public order is greatly reduced and your diplomatic relations with the previous owner also suffer greatly.	true
+settlement_occupation_options_tooltip_occupation_decision_sack	Sack||You do not capture the settlement but steal treasures and damage buildings. All captives are killed.||Public order is reduced and the previous owners will like you a lot less.	true

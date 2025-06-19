@@ -1,0 +1,154 @@
+key	text	tooltip
+#Loc;1;text/db/unit_abilities.loc		
+unit_abilities_tooltip_text_steady_advance	Steady Advance||	true
+unit_abilities_tooltip_text_steady_retreat	Steady||Improves the unit's ability to defend at the cost of their mobility.	true
+unit_abilities_tooltip_text_com_force_concentration	Force Concentration||Target friendly units to greatly improve their offensive capabilities and make their morale unbreakable for an extended period. Can only be used once per battle.	true
+unit_abilities_tooltip_text_att_ramming_speed	Ramming Speed!||Increases the speed of a ship in order to cause greater damage when it hits the enemy.	true
+unit_abilities_tooltip_text_com_taunt_group	Taunt Group||	true
+unit_abilities_tooltip_text_precision_shot	Precision Shot||Improved missile weapon damage for an extended period. These values are further modified by the unit itself.	true
+unit_abilities_tooltip_text_com_inspire_group	Inspire Group||Your general improves the combat skills of friendly units within his area of influence for a short time.	true
+unit_abilities_tooltip_text_frenzy	Frenzy||Improves a unit's attack capabilities for an extended period of time.	true
+unit_abilities_tooltip_text_a_mp_test_15	Herd & Slaughter||A circular formation which allows entities in but not out. All entities within the formation are exposed to a devastating damage AOE.	true
+unit_abilities_tooltip_text_a_mp_test_14	Castled Sailing Ship||This ship is a tall and towering sailing ship with fore-and-aft castle, a veritable floating fortress.	true
+unit_abilities_tooltip_text_a_mp_test_17	Arena - Raise Shields||The casting unit raises their shields increasing their missile deflection chance.	true
+unit_abilities_tooltip_text_a_mp_test_16	Arena - Single Dismount||Actions a cavalry unit to dismount from their horses, becoming a melee infantry unit. This is an irreversible action as the horses will instant route after dismount is executed.	true
+unit_abilities_tooltip_text_a_mp_test_11	Oared Ship||This ship is a low-decked oared ship, her crews and rowers open and vulnerable to any missile attacks	true
+unit_abilities_tooltip_text_a_mp_test_10	Brace Ranks||Unit applies a braced stance which negates charge bonus and reflects an initial attack.	true
+unit_abilities_tooltip_text_a_mp_test_13	Sailing Ship||This ship is a high-decked sailing ship, her height gives it advantage against enemy boarders.	true
+unit_abilities_tooltip_text_a_mp_test_12	Castled Oared Ship||This ship is an oared ship with raised fighting platform to gain higher ground advantage.	true
+unit_abilities_tooltip_text_form_testudo_defensive	Stationary Testudo||The troops of this unit raise their shields above their heads in a static defensive formation.	true
+unit_abilities_tooltip_text_warcry	War Cry||	true
+unit_abilities_tooltip_text_com_we_stand_and_fight	Stand & Fight||	true
+unit_abilities_tooltip_text_cantabrian_circle	Cantabrian Circle||The unit fires whilst riding in a circle.	true
+unit_abilities_tooltip_text_light_infantry_behaviour	Light Infantry Behaviour||	true
+unit_abilities_tooltip_text_com_relentless	Relentless||Your general slightly improves the offensive capabilities of all units whilst removing their fatigue temporarily. Can only be used once per battle.	true
+unit_abilities_tooltip_text_att_gen_presence_02	Presence II||Decrease allies' ability cooling-down times in a targeted area.	true
+unit_abilities_tooltip_text_att_gen_presence_03	Presence III||Decrease allies' ability cooling-down times in a targeted area.	true
+unit_abilities_tooltip_text_att_gen_presence_01	Presence I||Decrease allies' ability cooling-down times in a targeted area.	true
+unit_abilities_tooltip_text_att_gen_presence_04	Presence IV||Decrease allies' ability cooling-down times in a targeted area.	true
+unit_abilities_tooltip_text_att_gen_presence_05	Presence V||Decrease allies' ability cooling-down times in a targeted area.	true
+unit_abilities_tooltip_text_form_pike_wall	Pike Wall||The unit moves into a deep, close defensive formation.	true
+unit_abilities_tooltip_text_kill_elephants	Kill Elephants||Elephant drivers will kill their mounts with spikes. To be used only if they run amok.	true
+unit_abilities_tooltip_text_form_flying_wedge	Flying Wedge||The unit moves into a flying wedge-shaped attack formation.	true
+unit_abilities_tooltip_text_com_second_wind	Second Wind||Target a friendly unit to remove any fatigue they may have.	true
+unit_abilities_tooltip_text_screech	Scare||Reduces the morale of an enemy unit for an extended period of time.	true
+unit_abilities_tooltip_text_com_inspire_unit	Inspire||Target friendly units to improve their combat skills for a short time.	true
+unit_abilities_tooltip_text_form_shield_wall	Shield Wall||The unit moves into a close formation and raises shields.	true
+unit_abilities_tooltip_text_com_war_cry_group	War Cry Group||Reduces the morale of enemy units within your general's area of influence for a short time.	true
+unit_abilities_tooltip_text_com_unity	Unity of the Tribes||Your general slightly improves the morale of all units for an extended period. Can only be used once per battle.	true
+unit_abilities_tooltip_text_att_gen_inspire_04	Inspire IV||Target friendly units to increase their attack capabilities and missile skills for a short time.	true
+unit_abilities_tooltip_text_att_gen_inspire_05	Inspire V||Target friendly units to increase their attack capabilities and missile skills for a short time.	true
+unit_abilities_tooltip_text_att_gen_inspire_02	Inspire II||Target friendly units to increase their attack capabilities and missile skills for a short time.	true
+unit_abilities_tooltip_text_att_gen_inspire_03	Inspire III||Target friendly units to increase their attack capabilities and missile skills for a short time.	true
+unit_abilities_tooltip_text_att_gen_inspire_01	Inspire I||Target friendly units to increase their attack capabilities and missile skills for a short time.	true
+unit_abilities_tooltip_text_com_push	Push||Target an enemy unit to reduce their defense against charges and melee defence for a short time.	true
+unit_abilities_tooltip_text_com_fast_charge	Fast Charge||Target friendly units to improve their speed and charge for an extended period. Can only be used once per battle.	true
+unit_abilities_tooltip_text_com_shock_and_awe	Sea Sickness||As these men are inexperienced sailors. Caught up in sea combat, they suffer various penalties.	true
+unit_abilities_tooltip_text_form_pike_square	Square||The unit moves into a close square formation. Note that it cannot move whilst this ability is active.	true
+unit_abilities_tooltip_text_fire_and_advance	Fire & Advance||	true
+unit_abilities_tooltip_text_com_brace	Brace||Target friendly units to improve their resistance against charges for a short time.	true
+unit_abilities_tooltip_text_stampede	Stampede||Charges are more effective for an extended time.	true
+unit_abilities_tooltip_text_com_raise_banner	Raise Banner||Increases your general's area of influence and improves the army's defence for an extended period.	true
+unit_abilities_tooltip_text_com_pride	Pride||Your general greatly improves the effectiveness of a nearby unit's armour piercing capability. Can only be used once per battle.	true
+unit_abilities_tooltip_text_cavalry_counter_tactics	Cavalry Counter-Tactics||Improves unit's damage against cavalry for an extended time.	true
+unit_abilities_tooltip_text_headhunt	Unbreakable||The unit's morale cannot be broken for an extended period of time.	true
+unit_abilities_tooltip_text_frenzied_charge	Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period.	true
+unit_abilities_tooltip_text_trample	Trample||Charges are more effective for an extended time.	true
+unit_abilities_tooltip_text_com_rally	Rally||Improves morale for friendly units within your general's area of influence.	true
+unit_abilities_tooltip_text_com_battle_rhythm	Battle Rhythm||Target friendly units to gradually improve their combat skills for an extended time.	true
+unit_abilities_tooltip_text_com_taunt	Taunt||	true
+unit_abilities_tooltip_text_form_diamond	Diamond||The unit moves into a diamond-shaped attack formation.	true
+unit_abilities_tooltip_text_dylans_test_2	dylan test 2	true
+unit_abilities_tooltip_text_dylans_test_1	dylan test 1	true
+unit_abilities_tooltip_text_form_hollow_square	Hollow Square||	true
+unit_abilities_tooltip_text_form_testudo	Mobile Testudo||The troops of this unit raise their shields above their heads in a defensive formation.	true
+unit_abilities_tooltip_text_refill_ammo	Replenish Ammo||During a naval conflict, missile troops can replenish ammo at the cost of mobility for a short time.	true
+unit_abilities_tooltip_text_com_the_fear_group	Intimidate||Prevents a single enemy unit from activating its abilities for an extended period.	true
+unit_abilities_tooltip_text_quick_reload	Barrage||Loose projectiles more frequently for an extended period of time.	true
+unit_abilities_tooltip_text_second_wind	Second Wind||	true
+unit_abilities_tooltip_text_com_rally_and_inspire	Rally & Inspire||Target friendly units to improve their combat skills and morale for a short time.	true
+unit_abilities_tooltip_text_form_wedge	Wedge||The unit moves into a wedge-shaped attack formation.	true
+unit_abilities_tooltip_text_att_gen_war_03	War Cry III||Targets enemy units and reduces their morale for a short time.	true
+unit_abilities_tooltip_text_att_gen_war_02	War Cry II||Targets enemy units and reduces their morale for a short time.	true
+unit_abilities_tooltip_text_att_gen_war_01	War Cry I||Targets enemy units and reduces their morale for a short time.	true
+unit_abilities_tooltip_text_att_gen_war_05	War Cry V||Targets enemy units and reduces their morale for a short time.	true
+unit_abilities_tooltip_text_att_gen_war_04	War Cry IV||Targets enemy units and reduces their morale for a short time.	true
+unit_abilities_tooltip_text_att_gen_second_02	Second Wind II||Decrease the fatigue of friendly units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_second_03	Second Wind III||Decrease the fatigue of friendly units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_second_01	Second Wind I||Decrease the fatigue of friendly units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_second_04	Second Wind IV||Decrease the fatigue of friendly units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_second_05	Second Wind V||Decrease the fatigue of friendly units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_frenzied_charge_inf	Frenzied Charge||Increases the effectiveness of the unit's charge for an extended period.	true
+unit_abilities_tooltip_text_rapid_volley	Rapid Volley||	true
+unit_abilities_tooltip_text_form_cavalry_testudo	Cavalry Testudo||The unit raises their shields and turns towards the aggressor.	true
+unit_abilities_tooltip_text_a_mp_test_6	Poor Stamina||The unit may be a natural sprinter very dangerous over close distances, but will quickly wasted on cross-country	true
+unit_abilities_tooltip_text_a_mp_test_7	Average Stamina||The unit has the average stamina fighting men usually has.	true
+unit_abilities_tooltip_text_a_mp_test_4	Slavic Wrath||Svarog forged weapons of iron, that our enemies might be crushed. Available to all Slavic units once the Fiery Shrine of Svarog wonder is built. Gives bonuses to units' melee attack and defence.	true
+unit_abilities_tooltip_text_a_mp_test_5	Stealth of the Hunter||Like the wolf, we stalk our enemies before the deathblow. Gives increased range to Slavic missile units for a short period of time.	true
+unit_abilities_tooltip_text_a_mp_test_2	Spirit of the Wolf||The foe feels our savage spirit before a single blow has been struck. Available to all Slavic units once the Temple of the Blazing Wolves wonder is built. Causes -20 morale penalty for all enemy units.	true
+unit_abilities_tooltip_text_a_mp_test_3	Last Stand||Men born of the forge are hardier and more resolute. Available to all Slavic units in a province containing a religious building dedicated to Perun. Units are immovable for 2 minutes, their morale becomes unbreakable, their fatigue is cancelled out, and bonuses to melee attack and defence are given.	true
+unit_abilities_tooltip_text_a_mp_test_1	Infantry Wedge||Break on through to the other side. The unit moves into a wedge-shaped attack formation.	true
+unit_abilities_tooltip_text_a_mp_test_8	Good Stamina||The unit does not tire easily, and able to fight on longer without losing their breath.	true
+unit_abilities_tooltip_text_a_mp_test_9	Excellent Stamina||The unit has excellent endurance, natural marathon runners able to traverse cross country or keep fresh in combat to outlast their foes.	true
+unit_abilities_tooltip_text_com_loyalty	Loyalty of the 10th||Target friendly units to greatly improve their defensive capabilities and make their morale unbreakable for an extended period. Can only be used once per battle.	true
+unit_abilities_tooltip_text_com_into_the_breach	Into the Breach||Target friendly units to improve their charge for a short time.	true
+unit_abilities_tooltip_text_killing_spree	Killing Spree||Increases weapon damage for an extended period.	true
+unit_abilities_tooltip_text_form_hoplite_phalanx	Spear Wall||The unit moves into close wall formation.	true
+unit_abilities_tooltip_text_form_shield_screen	Shield Screen||The unit raises their shields in a static defensive formation.	true
+unit_abilities_tooltip_text_com_presence	Presence||Your general reduces the cooling down times for nearby units' abilities by 60 seconds. Can only be used once per battle.	true
+unit_abilities_tooltip_text_com_war_cry	War Cry||Reduces a single enemy's morale for a short time.	true
+unit_abilities_tooltip_text_com_the_fear	The Fear||Prevents any enemy units caught within your general's area of influence from activating their abilities for an extended period.	true
+unit_abilities_tooltip_text_use_the_whip	Use the Whip||Improved defence and fatigue resistance for a short time at the cost of overexertion.	true
+unit_abilities_tooltip_text_rapid_advance	Rapid Advance||Improved unit movement speed over an extended period.	true
+unit_abilities_tooltip_text_chant	Encourage||Improves the morale of a friendly unit for an extended period of time.	true
+unit_abilities_tooltip_text_douse_fire	Douse Fire||Sacrifice your ship's mobility for a short time to focus effort on putting out the blaze.	true
+unit_abilities_tooltip_text_com_second_wind_group	Second Wind Group||Your general removes the fatigue of any friendly units within his area of influence.	true
+unit_abilities_tooltip_text_att_gen_fast_05	Fast Charge V||Target friendly units to improve their speed and charge for a short time.	true
+unit_abilities_tooltip_text_att_gen_fast_04	Fast Charge IV||Target friendly units to improve their speed and charge for a short time.	true
+unit_abilities_tooltip_text_att_gen_fast_03	Fast Charge III||Target friendly units to improve their speed and charge for a short time.	true
+unit_abilities_tooltip_text_att_gen_fast_02	Fast Charge II||Target friendly units to improve their speed and charge for a short time.	true
+unit_abilities_tooltip_text_att_gen_fast_01	Fast Charge I||Target friendly units to improve their speed and charge for a short time.	true
+unit_abilities_tooltip_text_com_rally_position	Regroup Position||	true
+unit_abilities_tooltip_text_att_gen_fear_05	Fear V||Target enemy units to prevent them from using their special abilities for a short time.	true
+unit_abilities_tooltip_text_att_gen_fear_04	Fear IV||Target enemy units to prevent them from using their special abilities for a short time.	true
+unit_abilities_tooltip_text_att_gen_fear_01	Fear I||Target enemy units to prevent them from using their special abilities for a short time.	true
+unit_abilities_tooltip_text_att_gen_fear_03	Fear III||Target enemy units to prevent them from using their special abilities for a short time.	true
+unit_abilities_tooltip_text_att_gen_fear_02	Fear II||Target enemy units to prevent them from using their special abilities for a short time.	true
+unit_abilities_tooltip_text_ferocious_warriors	Ferocious Warriors||This unit damages its attackers even as it takes casualties.	true
+unit_abilities_tooltip_text_com_spirit	Fighting Spirit||Your general greatly improves the defensive capabilities of nearby units whilst making them unbreakable for an extended period. Can only be used once per battle.	true
+unit_abilities_tooltip_text_att_gen_power_03	Power to the Oars III||Target friendly ships to increase their rowing rate for a short time.	true
+unit_abilities_tooltip_text_att_gen_power_02	Power to the Oars II||Target friendly ships to increase their rowing rate for a short time.	true
+unit_abilities_tooltip_text_att_gen_power_01	Power to the Oars I||Target friendly ships to increase their rowing rate for a short time.	true
+unit_abilities_tooltip_text_att_gen_power_05	Power to the Oars V||Target friendly ships to increase their rowing rate for a short time.	true
+unit_abilities_tooltip_text_att_gen_power_04	Power to the Oars IV||Target friendly ships to increase their rowing rate for a short time.	true
+unit_abilities_tooltip_text_draco	Set Fuse||A short time is required between throws to prepare naphtha pot and fuse.	true
+unit_abilities_tooltip_text_att_gen_rally_02	Rally||Improves morale for friendly units within an area of influence cast by your general.	true
+unit_abilities_tooltip_text_att_gen_rally_03	Rally||Improves morale for friendly units within an area of influence cast by your general.	true
+unit_abilities_tooltip_text_att_gen_rally_01	Rally||Improves morale for friendly units within an area of influence cast by your general.	true
+unit_abilities_tooltip_text_att_gen_rally_04	Rally||Improves morale for friendly units within an area of influence cast by your general.	true
+unit_abilities_tooltip_text_att_gen_rally_05	Rally||Improves morale for friendly units within an area of influence cast by your general.	true
+unit_abilities_tooltip_text_hard_20	Row Hard 20||Increases speed for 20 strokes.	true
+unit_abilities_tooltip_text_hard_30	Row Hard 30||Increases speed for 30 strokes	true
+unit_abilities_tooltip_text_hard_10	Row Hard 10||Increases speed for 10 strokes.	true
+unit_abilities_tooltip_text_att_gen_raise_05	Raise Banner V||Increase the defence capabilities of units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_raise_04	Raise Banner IV||Increase the defence capabilities of units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_raise_01	Raise Banner I||Increase the defence capabilities of units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_raise_03	Raise Banner III||Increase the defence capabilities of units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_att_gen_raise_02	Raise Banner II||Increase the defence capabilities of units within a targeted area for a short time.	true
+unit_abilities_tooltip_text_focus_fire	Focus Fire||	true
+unit_abilities_tooltip_text_a_mp_test_5_test	Arena - Bloodlust||The casting units attack speed is increased for a set period of time.	true
+unit_abilities_tooltip_text_a_mp_test_4_test	Arena - cavalry_charge_1	true
+unit_abilities_tooltip_text_a_mp_test_1_test	Arena - Quick March||	true
+unit_abilities_tooltip_text_att_gen_brace_05	Brace V||Target friendly units to improve their resistance to charges for a short time.	true
+unit_abilities_tooltip_text_att_gen_brace_04	Brace IV||Target friendly units to improve their resistance to charges for a short time.	true
+unit_abilities_tooltip_text_att_gen_brace_01	Brace I||Target friendly units to improve their resistance to charges for a short time.	true
+unit_abilities_tooltip_text_att_gen_brace_03	Brace III||Target friendly units to improve their resistance to charges for a short time.	true
+unit_abilities_tooltip_text_att_gen_brace_02	Brace II||Target friendly units to improve their resistance to charges for a short time.	true
+unit_abilities_tooltip_text_a_mp_test_3_test	Arena - heavy_infantry_charge_1	true
+unit_abilities_tooltip_text_manual_charge	Push of Pike||Manually order your unit to push forward for a short distance.	true
+unit_abilities_tooltip_text_a_mp_test_2_test	Arena - infantry_charge_1	true
+unit_abilities_tooltip_text_att_gen_recon_01	Reconnaisannce I||Improve the spotting range of a group of friendly units for a short time.	true
+unit_abilities_tooltip_text_att_gen_recon_03	Reconnaisannce III||Improve the spotting range of a group of friendly units for a short time.	true
+unit_abilities_tooltip_text_att_gen_recon_02	Reconnaisannce II||Improve the spotting range of a group of friendly units for a short time.	true
+unit_abilities_tooltip_text_att_gen_recon_05	Reconnaisannce V||Improve the spotting range of a group of friendly units for a short time.	true
+unit_abilities_tooltip_text_att_gen_recon_04	Reconnaisannce IV||Improve the spotting range of a group of friendly units for a short time.	true

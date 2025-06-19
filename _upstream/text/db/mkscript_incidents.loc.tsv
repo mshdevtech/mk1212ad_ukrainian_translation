@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/mkscript_incidents.loc		
+incidents_localised_description_mk_incident_enemy_of_christendom	Christendom’s Outcry	true
+incidents_localised_title_mk_incident_enemy_of_christendom	Incredibly dire news – your declaration of war against the Papal States has caused the Pope to rally the support of good Christians everywhere against you. They are rising up together in condemnation of your actions. If you choose to continue down the path of violence, this conflict will only escalate further - eventually the tide may turn and consume you.	true
+incidents_localised_title_mk_incident_rome_attacked_nonchrist	The Fall of Rome	true
+incidents_localised_description_mk_incident_rome_attacked_nonchrist	This is a day to be remembered! Rome has been attacked; the seat of the Papacy has once again suffered the blight of war. Unsurprisingly, Christians across the lands are greatly upset at this turn of events. Your people, however, always knew that the fall of this false God and His followers was inevitable.	true
+incidents_localised_title_mk_incident_story_serbia_kingdom	The Serbian Kingdom	true
+incidents_localised_description_mk_incident_story_serbia_kingdom	For many years, the Grand Prince of Serbia has been attempting to secure the title of King from the Pope, and at long last a papal legate has arrived to crown the ruler of Serbia as a king.	true
+incidents_localised_title_mk_incident_mongol_invasion_precursor	The Mongol Empire	true
+incidents_localised_description_mk_incident_mongol_invasion_precursor	The rapidly expanding Mongol Empire now shares a border with the Khwarazmian Empire. Tales have already reached your court from lands as far as China, speaking of horrible atrocities committed by the Mongols. If this expansionist power decides to move further westward, then there may be no stopping it. 	true
+incidents_localised_title_mk_incident_timurid_invasion_precursor	The Timurid Empire	true
+incidents_localised_description_mk_incident_timurid_invasion_precursor	Rumours abound of a new steppe warlord who has established a mighty empire. He now looks eastward for his conquests, emulating the great Khans before him. It would be wise to prepare for this new threat...	true

@@ -1,0 +1,2 @@
+_upstream/* linguist-vendored export-ignore
+*.loc.tsv  diff=tsv

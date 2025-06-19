@@ -1,0 +1,1326 @@
+key	text	tooltip
+#Loc;1;text/db/missions.loc		
+missions_localised_description_cha_objective_cha_charlemagne_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_cha_objective_cha_charlemagne_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_charlemagne_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_charlemagne_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_charlemagne_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_west_military_1	Military Construction	true
+missions_localised_title_att_religious_manichaeism_convert_region_1	Religious Request	true
+missions_localised_title_att_objective_suebi_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_suebi_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_suebi_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_suebi_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_suebi_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_religious_tengri_assassinate_character_1	Religious Request	true
+missions_localised_title_att_mp_coop_loyalist	Co-operative Loyalist Victory	true
+missions_localised_title_mk_religious_baltic_declare_war_1	Religious Request	true
+missions_localised_description_att_bel_request_antoninia_ioannina_1	Husband, remember when I said ‘do anything’? I actually meant “kill Anastasius for putting his filthy hands all over our daughter”. We can’t let him get away with this, we just can’t. 	true
+missions_localised_description_att_objective_axum_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_axum_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_axum_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_title_att_senate_nomadic_research_technology_military_1	Military Developments	true
+missions_localised_description_att_objective_axum_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_axum_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_att_diplomatic_nomadic_mercenary_engage_force_army_1	Mercenary Contract	true
+missions_localised_description_att_religious_germanic_assassinate_character_1	He speaks in tongues of false gods. He must be removed!	true
+missions_localised_description_att_religious_orthodox_assassinate_character_1	His words fill the ears of the faithful with promises and talk of false gods. The Patriarch asks that we remove him.	true
+missions_localised_description_pro_destroy_rebels_petrodava	The people of Petrodava revolt against our rule and wish to throw us out of their land. They must be shown that we are now the masters here, not they.	true
+missions_localised_description_att_senate_nomadic_research_technology_civil_1	We should invest time and gold in our civil administration, so our families can share in the spoils of our victories.	true
+missions_localised_title_att_diplomatic_eastern_roman_blockade_port_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_western_roman_blockade_port_1	War Co-ordination	true
+missions_localised_description_att_religious_manichaeism_construct_bch_religion_manichaeist_major_1	Our bishops ask us to build a temple to hold both the Atar and Aban, so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_title_att_objective_bel_vandals_primary_5_seal_6	Chapter V: Unopposable	true
+missions_localised_title_att_objective_bel_vandals_primary_4_seal_5	Chapter IV: A New World	true
+missions_localised_title_att_objective_bel_vandals_primary_3_seal_4	Chapter III: Fallen Empires, Risen Kings	true
+missions_localised_title_att_objective_bel_vandals_primary_2_seal_3	Chapter II: Unbowed, Unleashed	true
+missions_localised_title_att_objective_bel_vandals_primary_1_seal_2	Chapter I: Ours By Right	true
+missions_localised_title_att_objective_caledonians_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_caledonians_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_caledonians_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_caledonians_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_caledonians_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_description_att_bel_request_antoninia_rumours_2	Theodosius has repaid your kindness by defiling the sanctity of your marriage bed. If you wish to retain the respect of your peers you must bring the full force of your wrath upon him. 	true
+missions_localised_description_att_senate_eastern_engage_force_navy_1	The people of the desert can also fight at sea. Let us show those who doubt us.	true
+missions_localised_title_att_senate_eastern_roman_research_technology_civil_1	Civil Developments	true
+missions_localised_title_att_senate_western_roman_research_technology_civil_1	Civil Developments	true
+missions_localised_title_cha_objective_cha_cordoba_primary_2_seal_3	The Name of the King	true
+missions_localised_title_cha_objective_cha_cordoba_primary_1_seal_2	A Broken World	true
+missions_localised_title_mk_religious_shia_recruit_agent_1	Religious Request	true
+missions_localised_title_cha_objective_cha_cordoba_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_cordoba_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_cha_objective_cha_cordoba_primary_3_seal_4	The Tides of War	true
+missions_localised_description_att_vc_2_imperial_separatist	Loyalist Triumph	true
+missions_localised_description_att_religious_celtic_assassinate_character_1	He speaks in tongues and speaks of false gods. He must be removed.	true
+missions_localised_description_mk_religious_bogomilist_declare_war_1	Members of our flock are under attack from intolerant and violent individuals, we must reluctantly take up arms to defend them in the name of the Lord.	true
+missions_localised_description_att_victory_mission_1_success	Success	true
+missions_localised_description_att_religious_catholic_assassinate_character_1	The Pope has declared this man a heretic and demands that all upstanding Catholics carry out his will.	true
+missions_localised_title_att_religious_manichaeism_construct_bch_religion_manichaeist_minor_1	Religious Request	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_roman_east_military_1	Military Construction	true
+missions_localised_title_cha_mission_italian_kingdom	The Kingdom of Italy	true
+missions_localised_description_mk_religious_eastern_convert_region_1	The Patriarch has sent a missive, requesting that this region be brought into the Orthodoxy.	true
+missions_localised_title_att_religious_catholic_construct_bch_religion_catholic_legendary_1	Religious Request	true
+missions_localised_title_att_religious_orthodox_construct_bch_religion_orthodox_legendary_1	Religious Request	true
+missions_localised_description_att_religious_arian_convert_region_1	We must spread the true faith to all within our lands. The Bishop beseeches you to convert the unenlightened.	true
+missions_localised_title_att_senate_nordic_capture_regions_own_settlement_1	Liberation	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_community_1	Municipal Construction	true
+missions_localised_title_att_diplomatic_nomadic_engage_force_army_1	War Co-ordination	true
+missions_localised_description_att_bel_request_justinian_photius_1	The most trying battles are fought in the bedroom. Courage, mighty Belisarius, the destiny that awaits you is much greater than your present suffering.	true
+missions_localised_title_att_senate_eastern_make_trade_agreement_1	Trade Matters	true
+missions_localised_description_ch_vc_1_short	Short Victory	true
+missions_localised_description_cha_mission_spanish_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_title_pro_build_farm_adrianople	Build a Farm in Adrianople	true
+missions_localised_title_att_objective_nords_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_nords_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_nords_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_nords_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_nords_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_description_att_diplomatic_nomadic_raid_region_1	Our ally asks that we raid this region to disrupt the enemy's trade.	true
+missions_localised_description_att_eos_religious_mission_build_att_rel_church_east	We humbly beseech your lordship to return to the practices that have served us so well. Provide us with four new religious structures and your rewards will be both temporal and spiritual.	true
+missions_localised_title_att_vc_1_christian	Christian Victory	true
+missions_localised_title_att_vc_2_christian	Christian Divine Victory 	true
+missions_localised_description_pro_political_actions	It is important to maintain an interest in developments around court. The ambitions of powerful men who would seek to rule must be kept in check.	true
+missions_localised_description_att_objective_alans_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_alans_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_antes_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_antes_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_alans_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_antes_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_antes_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_antes_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_alans_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_alans_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_mk_religious_sunni_construct_building_religious_1	Religious Request	true
+missions_localised_title_pro_engage_hun_third_wave	Engage the Hunnic Invasion Forces	true
+missions_localised_title_att_vc_1_historical	Historical Victory	true
+missions_localised_title_att_diplomatic_nomadic_raid_region_1	War Co-ordination	true
+missions_localised_description_att_religious_hellenic_recruit_agent_1	The flight of the eagle denotes that a new priest must be recruited. We should not ignore the requests of the gods.	true
+missions_localised_title_pro_build_torp_adrianople	Build a Torp in Adrianople	true
+missions_localised_description_cha_mission_cordoba_caliphate	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_description_att_objective_nords_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_nords_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_nords_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_nords_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_nords_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_senate_eastern_recruit_unit_infantry_1	Reinforcements	true
+missions_localised_title_mk_religious_ibadi_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_victory_mp_coop	Multiplayer Co-operative Victory	true
+missions_localised_title_att_objective_antes_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_antes_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_alans_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_alans_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_alans_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_antes_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_alans_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_alans_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_antes_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_antes_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_description_att_religious_celtic_construct_building_religious_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_military_1	Let us build better training facilities and armouries so that all may learn to defend themselves with spear and sling.	true
+missions_localised_title_att_test_victory_mission_military	Military Test Victory	true
+missions_localised_title_pro_engage_hun_first_wave	Engage the Hunnic Invasion Forces	true
+missions_localised_description_att_objective_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_att_religious_arian_convert_region_1	Religious Request	true
+missions_localised_description_att_religious_manichaeism_construct_bch_religion_manichaeist_minor_1	Our bishops ask us to build a temple to hold both the Atar and Aban, so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_roman_east_military_1	The backbone of our nation is its armies. The Senate asks that this tradition is upheld.	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_industry_1	We should better exploit the resources available to us, we could get more from the land.	true
+missions_localised_title_att_religious_zoroastrian_convert_region_1	Religious Request	true
+missions_localised_title_att_diplomatic_nomadic_engage_force_navy_1	War Co-ordination	true
+missions_localised_description_att_religious_arian_assassinate_character_1	Suffer not the heretic to live. Let them be consumed in the fires of the Almighty!	true
+missions_localised_title_att_objective_huns_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_huns_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_huns_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_huns_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_huns_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_religious_arian_recruit_agent_1	Religious Request	true
+missions_localised_title_att_senate_eastern_research_technology_military_1	Military Developments	true
+missions_localised_description_att_senate_eastern_engage_force_army_1	For our war to succeed our generals insist that this army be defeated.	true
+missions_localised_title_att_religious_manichaeism_construct_bch_religion_manichaeist_major_1	Religious Request	true
+missions_localised_description_att_diplomatic_eastern_blockade_port_1	We have been asked to block the enemy's oceanic trade lines.	true
+missions_localised_title_cha_mission_english_kingdom	The Kingdom of England	true
+missions_localised_description_att_diplomatic_eastern_roman_blockade_port_1	We have been asked to block the enemy's oceanic trade lines.	true
+missions_localised_title_pro_destroy_rebels_petrodava	End the Rebellion	true
+missions_localised_title_att_senate_eastern_make_alliance_1	A Sure Friend	true
+missions_localised_description_att_diplomatic_western_roman_blockade_port_1	We have been asked to block the enemy's oceanic trade lines.	true
+missions_localised_title_att_victory_mission_2_military_victory	Military Victory	true
+missions_localised_description_att_diplomatic_nomadic_mercenary_engage_force_army_1	We are offered gold, shining like the sun itself, should we defeat this force on the battlefield.	true
+missions_localised_title_att_objective_white_huns_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_white_huns_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_white_huns_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_white_huns_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_white_huns_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_cha_mission_avar_khaganate	The Avar Khaganate	true
+missions_localised_title_att_vc_2_imperial_separatist	Loyalist Triumph	true
+missions_localised_title_att_religious_celtic_assassinate_character_1	Religious Request	true
+missions_localised_description_att_senate_eastern_roman_research_technology_civil_1	Domestic problems arise at an alarming rate. Perhaps we task our great minds with addressing these issues?	true
+missions_localised_description_att_senate_western_roman_research_technology_civil_1	Domestic problems arise at an alarming rate. Perhaps we task our great minds with addressing these issues.	true
+missions_localised_title_att_senate_eastern_lift_blockade_1	Lift Blockade	true
+missions_localised_title_att_religious_tengri_construct_building_religious_1	Religious Request	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_west_military_1	The backbone of our nation has always been the Legions. The Senate asks that we do not forget this.	true
+missions_localised_description_att_mp_coop_loyalist	Co-operative Loyalist Victory	true
+missions_localised_title_att_bel_request_antoninia_ioannina_1	A Request From Antonina: Ioannina	true
+missions_localised_description_att_objective_suebi_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_suebi_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_suebi_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_suebi_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_suebi_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_religious_tengri_assassinate_character_1	All human beings are created in order to die, and his time has come. The sons and daughters of Erlik wait for him.	true
+missions_localised_title_att_senate_nordic_recruit_agent_veteran_1	Folk Legend	true
+missions_localised_description_att_vc_1_historical_expedition	Separatist Victory	true
+missions_localised_description_att_senate_nordic_recruit_agent_spy_1	Whilst honest war suits our national character the best, we should recruit scouts to feed us intelligence and harry our enemy's lines, so victory is assured.	true
+missions_localised_description_att_religious_catholic_recruit_agent_1	The Pope asks that a new cleric be ordained to help solidify the Catholic faith both at home and abroad.	true
+missions_localised_description_cha_mission_italian_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_title_att_senate_eastern_blockade_port_1	Blockade	true
+missions_localised_title_att_diplomatic_eastern_engage_force_army_1	War Co-ordination	true
+missions_localised_title_att_vc_2_imperial_expedition	Western Roman Emperor's Triumph	true
+missions_localised_title_att_bel_request_justinian_photius_1	A Request From Justinian: Photius 	true
+missions_localised_title_att_test_victory_mission_economic	Economic Test Victory	true
+missions_localised_title_att_religious_germanic_declare_war_1	Religious Request	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_noble_1	Our war chiefs clamour for diversion from this constant conflict. We should arrange something special for those who lead our forces so skilfully.	true
+missions_localised_title_cha_mission_spanish_kingdom	The Kingdom of Spain	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_civic_major_1	Municipal Construction	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_roman_water_minor_1	Municipal Construction	true
+missions_localised_title_att_eos_religious_mission_build_att_rel_church_east	The Archbishop – Piety	true
+missions_localised_description_att_senate_eastern_roman_recruit_unit_ranged_1	The Senate has petitioned his Imperial Majesty to recruit more archers to cut down our enemies at the charge.	true
+missions_localised_description_att_senate_western_roman_declare_war_1	While war should always be the last resort, the Senate wish us to nip this problem in the bud before it grows out of our control.	true
+missions_localised_description_att_vc_1_historical_separatist	Expedition Victory 	true
+missions_localised_description_att_diplomatic_eastern_raid_region_1	Our ally asks that we raid this region to disrupt the enemy's trade.	true
+missions_localised_title_att_religious_christian_reform_pentarchy_1	Reform the Pentarchy	true
+missions_localised_title_att_vc_1_zoroastrism	Zoroastrian Divine Victory	true
+missions_localised_title_att_vc_2_zoroastrism	Zoroastrian Divine Victory	true
+missions_localised_description_att_senate_nordic_recruit_unit_naval_1	Our troops storm over land but at sea we are outshone by other, lesser peoples. Let us build up our fleets so we may raid their settlements.	true
+missions_localised_title_att_religious_orthodox_declare_war_1	Religious Request	true
+missions_localised_title_att_religious_tengri_recruit_agent_1	Religious Request	true
+missions_localised_description_cha_mission_asturias_1	An issue from the Pope, my lord! He desires the expansion of Christianity in Iberia, and tasks you with seeing it done. Whilst the honour of spreading the glory of God is reward enough, the Pope has graciously promised to subsidise the cost of all of our religious constructions should fulfil his instructions. At the vanguards of Iberian Christianity, the faithful are watching. There is no greater honour than to liberate them from heathen hands!	true
+missions_localised_description_att_religious_catholic_construct_bch_religion_catholic_minor_1	His Holiness requests that you build a monument to the Lord in these lands so that the pious may worship.	true
+missions_localised_description_att_religious_germanic_construct_bch_religion_germanic_minor_1	We must honour the gods with temples and monuments in the sure and certain hope of their blessings.	true
+missions_localised_description_att_religious_orthodox_construct_bch_religion_orthodox_minor_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_description_att_objective_bel_visigoths_primary_1_seal_2	"Hard-won victories are threatened by the baleful and desperate eyes of the past. The beleaguered Emperor sends his men to reclaim his foregone Empire. They will find only failure against this new kingdom!"	true
+missions_localised_description_att_objective_bel_visigoths_primary_2_seal_3	"An ashen sky portends dark times for us all. Yet we will persevere, and choke our enemies with ash and smog."	true
+missions_localised_description_att_objective_bel_visigoths_primary_5_seal_6	"Our achievements are beyond counting. Whoever stands against us already collapses, and cannot hope to survive for long. And so we go, to forge a new world from the ashes of the old!"	true
+missions_localised_description_att_objective_bel_visigoths_primary_3_seal_4	"The old world of Empires is dying. Yet a new world of kings is rising, and only those with the strength to survive are guaranteed a place. We have that strength!"	true
+missions_localised_description_att_objective_bel_visigoths_primary_4_seal_5	"The world is now forever changed. Empires of old have crumbled, giving way to a new, greater power. Let us extend that reach, solidifying our victory forever!"	true
+missions_localised_title_att_objective_axum_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_axum_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_axum_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_axum_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_axum_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_senate_eastern_recruit_unit_cavalry_1	Reinforcements	true
+missions_localised_description_att_religious_orthodox_recruit_agent_1	The Patriarch has requested that we ordain a new priest. He will serve and do good for the state.	true
+missions_localised_description_att_religious_germanic_recruit_agent_1	From our libations the gods gain strength. Our priests request that we recruit one of their number to aid them.	true
+missions_localised_title_att_religious_zoroastrian_construct_bch_religion_zoroastrian_minor_1	Religious Request	true
+missions_localised_description_att_religious_catholic_declare_war_1	The Pope has declared a holy war against these heretics and requests that you carry out his will.	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_roman_civic_major_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_water_minor_1	Municipal Construction	true
+missions_localised_description_att_objective_picts_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_picts_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_picts_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_picts_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_picts_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_att_objective_burgundians_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_burgundians_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_burgundians_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_description_att_senate_western_roman_engage_force_army_1	The Senate hears that this army mocks Romans as craven and weak. Let us show them the error of their ways…	true
+missions_localised_title_att_objective_burgundians_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_burgundians_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_bel_request_antoninia_rumours_2	A Request From Antoninia:Theodosius	true
+missions_localised_description_att_senate_eastern_roman_engage_force_army_1	The Senate hears that this army has been calling us craven and weak! The people are up in arms!	true
+missions_localised_title_att_senate_eastern_roman_engage_force_navy_1	To the Depths	true
+missions_localised_description_att_senate_western_roman_recruit_unit_ranged_1	The Senate has petitioned his Imperial Majesty to recruit more archers to cut down our enemies at the charge.	true
+missions_localised_description_att_objective_vandals_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_vandals_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_vandals_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_vandals_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_vandals_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_senate_western_roman_engage_force_navy_1	To the Depths	true
+missions_localised_title_att_bel_request_antoninia_philotus_1	A Request From Antonina: Photius 	true
+missions_localised_description_att_senate_eastern_roman_declare_war_1	While always the last resort, the Senate presses us to stem this threat before it grows.	true
+missions_localised_description_att_senate_eastern_research_technology_civil_1	Our great minds are hard at work and feel that they may be able to improve civic life. Perhaps we should pander to them?	true
+missions_localised_description_att_religious_celtic_recruit_agent_1	The druids petition you to recruit one of their number, lest the gods wither and leave the world.	true
+missions_localised_description_att_religious_hellenic_declare_war_1	The Oracle has prophecised great riches for our people should we conquer these people. Our high priest asks that we declare war.	true
+missions_localised_title_mk_religious_shia_assassinate_character_1	Religious Request	true
+missions_localised_description_mk_religious_shia_construct_bch_religion_shia_minor_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_att_vc_1_pagan	Pagan Victory	true
+missions_localised_description_att_vc_2_pagan	Pagan Divine Victory	true
+missions_localised_title_att_senate_western_roman_engage_force_army_1	The Glory of Battle	true
+missions_localised_title_att_senate_eastern_roman_engage_force_army_1	The Glory of Battle	true
+missions_localised_title_att_religious_catholic_declare_war_1	Religious Request	true
+missions_localised_description_cha_mission_english_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_title_att_objective_picts_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_picts_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_picts_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_picts_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_picts_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_description_att_religious_zoroastrian_construct_bch_religion_zoroastrian_minor_1	The Magi ask us to build a temple to hold both the Atar and Aban so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_description_cha_mission_vikings_1	Lead your forces on a great journey across the North Sea to seek out the wealthy Christian monasteries so many speak of. Let your people know you are a king free from fear and full of vigour. Settle those voices at home who say you are not fit to rule, and prove to your generals they should be honoured to fight under you. To England! To wealth! To battle!	true
+missions_localised_description_att_senate_nordic_assassinate_character_agent_female_1	This woman skulks through the night, and plots our downfall. She must be removed with haste!	true
+missions_localised_title_att_test_victory_mission_cultural	Cultural Test Victory	true
+missions_localised_description_att_senate_nomadic_engage_force_army_1	If left unchecked, this army may one day threaten our camps. We should strike at it now!	true
+missions_localised_title_att_religious_celtic_recruit_agent_1	Religious Request	true
+missions_localised_title_att_religious_hellenic_declare_war_1	Religious Request	true
+missions_localised_description_att_religious_manichaeism_construct_building_1	Our bishops ask us to build a temple to hold both the Atar and Aban, so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_description_att_diplomatic_nomadic_blockade_port_1	We have been asked to block the enemy's oceanic trade lines.	true
+missions_localised_title_att_senate_nomadic_make_alliance_1	A Sure Friend	true
+missions_localised_description_att_bel_request_antoninia_philotus_1	Photius is driving me to distraction, husband. I know parental affection makes us want to spare him, but he is destroying our family with his lies and manipulation. I think there is only one thing left for us to do…	true
+missions_localised_title_mk_religious_cathar_declare_war_1	Religious Request	true
+missions_localised_description_att_senate_eastern_roman_engage_force_navy_1	Only we should rule the seas… The Senate wishes this fleet destroyed.	true
+missions_localised_description_att_senate_western_roman_engage_force_navy_1	Only we should control the seas. Who else can be trusted with their gifts?	true
+missions_localised_description_att_vc_1_zoroastrism	Divine Zoroastrian Victory	true
+missions_localised_description_att_vc_2_zoroastrism	Divine Zoroastrian Victory	true
+missions_localised_title_mk_religious_jewish_declare_war_1	Religious Request	true
+missions_localised_description_att_religious_tengri_construct_building_religious_1	As Umay makes the plants grow and our people thrive, so we should honour the gods with a monument to our ancestors.	true
+missions_localised_description_att_religious_orthodox_declare_war_1	The heretics among these people persecute and dishonour the faithful. The patriarch has asked us to act.	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_roman_water_major_1	Municipal Construction	true
+missions_localised_title_att_objective_bel_visigoths_primary_5_seal_6	Chapter V: Unopposable	true
+missions_localised_title_att_objective_bel_visigoths_primary_4_seal_5	Chapter IV: A New World	true
+missions_localised_title_att_objective_bel_visigoths_primary_3_seal_4	Chapter III: Fallen Empires, Risen Kings	true
+missions_localised_title_att_objective_bel_visigoths_primary_2_seal_3	Chapter II: Unbowed, Unleashed	true
+missions_localised_title_att_objective_bel_visigoths_primary_1_seal_2	Chapter I: Ours By Right	true
+missions_localised_description_att_religious_tengri_recruit_agent_1	Our advisors respectfully request that we hire a new religious agent to aid our nation.	true
+missions_localised_title_att_senate_nordic_assassinate_character_general_1	An Early Grave	true
+missions_localised_description_att_religious_hellenic_assassinate_character_1	This man is a blasphemer and the gods have demanded his head. Send him to the underworld!	true
+missions_localised_description_att_vc_1_historical	Historical Victory	true
+missions_localised_description_att_senate_nordic_recruit_unit_siege_1	Our overconfident enemies think themselves safe behind their walls. lLet us build mighty siege engines to smash their resolve.	true
+missions_localised_description_att_religious_germanic_declare_war_1	The auguries are clear, the gods demand blood. Let us prepare for war.	true
+missions_localised_title_slav_mission_sclaveneans_1	The Hun Becomes the Hunted	true
+missions_localised_title_slav_mission_sclaveneans_2	The Hun Becomes the Hunted	true
+missions_localised_description_att_victory_mp_coop	Multiplayer Cooperative Victory	true
+missions_localised_title_att_diplomatic_eastern_raid_region_1	War Co-ordination	true
+missions_localised_description_att_religious_catholic_construct_bch_religion_catholic_major_1	His Holiness requests that you build a monument to the Lord in these lands so that the pious may worship.	true
+missions_localised_description_att_religious_germanic_construct_bch_religion_germanic_major_1	We must honour the gods with temples and monuments in the sure and certain hope of their blessings.	true
+missions_localised_description_att_religious_orthodox_construct_bch_religion_orthodox_major_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_title_att_religious_celtic_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_nomadic_recruit_unit_infantry_1	Reinforcements	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_military_1	Military Construction	true
+missions_localised_title_att_religious_tengri_declare_war_1	Religious Request	true
+missions_localised_title_att_religious_arian_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_industry_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_water_major_1	Municipal Construction	true
+missions_localised_description_att_vc_2_imperial_expedition	Western Roman Emperor's Triumph	true
+missions_localised_title_att_victory_mission_2_cultural_victory	Cultural Victory	true
+missions_localised_description_att_objective_huns_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_huns_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_att_senate_nomadic_recruit_unit_cavalry_1	Reinforcements	true
+missions_localised_description_att_objective_huns_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_title_att_diplomatic_eastern_engage_force_navy_1	War Co-ordination	true
+missions_localised_description_att_objective_huns_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_huns_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_att_religious_arian_assassinate_character_1	Religious Request	true
+missions_localised_description_mk_religious_shia_construct_bch_religion_shia_major_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_title_att_religious_celtic_declare_war_1	Religious Request	true
+missions_localised_description_att_religious_arian_recruit_agent_1	Your bishops ask you to increase the number of priests under your command.	true
+missions_localised_title_mk_religious_eastern_assassinate_character_1	Religious Request	true
+missions_localised_description_att_senate_eastern_recruit_agent_spy_1	The lands of our enemies are vast and we cannot be in all places at once. Perhaps we should hire an agent to exert our control upon them?	true
+missions_localised_description_att_senate_western_roman_assassinate_character_agent_female_1	The Senate asks that we dispatch our agents to kill this woman with haste.	true
+missions_localised_description_mk_religious_eastern_construct_bch_religion_eastern_major_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_description_att_diplomatic_barbarian_engage_force_army_1	Our allies have asked that we grind this army into the dust.	true
+missions_localised_title_att_diplomatic_barbarian_engage_force_navy_1	War Co-ordination	true
+missions_localised_description_att_diplomatic_nomadic_assassinate_character_general_1	Our ally has marked this general for death.	true
+missions_localised_title_att_diplomatic_nomadic_assassinate_character_agent_male_1	War Co-ordination	true
+missions_localised_description_att_vc_2_imperial	Imperial Trumph 	true
+missions_localised_description_att_objective_venedi_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_venedi_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_venedi_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_title_att_senate_western_roman_capture_regions_own_settlement_1	Liberation	true
+missions_localised_description_att_objective_venedi_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_venedi_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_mk_religious_cathar_convert_region_1	Religious Request	true
+missions_localised_title_cha_mission_saxon_kingdom	The Kingdom of Saxony	true
+missions_localised_description_att_senate_eastern_roman_construct_building_economic_1	Our markets and trade are suffering, we should try to bolster them with new developments.	true
+missions_localised_title_ch_vc_3_domination	Domination Victory	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_livestock_1	Our markets and trade are suffering, we should research new ideas to improve the economy.	true
+missions_localised_description_att_religious_germanic_construct_building_religious_1	We must honour the gods with temples and monuments in the sure and certain hope of their blessings.	true
+missions_localised_description_att_religious_hellenic_construct_building_religious_1	The Oracle has spoken of great disaster if we do not honour the gods. Our priests recommend we construct a temple to appease them.	true
+missions_localised_title_att_senate_eastern_capture_regions_port_1	Invasion	true
+missions_localised_description_att_senate_western_roman_raid_region_1	Raid here to hamper the enemy's plans and fill our coffers at the same time.	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_military_upgrades_1	The backbone of our nation has always been the Legions. The Senate asks that we do not forget this.	true
+missions_localised_title_att_senate_eastern_construct_bch_all_city_minor_1	Municipal Construction	true
+missions_localised_title_mk_religious_sunni_recruit_agent_1	Religious Request	true
+missions_localised_description_att_senate_nordic_engage_force_army_1	The fighting skill of our men is well known to all. Let us turn it on this rabble!	true
+missions_localised_title_att_religious_zoroastrian_construct_bch_religion_zoroastrian_major_burial_1	Religious Request	true
+missions_localised_title_att_senate_nordic_blockade_port_1	Blockade	true
+missions_localised_title_att_religious_arian_construct_bch_religion_arian_legendary_1	Religious Request	true
+missions_localised_title_att_senate_nordic_construct_bch_barbarian_industry_1	Municipal Construction	true
+missions_localised_title_pro_recruit_agent	Recruit an Agent	true
+missions_localised_description_att_senate_eastern_construct_bch_all_industry_minor_1	There are a great number of resources in our lands. Should the King of Kings not profit from them?	true
+missions_localised_description_att_religious_catholic_construct_building_religious_1	His Holiness requests that you build a monument to the Lord in these lands so that the pious may worship.	true
+missions_localised_description_att_senate_nordic_raise_force_army_1	Our generals hunger for battle. We should raise armies so they may be sated.	true
+missions_localised_title_cha_objective_cha_mercia_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_mercia_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_mercia_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_cha_objective_cha_mercia_primary_1_seal_2	A Broken World	true
+missions_localised_title_cha_objective_cha_mercia_primary_2_seal_3	The Name of the King	true
+missions_localised_title_att_senate_nordic_assassinate_character_agent_male_1	An Early Grave	true
+missions_localised_description_att_victory_mission_3_divine_triumph	Divine Triumph	true
+missions_localised_title_att_senate_nordic_raise_force_navy_1	Call to Arms	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_leadership_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_senate_western_roman_recruit_unit_siege_1	Our ballistarii clamour about the lack of adequate siege engines in our armies. The Senate has asked that we look into this.	true
+missions_localised_title_cha_mission_pope_attacked_1	An Eye for an Eye	true
+missions_localised_title_att_diplomatic_barbarian_assassinate_character_agent_male_1	War Co-ordination	true
+missions_localised_description_att_senate_western_roman_construct_building_economic_1	Our markets and trade are suffering, we should research new ideas to improve the economy.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_livestock_1	Our markets and trade are suffering, we should try to bolster them with new developments.	true
+missions_localised_title_mk_religious_jewish_construct_bch_religion_jewish_minor_1	Religious Request	true
+missions_localised_title_att_senate_eastern_roman_raise_force_army_1	Military Expansion	true
+missions_localised_title_att_senate_western_roman_raise_force_army_1	Call to Arms	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_industry_major_1	Our markets and trade are suffering, we should try to bolster them with new developments.	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_industry_major_1	Our markets and trade are suffering, we should research new ideas to improve the economy.	true
+missions_localised_title_mk_religious_eastern_construct_building_religious_1	Religious Request	true
+missions_localised_description_att_vc_wonder_civic_2	Divine Cultural Triumph	true
+missions_localised_description_att_vc_wonder_civic_1	Cultural Victory	true
+missions_localised_description_att_objective_ebdani_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_mk_religious_cathar_construct_building_religious_1	Religious Request	true
+missions_localised_description_att_objective_ebdani_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_ebdani_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_ebdani_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_ebdani_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_senate_eastern_roman_raid_region_1	Our war coffers should be filled. Raid these lands to hamper the enemy.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_military_upgrades_1	The backbone of our nation is its armies. The Senate asks that this tradition is upheld.	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_military_cavalry_1	Building more military buildings would only further the glory of the King of Kings.	true
+missions_localised_title_mk_religious_baltic_construct_bch_religion_baltic_major_1	Religious Request	true
+missions_localised_description_mk_religious_ibadi_convert_region_1	The Ulama requires that we convert the infidels to bring them into the Dar al-Islam.	true
+missions_localised_description_mk_religious_cathar_assassinate_character_1	This man is a foreign agent and threatens the peace and freedom of our communities. He must be stopped at once!	true
+missions_localised_title_mk_religious_cathar_recruit_agent_1	Religious Request	true
+missions_localised_description_att_diplomatic_nomadic_capture_regions_city_1	Our allies have asked us to take this settlement to weaken our enemies.	true
+missions_localised_title_mk_religious_jewish_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_religious_zoroastrian_construct_bch_religion_zoroastrian_major_fire_1	Religious Request	true
+missions_localised_description_att_eos_axum_mission_2	The final two spice ports lay waiting to be seized - is there a more delectable state of affairs than "Master of the Spices"? With your new troops, the ire of the Sassanids will not trouble you, and think of the rewards!	true
+missions_localised_description_att_eos_axum_mission_3	The west’s merciless monopolisation of their currency is preventing us from exploiting our own spice monopoly! We must seize a land with gold and mint coins for ourselves if we ever wish to achieve economic ascendancy.	true
+missions_localised_description_att_eos_axum_mission_1	Follow that sweet aroma to the east my lord! Omana, Meshan or Harmosia should serve our purposes perfectly, if you can spare the men to seize one. My ships tug at their anchors in anticipation!	true
+missions_localised_title_att_senate_eastern_assassinate_character_general_1	An Early Grave	true
+missions_localised_description_mk_religious_jewish_recruit_agent_1	The Sahnedrin requests we ordain a new Rabbi to help lead our community.	true
+missions_localised_description_mk_religious_eastern_construct_bch_religion_eastern_minor_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_title_mk_religious_jewish_assassinate_character_1	Religious Request	true
+missions_localised_title_att_senate_nomadic_capture_regions_port_1	Invasion	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_military_cavalry_1	Military Construction	true
+missions_localised_title_att_senate_eastern_roman_raise_force_navy_1	Call to Arms	true
+missions_localised_title_att_senate_western_roman_raise_force_navy_1	Call to Arms	true
+missions_localised_title_mk_religious_ibadi_recruit_agent_1	Religious Request	true
+missions_localised_title_mk_religious_sunni_convert_region_1	Religious Request	true
+missions_localised_title_att_senate_eastern_roman_assassinate_character_agent_male_1	An Early Grave	true
+missions_localised_title_att_senate_western_roman_assassinate_character_agent_male_1	An Early Grave	true
+missions_localised_title_att_senate_nomadic_recruit_agent_veteran_1	Worthy Warlord	true
+missions_localised_description_cha_objective_cha_westphalia_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_westphalia_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_westphalia_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_title_att_diplomatic_nomadic_assassinate_character_agent_female_1	War Co-ordination	true
+missions_localised_description_cha_objective_cha_westphalia_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_westphalia_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_cha_objective_cha_asturias_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_asturias_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_asturias_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_asturias_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_cha_objective_cha_asturias_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_title_att_senate_nordic_raise_force_army_1	Call to Arms	true
+missions_localised_description_att_victory_mp_versus	Multiplayer Versus Victory	true
+missions_localised_description_att_senate_nordic_construct_bch_barbarian_industry_1	We should better exploit the resources available to us, we could get more from the land.	true
+missions_localised_description_cha_mission_avars_1	The people respect strength, my lord, and there is no better way to demonstrate strength than through war. Strike deep into the territories of these wretched folk and take from them all that they hold precious, including their lives. Descend upon them in the name of the tribe – your honour awaits!	true
+missions_localised_description_att_religious_arian_construct_bch_religion_arian_legendary_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_description_att_diplomatic_eastern_roman_capture_regions_port_1	We have been asked to strike a blow to the enemy's trade lines.	true
+missions_localised_description_att_diplomatic_western_roman_capture_regions_port_1	We have been asked to strike a blow to the enemy's trade lines.	true
+missions_localised_title_cha_objective_cha_lombards_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_lombards_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_cha_objective_cha_lombards_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_lombards_primary_1_seal_2	A Broken World	true
+missions_localised_title_cha_objective_cha_lombards_primary_2_seal_3	The Name of the King	true
+missions_localised_title_att_senate_eastern_construct_bch_all_city_major_1	Municipal Construction	true
+missions_localised_title_att_diplomatic_eastern_assassinate_character_agent_male_1	War Co-ordination	true
+missions_localised_description_att_senate_nordic_assassinate_character_agent_male_1	The chieftains wish this man off our lands, believing his purpose is to do us harm.	true
+missions_localised_description_att_senate_nordic_raise_force_navy_1	If we are to smash our enemy's ports and trade network, we should assign a new admiral to lead our fleets to victory.	true
+missions_localised_title_att_victory_mission_3_divine_triumph	Divine Triumph	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_warriors_1	Military Construction	true
+missions_localised_title_pro_recapture_olbia	Recapture Olbia	true
+missions_localised_description_att_senate_eastern_construct_bch_all_industry_major_1	There are a great number of resources in our lands. Should the King of Kings not profit from them?	true
+missions_localised_description_att_senate_nordic_engage_force_navy_1	The sea carries our enemies to us! Let us send them to the bottom, never to rise again!	true
+missions_localised_title_att_objective_bel_franks_primary_1_seal_2	Chapter I: Ours By Right	true
+missions_localised_title_att_objective_bel_franks_primary_2_seal_3	Chapter II: Unbowed, Unleashed	true
+missions_localised_title_att_objective_bel_franks_primary_5_seal_6	Chapter V: Unopposable	true
+missions_localised_title_att_objective_bel_franks_primary_3_seal_4	Chapter III: Fallen Empires, Risen Kings	true
+missions_localised_title_att_objective_bel_franks_primary_4_seal_5	Chapter IV: A New World	true
+missions_localised_description_att_objective_franks_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_franks_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_franks_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_franks_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_franks_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_mk_religious_cathar_convert_region_1	Fellow Christians and Heathens are living a life of Sin, the Bishop asks that we show them the proper way to live so we may all find the path to Heaven.	true
+missions_localised_description_att_diplomatic_barbarian_raid_region_1	Our ally asks that we raid this region to disrupt the enemy's trade.	true
+missions_localised_title_pro_trade_agreement	Secure a Trade Agreement	true
+missions_localised_description_pro_capture_petrodava	Nine summers have passed since the Ostrogoths launched their first attack. That strike was launched from Petrodava. The time is right for us to strike back in vengeance against them!	true
+missions_localised_title_att_senate_nordic_construct_bch_barbarian_farming_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_capture_regions_own_settlement_1	Our generals demand that we restore those lands which have been defiled by the enemy.	true
+missions_localised_description_att_diplomatic_eastern_capture_regions_city_1	Our allies have asked us to take this settlement to weaken our enemies.	true
+missions_localised_title_att_diplomatic_eastern_roman_capture_regions_city_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_western_roman_capture_regions_city_1	War Co-ordination	true
+missions_localised_description_att_senate_western_roman_recruit_unit_naval_1	Roman shipbuilding puts other nations to shame. Let us expand our fleets and rule the waves!	true
+missions_localised_title_att_diplomatic_barbarian_engage_force_army_1	War Co-ordination	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_settlement_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_mp_versus_loyalist	Head-to-Head Loyalist Victory	true
+missions_localised_title_mk_religious_baltic_recruit_agent_1	Religious Request	true
+missions_localised_title_att_diplomatic_eastern_roman_assassinate_character_agent_female_1	War Co-ordination	true
+missions_localised_title_mk_religious_jewish_construct_bch_religion_jewish_major_1	Religious Request	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_industry_minor_1	Our markets and trade are suffering, we should try to bolster them with new developments.	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_industry_minor_1	Our markets and trade are suffering, we should research new ideas to improve the economy.	true
+missions_localised_description_mk_religious_baltic_assassinate_character_1	He speaks in tongues and speaks of false gods. He must be removed.	true
+missions_localised_description_att_objective_eastern_roman_empire_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_eastern_roman_empire_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_eastern_roman_empire_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_mk_religious_eastern_assassinate_character_1	His words fill the ears of the faithful with promises and talk of false gods. The Patriarch asks that we remove him.	true
+missions_localised_description_att_objective_eastern_roman_empire_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_eastern_roman_empire_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_western_roman_empire_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_western_roman_empire_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_western_roman_empire_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_western_roman_empire_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_western_roman_empire_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_diplomatic_eastern_assassinate_character_agent_female_1	Our ally has requested that this spy be removed for both our sakes.	true
+missions_localised_title_mk_religious_baltic_construct_bch_religion_baltic_minor_1	Religious Request	true
+missions_localised_title_att_eos_tanukhid_mission_3	An Audience with Mavia – Coronation	true
+missions_localised_title_att_eos_tanukhid_mission_2	An Audience with Mavia – Liberation	true
+missions_localised_title_att_eos_tanukhid_mission_1	An Audience with Mavia – Intimidation	true
+missions_localised_description_att_objective_bel_ostrogoths_primary_2_seal_3	"An ashen sky portends dark times for us all. Yet we will persevere, and choke our enemies with ash and smog."	true
+missions_localised_description_att_objective_bel_ostrogoths_primary_1_seal_2	"Hard-won victories are threatened by the baleful and desperate eyes of the past. The beleaguered Emperor sends his men to reclaim his foregone Empire. They will find only failure against this new kingdom!"	true
+missions_localised_description_att_diplomatic_barbarian_engage_force_navy_1	Our allies wish this fleet destroyed.	true
+missions_localised_description_att_objective_bel_ostrogoths_primary_4_seal_5	"The world is now forever changed. Empires of old have crumbled, giving way to a new, greater power. Let us extend that reach, solidifying our victory forever!"	true
+missions_localised_description_att_objective_bel_ostrogoths_primary_3_seal_4	"The old world of Empires is dying. Yet a new world of kings is rising, and only those with the strength to survive are guaranteed a place. We have that strength!"	true
+missions_localised_description_att_objective_bel_ostrogoths_primary_5_seal_6	"Our achievements are beyond counting. Whoever stands against us already collapses, and cannot hope to survive for long. And so we go, to forge a new world from the ashes of the old!"	true
+missions_localised_description_att_mp_coop_separatist	Co-operative Separatist Victory	true
+missions_localised_title_att_objective_ostrogoths_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_ostrogoths_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_ostrogoths_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_ostrogoths_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_ostrogoths_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_description_att_religious_tengri_convert_region_1	We should work to unite the people of our lands as one, as Tengri united us under the everlasting blue sky.	true
+missions_localised_title_att_religious_celtic_construct_bch_religion_celtic_minor_1	Religious Request	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_community_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_roman_construct_building_military_1	The backbone of our nation is its armies. The Senate asks that this tradition is upheld.	true
+missions_localised_description_att_diplomatic_barbarian_assassinate_character_agent_male_1	Our ally asks us to rid them of this turbulent priest!	true
+missions_localised_description_cha_mission_pope_attacked_1	Convey Leo to Roma with utmost haste and bring a peaceful resolution to this ugly schism. Only when the Papacy is restored will you be able to realise your ambition of becoming Holy Roman Emperor.	true
+missions_localised_title_att_senate_eastern_capture_regions_city_1	Invasion	true
+missions_localised_description_att_senate_eastern_roman_assassinate_character_agent_female_1	The Senate asks that we dispatch agents to kill this woman, with haste!	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_industry_major_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_industry_major_1	Municipal Construction	true
+missions_localised_title_att_senate_eastern_construct_bch_all_agriculture_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_roman_raise_force_army_1	The Empire's borders are expanding, we should raise new forces to keep them safe.	true
+missions_localised_description_att_senate_western_roman_raise_force_army_1	The Empire is expanding. We should raise new forces to guard the frontiers.	true
+missions_localised_description_att_senate_nomadic_raise_force_army_1	Although our hordes roam the lands we are stretched very thinly. We should recruit a new one with which to extend our reach.	true
+missions_localised_description_mk_religious_eastern_construct_building_religious_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_title_att_religious_zoroastrian_recruit_agent_1	Religious Request	true
+missions_localised_description_mk_religious_jewish_convert_region_1	The Sahnedrin requires that we convert the gentiles in our lands to ensure the posterity of our nation.	true
+missions_localised_title_mk_religious_baltic_convert_region_1	Religious Request	true
+missions_localised_description_att_diplomatic_nomadic_mercenary_raid_region_1	Riches are offered to us in exchange for raiding these lands.	true
+missions_localised_title_mk_religious_cathar_assassinate_character_1	Religious Request	true
+missions_localised_title_mk_religious_ibadi_convert_region_1	Religious Request	true
+missions_localised_description_mk_religious_cathar_recruit_agent_1	Your bishops ask you to increase the number of priests under your command.	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_city_1	While raiding and tribute from the defeated may keep the wolves at bay, we must secure our economy for the future.	true
+missions_localised_title_att_senate_eastern_roman_capture_regions_own_settlement_1	Liberation	true
+missions_localised_title_mk_religious_eastern_recruit_agent_1	Religious Request	true
+missions_localised_title_att_senate_western_roman_recruit_agent_spy_1	Eyes & Ears	true
+missions_localised_title_att_senate_eastern_roman_recruit_agent_spy_1	Eyes & Ears	true
+missions_localised_description_att_diplomatic_eastern_assassinate_character_general_1	Our ally has marked this general for death.	true
+missions_localised_description_att_diplomatic_western_roman_assassinate_character_general_1	Our ally has marked this general for death.	true
+missions_localised_title_mk_religious_eastern_construct_bch_religion_eastern_major_1	Religious Request	true
+missions_localised_description_att_diplomatic_eastern_roman_assassinate_character_general_1	Our ally has marked this general for death.	true
+missions_localised_description_att_diplomatic_nomadic_capture_regions_port_1	We have been asked to strike a blow to the enemy's trade lines.	true
+missions_localised_description_pro_capture_adrianople	Adrianople is no longer under Roman control, and would make a fitting new home for our people. Capture it and we may gain a secure foothold in this land.	true
+missions_localised_title_pro_capture_apulum	Capture Apulum	true
+missions_localised_description_att_senate_western_roman_construct_building_military_1	The backbone of our nation has always been the Legions. The Senate asks that we do not forget this.	true
+missions_localised_description_att_senate_nomadic_recruit_agent_spy_1	Our enemies plot against us from inside their cities. We should send agents to blend in and feed us their plans, that we may counter them with ease.	true
+missions_localised_title_att_religious_manichaeism_recruit_agent_1	Religious Request	true
+missions_localised_description_cha_mission_frankish_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_title_mk_religious_cathar_construct_bch_religion_cathar_major_1	Religious Request	true
+missions_localised_description_att_objective_himyar_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_himyar_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_himyar_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_himyar_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_title_att_religious_tengri_construct_bch_religion_tengri_major_1	Religious Request	true
+missions_localised_description_att_objective_himyar_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_title_pro_engage_hun_second_wave	Engage the Hunnic Invasion Forces	true
+missions_localised_title_mk_religious_bogomilist_construct_bch_religion_bogomilist_major_1	Religious Request	true
+missions_localised_title_mk_religious_sunni_assassinate_character_1	Religious Request	true
+missions_localised_description_att_senate_eastern_assassinate_character_agent_male_1	Our marzban states that this man has been causing trouble in our lands. They request that we deal with him.	true
+missions_localised_description_att_religious_zoroastrian_construct_bch_religion_zoroastrian_major_burial_1	The Magi ask us to build a temple to hold both the Atar and Aban so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_description_att_senate_eastern_raise_force_navy_1	We should raise one of our Wuzurgan to lead a great fleet in our name.	true
+missions_localised_description_att_senate_eastern_roman_recruit_unit_siege_1	Our ballistarii clamour about the lack of adequate siege engines in our armies. The Senate has asked that we look into this.	true
+missions_localised_description_att_objective_bel_expedition_primary_5_seal_6	“The Empire’s triumph is a reality where others only dared to imagine. Rome’s future stretches ahead - years beyond counting. Glory to Rome everlasting!”	true
+missions_localised_description_att_objective_bel_expedition_primary_3_seal_4	“The Empire ascends once more, and the darkening world once again seems bright. Yet Imperial lands are not entirely freed from their barbarous yolk, and so Rome must march against them.” 	true
+missions_localised_description_att_objective_bel_expedition_primary_4_seal_5	“Through strength and divine justice our world is returned to us - the Empire regained!  Now it must be stalwart and resolute, unflinching against a tide of unworthy, would-be kings!”	true
+missions_localised_description_att_objective_bel_expedition_primary_1_seal_2	“Through hardship and despair, the Empire endures and perseveres. The Emperor sends a man to reclaim that which was lost; to restore glory to his nation.”	true
+missions_localised_description_att_objective_bel_expedition_primary_2_seal_3	“A darkening sky obscures the present and the future. Yet the ancestral home of Empire waits across the Mediterranean. A stolen throne awaits liberation, usurped by those incapable of understanding its true significance.”	true
+missions_localised_description_pro_recapture_olbia	Olbia has been taken from us! Enemy occupation of our home city cannot be tolerated - it must be recaptured!	true
+missions_localised_description_att_senate_eastern_raise_force_army_1	Like the Persians of old, we should raise new spada to protect our borders.	true
+missions_localised_title_cha_mission_frankish_kingdom	The Kingdom of the Franks	true
+missions_localised_title_att_objective_langobards_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_langobards_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_langobards_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_langobards_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_langobards_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_religious_celtic_construct_bch_religion_celtic_major_1	Religious Request	true
+missions_localised_description_att_senate_nordic_research_technology_civil_1	Surely there is much to be learned that could improve our people's lives?	true
+missions_localised_title_pro_engage_pirates	Clear the Sea Lanes	true
+missions_localised_description_pro_trade_agreement	The court of Mediolanum seems more receptive to a trade agreement than their compatriots in Constantinople. Secure such a treaty with the Western Roman Empire.	true
+missions_localised_title_att_senate_eastern_capture_regions_own_settlement_1	Liberation	true
+missions_localised_description_att_senate_nordic_construct_bch_barbarian_farming_1	We should better exploit the resources available to us, we could get more from the land.	true
+missions_localised_description_att_diplomatic_eastern_roman_capture_regions_city_1	Our allies have asked us to take this settlement to weaken our enemies.	true
+missions_localised_description_att_diplomatic_western_roman_capture_regions_city_1	Our allies have asked us to take this settlement to weaken our enemies.	true
+missions_localised_description_att_senate_western_roman_construct_building_cultural_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_title_att_diplomatic_western_roman_assassinate_character_general_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_eastern_roman_assassinate_character_general_1	War Co-ordination	true
+missions_localised_description_pro_placate_petrodava	The inhabitants of Petrodava can scarcely restrain their animosity towards our men, hurling insults and excrement as they pass. They must be pacified if we are to secure the town in the long term.	true
+missions_localised_description_mk_religious_baltic_recruit_agent_1	From our libations the gods gain strength. Our priests request that we recruit one of their number to aid them.	true
+missions_localised_description_att_senate_western_roman_recruit_agent_spy_1	Sometimes the subtle knife cuts deepest. We need more spies to do our bidding.	true
+missions_localised_description_att_diplomatic_barbarian_assassinate_character_agent_female_1	Our ally has requested that this spy be removed for both our sakes.	true
+missions_localised_title_mk_religious_baltic_assassinate_character_1	Religious Request	true
+missions_localised_title_mk_religious_shia_convert_region_1	Religious Request	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_industry_minor_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_industry_minor_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_roman_recruit_agent_spy_1	Sometimes the subtle knife cuts deepest. We need more spies to do our bidding.	true
+missions_localised_description_att_religious_celtic_convert_region_1	The old gods grow restless as the people of these lands do not follow our faith. Let us teach them the ways of our people.	true
+missions_localised_title_att_objective_eastern_roman_empire_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_eastern_roman_empire_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_eastern_roman_empire_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_eastern_roman_empire_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_eastern_roman_empire_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_religious_arian_declare_war_1	Religious Request	true
+missions_localised_title_att_diplomatic_eastern_assassinate_character_agent_female_1	War Co-ordination	true
+missions_localised_title_mk_religious_baltic_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_objective_western_roman_empire_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_western_roman_empire_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_western_roman_empire_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_description_mk_religious_eastern_recruit_agent_1	The Patriarch has requested that we ordain a new priest. He will serve and do good for the state.	true
+missions_localised_title_att_objective_western_roman_empire_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_western_roman_empire_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_senate_nordic_recruit_unit_infantry_1	Reinforcements	true
+missions_localised_title_att_objective_garamantes_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_garamantes_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_military_minor_1	Military Construction	true
+missions_localised_title_att_objective_garamantes_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_garamantes_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_diplomatic_eastern_roman_raid_region_1	War Co-ordination	true
+missions_localised_title_att_objective_garamantes_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_senate_nomadic_capture_regions_city_1	Invasion	true
+missions_localised_title_mk_religious_jewish_convert_region_1	Religious Request	true
+missions_localised_title_mk_religious_eastern_construct_bch_religion_eastern_minor_1	Religious Request	true
+missions_localised_title_mk_religious_jewish_recruit_agent_1	Religious Request	true
+missions_localised_title_att_senate_eastern_recruit_agent_veteran_1	Desert Champion	true
+missions_localised_description_mk_religious_jewish_assassinate_character_1	This man is a blasphemer and an infidel. A fatwa has been issued calling for his death.	true
+missions_localised_title_att_diplomatic_western_roman_assassinate_character_agent_female_1	War Co-ordination	true
+missions_localised_description_att_senate_eastern_roman_raise_force_navy_1	Our rule of the sea is constantly contested by pirates. Let us commission a new admiral and let him raise our banner upon the sea.	true
+missions_localised_description_att_senate_western_roman_raise_force_navy_1	Our control of the seas is hampered by piracy. Promote a new admiral to bring the scum to heel.	true
+missions_localised_title_mk_religious_ibadi_assassinate_character_1	Religious Request	true
+missions_localised_title_att_senate_nomadic_assassinate_character_general_1	An Early Grave	true
+missions_localised_description_att_senate_eastern_roman_assassinate_character_agent_male_1	This man has been a thorn in the Empire's side for far too long. Deal with him.	true
+missions_localised_description_att_senate_western_roman_assassinate_character_agent_male_1	This man has been a thorn in the Empire's side for far too long. Deal with him.	true
+missions_localised_description_att_senate_nomadic_assassinate_character_agent_male_1	This man's actions strike at the very heart of the tribe, so we ask for his to be cut out!	true
+missions_localised_description_mk_religious_sunni_convert_region_1	The Caliph requires that we convert the infidels to bring them into the Dar al-Islam.	true
+missions_localised_title_cha_objective_cha_asturias_primary_1_seal_2	A Broken World	true
+missions_localised_description_mk_religious_baltic_convert_region_1	The old gods grow restless as the people of these lands do not follow our faith. Let us teach them the ways of our people.	true
+missions_localised_title_cha_objective_cha_asturias_primary_2_seal_3	The Name of the King	true
+missions_localised_title_cha_objective_cha_asturias_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_asturias_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_asturias_primary_4_seal_5	A Legacy Forged	true
+missions_localised_description_att_diplomatic_nomadic_assassinate_character_agent_female_1	Our ally has requested that this spy be removed for both our sakes.	true
+missions_localised_title_cha_mission_viking_kingdom	The Kingdom of the Vikings	true
+missions_localised_description_att_senate_eastern_roman_construct_building_cultural_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_title_mk_religious_eastern_declare_war_1	Religious Request	true
+missions_localised_title_mk_religious_cathar_construct_bch_religion_cathar_minor_1	Religious Request	true
+missions_localised_title_cha_mission_avars_1	An Unproven Khagan	true
+missions_localised_title_att_senate_nordic_lift_blockade_1	Lift Blockade	true
+missions_localised_description_att_diplomatic_eastern_capture_regions_port_1	We have been asked to strike a blow to the enemy's trade lines.	true
+missions_localised_description_cha_objective_cha_lombards_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_cha_objective_cha_lombards_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_lombards_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_lombards_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_lombards_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_title_att_religious_tengri_construct_bch_religion_tengri_minor_1	Religious Request	true
+missions_localised_title_att_diplomatic_eastern_roman_capture_regions_port_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_western_roman_capture_regions_port_1	War Co-ordination	true
+missions_localised_title_pro_capture_romula	Capture Romula	true
+missions_localised_description_att_religious_orthodox_construct_building_religious_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_title_mk_religious_bogomilist_construct_bch_religion_bogomilist_minor_1	Religious Request	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_community_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_military_infantry_1	Building more military buildings would only further the glory of the King of Kings.	true
+missions_localised_description_att_objective_saxons_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_saxons_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_saxons_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_saxons_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_saxons_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_senate_nordic_make_alliance_1	A Sure Friend	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_herding_1	Municipal Construction	true
+missions_localised_title_att_diplomatic_western_roman_raid_region_1	War Co-ordination	true
+missions_localised_description_att_senate_eastern_roman_recruit_unit_naval_1	Roman shipbuilding puts other nations to shame. Let us expand our fleets and rule the waves!	true
+missions_localised_title_mk_religious_bogomillist_construct_building_religious_1	Religious Request	true
+missions_localised_description_pro_engage_pirates	Sea-borne trade from Constantinople to the Mediterranean is suffering greatly at piratical hands, funded and encouraged by malcontents on the shores. The Senate request that we find these men and dissuade them from such action, by force if necessary.	true
+missions_localised_title_att_senate_western_roman_recruit_unit_siege_1	Reinforcements	true
+missions_localised_title_att_diplomatic_nomadic_mercenary_capture_regions_city_1	Mercenary Contract	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_leadership_1	Municipal Construction	true
+missions_localised_description_cha_objective_cha_mercia_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_mercia_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_mercia_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_mercia_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_mercia_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_att_diplomatic_barbarian_capture_regions_port_1	We have been asked to strike a blow to the enemy's trade lines.	true
+missions_localised_title_att_senate_eastern_construct_bch_all_industry_minor_1	Municipal Construction	true
+missions_localised_title_att_religious_catholic_construct_building_religious_1	Religious Request	true
+missions_localised_description_pro_recruit_agent	Deploying an agent against the enemy may prove an effective method for upsetting their plans. Recruit a spy to serve your best interests in the field.	true
+missions_localised_title_pro_recapture_petrodava	Recapture Petrodava	true
+missions_localised_description_att_religious_celtic_construct_bch_religion_celtic_major_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_description_att_religious_arian_construct_bch_religion_arian_minor_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_description_att_religious_zoroastrian_construct_bch_religion_zoroastrian_major_fire_1	The Magi ask us to build a temple to hold both the Atar and Aban so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_title_att_diplomatic_nomadic_capture_regions_city_1	War Co-ordination	true
+missions_localised_description_mk_religious_shia_construct_building_religious_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_mk_religious_baltic_construct_bch_religion_baltic_major_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_description_att_diplomatic_eastern_roman_raid_region_1	Our ally asks that we raid this region to disrupt the enemy's trade.	true
+missions_localised_title_mk_religious_ibadi_declare_war_1	Religious Request	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_military_minor_1	Building more military buildings would only further the glory of the King of Kings.	true
+missions_localised_title_att_objective_ebdani_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_ebdani_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_ebdani_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_ebdani_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_ebdani_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_vc_wonder_civic_2	Divine Cultural Triumph	true
+missions_localised_title_att_vc_wonder_civic_1	Cultural Victory	true
+missions_localised_description_mk_religious_jewish_construct_bch_religion_jewish_minor_1	The Sahnedrin requests that we build a synagogue to help the spread of our religion.	true
+missions_localised_title_att_senate_western_roman_construct_building_cultural_1	Municipal Construction	true
+missions_localised_description_mk_religious_shia_convert_region_1	The Ulama requires that we convert the infidels to bring them into the Dar al-Islam.	true
+missions_localised_title_mk_religious_bogomilist_convert_region_1	Religious Request	true
+missions_localised_description_mk_religious_baltic_construct_building_religious_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_title_att_senate_nomadic_recruit_unit_ranged_1	Reinforcements	true
+missions_localised_title_att_objective_venedi_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_venedi_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_venedi_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_description_att_senate_western_roman_capture_regions_own_settlement_1	The enemy has captured our settlement! The Senate will not stand for this injustice and insist we liberate these lands as a priority.	true
+missions_localised_title_att_objective_venedi_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_venedi_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_vc_2_imperial	Imperial Trumph 	true
+missions_localised_title_att_senate_nordic_construct_bch_barbarian_water_major_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_city_major_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_city_major_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_description_att_senate_eastern_recruit_unit_naval_1	Our fleets are weak and require bolstering. Let us build ships and use prisoners to man them.	true
+missions_localised_description_att_diplomatic_nomadic_assassinate_character_agent_male_1	Our ally asks us to rid them of this turbulent priest!	true
+missions_localised_description_att_senate_nomadic_assassinate_character_general_1	This man is exceedingly dangerous and must be removed. It will strike a hammer blow to our enemies!	true
+missions_localised_description_pro_convert_christianity	The Senate at Constantinople would doubtless look more favourably upon our cause should you convert to the teachings of Christ. Public order may suffer at home, however.	true
+missions_localised_description_mk_religious_ibadi_assassinate_character_1	This man is a blasphemer and an infidel. A fatwa has been issued calling for his death.	true
+missions_localised_title_att_religious_arian_construct_bch_religion_arian_major_1	Religious Request	true
+missions_localised_description_mk_religious_shia_declare_war_1	It is our duty to further the cause of Islam in infidel lands, by the sword if necessary. Allahu akbar!	true
+missions_localised_title_att_senate_western_roman_assassinate_character_agent_female_1	An Early Grave	true
+missions_localised_description_att_diplomatic_barbarian_blockade_port_1	We have been asked to block the enemy's oceanic trade lines.	true
+missions_localised_title_att_senate_eastern_roman_assassinate_character_general_1	An Early Grave	true
+missions_localised_description_att_senate_eastern_recruit_agent_veteran_1	While the King of Kings is a seasoned and experienced warrior, some of our troops are timid like mice. We should hire a veteran to give them a backbone.	true
+missions_localised_title_att_senate_western_roman_assassinate_character_general_1	An Early Grave	true
+missions_localised_description_att_senate_nordic_blockade_port_1	The enemy's sea trade is its strength, and fuels the conflict between us. We should attack it if we wish to defeat them.	true
+missions_localised_description_pro_capture_romula	The Gepidae to the south continue to support the Ostrogoths. This cannot be tolerated: capture their capital and stamp out their ruling class as a warning to others not to side against us!	true
+missions_localised_title_att_senate_nordic_engage_force_army_1	The Glory of Battle	true
+missions_localised_title_att_diplomatic_barbarian_capture_regions_city_1	War Co-ordination	true
+missions_localised_description_att_senate_eastern_construct_bch_all_city_minor_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_title_att_senate_nordic_capture_regions_city_1	Invasion	true
+missions_localised_description_att_diplomatic_western_roman_raid_region_1	Our ally asks that we raid this region to disrupt the enemy's trade.	true
+missions_localised_description_att_senate_nordic_construct_bch_barbmigs_herding_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_diplomatic_nomadic_mercenary_capture_regions_port_1	A tribute is offered to us on the condition that we bring the hordes to bear against this port.	true
+missions_localised_description_att_senate_eastern_capture_regions_port_1	Capturing a port like this would open up our sea trade, bringing spices, jewels and cloth.	true
+missions_localised_description_cha_mission_viking_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_title_att_religious_hellenic_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_eastern_roman_construct_building_cultural_1	Municipal Construction	true
+missions_localised_title_att_religious_germanic_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_nomadic_declare_war_1	Drums of War	true
+missions_localised_description_mk_religious_eastern_declare_war_1	The heretics among these people persecute and dishonour the faithful. The Patriarch has asked us to act.	true
+missions_localised_description_cha_mission_saxon_kingdom	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_description_att_religious_tengri_construct_bch_religion_tengri_minor_1	As Umay makes the plants grow and our people thrive, so we should honour the gods with a monument to our ancestors.	true
+missions_localised_title_att_senate_western_roman_recruit_unit_naval_1	Reinforcements	true
+missions_localised_title_att_diplomatic_eastern_capture_regions_city_1	War Co-ordination	true
+missions_localised_title_att_senate_nordic_recruit_unit_ranged_1	Reinforcements	true
+missions_localised_title_att_senate_nordic_construct_bch_barbarian_civic_major_1	Municipal Construction	true
+missions_localised_title_att_senate_eastern_roman_construct_building_military_1	Military Construction	true
+missions_localised_description_att_senate_nordic_capture_regions_city_1	The council, our chieftains and advisors, recommend that we attack this city.	true
+missions_localised_title_pro_capture_petrodava	Capture Petrodava	true
+missions_localised_description_att_senate_eastern_assassinate_character_agent_female_1	She has recently escaped the custody of our bozorgan, she must be stopped.	true
+missions_localised_title_att_objective_franks_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_franks_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_franks_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_franks_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_franks_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_description_att_objective_bel_franks_primary_2_seal_3	"An ashen sky portends dark times for us all. Yet we will persevere, and choke our enemies with ash and smog."	true
+missions_localised_description_att_objective_bel_franks_primary_1_seal_2	"Hard-won victories are threatened by the baleful and desperate eyes of the past. The beleaguered Emperor sends his men to reclaim his foregone Empire. They will find only failure against this new kingdom!"	true
+missions_localised_description_att_objective_bel_franks_primary_5_seal_6	"Our achievements are beyond counting. Whoever stands against us already collapses, and cannot hope to survive for long. And so we go, to forge a new world from the ashes of the old!"	true
+missions_localised_description_att_objective_bel_franks_primary_4_seal_5	"The world is now forever changed. Empires of old have crumbled, giving way to a new, greater power. Let us extend that reach, solidifying our victory forever!"	true
+missions_localised_description_att_objective_bel_franks_primary_3_seal_4	"The old world of Empires is dying. Yet a new world of kings is rising, and only those with the strength to survive are guaranteed a place. We have that strength!"	true
+missions_localised_description_att_senate_nomadic_declare_war_1	They refuse our demands of tribute and mock offers of protection. Let us show them what happens to those who defy the horde.	true
+missions_localised_title_att_senate_nordic_engage_force_navy_1	To the Depths	true
+missions_localised_title_att_senate_eastern_construct_bch_all_industry_major_1	Municipal Construction	true
+missions_localised_description_att_religious_celtic_construct_bch_religion_celtic_minor_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_description_att_religious_arian_construct_bch_religion_arian_major_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_title_att_senate_eastern_roman_capture_regions_city_1	Invasion	true
+missions_localised_title_att_senate_western_roman_capture_regions_city_1	Invasion	true
+missions_localised_description_att_objective_ostrogoths_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_ostrogoths_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_ostrogoths_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_ostrogoths_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_ostrogoths_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_att_diplomatic_nomadic_mercenary_raid_region_1	Mercenary Contract	true
+missions_localised_title_att_objective_bel_ostrogoths_primary_1_seal_2	Chapter I: Ours By Right	true
+missions_localised_title_att_objective_bel_ostrogoths_primary_2_seal_3	Chapter II: Unbowed, Unleashed	true
+missions_localised_title_att_objective_bel_ostrogoths_primary_3_seal_4	Chapter III: Fallen Empires, Risen Kings	true
+missions_localised_title_att_objective_bel_ostrogoths_primary_4_seal_5	Chapter IV: A New World	true
+missions_localised_title_att_objective_bel_ostrogoths_primary_5_seal_6	Chapter V: Unopposable	true
+missions_localised_title_pro_convert_christianity	Convert to Christianity	true
+missions_localised_description_mk_religious_baltic_construct_bch_religion_baltic_minor_1	We must honour the gods with temples and monuments, for they will surely bless us.	true
+missions_localised_description_att_diplomatic_eastern_roman_assassinate_character_agent_female_1	Our ally has requested that this spy be removed for both our sakes.	true
+missions_localised_description_att_senate_eastern_roman_assassinate_character_general_1	His mere presence inspires the enemy, the Senate requests that he be brought to task.	true
+missions_localised_description_mk_religious_jewish_construct_bch_religion_jewish_major_1	The Sahnedrin requests that we build a synagogue to help the spread of our religion.	true
+missions_localised_description_att_vc_wonder_1	Minor Victory	true
+missions_localised_description_att_senate_western_roman_assassinate_character_general_1	The mere presence of this man inspires our enemies. He must be removed from their view…	true
+missions_localised_title_att_senate_nordic_construct_bch_barbmigs_settlement_1	Municipal Construction	true
+missions_localised_title_att_senate_nomadic_recruit_unit_siege_1	Reinforcements	true
+missions_localised_description_att_senate_eastern_construct_bch_all_agriculture_1	There are a great number of resources in our lands. Should the King of Kings not profit from them?	true
+missions_localised_title_att_diplomatic_barbarian_blockade_port_1	War Co-ordination	true
+missions_localised_description_mk_religious_ibadi_declare_war_1	It is our duty to further the cause of Islam in infidel lands, by the sword if necessary. Allahu akbar!	true
+missions_localised_description_pro_capture_apulum	We have captured Petrodava but the enemy remains a threat. Their capital, Apulum, is close enough to be dangerous to us. If we are to break the Ostrogoths completely, it too must fall.	true
+missions_localised_title_cha_objective_cha_westphalia_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_westphalia_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_westphalia_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_cha_objective_cha_westphalia_primary_1_seal_2	A Broken World	true
+missions_localised_title_cha_objective_cha_westphalia_primary_2_seal_3	The Name of the King	true
+missions_localised_title_att_senate_nordic_construct_bch_barbarian_water_minor_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_recruit_unit_siege_1	While the King of Kings can crush walls with merely a breath, our armies require siege engines to accomplish the same.	true
+missions_localised_title_att_senate_nordic_declare_war_1	Drums of War	true
+missions_localised_title_att_senate_nomadic_recruit_agent_spy_1	Eyes & Ears	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_city_minor_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_city_minor_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_title_att_senate_western_roman_construct_building_military_1	Military Construction	true
+missions_localised_title_mk_religious_shia_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_religious_arian_construct_bch_religion_arian_minor_1	Religious Request	true
+missions_localised_description_att_senate_nomadic_capture_regions_port_1	Should we take this port the sea and all its riches will be ours!	true
+missions_localised_description_mk_religious_bogomilist_convert_region_1	Fellow Christians and Heathens are living a life of Sin, let us show them the proper way to live so we may all find the path to Heaven.	true
+missions_localised_description_att_senate_nomadic_recruit_unit_ranged_1	Whilst our cavalry is second to none, and rules the step, its reach is limited. We should recruit missile troops to address this.	true
+missions_localised_description_att_senate_eastern_roman_capture_regions_port_1	Our people ask that we take this port for the glory of the Empire.	true
+missions_localised_description_att_senate_western_roman_capture_regions_port_1	The people wish us to capture this port for the good of the Empire.	true
+missions_localised_title_att_diplomatic_eastern_assassinate_character_general_1	War Co-ordination	true
+missions_localised_title_mk_religious_bogomilist_assassinate_character_1	Religious Request	true
+missions_localised_description_mk_religious_bogomilist_recruit_agent_1	Our prayers must be heard across the realms to counter the works of the Devil. Erudite members must be sent afar to help our work.	true
+missions_localised_title_pro_capture_adrianople	Capture Adrianople	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_warriors_1	New training camps would give us stronger and faster horsemen with which to bring our enemies to their knees.	true
+missions_localised_title_att_senate_nomadic_assassinate_character_agent_female_1	An Early Grave	true
+missions_localised_title_att_diplomatic_eastern_roman_assassinate_character_agent_male_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_western_roman_assassinate_character_agent_male_1	War Co-ordination	true
+missions_localised_description_att_diplomatic_eastern_assassinate_character_agent_male_1	Our ally asks us to rid them of this turbulent priest!	true
+missions_localised_description_att_senate_eastern_construct_bch_all_city_major_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_description_pro_engage_hun_second_wave	The Huns send yet more raiders to overrun us. They must be intercepted, no matter the cost.	true
+missions_localised_description_mk_religious_sunni_assassinate_character_1	This man is a blasphemer and an infidel. A fatwa has been issued calling for his death.	true
+missions_localised_title_cha_mission_pope_help_1	A Frank Promise	true
+missions_localised_title_att_victory_mp_versus	Multiplayer Vs. Victory	true
+missions_localised_description_att_religious_tengri_construct_bch_religion_tengri_major_1	As Umay makes the plants grow and our people thrive, so we should honour the gods with a monument to our ancestors.	true
+missions_localised_description_att_religious_manichaeism_recruit_agent_1	The Hearers are adamant that promoting a new member to the Elect would help our religion thrive.	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_city_major_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_city_major_1	Municipal Construction	true
+missions_localised_description_att_senate_nordic_construct_bch_barbarian_water_major_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_artisan_1	Our war chiefs clamour for diversion from this constant conflict. We should arrange something special for those who lead our forces so skilfully.	true
+missions_localised_title_att_senate_eastern_recruit_unit_naval_1	Reinforcements	true
+missions_localised_description_att_senate_nomadic_recruit_agent_veteran_1	There are many venerable, elite warriors among us. Perhaps we should select one to better train our raw recruits?	true
+missions_localised_description_mk_religious_ibadi_recruit_agent_1	The Ulama asks that we fund the Madaris and recruit more Imams. Our Islamic communities need more leaders.	true
+missions_localised_title_att_diplomatic_nomadic_capture_regions_port_1	War Co-ordination	true
+missions_localised_title_mk_religious_shia_declare_war_1	Religious Request	true
+missions_localised_description_att_senate_western_roman_construct_bch_all_agriculture_1	Our markets and trade are suffering, we should research new ideas to improve the economy.	true
+missions_localised_title_att_eos_axum_mission_2	The Spice Must Flow Pt.2	true
+missions_localised_title_att_eos_axum_mission_3	All That Glitters	true
+missions_localised_title_att_eos_axum_mission_1	The Spice Must Flow Pt.1	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_all_agriculture_1	Our markets and trade are suffering, we should try to bolster them with new developments.	true
+missions_localised_title_att_senate_eastern_roman_recruit_agent_veteran_1	Hardened Veteran	true
+missions_localised_description_att_senate_eastern_assassinate_character_general_1	His existence offends our military chiefs. He should be sent to the next world!	true
+missions_localised_title_att_senate_western_roman_recruit_agent_veteran_1	Hardened Veteran	true
+missions_localised_title_att_objective_bel_expedition_primary_5_seal_6	Chapter V: Rome Eternal	true
+missions_localised_title_att_objective_bel_expedition_primary_4_seal_5	Chapter IV: False Kings	true
+missions_localised_title_att_objective_bel_expedition_primary_3_seal_4	Chapter III: An Empire Ascends	true
+missions_localised_title_att_objective_bel_expedition_primary_2_seal_3	Chapter II: The Stolen Throne	true
+missions_localised_title_att_objective_bel_expedition_primary_1_seal_2	Chapter I: A Man to Reclaim	true
+missions_localised_title_att_senate_eastern_roman_recruit_unit_siege_1	Reinforcements	true
+missions_localised_description_att_senate_nordic_construct_bch_all_city_major_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_title_att_senate_eastern_raise_force_navy_1	Call to Arms	true
+missions_localised_title_att_senate_eastern_assassinate_character_agent_male_1	An Early Grave	true
+missions_localised_description_att_diplomatic_barbarian_capture_regions_city_1	Our allies have asked us to take this settlement to weaken our enemies.	true
+missions_localised_description_mk_religious_bogomilist_construct_bch_religion_bogomilist_major_1	It is imperative that we build places of worship so that our own may live in communion with the Lord, far from the oppression of foreign rulers.	true
+missions_localised_title_att_senate_eastern_declare_war_1	Drums of War	true
+missions_localised_title_att_objective_himyar_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_himyar_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_himyar_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_himyar_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_himyar_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_diplomatic_nomadic_mercenary_capture_regions_port_1	Mercenary Contract	true
+missions_localised_description_att_religious_hellenic_construct_bch_religion_grecoroman_major_1	The Oracle has spoken of great disaster if we do not honour the gods. Our priests recommend we construct a temple to appease them.	true
+missions_localised_description_mk_religious_cathar_construct_bch_religion_cathar_major_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_description_pro_achieve_food_surplus	The people go hungry, and if nothing is done their problem will rapidly become ours. Ease the food shortage to fill their bellies and calm their thoughts.	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_herders_1	Municipal Construction	true
+missions_localised_title_ch_vc_2_long	Long Victory	true
+missions_localised_description_mk_religious_bogomillist_construct_building_religious_1	It is imperative that we build places of worship so that our own may live in communion with the Lord, far from the oppression of foreign rulers.	true
+missions_localised_description_att_diplomatic_nomadic_mercenary_capture_regions_city_1	A tribute is offered to us on the condition that we bring the hordes to bear against this settlement.	true
+missions_localised_description_att_senate_eastern_capture_regions_city_1	This land would surely be another shining jewel in the crown of the mighty King of Kings!	true
+missions_localised_title_att_diplomatic_barbarian_raid_region_1	War Co-ordination	true
+missions_localised_title_att_eos_religious_mission_build_att_rel_semitic_paganism	The High Priest of Almaqah – Piety	true
+missions_localised_title_att_senate_nordic_construct_bch_all_city_minor_1	Municipal Construction	true
+missions_localised_title_att_religious_tengri_convert_region_1	Religious Request	true
+missions_localised_title_att_diplomatic_barbarian_capture_regions_port_1	War Co-ordination	true
+missions_localised_description_pro_recapture_petrodava	Petrodava has been captured by the enemy! The loss of this town and its surrounding region will hit us hard - we must retake it!	true
+missions_localised_title_att_religious_hellenic_construct_bch_religion_grecoroman_minor_1	Religious Request	true
+missions_localised_title_att_senate_nordic_capture_regions_port_1	Invasion	true
+missions_localised_title_mk_religious_sunni_declare_war_1	Religious Request	true
+missions_localised_description_att_senate_eastern_roman_capture_regions_own_settlement_1	Our enemies have taken this settlement! The Senate will not stand for this injustice, liberate these lands!	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_city_1	Municipal Construction	true
+missions_localised_description_att_eos_tanukhid_mission_3	Choose a settlement worthy of birthing our empire of the east! Settle our people there to start a new and glorious chapter in our history!	true
+missions_localised_description_att_eos_tanukhid_mission_2	Explore the Roman territories, liberating peoples and binding them to us wherever you sense discontent and oppression. With just three such allies we shall be all but unstoppable!	true
+missions_localised_description_att_eos_tanukhid_mission_1	Word has it that Romans are like moths, irresistibly attracted to the flame. Light me five fires, five cities, to draw these complacent westerners to their doom!	true
+missions_localised_title_att_senate_eastern_recruit_unit_ranged_1	Reinforcements	true
+missions_localised_title_att_mp_coop_separatist	Co-operative Separatist Victory	true
+missions_localised_description_att_religious_zoroastrian_recruit_agent_1	The Magi are adamant that promoting a mobad would help our religion thrive.	true
+missions_localised_title_att_senate_nomadic_raise_force_army_1	Call to Arms	true
+missions_localised_description_att_vc_wonder_military_1	Military Victory	true
+missions_localised_description_att_vc_wonder_military_2	Divine Military Triumph	true
+missions_localised_title_att_senate_eastern_roman_assassinate_character_agent_female_1	An Early Grave	true
+missions_localised_title_att_mp_versus_loyalist	Head-to-Head Loyalist Victory	true
+missions_localised_description_att_senate_eastern_recruit_unit_ranged_1	Our archers are the pride of the world but are sadly lacking within our armies.	true
+missions_localised_title_att_senate_nomadic_assassinate_character_agent_male_1	An Early Grave	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_city_minor_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_city_minor_1	Municipal Construction	true
+missions_localised_description_att_senate_nordic_declare_war_1	Too long have we suffered these meddling fools to live. Our generals have raised our banners as one, let us bring war to our enemies!	true
+missions_localised_title_att_senate_eastern_recruit_unit_siege_1	Reinforcements	true
+missions_localised_description_att_senate_nordic_construct_bch_barbarian_water_minor_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_title_att_diplomatic_nomadic_assassinate_character_general_1	War Co-ordination	true
+missions_localised_title_att_senate_eastern_roman_capture_regions_port_1	Invasion	true
+missions_localised_title_att_senate_western_roman_capture_regions_port_1	Invasion	true
+missions_localised_description_mk_religious_bogomilist_assassinate_character_1	This man is a foreign agent and threatens the peace and freedom of our communities. He must be stopped at once!	true
+missions_localised_description_att_diplomatic_western_roman_assassinate_character_agent_female_1	Our ally has requested that this spy be removed for both our sakes.	true
+missions_localised_title_att_senate_eastern_recruit_agent_spy_1	Eyes & Ears	true
+missions_localised_title_mk_religious_bogomilist_recruit_agent_1	Religious Request	true
+missions_localised_title_att_vc_wonder_military_1	Military Victory	true
+missions_localised_title_att_vc_wonder_military_2	Divine Military Triumph	true
+missions_localised_title_att_senate_eastern_roman_recruit_unit_naval_1	Reinforcements	true
+missions_localised_title_att_senate_western_roman_raid_region_1	Raid & Plunder	true
+missions_localised_title_att_objective_saxons_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_description_att_senate_nomadic_assassinate_character_agent_female_1	This perfidious woman defies and confounds us at every turn. Let us turn her to dust.	true
+missions_localised_title_att_objective_saxons_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_saxons_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_description_att_senate_nordic_make_alliance_1	Our two nations have grown close. The chieftains press us to swear a blood oath with these people.	true
+missions_localised_title_att_objective_saxons_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_saxons_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_description_att_senate_nordic_construct_bch_all_city_minor_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_diplomatic_eastern_roman_assassinate_character_agent_male_1	Our ally asks us to rid them of this turbulent priest!	true
+missions_localised_description_att_diplomatic_western_roman_assassinate_character_agent_male_1	Our ally asks us to rid them of this turbulent priest!	true
+missions_localised_title_att_religious_orthodox_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_military_upgrades_1	Military Construction	true
+missions_localised_description_mk_religious_bogomilist_construct_bch_religion_bogomilist_minor_1	It is imperative that we build places of worship so that our own may live in communion with the Lord, far from the oppression of foreign rulers.	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_military_infantry_1	Military Construction	true
+missions_localised_description_mk_religious_sunni_recruit_agent_1	The Caliph asks that a new cleric be ordained to help solidify the Islamic faith both at home and abroad.	true
+missions_localised_description_att_eos_religious_mission_build_att_rel_semitic_paganism	We humbly beseech your lordship to return to the practices that have served us so well. Provide us with four new religious structures and your rewards will be both temporal and spiritual.	true
+missions_localised_title_att_diplomatic_eastern_capture_regions_port_1	War Co-ordination	true
+missions_localised_description_mk_religious_sunni_declare_war_1	It is our duty to further the cause of Islam in infidel lands, by the sword if necessary. Allahu akbar!	true
+missions_localised_description_att_senate_nordic_lift_blockade_1	The enemy think they can blockade our ports. Let us show them who rules here!	true
+missions_localised_description_cha_mission_pope_help_1	Desiderius bristles with defiance, refusing to return the lands stolen by his forebears. March on the Lombard capital, seize it, and establish yourself as the protector of God’s domain on Earth.	true
+missions_localised_description_ch_vc_3_domination	Domination Victory	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_livestock_1	Municipal Construction	true
+missions_localised_description_att_religious_hellenic_construct_bch_religion_grecoroman_minor_1	The Oracle has spoken of great disaster if we do not honour the gods. Our priests recommend we construct a temple to appease them.	true
+missions_localised_description_mk_religious_cathar_construct_bch_religion_cathar_minor_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_description_att_senate_nordic_capture_regions_port_1	The council advises that this port would be an excellent target for our forces.	true
+missions_localised_title_att_senate_eastern_roman_construct_building_economic_1	Municipal Construction	true
+missions_localised_description_att_senate_nordic_recruit_unit_ranged_1	A rock or an arrow can kill man and horse just as effectively as a spear. We should test this theory on the field.	true
+missions_localised_description_att_senate_nordic_construct_bch_barbarian_civic_major_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_senate_eastern_declare_war_1	They have their own king, but he is not the King of Kings. Their lands are rightfully ours for the taking.	true
+missions_localised_title_att_senate_nordic_construct_bch_all_city_major_1	Municipal Construction	true
+missions_localised_title_att_senate_eastern_assassinate_character_agent_female_1	An Early Grave	true
+missions_localised_description_ch_vc_2_long	Long Victory	true
+missions_localised_title_att_senate_nordic_research_technology_civil_1	Civil Developments	true
+missions_localised_description_att_objective_langobards_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_langobards_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_langobards_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_langobards_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_langobards_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_herders_1	While raiding and tribute from the defeated may keep the wolves at bay, we must secure our economy for the future.	true
+missions_localised_title_pro_achieve_food_surplus	Achieve a Food Surplus	true
+missions_localised_title_att_senate_eastern_raise_force_army_1	Military Expansion	true
+missions_localised_title_att_religious_hellenic_construct_bch_religion_grecoroman_major_1	Religious Request	true
+missions_localised_description_att_senate_nomadic_capture_regions_city_1	These infidels defy us! Let us burn their houses and slaughter their livestock.	true
+missions_localised_description_att_objective_garamantes_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_garamantes_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_senate_eastern_roman_capture_regions_city_1	For the glory of the Empire, the Senate asks that we capture this city!	true
+missions_localised_description_att_senate_western_roman_capture_regions_city_1	The Senate asks that we capture this city for the good of the Empire.	true
+missions_localised_description_att_objective_garamantes_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_garamantes_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_garamantes_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_title_att_senate_eastern_roman_raid_region_1	Raid & Plunder	true
+missions_localised_description_att_senate_nordic_recruit_unit_infantry_1	Let us recruit fresh warbands to strike fear into the hearts of our enemies.	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_military_upgrades_1	Military Construction	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_artisan_1	Municipal Construction	true
+missions_localised_description_mk_religious_jewish_construct_building_religious_1	The Sahnedrin requests that we build a synagogue to help the spread of our religion.	true
+missions_localised_description_att_religious_arian_declare_war_1	These heathens practice disgusting acts in the name of their false gods. We must bring them the word of God by fire and sword!	true
+missions_localised_title_att_religious_celtic_convert_region_1	Religious Request	true
+missions_localised_description_att_senate_eastern_roman_recruit_agent_veteran_1	The Senate has identified a number of experienced warriors who would be better served training the men.	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_livestock_1	Municipal Construction	true
+missions_localised_description_att_senate_nomadic_recruit_unit_siege_1	The enemy's walls are high and strong, but we can crack them open like an egg against the rocks!	true
+missions_localised_description_att_senate_western_roman_recruit_agent_veteran_1	The Senate has observed that many of our veterans could better serve us by training the Legions. 	true
+missions_localised_title_att_vc_wonder_1	Minor Victory	true
+missions_localised_title_att_senate_western_roman_construct_building_economic_1	Municipal Construction	true
+missions_localised_title_att_diplomatic_barbarian_assassinate_character_agent_female_1	War Co-ordination	true
+missions_localised_title_pro_placate_petrodava	Placate Petrodava	true
+missions_localised_title_att_senate_western_roman_construct_bch_all_agriculture_1	Municipal Construction	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_all_agriculture_1	Municipal Construction	true
+missions_localised_description_mk_religious_cathar_construct_building_religious_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_title_att_senate_nomadic_engage_force_army_1	The Glory of Battle	true
+missions_localised_description_att_senate_eastern_make_trade_agreement_1	As with the Silk Road that passes through the desert. We should send our traders to lands afar to bring back exotic goods.	true
+missions_localised_title_att_senate_nordic_assassinate_character_agent_female_1	An Early Grave	true
+missions_localised_title_mk_religious_sunni_construct_bch_religion_sunni_minor_1	Religious Request	true
+missions_localised_description_att_senate_nomadic_construct_building_cultural_1	Our war chiefs clamour for diversion from this constant conflict. We should arrange something special for those who lead our forces so skilfully.	true
+missions_localised_title_att_religious_manichaeism_construct_building_1	Religious Request	true
+missions_localised_title_att_diplomatic_nomadic_blockade_port_1	War Co-ordination	true
+missions_localised_title_att_senate_western_roman_lift_blockade_1	Lift Blockade	true
+missions_localised_description_att_senate_nomadic_make_alliance_1	Perhaps we should lend our arms to these people? They will no doubt wish to show their gratitude when the fight is done.	true
+missions_localised_title_att_senate_eastern_roman_lift_blockade_1	Lift Blockade	true
+missions_localised_title_mk_religious_eastern_convert_region_1	Religious Request	true
+missions_localised_description_att_bel_request_antoninia_gems_1	So you will drop by Caesarea for those gems, won’t you, husband? However, do be careful - I know of the savage Berbers and don’t want you playing the hero and losing your life; I prefer a man who lives and gives expensive jewels...	true
+missions_localised_title_att_senate_western_roman_make_alliance_1	A Sure Friend	true
+missions_localised_title_att_senate_nomadic_construct_building_military_1	Military Construction	true
+missions_localised_title_att_senate_eastern_roman_make_alliance_1	A Sure Friend	true
+missions_localised_description_mk_religious_sunni_construct_building_religious_1	The Caliph requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_roman_east_civic_major_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_title_pro_political_actions	Engage in Politics	true
+missions_localised_title_att_senate_eastern_construct_bch_all_military_upgrades_1	Military Construction	true
+missions_localised_title_att_senate_nordic_recruit_unit_cavalry_1	Reinforcements	true
+missions_localised_title_pro_upgrade_city_apulum	Rebuild Apulum	true
+missions_localised_title_cha_mission_carloman_succession	Carloman’s Succession	true
+missions_localised_title_att_religious_zoroastrian_construct_building_religious_1	Religious Request	true
+missions_localised_title_att_senate_eastern_raid_region_1	Raid & Plunder	true
+missions_localised_title_att_objective_lakhmids_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_lakhmids_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_lakhmids_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_lakhmids_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_lakhmids_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_description_att_religious_catholic_convert_region_1	His Holiness the Pope has noticed that the people of this land are not as pious as they should be. He has asked you to rectify this.	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_water_minor_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_roman_water_major_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_description_pro_build_farm_adrianople	Our livestock have no place to graze now that the people are concentrated in towns once more. Converting some countryside around Adrianople to farmland would help sustain us as we seek to rebuild.	true
+missions_localised_title_att_senate_eastern_construct_bch_all_livestock_1	Municipal Construction	true
+missions_localised_description_pro_destroy_rebels_marcianopolis	The Romans continue to struggle with revolts in Thracia, they ask for our assistance in this matter.	true
+missions_localised_title_ch_vc_1_short	Short Victory	true
+missions_localised_description_att_vc_1_jewish	Jewish Victory 	true
+missions_localised_description_att_vc_2_jewish	Jewish Divine Victory	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_west_civic_major_1	Municipal Construction	true
+missions_localised_description_att_objective_sclaveni_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_sclaveni_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_sclaveni_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_sclaveni_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_sclaveni_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_senate_nomadic_research_technology_military_1	Let us learn from our enemies. Their armies are well equipped and supplied, and maintained to the highest standard, that they may endure the privations of campaigning.	true
+missions_localised_description_mk_religious_ibadi_construct_bch_religion_ibadi_minor_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_att_senate_eastern_roman_research_technology_military_1	The might of the Roman Empire outshines all other nations. Our generals have a number of ideas for us to research that may increase it yet further.	true
+missions_localised_description_att_senate_western_roman_research_technology_military_1	The might of the Roman Empire outshines all other nations. Our generals have a number of ideas for us to research that may increase it yet further.	true
+missions_localised_title_att_religious_catholic_construct_bch_religion_catholic_major_1	Religious Request	true
+missions_localised_title_att_religious_germanic_construct_bch_religion_germanic_major_1	Religious Request	true
+missions_localised_title_att_religious_orthodox_construct_bch_religion_orthodox_major_1	Religious Request	true
+missions_localised_description_mk_religious_baltic_declare_war_1	The auguries are clear, the gods demand blood. Let us prepare for war.	true
+missions_localised_description_att_senate_nomadic_recruit_unit_infantry_1	Whilst our horsemen are unsurpassed, we also need infantry if we are to win victory. Cavalry alone can be defeated with massed infantry spears, we must pin them down so our riders can outflank the enemy.	true
+missions_localised_description_att_religious_tengri_declare_war_1	The Qams have communicated with our venerated ancestors. We should prepare for war with these people.	true
+missions_localised_title_att_religious_hellenic_assassinate_character_1	Religious Request	true
+missions_localised_description_att_senate_nomadic_better_king_1	This man plots and schemes against the rightful king. He believes himself more fitting for the crown and has been more that open in saying so. We should deal with him before he strikes.	true
+missions_localised_title_att_senate_nordic_recruit_unit_siege_1	Reinforcements	true
+missions_localised_title_att_senate_nordic_construct_building_cultural_1	Municipal Construction	true
+missions_localised_title_att_senate_western_roman_recruit_unit_infantry_1	Reinforcements	true
+missions_localised_description_slav_mission_sclaveneans_1	The time has come to show these Huns who the real power is here. A strong offensive is the best way to do this; strike out and destroy as many armies as possible. Break the Hunnic resolve and reign supreme over them!	true
+missions_localised_description_slav_mission_sclaveneans_2	The Huns approach and we are ready. We must not flinch or show any signs of weakness. When they fight us, emerge victorious. When they assault our settlements, see that they are hurled back into oblivion.	true
+missions_localised_title_att_senate_eastern_roman_recruit_unit_infantry_1	Reinforcements	true
+missions_localised_description_pro_build_farm_petrodava	Petrodava has space for new construction. See to it that a farm is established there. Such a development will ensure a stable food supply for the people.	true
+missions_localised_title_att_victory_mission_1_success	Success	true
+missions_localised_description_att_diplomatic_western_roman_engage_force_navy_1	Our allies wish this fleet destroyed.	true
+missions_localised_description_att_diplomatic_eastern_roman_engage_force_navy_1	Our allies wish this fleet destroyed.	true
+missions_localised_description_att_religious_germanic_convert_region_1	The old gods grow restless as the people of these lands do not follow our faith. Let us teach them the ways of our people.	true
+missions_localised_title_mk_religious_bogomilist_declare_war_1	Religious Request	true
+missions_localised_description_mk_religious_shia_recruit_agent_1	The Ulama asks that we fund the Madaris and recruit more Mullahs. Our Islamic communities need more leaders.	true
+missions_localised_description_att_victory_mission_2_cultural_victory	Cultural Victory	true
+missions_localised_title_att_eos_religious_mission_build_att_rel_judaism	The Chief Rabbi – Piety	true
+missions_localised_description_att_religious_celtic_declare_war_1	The auguries are clear, the gods demand blood. Let us prepare for war.	true
+missions_localised_description_att_diplomatic_eastern_engage_force_navy_1	Our allies wish this fleet destroyed.	true
+missions_localised_title_att_bel_request_justinian_amalasuntha_1	A Request From Justinian: Amalasuntha	true
+missions_localised_description_att_religious_hellenic_convert_region_1	The people of these lands worship other gods than ours. In the name of Zeus, we should teach them.	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_civic_major_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_title_att_senate_eastern_construct_building_economic_1	Municipal Construction	true
+missions_localised_description_att_religious_arian_construct_building_religious_1	The Bishop asks that we construct a church to hold the sacrosanct tabernacle, and give praise to God on high.	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_water_major_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_title_att_diplomatic_eastern_roman_engage_force_army_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_western_roman_engage_force_army_1	War Co-ordination	true
+missions_localised_description_att_objective_alamanii_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_alamanii_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_alamanii_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_alamanii_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_alamanii_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_senate_nordic_raid_region_1	Our forces should raid their lands, striking fear and respect into their pitiful hearts!	true
+missions_localised_title_mk_religious_sunni_construct_bch_religion_sunni_major_1	Religious Request	true
+missions_localised_title_att_diplomatic_western_roman_engage_force_navy_1	War Co-ordination	true
+missions_localised_title_att_diplomatic_eastern_roman_engage_force_navy_1	War Co-ordination	true
+missions_localised_description_att_diplomatic_eastern_roman_engage_force_army_1	Our allies have asked that we grind this army into the dust.	true
+missions_localised_title_att_religious_catholic_recruit_agent_1	Religious Request	true
+missions_localised_description_att_objective_white_huns_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_white_huns_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_white_huns_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_diplomatic_western_roman_engage_force_army_1	Our allies have asked that we grind this army into the dust.	true
+missions_localised_description_att_objective_white_huns_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_white_huns_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_att_objective_tanukhid_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_tanukhid_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_tanukhid_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_tanukhid_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_tanukhid_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_description_att_senate_eastern_construct_building_economic_1	There are a great number of resources in our lands. Should the King of Kings not profit from them?	true
+missions_localised_description_att_senate_eastern_blockade_port_1	Our spahbed recommends we blockade this port to cut off the enemy's trade.	true
+missions_localised_description_att_diplomatic_eastern_engage_force_army_1	Our allies have asked that we grind this army into the dust.	true
+missions_localised_description_pro_destroy_rebels_thessalonica	Our people have packed up all that they can move, burning or selling the rest. In return for their support, the Romans request that we move against a rebel army near Thessalonica. Let us strike quickly to earn the gratitude of our new friends in Constantinople.	true
+missions_localised_title_att_senate_nordic_recruit_agent_spy_1	Eyes & Ears	true
+missions_localised_description_att_senate_nordic_recruit_agent_veteran_1	Our veterans' exploits are legendary amongst the youth. Let them regale our newer recruits with tales of bravery and war.	true
+missions_localised_title_att_senate_eastern_roman_recruit_unit_ranged_1	Reinforcements	true
+missions_localised_description_att_senate_eastern_roman_make_trade_agreement_1	The Roman Empire is the centre of trade from the east to the west. The Senate feel we should share this wealth with some of our lessers.	true
+missions_localised_description_att_senate_western_roman_make_trade_agreement_1	The Empire is the centre of trade from east to west, and has profited greatly from it. The Senate feels that some of the wealth should be shared with our lesser, though no less deserving citizens.	true
+missions_localised_title_att_senate_western_roman_declare_war_1	Drums of War	true
+missions_localised_title_att_senate_nordic_construct_building_military_1	Military Construction	true
+missions_localised_title_att_vc_1_historical_separatist	Expedition Victory 	true
+missions_localised_description_att_religious_christian_reform_pentarchy_1	One of the Holy Sees has become a den of heretics. The Bishop has demanded that all goodly Christians help restore the true faith there.	true
+missions_localised_title_pro_build_farm_petrodava	Build a Farm in Petrodava	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_water_major_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_description_att_senate_western_roman_recruit_unit_infantry_1	Since Marius' time the army has been the Empire's right arm. We must see that it remains so.	true
+missions_localised_description_att_senate_eastern_roman_recruit_unit_infantry_1	Since the times of Marius our infantry has been the backbone of the army. The Senate asks that it be strengthened.	true
+missions_localised_title_att_senate_nomadic_construct_bch_nomad_noble_1	Municipal Construction	true
+missions_localised_title_att_senate_nomadic_better_king_1	A Better King?	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_civic_major_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_roman_water_minor_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_description_att_religious_zoroastrian_construct_building_religious_1	The Magi ask us to build a temple to hold both the Atar and Aban so that the faithful may commit their offerings to the purifying flames.	true
+missions_localised_title_att_senate_western_roman_construct_bch_roman_west_civic_minor_1	Municipal Construction	true
+missions_localised_description_att_senate_eastern_raid_region_1	Let us decimate the enemy's lands and burn their farms!	true
+missions_localised_title_att_religious_orthodox_convert_region_1	Religious Request	true
+missions_localised_description_mk_religious_ibadi_construct_bch_religion_ibadi_major_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_att_senate_nordic_recruit_unit_cavalry_1	Our infantry would be more effective if its flanks were guarded by cavalry. We should recruit some with haste.	true
+missions_localised_title_cha_mission_asturias_1	Papal Stakes	true
+missions_localised_description_att_senate_eastern_construct_bch_all_military_upgrades_1	Building more military buildings would only further the glory of the King of Kings.	true
+missions_localised_title_att_religious_catholic_construct_bch_religion_catholic_minor_1	Religious Request	true
+missions_localised_title_att_religious_germanic_construct_bch_religion_germanic_minor_1	Religious Request	true
+missions_localised_title_att_religious_orthodox_construct_bch_religion_orthodox_minor_1	Religious Request	true
+missions_localised_description_mk_religious_ibadi_construct_building_religious_1	The Ulama requests that we build a mosque to help the spread of our religion.	true
+missions_localised_title_att_senate_nordic_recruit_unit_naval_1	Reinforcements	true
+missions_localised_description_att_senate_eastern_construct_bch_all_livestock_1	There are a great number of resources in our lands. Should the King of Kings not profit from them?	true
+missions_localised_title_pro_destroy_rebels_marcianopolis	Defeat the Rebels at Marcianopolis	true
+missions_localised_description_att_senate_nordic_construct_building_economic_1	We should better exploit the resources available to us, we could get more from the land.	true
+missions_localised_title_cha_mission_cordoba_caliphate	The Caliphate of Cordoba	true
+missions_localised_description_pro_build_torp_adrianople	The civic facilities in Adrianople will need converting if we are to make full use of them. Put men to work on the task.	true
+missions_localised_description_pro_engage_hun_third_wave	Our new Roman friends are unlikely to be pleased that the Huns have been drawn across the Danube. We should push them back before they can do too much damage.	true
+missions_localised_description_att_senate_eastern_research_technology_military_1	Our greatest minds should be put to use developing new warfare techniques to surprise our enemies.	true
+missions_localised_title_att_objective_vandals_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_vandals_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_vandals_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_vandals_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_vandals_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_senate_eastern_roman_recruit_unit_cavalry_1	Reinforcements	true
+missions_localised_title_att_senate_western_roman_recruit_unit_cavalry_1	Reinforcements	true
+missions_localised_title_att_senate_western_roman_recruit_unit_ranged_1	Reinforcements	true
+missions_localised_title_att_senate_eastern_roman_declare_war_1	Drums of War	true
+missions_localised_title_att_senate_eastern_research_technology_civil_1	Civil Developments	true
+missions_localised_description_att_senate_western_roman_lift_blockade_1	The Empire's sea trade routes have been severed. The Senate implores us to restore them at once.	true
+missions_localised_description_att_senate_eastern_roman_lift_blockade_1	The Empire's sea trade routes have been severed. The Senate implores us to restore them at once.	true
+missions_localised_title_att_senate_nomadic_construct_building_cultural_1	Municipal Construction	true
+missions_localised_title_att_vc_1_pagan	Pagan Victory	true
+missions_localised_title_att_vc_2_pagan	Pagan Divine Victory	true
+missions_localised_title_att_religious_germanic_recruit_agent_1	Religious Request	true
+missions_localised_title_att_religious_orthodox_recruit_agent_1	Religious Request	true
+missions_localised_description_att_senate_eastern_construct_bch_eastern_sassanid_civic_minor_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_description_att_senate_nomadic_construct_building_military_1	New training camps would give us stronger and faster horsemen with which to bring our enemies to their knees.	true
+missions_localised_description_att_senate_western_roman_make_alliance_1	While not desirable under normal circumstances, the Senate feels that an alliance with these people would be in the best interests of the Empire at this time.	true
+missions_localised_description_att_senate_eastern_roman_make_alliance_1	While not easy, the Senate feels that an alliance with these people would be in the best interests of the Empire.	true
+missions_localised_description_att_senate_eastern_roman_construct_bch_roman_civic_major_1	The Senate feels that a new cultural monument would improve our standing among the people.	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_water_minor_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_title_att_bel_request_antoninia_gems_1	A Request From Antonina: Gems	true
+missions_localised_description_pro_engage_hun_first_wave	The Huns are gathering to attack! Their numbers are great, but we must defeat them in battle. See it is done.	true
+missions_localised_description_att_objective_burgundians_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_burgundians_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_burgundians_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_test_victory_mission_military	Military Test Victory	true
+missions_localised_description_att_objective_burgundians_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_burgundians_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_objective_sclaveni_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_sclaveni_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_sclaveni_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_sclaveni_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_sclaveni_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_description_att_senate_nomadic_weak_leader_5	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_nomadic_weak_leader_4	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_nomadic_weak_leader_7	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_nomadic_weak_leader_6	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_west_civic_major_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_description_att_senate_nomadic_weak_leader_1	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_nomadic_weak_leader_3	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_description_att_senate_eastern_recruit_unit_cavalry_1	With more horsemen we could drive our enemies before us like the winds of the desert!	true
+missions_localised_description_att_senate_nomadic_weak_leader_2	Our king has become weak and infirm, making rash decisions so that we appear weak to our neighbours. For the good of the Tribe he should be removed so a more suitable candidate can lead the hordes.	true
+missions_localised_title_att_senate_eastern_roman_research_technology_military_1	Military Developments	true
+missions_localised_title_att_senate_western_roman_research_technology_military_1	Military Developments	true
+missions_localised_title_mk_religious_ibadi_construct_bch_religion_ibadi_minor_1	Religious Request	true
+missions_localised_title_att_religious_hellenic_recruit_agent_1	Religious Request	true
+missions_localised_description_cha_objective_cha_avars_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_avars_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_avars_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_avars_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_avars_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_att_senate_nordic_construct_building_cultural_1	We should honour our people and culture by constructing buildings to enrich them.	true
+missions_localised_description_att_senate_eastern_recruit_unit_infantry_1	Our lack of infantry is a growing concern among the generals. They ask that we address this issue.	true
+missions_localised_title_mk_religious_shia_construct_bch_religion_shia_minor_1	Religious Request	true
+missions_localised_title_att_religious_germanic_convert_region_1	Religious Request	true
+missions_localised_description_mk_religious_shia_assassinate_character_1	This man is a blasphemer and an infidel. A fatwa has been issued calling for his death.	true
+missions_localised_description_att_senate_nordic_research_technology_military_1	Other nations are developing ways of increasing their military might. We should do the same lest we be left behind or swept away.	true
+missions_localised_title_att_senate_nomadic_construct_building_economic_1	Municipal Construction	true
+missions_localised_title_att_senate_nordic_make_trade_agreement_1	Trade Matters	true
+missions_localised_description_att_eos_religious_mission_build_att_rel_judaism	We humbly beseech your lordship to return to the practices that have served us so well. Provide us with four new religious structures and your rewards will be both temporal and spiritual.	true
+missions_localised_description_att_bel_request_justinian_amalasuntha_1	Go to Reate in Italy and free the Ostrogothic queen. In doing so, you will save countless lives and preserve our best hope of reclaiming Italy for the Empire. I am relying on you, Belisarius.	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_civic_major_1	Municipal Construction	true
+missions_localised_title_att_religious_hellenic_convert_region_1	Religious Request	true
+missions_localised_description_att_senate_western_roman_blockade_port_1	Our merchants have confirmed that this port is vital to the enemy's trade network. We should blockade it at once.	true
+missions_localised_description_att_senate_eastern_roman_blockade_port_1	Merchants have informed us that this port is key to the enemy's trade. It must be blockaded.	true
+missions_localised_title_att_objective_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_diplomatic_barbarian_assassinate_character_general_1	War Co-ordination	true
+missions_localised_description_att_religious_zoroastrian_convert_region_1	While the Mobads tolerate other faiths, our people suffer from religious divisions. They have asked that we help quell the unrest.	true
+missions_localised_description_att_diplomatic_nomadic_engage_force_navy_1	Our allies wish this fleet destroyed.	true
+missions_localised_description_cha_mission_avar_khaganate	Extend your influence, carve out a kingdom in these lands and build a legacy that will last the ages! Do this and eternal glory shall be yours - all will know and revere your name!	true
+missions_localised_description_mk_religious_sunni_construct_bch_religion_sunni_minor_1	The Caliph requests that we build a mosque to help the spread of our religion.	true
+missions_localised_description_att_objective_sassanids_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_sassanids_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_cha_objective_cha_danes_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_description_att_objective_sassanids_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_cha_objective_cha_danes_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_att_objective_sassanids_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_cha_objective_cha_danes_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_att_objective_sassanids_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_cha_objective_cha_danes_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_danes_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_title_att_senate_eastern_construct_building_military_1	Military Construction	true
+missions_localised_description_att_senate_eastern_lift_blockade_1	Enemy fleets have blockaded our port and are no doubt preparing an attack. Our generals ask us to deal with this.	true
+missions_localised_description_att_mp_versus_separatist	Head-to-Head Separatist Victory	true
+missions_localised_title_att_senate_eastern_engage_force_army_1	The Glory of Battle	true
+missions_localised_description_att_senate_eastern_construct_building_cultural_1	Our governors petition the King of Kings for new civic buildings so our administration may be enlightened.	true
+missions_localised_title_att_diplomatic_eastern_blockade_port_1	War Co-ordination	true
+missions_localised_description_att_senate_eastern_make_alliance_1	If we were to ally with these people, they would benefit from our great enlightenment.	true
+missions_localised_description_att_victory_mission_2_military_victory	Military Victory	true
+missions_localised_title_att_senate_eastern_roman_construct_bch_roman_east_civic_major_1	Municipal Construction	true
+missions_localised_description_cha_mission_carloman_succession	Seize this opportunity, capture Carloman's capital, if we can deal his supporters this crushing blow then we will remove all doubts about our ownership of these lands.	true
+missions_localised_description_pro_upgrade_city_apulum	Apulum's fortification could make for an impressive demonstration of Visigothic power, but lie in ruins after our recent attack. Rebuild and strengthen the city to assert our dominance over the province.	true
+missions_localised_title_att_vc_1_historical_expedition	Separatist Victory	true
+missions_localised_description_att_objective_lakhmids_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_lakhmids_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_lakhmids_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_lakhmids_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_lakhmids_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_water_minor_1	Municipal Construction	true
+missions_localised_title_att_religious_catholic_convert_region_1	Religious Request	true
+missions_localised_description_att_objective_visigoths_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_visigoths_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_visigoths_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_visigoths_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_description_att_objective_visigoths_primary_1_seal_2	"They made ready for war."	true
+missions_localised_title_att_senate_nomadic_raid_region_1	Raid & Plunder	true
+missions_localised_description_att_test_victory_mission_economic	Economic Test Victory	true
+missions_localised_title_att_vc_1_jewish	Jewish Victory 	true
+missions_localised_title_att_vc_2_jewish	Jewish Divine Victory	true
+missions_localised_description_att_senate_western_roman_construct_bch_roman_west_civic_minor_1	The Senate feel that a new cultural monument will improve our standing with the ordinary people of the Empire.	true
+missions_localised_title_mk_religious_ibadi_construct_bch_religion_ibadi_major_1	Religious Request	true
+missions_localised_description_att_religious_orthodox_convert_region_1	The Patriarch has sent a missive, requesting that this region be brought into the Orthodoxy.	true
+missions_localised_description_att_senate_nomadic_raid_region_1	The enemy show us no respect. Let us raid and pillage their lands until they understand just who they are disrespecting.	true
+missions_localised_title_cha_objective_cha_charlemagne_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_charlemagne_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_att_senate_nordic_construct_building_economic_1	Municipal Construction	true
+missions_localised_title_cha_objective_cha_charlemagne_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_charlemagne_primary_1_seal_2	A Broken World	true
+missions_localised_title_cha_objective_cha_charlemagne_primary_2_seal_3	The Name of the King	true
+missions_localised_title_att_objective_visigoths_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_att_objective_visigoths_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_visigoths_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_visigoths_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_visigoths_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_description_att_religious_manichaeism_convert_region_1	Whilst the Leader is tolerant of other faiths, our people suffer from religious divisions. They have asked that we help quell the unrest.	true
+missions_localised_title_att_senate_eastern_engage_force_navy_1	To the Depths	true
+missions_localised_title_mk_religious_shia_construct_bch_religion_shia_major_1	Religious Request	true
+missions_localised_title_att_mp_versus_separatist	Head-to-Head Separatist Victory	true
+missions_localised_description_att_senate_eastern_roman_recruit_unit_cavalry_1	A balanced army is a successful one. We are lacking cavalry and should address this.	true
+missions_localised_description_att_senate_western_roman_recruit_unit_cavalry_1	A wily general recognises that a balanced force is most desirable. As such, we should recruit cavalry as soon as possible.	true
+missions_localised_description_att_senate_nomadic_recruit_unit_cavalry_1	Our horsemen strike fear into our enemies' heart. Let us add to that fear!	true
+missions_localised_description_att_senate_eastern_construct_building_military_1	Building more military buildings would only further the glory of the King of Kings.	true
+missions_localised_description_cha_objective_cha_cordoba_primary_5_seal_6	“United, the glory of Europe is revealed. Let no man strike asunder what the true king has created!”	true
+missions_localised_description_cha_objective_cha_cordoba_primary_4_seal_5	“Through his mighty deeds, the king must build a legacy. Thus inured to the destructive power of time and death, he will endure.”	true
+missions_localised_description_cha_objective_cha_cordoba_primary_3_seal_4	“Foes dash themselves against the true king’s forces like waves on a shore. Resolute, his progress does not falter.”	true
+missions_localised_description_cha_objective_cha_cordoba_primary_2_seal_3	“Before he may stake his claim as master of this land, the name of the true king must echo to the four corners of the realm.”	true
+missions_localised_description_cha_objective_cha_cordoba_primary_1_seal_2	“Petty lords tear like dogs at the carcass of Europe. A true king must rise and scatter these pretenders.”	true
+missions_localised_title_att_objective_sassanids_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_cha_objective_cha_danes_primary_4_seal_5	A Legacy Forged	true
+missions_localised_title_att_objective_sassanids_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_title_cha_objective_cha_danes_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_danes_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_att_objective_sassanids_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_sassanids_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_cha_objective_cha_danes_primary_2_seal_3	The Name of the King	true
+missions_localised_title_att_objective_sassanids_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_cha_objective_cha_danes_primary_1_seal_2	A Broken World	true
+missions_localised_title_att_religious_orthodox_assassinate_character_1	Religious Request	true
+missions_localised_title_att_religious_germanic_assassinate_character_1	Religious Request	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_civic_minor_1	Municipal Construction	true
+missions_localised_title_att_senate_nomadic_research_technology_civil_1	Civil Developments	true
+missions_localised_description_att_objective_bel_vandals_primary_2_seal_3	"An ashen sky portends dark times for us all. Yet we will persevere, and choke our enemies with ash and smog."	true
+missions_localised_description_att_objective_bel_vandals_primary_1_seal_2	"Hard-won victories are threatened by the baleful and desperate eyes of the past. The beleaguered Emperor sends his men to reclaim his foregone Empire. They will find only failure against this new kingdom!"	true
+missions_localised_title_att_senate_eastern_construct_building_cultural_1	Municipal Construction	true
+missions_localised_description_att_objective_bel_vandals_primary_5_seal_6	"Our achievements are beyond counting. Whoever stands against us already collapses, and cannot hope to survive for long. And so we go, to forge a new world from the ashes of the old!"	true
+missions_localised_description_att_objective_bel_vandals_primary_4_seal_5	"The world is now forever changed. Empires of old have crumbled, giving way to a new, greater power. Let us extend that reach, solidifying our victory forever!"	true
+missions_localised_description_att_objective_bel_vandals_primary_3_seal_4	"The old world of Empires is dying. Yet a new world of kings is rising, and only those with the strength to survive are guaranteed a place. We have that strength!"	true
+missions_localised_description_att_objective_caledonians_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_caledonians_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_caledonians_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_description_att_objective_caledonians_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_caledonians_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_objective_alamanii_primary_5_seal_6	Chapter V: Absolution	true
+missions_localised_title_att_objective_alamanii_primary_4_seal_5	Chapter IV: Retribution	true
+missions_localised_title_att_objective_alamanii_primary_3_seal_4	Chapter III: Devastation	true
+missions_localised_title_att_objective_alamanii_primary_2_seal_3	Chapter II: Desolation	true
+missions_localised_title_att_objective_alamanii_primary_1_seal_2	Chapter I: Preparation	true
+missions_localised_description_mk_religious_sunni_construct_bch_religion_sunni_major_1	The Caliph requests that we build a mosque to help the spread of our religion.	true
+missions_localised_title_att_senate_nordic_raid_region_1	Raid & Plunder	true
+missions_localised_description_att_senate_nomadic_construct_building_economic_1	While raiding and tribute from the defeated may keep the wolves at bay, we must secure our economy for the future.	true
+missions_localised_description_att_senate_nordic_make_trade_agreement_1	Our enemies profit from trade so why should we not? Let us send our merchants afar so our coffers may be filled.	true
+missions_localised_description_mk_religious_cathar_declare_war_1	Innocents are under attack from intolerant and violent individuals, we must reluctantly take up arms to defend them in the name of the Lord.	true
+missions_localised_description_att_senate_nomadic_construct_bch_nomad_community_1	Our war chiefs clamour for diversion from this constant conflict. We should arrange something special for those who lead our forces so skilfully.	true
+missions_localised_title_att_senate_nordic_research_technology_military_1	Military Developments	true
+missions_localised_description_att_diplomatic_nomadic_engage_force_army_1	Our allies have asked that we grind this army into the dust.	true
+missions_localised_description_att_test_victory_mission_cultural	Cultural Test Victory	true
+missions_localised_description_att_objective_tanukhid_primary_5_seal_6	"The day of reckoning has come."	true
+missions_localised_title_cha_mission_vikings_1	Restless Warriors	true
+missions_localised_description_att_objective_tanukhid_primary_3_seal_4	"Abandon all hope."	true
+missions_localised_description_att_objective_tanukhid_primary_4_seal_5	"There will be no mercy for the wicked."	true
+missions_localised_description_att_objective_tanukhid_primary_1_seal_2	"They made ready for war."	true
+missions_localised_description_att_objective_tanukhid_primary_2_seal_3	"Attila was born from darkness and despair."	true
+missions_localised_title_att_religious_catholic_assassinate_character_1	Religious Request	true
+missions_localised_description_att_diplomatic_barbarian_assassinate_character_general_1	Our ally has marked this general for death.	true
+missions_localised_title_att_senate_western_roman_blockade_port_1	Blockade	true
+missions_localised_description_att_senate_nordic_capture_regions_own_settlement_1	Our chieftains clamour for blood! The enemy has cut us deeply, let us teach them not to defile our lands.	true
+missions_localised_description_att_religious_catholic_construct_bch_religion_catholic_legendary_1	His Holiness requests that you build a monument to the Lord in these lands so that the pious may worship.	true
+missions_localised_description_att_religious_orthodox_construct_bch_religion_orthodox_legendary_1	The Patriarch requests that we build a church to help the spread of our religion.	true
+missions_localised_title_att_senate_eastern_roman_blockade_port_1	Blockade	true
+missions_localised_title_pro_destroy_rebels_thessalonica	Defeat the Rebels at Thessalonica	true
+missions_localised_description_att_senate_nordic_assassinate_character_general_1	This man deserves nothing less than death's cold embrace. We should see that he receives it.	true
+missions_localised_title_att_senate_eastern_roman_make_trade_agreement_1	Trade Matters	true
+missions_localised_title_att_senate_western_roman_make_trade_agreement_1	Trade Matters	true
+missions_localised_description_att_vc_1_christian	Christian Victory	true
+missions_localised_description_att_vc_2_christian	Christian Divine Victory 	true
+missions_localised_description_att_senate_nordic_construct_building_military_1	Let us build better training facilities and armouries so that all may learn to defend themselves with spear and sling.	true
+missions_localised_title_att_senate_nomadic_weak_leader_1	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_2	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_3	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_4	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_5	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_6	A Weak Leader	true
+missions_localised_title_att_senate_nomadic_weak_leader_7	A Weak Leader	true
+missions_localised_title_att_senate_eastern_construct_bch_eastern_sassanid_water_major_1	Municipal Construction	true
+missions_localised_description_mk_religious_jewish_declare_war_1	The chosen nation cannot stand idle while its enemies circle its borders. War must be brought on our own terms.	true
+missions_localised_title_cha_objective_cha_avars_primary_1_seal_2	A Broken World	true
+missions_localised_title_cha_objective_cha_avars_primary_2_seal_3	The Name of the King	true
+missions_localised_title_cha_objective_cha_avars_primary_5_seal_6	 Europe Reborn	true
+missions_localised_title_cha_objective_cha_avars_primary_3_seal_4	The Tides of War	true
+missions_localised_title_cha_objective_cha_avars_primary_4_seal_5	A Legacy Forged	true

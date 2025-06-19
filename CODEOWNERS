@@ -1,0 +1,3 @@
+# CODEOWNERS
+*.loc.tsv   @mshdevtech
+_upstream/* @mshdevtech

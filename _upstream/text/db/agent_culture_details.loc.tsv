@@ -1,0 +1,54 @@
+key	text	tooltip
+#Loc;1;text/db/agent_culture_details.loc		
+agent_culture_details_onscreen_name_381	General	true
+agent_culture_details_onscreen_name_287	General	true
+agent_culture_details_onscreen_name_288	General	true
+agent_culture_details_onscreen_name_389	General	true
+agent_culture_details_onscreen_name_290	General	true
+agent_culture_details_onscreen_name_291	Assassin	true
+agent_culture_details_onscreen_name_395	General	true
+agent_culture_details_onscreen_name_297	Assassin	true
+agent_culture_details_onscreen_name_398	General	true
+agent_culture_details_onscreen_name_341	Captain	true
+agent_culture_details_onscreen_name_342	General	true
+agent_culture_details_onscreen_name_350	General	true
+agent_culture_details_onscreen_name_351	Imam	true
+agent_culture_details_onscreen_name_357	Spy	true
+agent_culture_details_onscreen_name_359	Assassin	true
+agent_culture_details_onscreen_name_365	Priest	true
+agent_culture_details_onscreen_name_367	Spy	true
+agent_culture_details_onscreen_name_270	Captain	true
+agent_culture_details_onscreen_name_372	Assassin	true
+agent_culture_details_onscreen_name_305	Shaman	true
+agent_culture_details_onscreen_name_310	Priest	true
+agent_culture_details_onscreen_name_319	Spy	true
+agent_culture_details_onscreen_name_322	Spy	true
+agent_culture_details_onscreen_name_225	Captain	true
+agent_culture_details_onscreen_name_333	Agent	true
+agent_culture_details_onscreen_name_336	Captain	true
+agent_culture_details_description_text_398	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_290	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_291	A master of the art of war, specialised in military training, inflicting casualties and causing damage.	true
+agent_culture_details_description_text_395	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_297	A master of the art of war, specialised in military training, inflicting casualties and causing damage.	true
+agent_culture_details_description_text_288	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_389	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_381	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_287	PLACEHOLDER	true
+agent_culture_details_description_text_270	PLACEHOLDER	true
+agent_culture_details_description_text_372	A master of the art of war, specialised in military training, inflicting casualties and causing damage.	true
+agent_culture_details_description_text_365	A proponent of the faith and an inspiration to all, whose words can just as readily demoralise or distract.	true
+agent_culture_details_description_text_367	Subterfuge personified, an expert in reconnaissance and key to hindering the enemy.	true
+agent_culture_details_description_text_359	A master of the art of war, specialised in military training, inflicting casualties and causing damage.	true
+agent_culture_details_description_text_350	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_351	A proponent of the faith and an inspiration to all, whose words can just as readily demoralise or distract.	true
+agent_culture_details_description_text_357	Subterfuge personified, an expert in reconnaissance and key to hindering the enemy.	true
+agent_culture_details_description_text_341	text_rejected	true
+agent_culture_details_description_text_342	Generals and admirals are used to command armies and fleets in battle. Their command rating influences the effectiveness with which their army or fleet fights. Generals can be assigned useful skills and household members or objects as they gain experience in battle and increase in rank. They can also be assigned cursus honorum offices to convey additional bonuses.	true
+agent_culture_details_description_text_333	PLACEHOLDER	true
+agent_culture_details_description_text_336	text_rejected	true
+agent_culture_details_description_text_322	Subterfuge personified, an expert in reconnaissance and key to hindering the enemy.	true
+agent_culture_details_description_text_225	PLACEHOLDER	true
+agent_culture_details_description_text_319	Subterfuge personified, an expert in reconnaissance and key to hindering the enemy.	true
+agent_culture_details_description_text_310	A proponent of the faith and an inspiration to all, whose words can just as readily demoralise or distract.	true
+agent_culture_details_description_text_305	A proponent of the faith and an inspiration to all, whose words can just as readily demoralise or distract.	true

@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/stances.loc		
+stances_onscreen_protector	(Placeholder)Protector	true
+stances_onscreen_client_state	(Placeholder)Client State	true
+stances_onscreen_war	War	true
+stances_onscreen_master	(Placeholder)Overlord	true
+stances_onscreen_neutral	Neutral	true
+stances_onscreen_military_allies	(Placeholder)Allied	true
+stances_onscreen_vassal	(Placeholder)Vassal	true
+stances_onscreen_defensive_allies	(Placeholder)Defensive Alliance	true

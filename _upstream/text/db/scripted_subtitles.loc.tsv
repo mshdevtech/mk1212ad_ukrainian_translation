@@ -1,0 +1,73 @@
+key	text	tooltip
+#Loc;1;text/db/scripted_subtitles.loc		
+scripted_subtitles_localised_text_Att.Pro.Olbia.Intro_01	AD370	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.Intro_02	Olbia, on the Black Sea coast, is the principle settlement of the Visigothic people.	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.Intro_03	The Visigothic soldiers are on full alert. The latest battle of a long civil war is looming.	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.Intro_04	The Ostrogoths, a rival faction of the Gothic peoples, are attacking once again.	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.Intro_05	Olbia's defences must hold against the Ostrogoth attack if the Visigoths are to survive.	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.First_Hunnic_Attack_01	Chieftain, another attack has been sighted!	true
+scripted_subtitles_localised_text_Att.Pro.Olbia.Ostrogoth_Victory_01	The Ostrogoths run for their lives! Victory is ours!	true
+scripted_subtitles_localised_text_Att.HB.UT.Intro_04	The Roman general Arnegisclus has amassed a great force in an effort to stop Attila.	true
+scripted_subtitles_localised_text_Att.HB.UT.Intro_05	The two armies meet in combat on the banks of the Utus river.	true
+scripted_subtitles_localised_text_Att.HB.UT.Intro_01	AD447	true
+scripted_subtitles_localised_text_Att.HB.UT.Intro_02	Hostilities have been declared between the Huns and the Eastern Roman Empire following the cancellation of an annual tribute of gold.	true
+scripted_subtitles_localised_text_Att.HB.UT.Intro_03	The Hunnic king Attila and his army have stormed the Balkan regions that belong to the Eastern Empire.	true
+scripted_subtitles_localised_text_Att.HB.CP.Intro_04	The Romans have found an unlikely ally in the form of Theodoric I, King of the Visigoths.	true
+scripted_subtitles_localised_text_Att.HB.CP.Intro_05	Intercepting Attila on the Catalaunian Plains, the two sides meet in battle.	true
+scripted_subtitles_localised_text_Att.HB.CP.Intro_01	20th June, AD451	true
+scripted_subtitles_localised_text_Att.HB.CP.Intro_02	Attila the Hun has begun storming through Gaul, sacking numerous towns.	true
+scripted_subtitles_localised_text_Att.HB.CP.Intro_03	Fearing an attack on Northen Italy, Magister Militum Flavius Aetius has mustered an army in an effort to resist the Hunnic advance.	true
+scripted_subtitles_localised_text_Att.HB.FR.Intro_04	Theodosius' legions are bolstered by his Visigothic allies, led by their chieftain Alaric.	true
+scripted_subtitles_localised_text_Att.HB.FR.Intro_05	The two sides finally clash on the banks of Frigidus River. The future of the Empire will be decided on this battlefield.	true
+scripted_subtitles_localised_text_Att.HB.FR.Intro_01	6th September, AD394	true
+scripted_subtitles_localised_text_Att.HB.FR.Intro_02	Pagan-sympathiser Eugenius, leader of the Western Empire, contests the Christianisation of Rome.	true
+scripted_subtitles_localised_text_Att.HB.FR.Intro_03	The Eastern Emperor Theodosius I, a devout Christian, has marched an army from the East to challenge Eugenius.	true
+scripted_subtitles_localised_text_Att.Pro.Intro_04	Yet unknown to either a greater menace approaches the Roman world. The Huns are coming, and those in the path of the hordes are faced with a stark choice: whether to flee or to die.	true
+scripted_subtitles_localised_text_Att.Pro.Intro_05	Already engaged in a struggle of their own, the Goths will soon face this decision. What began as a civil war between Gothic nations will end with their permanent displacement into Roman lands, Huns at the borders of the Empire, and an Emperor lying dead on the battlefield...	true
+scripted_subtitles_localised_text_Att.Pro.Intro_02	From its seat in Mediolanum, the corrupt and elitist Western Senate struggles against military revolts and continuous barbarian raids in the north.	true
+scripted_subtitles_localised_text_Att.Pro.Intro_03	The Eastern court, ruled from Constantinople, must contend with religious turmoil and the threat of the Sassanids in the East.	true
+scripted_subtitles_localised_text_Att.Pro.Intro_01	It is AD370, almost 400 years since the formation of the Empire. Previously unchallenged in the Mediterranean, Rome is no longer the power it once was. The Romans now find themselves so beset that the Empire itself has split in two.	true
+scripted_subtitles_localised_text_Att.HB.AD.Intro_04	The two armies will meet on the Mediterranean coast.	true
+scripted_subtitles_localised_text_Att.HB.AD.Intro_01	13th September, AD533	true
+scripted_subtitles_localised_text_Att.HB.AD.Intro_02	General Belisarius of the Eastern Roman Empire has invaded North Africa in the hope of reconquering the province.	true
+scripted_subtitles_localised_text_Att.HB.AD.Intro_03	Warned of an imminent attack, King Gelimer of the Vandal Kingdom has set his forces up at Ad Decimum.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_08	The Romans know, therefore, that battle will soon be upon them.	true
+scripted_subtitles_localised_text_Att.HB.CA.Intro_04	A number of Western Roman captains have been bribed and now fight alongside the Vandals.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_04	Belisarius must reverse the tide of the war, which has been moving against the Romans.	true
+scripted_subtitles_localised_text_Att.HB.RA.Intro_04	The fall of Ravenna would mark the end of Roman rule over Italy.	true
+scripted_subtitles_localised_text_Att.HB.SA.Intro_04	In an effort to demoralise and starve out the Romans, the Sassanids have sent multiple skirmishing forces to harrass them.	true
+scripted_subtitles_localised_text_Att.HB.CA.Intro_05	Defeating the Romans at Cartagena would surely end their ambitions of reconquering Africa.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_05	He is fortifying the city of Dara, which lies close to the enemy border. The Sassanids have sent an army, under Perozes, to stop him.	true
+scripted_subtitles_localised_text_Att.HB.SA.Intro_05	The Sassanid army now attacks at Samarra in an effort to put an end to the war.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_06	Outnumbered, the Romans have dug a trench before the walls to aid the city's defence.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_07	Perozes has sent word to Belisarius that a bath should be prepared for him in the city.	true
+scripted_subtitles_localised_text_Att.HB.CA.Intro_01	13th May, AD461	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_01	AD530.	true
+scripted_subtitles_localised_text_Att.HB.RA.Intro_01	2nd September, AD476	true
+scripted_subtitles_localised_text_Att.HB.SA.Intro_01	26th June, AD363	true
+scripted_subtitles_localised_text_Att.HB.CA.Intro_02	The Roman Emperor Majorian has constructed a fleet with which he plans to invade Vandal-occupied North Africa.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_02	The Roman and Sassanid Empires are at war.	true
+scripted_subtitles_localised_text_Att.HB.RA.Intro_02	The Heruli, a foederatus of the Western Roman Empire, have revolted. They are led by their king, Odoacer.	true
+scripted_subtitles_localised_text_Att.HB.SA.Intro_02	Emperor Julian of the Eastern Roman Empire has led an expedition into Persia.	true
+scripted_subtitles_localised_text_Att.HB.CA.Intro_03	Aware of the possibility of attack, the Vandals have struck first, before the Roman fleet becomes unbeatable.	true
+scripted_subtitles_localised_text_Att.HB.DA.Intro_03	The Roman Emperor, Justinian, has appointed the young Belisarius as commander of his army in the east.	true
+scripted_subtitles_localised_text_Att.HB.RA.Intro_03	The remnants of the Roman army in Italy now gather to defend the capital, Ravenna, from Odoacer's advance.	true
+scripted_subtitles_localised_text_Att.HB.SA.Intro_03	Unable to capture the Sassanid capital, Ctesiphon, Julian has pulled his forces back to the north.	true
+scripted_subtitles_localised_text_Att.HB.CB.Intro_04	Another Roman fleet, sailing from Sardinia, attacks from the East.	true
+scripted_subtitles_localised_text_Att.HB.CB.Intro_05	The Vandals must now use every weapon in their arsenal to resist the Roman assault.	true
+scripted_subtitles_localised_text_Att.HB.CB.Intro_01	AD468	true
+scripted_subtitles_localised_text_Att.HB.CB.Intro_02	Following the sack of Rome in AD455, the two halves of the Roman Empire have devised a plan to punish the Vandal king Gaiseric.	true
+scripted_subtitles_localised_text_Att.HB.CB.Intro_03	A Roman fleet led by Basiliscus attacks from the West, sailing past Vandal-occupied Carthage.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_04	Outnumbered, the Goths are encamped on top of a hill. Despite marching all day, the Romans have numerical superiority and move to attack.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_05	Yet unknown to the Romans the Gothic cavalry is not far away. They will surely return to the camp in time.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_06	The Goths must hold out against the Roman attack until their mounted reinforcements arrive.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_01	9th August, AD378	true
+scripted_subtitles_localised_text_Att.HB.AN.Outro_01	The death of Valens and the destruction of his army meant the survival of the Gothic people within the Empire.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_02	Adrianopolis, Thracia.	true
+scripted_subtitles_localised_text_Att.HB.AN.Outro_02	The Romans would no longer remain unchallenged within their own borders. The invasion of the Goths would foreshadow a wider migration, driven by the Huns, into Roman lands.	true
+scripted_subtitles_localised_text_Att.HB.AN.Intro_03	The Emperor Valens is personally leading a Roman army towards Adrianople in an effort to crush the Goths.	true
+scripted_subtitles_localised_text_Att.HB.AN.Outro_03	These migrations would lead to the sack of Rome and contribute to the collapse of the Western Empire.	true
+scripted_subtitles_localised_text_Att.HB.SO.Intro_04	The capture of Soissons would double the size of the nascent Frankish kingdom.	true
+scripted_subtitles_localised_text_Att.HB.SO.Intro_01	AD486	true
+scripted_subtitles_localised_text_Att.HB.SO.Intro_02	The Western Roman Empire has collapsed. A rump state, the Domain of Soissons, remains in Gaul, led by Syagrius.	true
+scripted_subtitles_localised_text_Att.HB.SO.Intro_03	However, Syagrius' lands are coveted by the neighbouring Franks. The Frankish king Clovis I has challenged him to battle.	true
