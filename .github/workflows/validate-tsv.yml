@@ -1,0 +1,22 @@
+name: Validate TSV
+
+on:
+  pull_request:
+    paths: ["text/db/*.loc.tsv", "scripts/validate_tsv.py"]
+
+jobs:
+  tsv-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pandas
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+
+      - name: Run validator
+        run: python scripts/validate_tsv.py
