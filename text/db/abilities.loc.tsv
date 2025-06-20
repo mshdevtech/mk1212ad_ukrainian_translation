@@ -1,7 +1,7 @@
 key	text	tooltip
 #Loc;1;text/db/abilities.loc		
 abilities_on_screen_description_hinder_agent	Hinder a rival agent's progress or compell them to join your side.	true
-abilities_on_screen_description_command_force	 	true
+abilities_on_screen_description_command_force	test	true
 abilities_on_screen_description_assist_army	Enhance an army's effectiveness using your agent's particular talents.	true
 abilities_on_screen_description_hinder_army	Diminish a rival army's battle effectiveness or hinder their campaign map progress.	true
 abilities_on_screen_name_hinder_agent	Manipulate Agent	true
