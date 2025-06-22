@@ -434,7 +434,7 @@ random_localisation_strings_string_confirm_delete_msg	This will delete all selec
 random_localisation_strings_string_stance_food_stolen	Food stolen: %n of the consumed amount	true
 random_localisation_strings_string_action_result_type_success	Success	true
 random_localisation_strings_string_trade_status_tooltip_value	\\nCurrent value:	true
-random_localisation_strings_string_win_chance_none		true
+random_localisation_strings_string_win_chance_none	None	true
 random_localisation_strings_string_REGION_FOOD_FACTOR_RECENT_BATTLE	Devastation from Battles	true
 random_localisation_strings_string_StratHudbutton_cannot_enlist_full	Cannot enlist a general||You already have a full quota of generals.	true
 random_localisation_strings_string_sanitation	Sanitation	true
@@ -468,7 +468,7 @@ random_localisation_strings_string_captive_option_description_kill	Leave none al
 random_localisation_strings_string_finances_commerce_raiding_income	From trade route raiding	true
 random_localisation_strings_string_region_specialty_philosophical_tradition	text_rejected	true
 random_localisation_strings_string_Campaign_button_end_turn_summer	Summer	true
-random_localisation_strings_string_tile_upgrade_none		true
+random_localisation_strings_string_tile_upgrade_none	None	true
 random_localisation_strings_string_town_commercial	Settlement (Commercial Centre)	true
 random_localisation_strings_string_mk_dif_ant	[[col:dark_r]]Very Hard[[/col]], Powerful Enemy	true
 random_localisation_strings_string_mk_dif_eng	[[col:dark_g]]Very Easy[[/col]], Island Hegemon	true
@@ -945,7 +945,7 @@ random_localisation_strings_string_you	You	true
 random_localisation_strings_string_mission_issued_recruit_unit	Recruit Unit:	true
 random_localisation_strings_string_wako_pirates_demand	Amount demanded:	true
 random_localisation_strings_string_June	text_rejected	true
-random_localisation_strings_string_none		true
+random_localisation_strings_string_none	None	true
 random_localisation_strings_string_stat_explosion_damage	Explosive damage	true
 random_localisation_strings_string_load_campaign	Load Campaign Game	true
 random_localisation_strings_string_multiplayer_turn_end	Turn complete.\\n\\nWaiting for:	true

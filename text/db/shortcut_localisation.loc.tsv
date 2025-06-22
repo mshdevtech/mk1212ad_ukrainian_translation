@@ -27,7 +27,7 @@ shortcut_localisation_onscreen_step_r	Scroll right	true
 shortcut_localisation_onscreen_step_l	Scroll left	true
 shortcut_localisation_onscreen_show_overview	Show selected overview	true
 shortcut_localisation_onscreen_general_zoom	Pan to general	true
-shortcut_localisation_onscreen_none		true
+shortcut_localisation_onscreen_none	None	true
 shortcut_localisation_onscreen_show_prestige	Show prestige screen	true
 shortcut_localisation_onscreen_unit_control	Unit Action Controls	true
 shortcut_localisation_onscreen_chat_with_team	Chat with team	true

@@ -1137,7 +1137,7 @@ unit_description_short_texts_text_mk_ayy_mamluk_sayfiyya	The Sayfiyya were Musta
 unit_description_short_texts_text_cha_lom_artillery_crew	Fighting effectively at sea takes skill, courage, and sea-legs in abundance.	true
 unit_description_short_texts_text_mk_rum_harami	"Harami = Literally means Brigands or Thieves. Used to denote small groups of irregular frontier raiders given permission to raid after coordinating with local Akinci leader, and promised to pay taxes after raiding. Uyar, Mesut ""A Military History of the Ottomans: From Osman to Attaturk"" (ABC-CLIO, 2009) pp. 57-58 "	true
 unit_description_short_texts_text_att_mar_nor_saxon_bow_marauders_short	Fighting effectively at sea takes skill, courage, and sea-legs in abundance.	true
-unit_description_short_texts_text_att_ger_civilians_short		true
+unit_description_short_texts_text_att_ger_civilians_short	N/A	true
 unit_description_short_texts_text_att_rom_scholae_palatinae_short	Only those of the elite 'Palace School' are permitted to guard the Emperor.	true
 unit_description_short_texts_text_att_des_es_rumha_warriors_short	God made Arabia to train the faithful. Who are we to go against the word of God?	true
 unit_description_short_texts_text_att_cel_sighthound_spears_short	The thrust of the spear is the end of the hunt.	true
@@ -1324,9 +1324,9 @@ unit_description_short_texts_text_mk_alm_mushud	The Mushud were short-term levie
 unit_description_short_texts_text_att_ger_elite_agathyrsi_cavalry_short	Heavily armoured and carrying a deadly axe, these horsemen deal in death. Exclusively.	true
 unit_description_short_texts_text_att_nor_nordic_raiders_short	These warriors fear only the gods.	true
 unit_description_short_texts_text_att_des_desert_raiders_short	To be of the desert is to be as the desert - swift and deadly.	true
-unit_description_short_texts_text_att_nor_civilians_short		true
+unit_description_short_texts_text_att_nor_civilians_short	N/A	true
 unit_description_short_texts_text_att_ger_germanic_spearmen_short	These brave fighters face cavalry charges with a will of iron.	true
-unit_description_short_texts_text_att_rom_civilians_short		true
+unit_description_short_texts_text_att_rom_civilians_short	N/A	true
 unit_description_short_texts_text_att_mar_nor_nordic_transport_crew_short	Fighting effectively at sea takes skill, courage, and sea-legs in abundance.	true
 unit_description_short_texts_text_att_des_es_jamal_al_rumha_short	Mounted javelinmen schooled in cavalry skirmish tactics.	true
 unit_description_short_texts_text_mk_hre_reichsvorstreit	Vanguard of the Imperial army, traditionally made up of the Swabian nobility and led by the Count of Württemberg	true
@@ -1391,7 +1391,7 @@ unit_description_short_texts_text_cha_vik_heavy_raiders	Fighting effectively at 
 unit_description_short_texts_text_cha_eng_royal_marines	Fighting effectively at sea takes skill, courage, and sea-legs in abundance.	true
 unit_description_short_texts_text_mk_mag_berber_horsemen	"North Africans' fabled skill as light cavalry has been legendary since the ancient times. From the Numidian Cavalry of the Punic Wars, the Mauri Auxilia of the Roman Empire, into the Zenata cavalry in which their name in Spanish, ""Jinete"" became a word for horsemanship itself in that language. In the Almohad Taqdim, the term used to refer to the troops recruited from the varied Berber tribes were the ""Asnaf al-Berber"", lit. variety of Berbers. Other terms amongst other simply ""Qaba'il min al-Ra'iyya"" (Tribes from amongst the subjects). Until the reign of Muhammad al-Nasir, the troops from ex-Almoravid tribes such as the Zenata and Masmuda were inserted to the ""Hasham"". Nothing of the sort, however, appears in the taqādīm from the years 1230-1260 during which certain tribes distanced themselves from the Almohad caliphate. (Pascal Buresi, Hicham El Aallaoui, Travis Bruce. Governing the Empire. Provincial Administration in the Almohad Caliphate (1224-1269): Critical Edition, Translation, and Study of Manuscript 4752 of the asaniyya Library in Rabat Containing 77 Taqadim (""Appointments""). Brill, 3, pp.xxviii et 540, 2012, ""Studies in the History and Society of the Maghrib"". p. 171)"	true
 unit_description_short_texts_text_mk_mus_charkh	The crossbow (charkh) was an important weapon in the Middle East and the Greater Iranian region, just like in Europe. The composite design allowed for greater draw weight and penetrative power than even the powerful Turkish bow, while requiring much less training. Larger versions, similar to ancient scorpions, would be mounted on walls, and even on camelback, acting like field artillery.	true
-unit_description_short_texts_text_att_est_civilians_short		true
+unit_description_short_texts_text_att_est_civilians_short	N/A	true
 unit_description_short_texts_text_att_slav_peruns_champions_short	Perun guides the flow of the cosmos and so too his warriors.	true
 unit_description_short_texts_text_att_merc_nor_saxon_spears_short	A wall of spears, ideal for facing down charging cavalry units.	true
 unit_description_short_texts_text_att_wh_yanda_spearmasters_short	Yanda’s spears strike fear into men’s mortal hearts.	true
