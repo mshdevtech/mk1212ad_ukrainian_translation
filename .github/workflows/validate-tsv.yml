@@ -4,6 +4,12 @@ on:
   pull_request:
     paths: ["text/db/*.loc.tsv", "scripts/validate_tsv.py"]
 
+  push:
+    branches: ['main']
+    paths:
+      - 'text/db/*.loc.tsv'
+      - 'scripts/validate_tsv.py'
+
 jobs:
   tsv-lint:
     runs-on: ubuntu-latest
