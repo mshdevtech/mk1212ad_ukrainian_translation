@@ -12,7 +12,7 @@ total_removed = 0
 for src_path in SRC_DIR.glob("*.loc.tsv"):
     trg_path = TRG_DIR / src_path.name
     read = lambda p: pd.read_csv(
-        p, sep="\t", dtype=str, keep_default_na=False  # ← головне доповнення
+        p, sep="\t", dtype=str, keep_default_na=False, na_filter=False
     )
 
     src = read(src_path)
@@ -28,13 +28,17 @@ for src_path in SRC_DIR.glob("*.loc.tsv"):
     # 1) if translation already exist — keep it
     # 2) if translation doesn't exist — copy original text
     merged["text"] = merged["text_old"].where(
-        merged["text_old"].notna(),        # якщо text_old НЕ NaN → залишаємо
+        merged["text_old"].notna() & (merged["text_old"] != ""),        # якщо text_old НЕ NaN → залишаємо
         merged["text"]                     # інакше беремо значення з text
     )
 
     merged = merged[src.columns]   # return column order
+
+    # NaN → ""
+    merged = merged.fillna("")
+
     trg_path.parent.mkdir(parents=True, exist_ok=True)
-    merged.to_csv(trg_path, sep="\t", index=False)
+    merged.to_csv(trg_path, sep="\t", index=False, na_rep="")
 
     # - statistic for new keys -
     new_keys = src.loc[~src["key"].isin(trg["key"])]
