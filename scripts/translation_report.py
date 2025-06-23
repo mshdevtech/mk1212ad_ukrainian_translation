@@ -17,6 +17,8 @@ def load(p: Path) -> pd.DataFrame:
     return pd.read_csv(p, sep="\t", dtype=str, keep_default_na=False)
 
 rows = []
+grand_total, grand_done = 0, 0
+
 for src_path in sorted(SRC_DIR.glob("*.loc.tsv")):
     trg_path = TRG_DIR / src_path.name
 
@@ -29,8 +31,8 @@ for src_path in sorted(SRC_DIR.glob("*.loc.tsv")):
     trg = load(trg_path)
 
     # пропускаємо порожні key
-    mask = src["key"].str.strip() != ""
-    src, trg = src[mask], trg[mask]
+    src = src[src["key"].str.strip() != ""]
+    trg = trg[trg["key"].str.strip() != ""]
 
     # пропускаємо ПЕРШІ ДВА службові рядки (index 0 і 1)
     src, trg = src.iloc[2:], trg.iloc[2:]
@@ -44,9 +46,23 @@ for src_path in sorted(SRC_DIR.glob("*.loc.tsv")):
     untranslated = total - translated
     rows.append((src_path.name, total, translated, untranslated))
 
+    grand_total += total
+    grand_done  += translated
+
 # вивід
-print(f"{'File':45}  Total  Done  Todo  %")
+col_w = max(len(name) for name, *_ in rows) + 2
+
+print(f"{'File'.ljust(col_w)}  Total  Done  Todo  %")
 for name, total, done, todo in rows:
     pct = 0 if total == 0 else round(done / total * 100)
-    bar = "█" * (pct // 10)  # грубий прогрес-бар
-    print(f"{shorten(name, 43):45}  {total:5}  {done:4}  {todo:4}  {pct:3}% {bar}")
+    bar = "█" * (pct // 10)
+    print(f"{name.ljust(col_w)}  {total:5}  {done:4}  {todo:4}  {pct:3}% {bar}")
+
+# загальний підсумок
+if grand_total:
+    overall_pct = round(grand_done / grand_total * 100, 2)
+    print("\n=== SUMMARY ===")
+    print(f"Перекладено {grand_done} рядків із {grand_total} "
+          f"({overall_pct}% від загальної кількості).")
+else:
+    print("\nНемає даних для підрахунку.")
