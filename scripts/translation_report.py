@@ -10,6 +10,11 @@ from pathlib import Path
 import pandas as pd
 from textwrap import shorten
 
+EXCLUSIONS = ["PLACEHOLDER"]
+
+def exclude_placeholders(df: pd.DataFrame) -> pd.DataFrame:
+    return df[~df["text"].isin(EXCLUSIONS)]
+
 SRC_DIR = Path("_upstream/text/db")
 TRG_DIR = Path("text/db")
 
@@ -36,6 +41,10 @@ for src_path in sorted(SRC_DIR.glob("*.loc.tsv")):
 
     # пропускаємо ПЕРШІ ДВА службові рядки (index 0 і 1)
     src, trg = src.iloc[2:], trg.iloc[2:]
+
+    # exclude placeholders
+    src = exclude_placeholders(src)
+    trg = exclude_placeholders(trg)
 
     # об’єднуємо по key
     df = src.merge(trg[["key", "text"]], on="key", how="left",
