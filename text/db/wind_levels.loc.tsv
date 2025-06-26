@@ -1,7 +1,7 @@
 key	text	tooltip
 #Loc;1;text/db/wind_levels.loc		
-wind_levels_onscreen_calm_westerly	Calm	true
-wind_levels_onscreen_storm_westerly	Gale	true
-wind_levels_onscreen_strong_westerly	Strong Breeze	true
-wind_levels_onscreen_light_westerly	Light Breeze	true
-wind_levels_onscreen_moderate_westerly	Moderate Breeze	true
+wind_levels_onscreen_calm_westerly	Безвітряно	true
+wind_levels_onscreen_storm_westerly	Буревій	true
+wind_levels_onscreen_strong_westerly	Сильний вітер	true
+wind_levels_onscreen_light_westerly	Легкий вітерець	true
+wind_levels_onscreen_moderate_westerly	Помірний вітер	true
