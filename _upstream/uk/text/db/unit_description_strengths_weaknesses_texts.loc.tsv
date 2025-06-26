@@ -1,0 +1,73 @@
+key	text	tooltip
+#Loc;1;text/db/unit_description_strengths_weaknesses_texts.loc		
+unit_description_strengths_weaknesses_texts_text_transport	Дуже низька міцність||Дуже низька швидкість||Слабкий таран	true
+unit_description_strengths_weaknesses_texts_text_two	Дуже висока міцність||Дуже мала команда||Велика швидкість||Слабкий таран||Чудовий абордаж	true
+unit_description_strengths_weaknesses_texts_text_polybolos	Велика шкода||Гарна влучність||Середня далекобійність||Дуже велика швидкострільність	true
+unit_description_strengths_weaknesses_texts_text_spear_avg	Сильний захист||Мала шкода, середнє пробивання обладунків||Середній напад||Нормальний моральний дух	true
+unit_description_strengths_weaknesses_texts_text_scorpio_hft_seven	Виняткова міцність||Величезна команда||Дуже низька швидкість||Потужний таран||Чудовий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_axemen_good	Сильний напад||Середній захист||Низька шкода, але високе пробиття обладунків||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_four	Середня міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_heavy_raider	Дуже висока міцність||Середня команда||Середня швидкість||Середній таран||Відмінний абордаж	true
+unit_description_strengths_weaknesses_texts_text_two_halfer	Низька міцність||Середня команда||Невловимий||Слабкий таран||Поганий абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_double_scorpio_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_melee_avg	Сильний напад||Середній захист||Середня шкода, погане пробиття обладунків||Нормальний моральний дух	true
+unit_description_strengths_weaknesses_texts_text_one_halfer	Дуже низька міцність||Маленька команда||Дуже велика швидкість||Слабкий таран||Очень плохой абордаж||Погані стрільці	true
+unit_description_strengths_weaknesses_texts_text_javelinmen	Мала далекобійність||Велика швидкострільність||Дуже великі шкода та пробивання обладунків||Дуже слабкі в ближньому бою||Дуже низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_placeholder	placeholder	true
+unit_description_strengths_weaknesses_texts_text_harpax_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Нестримний абордаж	true
+unit_description_strengths_weaknesses_texts_text_elephant_armoured	Дуже високий наступ||Велика шкода||Дуже багато здоров'я||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_pike_good	Дуже сильний захист||Мала шкода, середнє пробивання обладунків||Середній напад||Високий моральний дух||Неймовірно вразливі не у фалангах	true
+unit_description_strengths_weaknesses_texts_text_pike_poor	Середній захист||Мала шкода, середнє пробивання обладунків||Середній напад||Низький моральний дух||Неймовірно вразливі не у фалангах	true
+unit_description_strengths_weaknesses_texts_text_melee_poor	Середній напад||Слабкий захист||Середня шкода, погане пробиття обладунків||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_melee_good	Дуже сильний напад||Середній захист||Середня шкода, погане пробиття обладунків||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_fire_pot_two	Дуже низька міцність||Дуже маленька команда||Велика швидкість||Дуже велика початкова сила тарана||Чудовий абордаж	true
+unit_description_strengths_weaknesses_texts_text_archer_cav	Велика далекобійність||Середня швидкострільність||Швидкий рух||Сильна шкода, але низьке пробивання обладунків||Дуже слабкий у ближньому бою||Дуже низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_javelin_cav	Мала далекобійність||Велика швидкострільність||Швидкий рух||Дуже великі шкода та пробивання обладунків||Великий щит||Дуже слабкі в ближньому бою||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Відмінний абордаж	true
+unit_description_strengths_weaknesses_texts_text_onager_five	Висока міцність||Мізерна команда||Середня швидкість||Середній таран||Слабкий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_spear_good	Дуже сильний захист||Мала шкода, середнє пробивання обладунків||Середній напад||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_spear_poor	Середній захист||Мала шкода, середнє пробивання обладунків||Слабкий напад||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_mob	Дуже низькі шкода та пробиття обладунків||Дуже слабкі в ближньому бою||Дуже низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_barbarian_transport	Дуже низька міцність||Дуже низька швидкість||Слабкий таран	true
+unit_description_strengths_weaknesses_texts_text_medium_raider_melee	Висока міцність||Середня команда||Велика швидкість||Слабкий таран||Чудовий абордаж	true
+unit_description_strengths_weaknesses_texts_text_raider_melee	Середня міцність||Маленька команда||Дуже велика швидкість||Слабкий таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_medium_raider_ranged	Висока міцність||Середня команда||Велика швидкість||Слабкий таран||Поганий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_ballista_giant	Гарна влучність||Дуже висока далекобійність||Середня швидкострільність||Завдає більше шкоди, ніж звичайна баліста||Більша міцність, ніж у звичайної балісти||Нерухома	true
+unit_description_strengths_weaknesses_texts_text_scorpio_three	Низька міцність||Маленька команда||Велика швидкість||Слабкий таран||Середній абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_archers_elite	Велика далекобійність||Висока швидкострільність||Сильна шкода, але низьке пробивання обладунків||Дуже слабкий у ближньому бою||Поганий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_pike_avg	Сильний захист||Мала шкода, середнє пробивання обладунків||Середній напад||Нормальний моральний дух||Неймовірно вразливі не у фалангах	true
+unit_description_strengths_weaknesses_texts_text_double_hft_eight	Неймовірна міцність||Величезна команда||Дуже низька швидкість||Потужний таран||Нестримний абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_good	Дуже сильні наступ та напад||Сильні шкода і пробивання обладунків||Слабкий захист||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_good	Дуже сильний напад||Середній захист||Мала шкода, середнє пробивання обладунків||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_poor	Середні наступ та напад||Сильні шкода і пробивання обладунків||Слабкий захист||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_poor	Середній напад||Слабкий захист||Мала шкода, середнє пробивання обладунків||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_peltasts	Мала далекобійність||Велика швидкострільність||Дуже великі шкода та пробивання обладунків||Великий щит||Дуже слабкі в ближньому бою||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_ballista	Висока влучність||Дуже висока далекобійність||Висока швидкострільність||Завдає менше шкоди, ніж інші машини||Легко знищується	true
+unit_description_strengths_weaknesses_texts_text_ballista_five	Середня міцність||Мінімальна команда||Середня швидкість||Середній таран||Слабкий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_avg	Сильні наступ та напад||Сильні шкода і пробивання обладунків||Слабкий захист||Середній моральний дух	true
+unit_description_strengths_weaknesses_texts_text_slingers	Дуже висока далекобійність||Середня швидкострільність||Мала шкода, середнє пробивання обладунків||Дуже слабкі в ближньому бою||Дуже низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_war_dogs	Дуже сильний напад||Сильні проти загонів в легких обладунках||Дресирувальники слабкі у ближньому бою	true
+unit_description_strengths_weaknesses_texts_text_war_pigs	Лякають слонів||Тварини не нападають||Дресирувальники слабкі в ближньому бою	true
+unit_description_strengths_weaknesses_texts_text_barbarian_five	Середня міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_barbarian_four	Середня міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_avg	Сильний наступ||Мала шкода, середнє пробивання обладунків||Слабкі в затяжному ближньому бою||Середній моральний дух	true
+unit_description_strengths_weaknesses_texts_text_archer_cav_elite	Велика далекобійність||Висока швидкострільність||Швидкий рух||Сильна шкода, але низьке пробивання обладунків||Дуже слабкий у ближньому бою||Поганий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_avg	Сильний напад||Середній захист||Мала шкода, середнє пробивання обладунків||Середній моральний дух	true
+unit_description_strengths_weaknesses_texts_text_raider_ranged	Висока міцність||Середня команда||Велика швидкість||Слабкий таран||Поганий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_archers	Велика далекобійність||Середня швидкострільність||Сильна шкода, але низьке пробивання обладунків||Дуже слабкий у ближньому бою||Дуже низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_chariot_scythed	Швидкий рух||Дуже високий наступ||Середній ближній бій||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_good	Дуже високий наступ||Мала шкода, середнє пробивання обладунків||Слабкі в затяжному ближньому бою||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_poor	Середній наступ||Мала шкода, середнє пробивання обладунків||Слабкі в затяжному ближньому бою||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_general	Малий загін||Середній напад||Середній захист||Мала шкода, середнє пробивання обладунків||Надихає близьких союзників||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_eight	Неймовірна міцність||Величезна команда||Дуже низька швидкість||Потужний таран||Нестримний абордаж	true
+unit_description_strengths_weaknesses_texts_text_axemen	Середній напад||Низький захист||Низька шкода, але високе пробиття обладунків||Низький моральний дух	true
+unit_description_strengths_weaknesses_texts_text_elephant	Дуже високий наступ||Велика шкода||Багато здоров'я||Середній моральний дух	true
+unit_description_strengths_weaknesses_texts_text_chariot	Швидкий рух||Метання сулиць при русі||Сильний наступ||Слабкі в затяжному ближньому бою||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_onager	Велика далекобійність||Велика шкода різними снарядами||Важко знищити||Низька влучність||Низька швидкострільність	true
+unit_description_strengths_weaknesses_texts_text_seven	Винятково висока швидкість||Величезна команда||Дуже низька швидкість||Потужний таран||Чудовий абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_three	Низька міцність||Маленька команда||Велика швидкість||Слабкий таран||Поганий абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_scorpion	Велика шкода||Рухливість||Висока влучність||Мала далекобійність||Середня швидкострільність	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_cat	Дуже високий наступ||Мала шкода, середнє пробивання обладунків||Міцні обладунки||Сама повільна кіннота||Високий моральний дух	true
+unit_description_strengths_weaknesses_texts_text_lft_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_lft_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Відмінний абордаж||Погані стрільці	true

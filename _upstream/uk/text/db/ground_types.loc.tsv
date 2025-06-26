@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ground_types.loc		
+ground_types_tooltip_shallow_water	Мілина. Уповільнює всі загони.	true
+ground_types_tooltip_forest	Ліси. Дуже ефективні у приховуванні військ, але сповільнює швидкість пересування.	true
+ground_types_tooltip_scrub	Чагарник.	true

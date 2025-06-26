@@ -1,0 +1,68 @@
+key	text	tooltip
+#Loc;1;text/db/battle_script_strings.loc		
+battle_script_strings_title_Rom.HB.TF_Intro_Date	text_rejected	true
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_01	Наші Орли! Ми заблукали...	true
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_02	Ми заблукали! Будь проклятий Варе, безхребетний боягуз!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_09	Берсерки! Приготуйтеся!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_08	Іди! Вийміть стандарти! Легіони не підводять!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_07	Подивіться назад! Берсерки!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_06	Збирайтеся, чоловіки! Ми майже вийшли з лісу!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_05	Вар! Проклятий боягуз! Просувайся вперед, поки він відволікає ворога!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_04	Ти... ти сам по собі. Вершники - зі мною! Подвійний темп!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_03	Ваші накази, командувачу?	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_02	Продовжуйте рухатись! Ми повинні пройти! Де Арміній? Хтось знайде Армінія! Нам потрібні його помічники!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_01	Ми під атакою! Подивіться на орлів! Захисти їх! Тримайся!	true
+battle_script_strings_title_Rom.HB.TF_Intro_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_06	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_05	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_01	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_09	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_08	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_02	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_01	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_07	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_06	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_05	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_04	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_11	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_10	text_rejected	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_08	Консул Ленас повинен вижити.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_09	Залишилося союзників	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_02	Рухайте військо Силана до села попереду.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_01	Розвідуйте корисні тактичні позиції на бойовищі.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_06	Розбийте облогову зброю самнітів.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_07	Допоможіть захистити Капую.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_04	Здобудьте перемогу над самнітськими нападниками	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_05	Нехай живуть захисники села.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_10	Залишилося самнітів	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_11	Використовуйте облогові знаряддя на стінах, щоб відбити атаку.	true
+battle_script_strings_string_Rom.HB.TF_Intro_Date	Три місяці тому...	true
+battle_script_strings_string_Rom.HB.TF_Intro_03	Германець Вас зрадить. Він зрадить Рим!	true
+battle_script_strings_string_Rom.HB.TF_Outro_03	Ніхто не знає. Ще менше турботи.	true
+battle_script_strings_string_Rom.HB.TF_Intro_02	Ти йдеш прямо в пастку, Варе!	true
+battle_script_strings_string_Rom.HB.TF_Outro_02	А як щодо Вара?	true
+battle_script_strings_string_Rom.HB.TF_Intro_01	Варе… О! Квінтілій Вар... поверніть мені мої легіони!	true
+battle_script_strings_string_Rom.HB.TF_Outro_01	Слава богам, що ми вибралися з того пекельного лісу! Нехай Неріо додасть сили тим, кого ми залишили.	true
+battle_script_strings_string_Rom.HB.TF_Intro_06	Але я відданий своєму народу.	true
+battle_script_strings_string_Rom.HB.TF_Intro_05	Можливо, Рим мене виростив, навчив.	true
+battle_script_strings_string_Rom.HB.TF_Intro_04	Арміній? Зрадник? Я думаю ні.	true
+battle_script_strings_string_Rom.HB.TF_Outro_04	Арміній... Ні!	true
+battle_script_strings_title_Rom.HB.TF_Battle_Won_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_05	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_07	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_06	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_09	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_08	text_rejected	true
+battle_script_strings_string_Rom.HB.TF_Battle_Won_01	Ми вийшли з лісу! Легіони збережені!	true

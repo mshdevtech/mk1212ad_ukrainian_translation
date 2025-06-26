@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_politics_strings.loc		
+campaign_politics_strings_string_fail_power	У Вас недостатньо впливу.	true
+campaign_politics_strings_string_fail_money	Вам не вистачає грошей.	true
+campaign_politics_strings_string_assassinate_result_target_wounded	Цільовий персонаж був поранений.	true
+campaign_politics_strings_string_get_into_position_age_requirement	Цьому персонажу має бути принаймні %n років.	true
+campaign_politics_strings_string_get_into_position_rank_requirement	Цей персонаж повинен мати ранг %n або вище.	true
+campaign_politics_strings_string_get_into_position_age_and_rank_requirement	Цьому персонажу має бути принаймні %n років і рейтинг %n або вище.	true
+campaign_politics_strings_string_divorce_desc	Змусити персонажа розлучитися зі своєю дружиною.	true
+campaign_politics_strings_string_spread_rumours_desc	Поширюйте чутки про цього персонажа, щоб зменшити його велич.	true
+campaign_politics_strings_string_bribe_desc	Підкупіть цього персонажа, щоб привести його на Вашу вечірку. Цільовий персонаж втратить велич, якщо прийме.	true
+campaign_politics_strings_string_power_cost	Вплив: %d	true
+campaign_politics_strings_string_money_cost	Вартість: %d	true
+campaign_politics_strings_string_marry_desc	Організуйте шлюб між цією людиною і одним із Ваших далеких родичів. Ця подія підвищить вплив для слабшої сторони.	true
+campaign_politics_strings_string_adopt_desc	Прийміть цього персонажа у свою партію.	true
+campaign_politics_strings_string_assassinate_desc	Організувати вбивство цього персонажа.	true
+campaign_politics_strings_string_assassinate_fail_faction_leader	Ви не можете вбити свого лідера держави.	true
+campaign_politics_strings_string_adoption_accepted_desc	Прийнятий в родину персонаж	true
+campaign_politics_strings_string_bribe_fail_party_leader	Керівників партій не можна підкуповувати.	true
+campaign_politics_strings_string_adopt_fail_party_leader	Голови партій не можуть бути усиновлені.	true
+campaign_politics_strings_string_blackmail_gravitas_loss	%n величі	true
+campaign_politics_strings_string_get_into_position_desc	Використовуйте свій вплив, щоб просунути цього персонажа на вищу посаду.	true
+campaign_politics_strings_string_assassinate_result_target_killed	Цільовий персонаж був убитий.	true
+campaign_politics_strings_string_assassinate_wife_desc	Організувати вбивство дружини цього персонажу.	true

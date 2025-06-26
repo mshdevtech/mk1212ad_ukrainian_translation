@@ -1,0 +1,359 @@
+key	text	tooltip
+#Loc;1;text/db/subtitles.loc		
+subtitles_subtitle_text_HIS_EURO_2	Вони приносять зброю диму й вогню, зброю, яка вбиває без честі, без уміння.	true
+subtitles_subtitle_text_HIS_EURO_3	Але незважаючи на це, ці іноземці та їхні гармати могли дати людині силу та перемогу. І перемога знищує безчестя.	true
+subtitles_subtitle_text_HIS_EURO_1	До наших берегів прийшли чужинці.	true
+subtitles_subtitle_text_TRN_NAGCAV	Непорушна, як камінь, кіннота монахів-воїнів наґінати чудова проти ворожої кінноти, але слабка проти списів і стрілецьких військ.	true
+subtitles_subtitle_text_ENV_SNOW_1	Коли прийде весна?\\nВ лещатах холодної білої смерті\\nЗемля задихається.\\n	true
+subtitles_subtitle_text_ENV_CHERRY_1	Тендітна краса\\nДух піднімає вище: \\nВісниця весни.\\n	true
+subtitles_subtitle_text_TRN_BOWSEN_2	Ці лучники присвятили своє життя майстерності володіння луком. Жодна ціль не живе довго, коли її стріли злітають.	true
+subtitles_subtitle_text_TRN_BOWSAM_1	На відміну від ашіґару з луком, самурай з луком може захищатися в ближньому бою та пускати у ворога палаючими стрілами!	true
+subtitles_subtitle_text_TRN_BOWSEN_1	Стріли швидкі, як вітер - очі гострі, як у яструба.	true
+subtitles_subtitle_text_TRN_BOWSHP_1	Швидко рухається, цей маленький човен перевозить лучників, озброєних смертельними вогняними стрілами, здатними перетворити ворожі човни на попіл.	true
+subtitles_subtitle_text_TRN_BOWMON_1	Маючи неймовірну дальність вбивства своїми луками, цих монахів-воїнів найкраще використовувати для відбивання значних ворогів.	true
+subtitles_subtitle_text_TRN_BOWASH_1	Ідеально підходить для придушення ворога перед початком бою. Ці війська найкраще тримати на відстані, і вони зазнають великих втрат, якщо вступлять у ближній бій.	true
+subtitles_subtitle_text_TRN_CAVYAR_1	Кавалерія Ярі відмінно справляється з переслідуванням ворога, що втікає, але зазнає значних втрат, коли протистоїть списоносцям або стрілецьцями.	true
+subtitles_subtitle_text_TRN_CAVTAI_1	Воїни тайсьо вправні в ближньому бою, але вразливі для списів і стріл.	true
+subtitles_subtitle_text_TRN_CAVTAI_2	Їх найкраще зарезервувати для захисту полководця, який підвищує моральний дух загонів поблизу.	true
+subtitles_subtitle_text_TRN_CAVLIG_1	Ідеально підходить для знищення ворогів, що тікають, або щоб відігнати стрілецькі війська.	true
+subtitles_subtitle_text_TRN_CAVLIG_2	Ця швидка легка кавалерія вразлива проти добре навченої піхоти.	true
+subtitles_subtitle_text_TRN_CAVKAT_1	Кіннота Катани перевершує кінноту ворога, але вразлива для списа та лука.	true
+subtitles_subtitle_text_TRN_CAVBOW_2	Однак універсальність має свою ціну: вони менш точні, ніж піші лучники, і слабкі проти списоносців.	true
+subtitles_subtitle_text_TRN_HEVBUN_2	Він сильний, але повільний і може бути потоплений гарматним вогнем.	true
+subtitles_subtitle_text_TRN_CAVBOW_1	Кіннота з луками може вести вогонь як верхи, так і пішки.	true
+subtitles_subtitle_text_TRN_HEVBUN_1	Цей човен перевозить багато мушкетерів, і його можна використовувати для абордажу.	true
+subtitles_subtitle_text_TRN_CANON_1	Смертельні та жахливі ці величезні гармати завдають значної шкоди будівлям, якщо їх розмістити на відстані.	true
+subtitles_subtitle_text_TRN_MPKATAS_1	Ці мечники є серцем Вашої армії, використовуються переважно для атак ближнього бою, їхніми головними слабкими сторонами є стрілецькі війська та кавалерія.	true
+subtitles_subtitle_text_TRN_KATSEN_2	Меч володіє людиною і робить її непереможною, живою легендою.	true
+subtitles_subtitle_text_TRN_KATSAM_1	Досвідчені фехтувальники з відмінним моральним духом, ці воїни є тілом і душею будь-якої армії.	true
+subtitles_subtitle_text_TRN_KATSEN_1	Коли людина і меч як одне ціле, майстерність не має сенсу.	true
+subtitles_subtitle_text_TRN_MATSAM_1	Більш влучні, ніж ашіґару, сірникові самураї здатні стріляти рангом і мають чудовий моральний дух.	true
+subtitles_subtitle_text_TRN_MATSHP_1	Цей швидкий човен перевозить мушкетерів, які можуть битися з більшими човнами відстані, і зазнає значних втрат, якщо його візьмуть на абордаж.	true
+subtitles_subtitle_text_TRN_MATMON_1	Лінія озброєних мушкетами ченців-воїнів вселятиме страх у серце ворога.	true
+subtitles_subtitle_text_TRN_MATMON_2	Однак їх тривалий час перезарядження робить їх уразливими для кавалерійських нападів.	true
+subtitles_subtitle_text_TRN_KATASH_1	Ці мечники є серцем Вашої армії, використовуються переважно для атак ближнього бою, їхніми головними слабкими сторонами є стрілецькі війська та кавалерія.	true
+subtitles_subtitle_text_TRN_MATASH_1	Ці люди далеко стріляють та суттєво впливають на моральний дух ворога, але їх потрібно відвести, перш ніж вступати в ближній бій, інакше їх буде вбито!	true
+subtitles_subtitle_text_TRN_MPTAIS_1	Воїни тайсьо вправні в ближньому бою, але вразливі для списів і стріл.	true
+subtitles_subtitle_text_TRN_MPTAIS_2	Їх найкраще зарезервувати для захисту полководця, який підвищує моральний дух загонів поблизу.	true
+subtitles_subtitle_text_TRN_RDSSHP_2	Без бойового екіпажу, щоб говорити, що це човен, слід утриматися від бою будь-якою ціною.	true
+subtitles_subtitle_text_TRN_RDSSHP_1	Великий океанський торгівельний човен «Червона печатка» збільшує прибуток від торгівлі, відкриваючи торгівельні можливості в інших країнах.	true
+subtitles_subtitle_text_TRN_CAVGSPR_1	Стиснутий кулак сьоґуна, який використовувався для розгрому ворожої піхоти та надихання братів-воїнів.	true
+subtitles_subtitle_text_TRN_YARSEN_2	Їхня стіна списів майже непроникна, а ворожа кіннота падає, як листя під час шторму!	true
+subtitles_subtitle_text_TRN_YARSAM_1	На відміну від ярі ашіґару, ярі самураї мають здатність захищатися в рукопашному бою і більш ефективні проти ворожої кінноти.	true
+subtitles_subtitle_text_TRN_YARSEN_1	Майстри оборони, ці люди могли протистояти орді демонів!	true
+subtitles_subtitle_text_TRN_FIREPT_1	Вогонь по ворогу має руйнівний вплив на його моральний дух і структурну цілісність їхніх будівель!	true
+subtitles_subtitle_text_TRN_FIRESH_1	Цей невеликий човен, що швидко рухається, може атакувати розривними снарядами, які можуть підпалити ворожі човни.	true
+subtitles_subtitle_text_TRN_TWRBUN_2	Відбити абордажні атаки великих човнів може бути важко.	true
+subtitles_subtitle_text_TRN_YARASH_1	Ярі Ашіґару забезпечують чудовий захист від нападів ворожої кавалерії, але їх щільне формування робить їх уразливими для стрілецьких військ і досвідчених піхотних загонів.	true
+subtitles_subtitle_text_TRN_TWRBUN_1	Піднята вежа на цьому човні дозволяє екіпажу кидати стріли на ворожі човни.	true
+subtitles_subtitle_text_HIS_CHRIST_1	Старі боги мали свій час.	true
+subtitles_subtitle_text_HIS_CHRIST_2	Істина прийшла з іноземцями, і душі можна врятувати, дотримуючись вчень Церкви.	true
+subtitles_subtitle_text_HIS_CHRIST_3	Язичники, які тримаються старих звичаїв, будуть змушені силою Христа стати на коліна перед Богом...	true
+subtitles_subtitle_text_TRN_MANGNL_1	Навіть найсильніше укріплений замок не зрівняється з цими палаючими кулями! Якщо їх тримати на відстані, ці снаряди неймовірно ефективні.	true
+subtitles_subtitle_text_TRN_SENBUN_2	Їхні вітрила роблять їх набагато швидшими, ніж інші човни такого розміру, але невеликий екіпаж робить їх уразливими для абордажних атак.	true
+subtitles_subtitle_text_TRN_CANBUN_1	Цей невеликий швидкий човен озброєне гарматами, але не має достатньо екіпажу, щоб відбити спробу абордажу.	true
+subtitles_subtitle_text_TRN_SENBUN_1	Секібуне в основному використовується для переслідування менших човнів,	true
+subtitles_subtitle_text_ENV_AUTUMN_1	Пора змін:\\nЛистя грайливо кепкує над вітром.\\nНастала осінь.	true
+subtitles_subtitle_text_TRN_ATKBUN_1	Цей човен перевозить величезний екіпаж для абордажних атак. Однак він важко маневрений і вразливий для вогню противника.	true
+subtitles_subtitle_text_DAI_SHO_MOR_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_DAI_SHO_ODA_3	Усі будуть боятися Оди! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_ODA_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_ODA_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_MOR_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_ENE_STA_ODA_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_DAI_SHO_MOR_3	Усі будуть боятися Морі! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_DAI_SHO_ODA_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_MOR_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_MOR_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_MOR_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_ENE_STA_ODA_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_IGA_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_HOJ_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_HOJ_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_IGA_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_HOJ_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_DAI_SHO_IGA_3	Усі будуть боятися Хатторі! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_HOJ_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_ENE_STA_IGA_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_HOJ_3	Усі будуть боятися Ходзьо! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_DAI_SHO_IGA_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_HOJ_2	Ми жертви змови!	true
+subtitles_subtitle_text_ENE_STA_IGA_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_ENE_STA_DAT_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_DAT_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_DAI_SHO_DAT_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_DAT_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_DAI_SHO_DAT_3	Всі будуть боятися Дате! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_DAT_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_CHO_3	Усі будуть боятися Чосокабе! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_CHO_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_CHO_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_CHO_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_DAI_SHO_CHO_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_CHO_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_UES_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_TAK_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_ENE_STA_TOK_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_TAK_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_DAI_SHO_TOK_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_UES_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_DAI_SHO_TAK_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_DAI_SHO_TOK_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_DAI_SHO_UES_3	Усі будуть боятися Уесуґі! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_TAK_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_ENE_STA_TOK_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_ENE_STA_UES_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_TAK_3	Усі боятимуться Такеди! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_DAI_SHO_TOK_3	Усі будуть боятися Токугави! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_DAI_SHO_UES_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_TAK_2	Ми жертви змови!	true
+subtitles_subtitle_text_ENE_STA_TOK_2	Ми жертви змови!	true
+subtitles_subtitle_text_ENE_STA_UES_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_DAI_SHO_SHI_3	Всі будуть боятися Сімадзу! Мене всі будуть боятися! Бо я сьоґун!	true
+subtitles_subtitle_text_ENE_STA_SHI_2	Ми жертви змови!	true
+subtitles_subtitle_text_DAI_SHO_SHI_2	Але наші вороги все одно йдуть. І що? Перемога в моїх руках!	true
+subtitles_subtitle_text_ENE_STA_SHI_3	Мене називають ворогом держави! Ми повинні бути пильними! Треба готуватися до війни!	true
+subtitles_subtitle_text_DAI_SHO_SHI_1	Вітер змінився. Тепер ми літаємо, як дракони! Я більше не буду вклонятися меншим людям. Всі мені вклоняються!	true
+subtitles_subtitle_text_ENE_STA_SHI_1	Бути найвищим деревом небезпечно, бо саме там сокира вдаряє першою.	true
+subtitles_subtitle_text_ENV_HARVST_1	Поля осіннього золота.\\nУ воді відбивається праця.\\nУрожай зібраний.	true
+subtitles_subtitle_text_TRN_NIHMAR_1	Цей флагман фльоти знаходиться під командуванням полководця.	true
+subtitles_subtitle_text_TRN_KSHNIN_1	Цю невелику групу добре навчених ніндзя, практично непомітних на полі бою, можна послати вбити людину й безпечно повернутися додому, перш ніж хтось навіть усвідомить, що вони там!	true
+subtitles_subtitle_text_TRN_NIHMAR_2	Він надихає найближчі човни, але його розмір і повільна швидкість роблять його легкою мішенню для ворожих гармат.	true
+subtitles_subtitle_text_TRN_NAGSAM_1	Озброєні смертельною наґінатою, ці самураї смертоносні для піхоти та кавалерії, але слабкі проти стрілецьких військ.	true
+subtitles_subtitle_text_TRN_NAGSEN_1	Спокійні, врівноважені та смертельні, ці монахи-воїни вийшли за межі простих навичок і діють на іншому рівні, набагато вище своїх однолітків і ворогів.	true
+subtitles_subtitle_text_TRN_NAGMON_1	Життя, повне роздумів і відданості своєму мистецтву, перетворило цих чоловіків на могутніх воїнів!	true
+subtitles_subtitle_text_TRN_NAGMON_2	Лише елітна кавалерія та стрілецькі війська з ними зрівняються!	true
+subtitles_subtitle_text_TRN_TRDSHP_1	Цей беззбройний човен слід використовувати виключно для торгівлі, якщо він потрапив у бій, його найкращий план нападу — втеча!	true
+subtitles_subtitle_text_TRN_MEDBUN_2	Однак його універсальність робить його менш ефективним, ніж більш спеціалізовані човни.	true
+subtitles_subtitle_text_TRN_MPTAC_1	Потужніші, ніж катана ашіґару, тачі-самураї відмінно справляються з рукопашною битвою та вразливі для кавалерії та стрілецьких військ.	true
+subtitles_subtitle_text_TRN_MEDBUN_1	Завдяки швидкості, маневреності та міцності цей човен має багато застосувань.	true
+subtitles_subtitle_text_TRN_ROCKET_1	Ідеальні як облогова зброя великої дальності, ці постріли є неточними, але нищівними, якщо вони досягнуть своєї цілі.	true
+subtitles_subtitle_text_TRN_NDASAM_1	Нодаті вимагає великої майстерності від свого господаря, його розмір робить носія вразливим у обороні ближнього бою, але під час наступу він смертельний!	true
+subtitles_subtitle_text_FSM_DAT_10	Наших воїнів бояться. Їхні вміння з нодаті неперевершені. У битві вони жахають ворога!	true
+subtitles_subtitle_text_FSM_DAT_11	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_DAT_12	Всі вклоняться клану Дате. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_DAT_13	Доля кличе!	true
+subtitles_subtitle_text_FSM_CHO_14	Доля кличе!	true
+subtitles_subtitle_text_FSM_CHO_11	Жодна стріла не летить вірніше, ніж спис Чосокабе.	true
+subtitles_subtitle_text_FSM_CHO_10	Але ми також майстерні воїни. Нашими лучниками захоплюються всі.	true
+subtitles_subtitle_text_FSM_CHO_13	Усі вклоняться клану Чосокабе. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_CHO_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_MOR_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_MOR_13	Усі вклоняться клану Морі. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_MOR_10	Хвилі невблаганні: моряки-морі мають силу і велику майстерність!	true
+subtitles_subtitle_text_FSM_MOR_11	Здібності передавалися від батька до сина. Вони роблять нас сильними на війні!	true
+subtitles_subtitle_text_FSM_MOR_14	Доля кличе!	true
+subtitles_subtitle_text_FSM_TAK_9	Бути Такедою означає народитися в сідлі! Ми майстерні вершники: наша кавалерія вражає всіх!	true
+subtitles_subtitle_text_FSM_TOK_9	Наші слова мають силу вище меча.	true
+subtitles_subtitle_text_FSM_UES_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_WIN_HOJ_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_IGA_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_MOR_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_ODA_3	Ми, Ода, тріумфуємо!	true
+subtitles_subtitle_text_FSM_TAK_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_FSM_TOK_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_FSM_UES_9	Віра – наша сила, наше джерело. Хай інші розбещуються. Ми маємо владу небес!	true
+subtitles_subtitle_text_TUT_OUT_1	Забезпечивши наше завоювання, Чосокабе зможе зайняти своє законне місце поряд з іншими великими кланами.	true
+subtitles_subtitle_text_WIN_HOJ_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_IGA_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_ODA_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_LOS_TAK_1	Я й тепер чую їх:\\nСтук копит, як весняний грім.\\nМій меч стає важким.	true
+subtitles_subtitle_text_LOS_TOK_1	Хоч я смерть вітаю\\nНе боюся крижаної хватки.\\nДуша моя, спокійна, спить.	true
+subtitles_subtitle_text_TUT_OUT_2	Кожен клан має власні вміння та завдання, але всі прагнуть до однієї мети.	true
+subtitles_subtitle_text_WIN_HOJ_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_IGA_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_MOR_3	Ми, Морі, тріумфуємо!	true
+subtitles_subtitle_text_WIN_ODA_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_LOS_UES_1	Я не боюся смерті.\\nЯк прекрасна черешня,\\nЖиття знову розквітне.	true
+subtitles_subtitle_text_TUT_OUT_3	Усі мріють про об’єднану Японію, якою керуватиме єдиний сьоґун, їхній лідер клану.	true
+subtitles_subtitle_text_WIN_HOJ_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_IGA_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_MOR_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_TUT_OUT_4	Але хто переможе? Кому під силу об’єднати Японію та покласти край цій епосі Суцільної війни?	true
+subtitles_subtitle_text_WIN_IGA_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_MOR_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_ODA_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_LOS_SHI_1	Червоний, як осіннє листя\\nЯ йду до своїх предків.\\nЧи приймуть мене?	true
+subtitles_subtitle_text_WIN_HOJ_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_MOR_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_ODA_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_FSM_SHI_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_WIN_HOJ_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_IGA_3	Ми, Хатторі, тріумфуємо!	true
+subtitles_subtitle_text_WIN_MOR_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_ODA_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_FSM_SHI_9	Ми простежуємо свій родовід до першого сьоґуна Йорітомо. Лояльність закладена глибоко в Сімадзу.	true
+subtitles_subtitle_text_WIN_HOJ_3	Ми Ходзьо, тріумфуємо!	true
+subtitles_subtitle_text_WIN_IGA_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_MOR_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_ODA_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_FSM_SHI_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_TAK_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_TOK_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_WIN_CHO_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_FSM_SHI_7	Землі Сімадзу завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_UES_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_WIN_CHO_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_DAT_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_FSM_SHI_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_TAK_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_TOK_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_UES_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_WIN_CHO_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_DAT_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_FSM_SHI_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_TAK_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_TOK_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_UES_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_WIN_CHO_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_DAT_3	Ми Дате тріумфуємо!	true
+subtitles_subtitle_text_FSM_SHI_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_TAK_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_TOK_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_UES_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_WIN_CHO_3	Ми, Чосокабе, тріумфуємо!	true
+subtitles_subtitle_text_WIN_DAT_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_FSM_SHI_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_TAK_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_TOK_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_UES_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_WIN_CHO_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_DAT_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_FSM_TAK_7	Землі Такеда завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_TOK_7	Землі Токугава завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_UES_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_WIN_CHO_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_DAT_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_FSM_SHI_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_TAK_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_TOK_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_UES_7	Землі Уесуґі завжди забезпечували наш народ.	true
+subtitles_subtitle_text_WIN_DAT_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_FSM_DAT_9	Ми не йдемо тим же шляхом, що й інші клани. Нас шанують як сильних, незалежних і сміливих у бою.	true
+subtitles_subtitle_text_FSM_HOJ_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_IGA_4	Він використовує темряву.	true
+subtitles_subtitle_text_FSM_ODA_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_DAT_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_FSM_HOJ_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_IGA_5	Він використовує тіні.	true
+subtitles_subtitle_text_FSM_MOR_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_ODA_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_HOJ_7	Землі Ходзьо завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_IGA_6	Хатторі тихі, смертельні.	true
+subtitles_subtitle_text_FSM_MOR_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_LOS_DAT_1	Кров заплямувала руки:\\nНе тільки свої, й чужі.\\nЗима в душі.	true
+subtitles_subtitle_text_FSM_HOJ_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_IGA_7	Сьоґунату Асікаґа є чого побоюватися.	true
+subtitles_subtitle_text_FSM_MOR_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_ODA_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_HOJ_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_MOR_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_ODA_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_IGA_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_MOR_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_ODA_7	Землі Ода завжди забезпечували наш народ.	true
+subtitles_subtitle_text_LOS_CHO_1	Як цвіт на вітерці\\nЧи понесе вітер моє ім'я?\\nХто згадає?	true
+subtitles_subtitle_text_FSM_CHO_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_FSM_HOJ_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_IGA_2	Інші клани воюють.	true
+subtitles_subtitle_text_FSM_MOR_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_ODA_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_CHO_9	Це наша земля. Ми поважаємо її шляхи. Наші селяни наполегливо працюють і вирощують більше, ніж інші люди.	true
+subtitles_subtitle_text_FSM_HOJ_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_IGA_3	Але не всі клани грають за однаковими правилами.	true
+subtitles_subtitle_text_FSM_MOR_7	Землі Морі завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_ODA_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_CHO_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_FSM_DAT_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_MOR_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_WIN_SHI_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_UES_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_FSM_CHO_7	Землі Чосокабе завжди забезпечували наш народ.	true
+subtitles_subtitle_text_FSM_MOR_9	Інші обробляють землю. Ми володарі морів, нашим човнам усі заздрять!	true
+subtitles_subtitle_text_LOS_ODA_1	Відважні воїни всі:\\nЩо з ними тепер буде?\\nЖнива зібрали.	true
+subtitles_subtitle_text_WIN_SHI_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_TAK_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_TOK_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_FSM_CHO_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_DAT_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_ODA_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_WIN_SHI_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_TAK_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_TOK_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_UES_3	Ми, Уесуґі, тріумфуємо!	true
+subtitles_subtitle_text_FSM_CHO_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_DAT_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_ODA_9	Інші можуть жадати титулів, але ашіґару, звичайні списоносці, є основою могутності Оди.	true
+subtitles_subtitle_text_LOS_MOR_1	Я був неспокійною водою\\nАле я більше не буду текти і розбиватися.\\nТепер я буду спокійний.	true
+subtitles_subtitle_text_WIN_SHI_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_TAK_3	Ми, Такеда, тріумфуємо!	true
+subtitles_subtitle_text_WIN_TOK_3	Ми, Токугава, тріумфуємо!	true
+subtitles_subtitle_text_WIN_UES_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_FSM_CHO_2	Протягом 200 років сьоґуни Асікаґа правили з Кіото.	true
+subtitles_subtitle_text_FSM_DAT_5	Настав час, щоб новий воєвовода став сьоґуном.	true
+subtitles_subtitle_text_FSM_HOJ_9	Наші замки міцні, на заздрість Японії. Нами справедливо захоплюються як майстерними будівельниками.	true
+subtitles_subtitle_text_FSM_IGA_8	Настав час для Хатторі розкритися та зайняти належне їм місце.	true
+subtitles_subtitle_text_WIN_SHI_3	Ми, Шимадзу, тріумфуємо!	true
+subtitles_subtitle_text_WIN_TAK_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_TOK_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_WIN_UES_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_FSM_CHO_3	Вони мали велику шляхетність і могутність.	true
+subtitles_subtitle_text_FSM_DAT_4	Тепер могутні клани більше не підкоряються.	true
+subtitles_subtitle_text_FSM_HOJ_8	Наших ворогів багато, і вони заздрісні. Вони загрожують нашим кордонам і шукають будь-яку слабкість.	true
+subtitles_subtitle_text_WIN_SHI_2	Наші вороги розбіглися! Їх міста горять. Всі, хто виступав проти нас, розгромлені! Мовчать їхні мерці.	true
+subtitles_subtitle_text_WIN_TAK_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_TOK_5	Розкрито справжнього господаря Японії. Усі люди вклоняються мені, їхньому могутньому сьоґуну.	true
+subtitles_subtitle_text_WIN_UES_4	Від північних гір до глибин південних морів ми пануємо! Я керую!	true
+subtitles_subtitle_text_FSM_DAT_7	Землі  Дате завжди були забезпечені нашим народом.	true
+subtitles_subtitle_text_LOS_HOJ_1	Я відпив свій останній\\nІз порцелянового чавана:\\nЗухвала гроза.	true
+subtitles_subtitle_text_WIN_SHI_1	Мої пращури пишалися б. Ми дістали мечі і пішли воювати.	true
+subtitles_subtitle_text_WIN_TAK_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_TOK_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_WIN_UES_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_FSM_CHO_1	1545. Період Сенґоку: епоха країни у стані війни.	true
+subtitles_subtitle_text_FSM_DAT_6	Але хто буде переможцем?	true
+subtitles_subtitle_text_LOS_IGA_1	Я жив у тіні.\\nВічно тікав від світла.\\nТепер, нарешті, я падаю.	true
+subtitles_subtitle_text_WIN_TAK_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_TOK_7	…Спадщина на десять тисяч років!	true
+subtitles_subtitle_text_WIN_UES_6	Велич нашого клану запам’ятається. Його слава, його сила…	true
+subtitles_subtitle_text_FSM_ODA_11	Наші полководці — ветерани праведної сили, поранені в боях.	true
+subtitles_subtitle_text_FSM_ODA_10	Усі знають нас, полководців тисячі списів. Керувати такими людьми – честь.	true
+subtitles_subtitle_text_FSM_ODA_13	Усі вклоняться роду Ода. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_ODA_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_ODA_14	Доля кличе!	true
+subtitles_subtitle_text_FSM_HOJ_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_HOJ_13	Усі вклоняться клану Ходзьо. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_HOJ_10	Міцні стіни: міцні душі.	true
+subtitles_subtitle_text_FSM_HOJ_11	Наші облогові машини однаково потужні! Ніщо не встоїть перед ними!	true
+subtitles_subtitle_text_FSM_HOJ_14	Доля кличе!	true
+subtitles_subtitle_text_FSM_TOK_12	У нас є друзі Імагава. Дипломатія робить багато. Наша відданість дає нам безпеку. Але ми повинні стояти самі.	true
+subtitles_subtitle_text_FSM_TOK_13	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_TOK_10	Але якщо слів не вистачає, в тіні, в тиші: наш ніндзя.	true
+subtitles_subtitle_text_FSM_TOK_11	Знати обман означає остерігатися його використання. Мало хто може сховатися від нашого мецуке.	true
+subtitles_subtitle_text_FSM_TOK_14	Усі вклоняться клану Токогава. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_TOK_15	Доля кличе!	true
+subtitles_subtitle_text_FSM_TAK_10	Нехай марширують інші! Ми катаємося! Ми літаємо! Як бурі в горах, ми гримимо в бою!	true
+subtitles_subtitle_text_FSM_TAK_11	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_TAK_12	Усі вклоняться клану Такеда. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_TAK_13	Доля кличе!	true
+subtitles_subtitle_text_FSM_UES_10	Наші ченці моляться, але й воюють: і воюють добре!	true
+subtitles_subtitle_text_FSM_UES_11	Але однією зброєю війни не виграють. Наші купці хитрі. Багатство купує багато перемог!	true
+subtitles_subtitle_text_FSM_UES_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_FSM_UES_13	Усі вклоняться клану Уесугі. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_UES_14	Доля кличе!	true
+subtitles_subtitle_text_INTRO_1	Краса і гармонія, керовані одним вічним законом. Все, що починається, має закінчитися, правління старого сьоґунату закінчилося.	true
+subtitles_subtitle_text_FSM_SHI_14	Доля кличе!	true
+subtitles_subtitle_text_FSM_SHI_11	А в бою нашим фехтувальникам позаздрить Японія. Жодне лезо не є швидшим і страшнішим за наше.	true
+subtitles_subtitle_text_FSM_SHI_10	Це в нашій крові, наших традиціях.	true
+subtitles_subtitle_text_FSM_SHI_13	Усі вклоняться клану Сімадзу. Ми більше не чекаємо.	true
+subtitles_subtitle_text_FSM_SHI_12	Бішамонтен, бог війни, прокинувся! Настав час перемогти наших ворогів!	true
+subtitles_subtitle_text_UNL-XXX-UNLO-PRI-XXX-XXX_2	Але це також може викликати заворушення, оскільки не всі бачили світло Істини, а деякі можуть ніколи не повірити.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-PRI-XXX-XXX_1	Слово Боже є великою розрадою для людей.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-GEI-XXX-XXX_1	Гарний, як вишневий цвіт, і смертельний, як змія хабу.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-GEI-XXX-XXX_2	Багато приховано, і правда бачиться надто пізно, коли лезо ковзає додому.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-MET-XXX-XXX_2	Мецуке бореться з хабарництвом і корупцією, стежить за порядком і стежить за вбивцями і шпигунами.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-MON-XXX-XXX_2	Ченці надихають армії та полководців, а також можуть надихнути репресоване буддистське населення на повстання!	true
+subtitles_subtitle_text_UNL-XXX-UNLO-NIN-XXX-XXX_1	Де темрява зустрічається з тінню, там живе ніндзя:	true
+subtitles_subtitle_text_UNL-XXX-UNLO-MET-XXX-XXX_1	Той, хто бачить тіні, має силу у світлі.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-MON-XXX-XXX_1	Просвітницьке життя — це блаженство, але поділитися ним з людьми — це ще більший дар.	true
+subtitles_subtitle_text_UNL-XXX-UNLO-NIN-XXX-XXX_2	Заколотники та вбивці, щасливі виконувати накази свого лорда.	true

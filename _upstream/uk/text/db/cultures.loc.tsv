@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/cultures.loc		
+cultures_name_att_cult_roman	Римська	true
+cultures_name_att_cult_nomadic	Кочова	true
+cultures_name_att_cult_barbarian	Варварська	true
+cultures_name_att_cult_eastern	Східна	true

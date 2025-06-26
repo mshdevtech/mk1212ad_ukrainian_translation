@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/message_event_text.loc		
+message_event_text_text_att_pro_roman_displeasure_secondary	Римляни висловили своє невдоволення масою гунів, які тепер мародерять їхніми сільськогосподарськими угіддями. Сенат чітко дав зрозуміти, що вважає нас принаймні частково відповідальними за шкоду, яку вони завдають.	true
+message_event_text_text_att_celts_unlock_military_building_primary	Це основний заголовок	true
+message_event_text_text_att_pro_apulum_captured_title	Велич зростає	true
+message_event_text_text_att_celts_unlock_military_building_secondary	Це другорядний заголовок	true
+message_event_text_text_att_pro_roman_displeasure_primary	Гунські рейдери	true
+message_event_text_text_att_celts_unlock_military_building_title	Це заголовок	true
+message_event_text_text_roman_character_dies_commanding_replace	Це військо потребує керівництва, оскільки її керманича немає. Хто відгукнеться на заклик?	true
+message_event_text_text_att_pro_apulum_captured_secondary	Ворожа столиця впала! Звістка про нашу перемогу неодмінно приверне увагу навіть наймогутніших іноземних володарів.	true
+message_event_text_text_att_pro_roman_displeasure_title	Відносини погіршуються	true
+message_event_text_text_att_pro_apulum_captured_primary	Апулум захоплений	true

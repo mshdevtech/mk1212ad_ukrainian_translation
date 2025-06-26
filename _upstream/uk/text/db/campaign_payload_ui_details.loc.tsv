@@ -1,0 +1,229 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_payload_ui_details.loc		
+campaign_payload_ui_details_description_bel_pope_2	Отримана риса: Захисник віри	true
+campaign_payload_ui_details_description_bel_pope_1	Отримана риса: Захисник гармонії	true
+campaign_payload_ui_details_description_dummy_payload_viking_take_land_northumbria	Отримати регіон Нортумбрія.	true
+campaign_payload_ui_details_description_dummy_pope_ancillary	Папа приєднується до двору Карла Великого.	true
+campaign_payload_ui_details_description_bel_antonina_gems_1	Зіпсування репутації	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_2	Незначного ремонту може бути достатньо, щоб зупинити прорив дамби...	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_3	Масштабні ремонтні роботи, ймовірно, запобіжать великим пошкодженням.	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_1	Залишити дамбу напризволяще не коштує грошей, але шкода, швидше за все, буде серйозною... Вона може навіть зруйнуватися!	true
+campaign_payload_ui_details_description_att_eos_marib_dam_repair_4	Повністю відремонтувавши дамбу, Ви дасте їй шанс довго стояти, та й селяни будуть задоволені.	true
+campaign_payload_ui_details_description_dummy_ybor_level_A_choice_1	Взятий із мертвої хватки ворожого короля.	true
+campaign_payload_ui_details_description_dummy_ybor_level_A_choice_2	Священство каже, що вона дарує мудрість і захист Годана.	true
+campaign_payload_ui_details_description_cha_carloman_succession_1_war	Скоро між Вами буде оголошена війна.	true
+campaign_payload_ui_details_description_dummy_venedi_1_repeat	Ми можемо платити гунам велику данину, це має гарантувати нашу безпеку.	true
+campaign_payload_ui_details_description_dummy_venedi_2_repeat	Доставка гунам значної кількості їжі має гарантувати нашу безпеку.	true
+campaign_payload_ui_details_description_dummy_venedi_3_repeat	Відмова щось дати гунам, безсумнівно, розпалить їхній гнів.	true
+campaign_payload_ui_details_description_dummy_payload_joyeuse	Карл Великий отримує свій легендарний меч "Жуайоз"!	true
+campaign_payload_ui_details_description_att_mission_accepted_dummy	Завдання видано	true
+campaign_payload_ui_details_description_att_mission_rejected_dummy	Відхилення завдання	true
+campaign_payload_ui_details_description_adopt	Прийнятий в родину: %2%	true
+campaign_payload_ui_details_description_dummy_ollam_ri_picti_choice_1	Чорне дзеркало його поверхні відображає всі таємниці людства.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_picti_choice_2	Первісні дерева обіцяють життя сміливим і смерть необережним.	true
+campaign_payload_ui_details_description_dummy_payload_unforeseen_consequences	Можуть бути непередбачені наслідки...	true
+campaign_payload_ui_details_description_bel_photius_1	Збільшення прибутку	true
+campaign_payload_ui_details_description_damage_buildings_home_region	Пошкодження будівель	true
+campaign_payload_ui_details_description_bel_rumours_1	Ви можете стати посміховиськом, але Ви будете дуже багаті за свої втрати.	true
+campaign_payload_ui_details_description_bel_rumours_2	Відмовтеся від матеріальної вигоди, щоб зберегти свою честь.	true
+campaign_payload_ui_details_description_dummy_payload_charlemagne_war	Карл Великий оголошує Вам війну!	true
+campaign_payload_ui_details_description_bel_narses_response_2	Отримана риса: Верховний головнокомандувач	true
+campaign_payload_ui_details_description_bel_narses_response_1	Отримана риса: Відбірний	true
+campaign_payload_ui_details_description_dummy_payload_pope_relinquish	Папа відмовляється від претензій на Равенну.	true
+campaign_payload_ui_details_description_dummy_payload_viking_take_land_mercia	Отримати регіон Мерсія.	true
+campaign_payload_ui_details_description_lose_trait	Втрачена риса: %1%	true
+campaign_payload_ui_details_description_spawn_agent	Завербований агент: %1% у %2%	true
+campaign_payload_ui_details_description_dummy_payload_remove_viking_bundle	Припинення дії ефекту держави «Невгамовні воїни».	true
+campaign_payload_ui_details_description_bel_narses_2	Непідкорення цьому наказу збільшить Вашу власну силу та статус, але образить Імператора.	true
+campaign_payload_ui_details_description_bel_narses_1	Заспокойте Імператора та здобудьте корисного полководця, але ціною особистої влади.	true
+campaign_payload_ui_details_description_gain_trait	Отримана риса: %1%	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_2	Розблокована будівля: Порт спецій	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_3	Розблокована будівля: Королівське карбування	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_building_1	Розблокована будівля: Східний порт	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1i_choice_2	У Рі немає часу на казки, але він має час на золото!	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1i_choice_1	Рі хоче побачити це диво на власні очі.	true
+campaign_payload_ui_details_description_dummy_eos_civil_war	Скоро почнеться громадянська війна...	true
+campaign_payload_ui_details_description_dummy_cordoba_1_1_tax	[[rgba:160:0:0]]Ставка податку -20%[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_payload_dam_inspired_farmers	Натхненні селяни в Зафарі	true
+campaign_payload_ui_details_description_dummy_pope_help_1_2	Посланець лангобардів благає Вас зрозуміти його. Він стверджує, що ці обіцянки були давно в минулому.	true
+campaign_payload_ui_details_description_dummy_pope_help_1_1	Посланець папи просить Вас виконати обіцянку, дану лангобардами. Він стверджує, що люди честі повинні тримати слово.	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_2	Відправлено підкріплення військ	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_3	Підкріплення військ прибуває	true
+campaign_payload_ui_details_description_bel_justinian_amalasuntha_1	Значне покращення у остготських відносинах	true
+campaign_payload_ui_details_description_dummy_eos_sassanid_unhappy	Сасанідський лідер не буде задоволений...	true
+campaign_payload_ui_details_description_building_restriction_change	%1%	true
+campaign_payload_ui_details_description_dummy_payload_frankish_kingdom_name	Стати «Королівством Франків».	true
+campaign_payload_ui_details_description_dummy_pagan_rebels	По всій Саксонії повстають язичницькі повстанці!	true
+campaign_payload_ui_details_description_dummy_payload_ceded_ravenna	Равенна відійшла до Папської області.	true
+campaign_payload_ui_details_description_dummy_payload_dam_1_fully_repaired	Дамба повністю відремонтована	true
+campaign_payload_ui_details_description_dummy_payload_spanish_kingdom_name	Стати «Королівством Іспанія».	true
+campaign_payload_ui_details_description_dummy_payload_offer_ravenna	Передати Равенну Папській області.	true
+campaign_payload_ui_details_description_diplomatic_attitude_change	Ставлення: %+1% з %2%	true
+campaign_payload_ui_details_description_bel_pope_request_1	Збирайте війська та пропагуйте офіційну віру Імперії.	true
+campaign_payload_ui_details_description_bel_pope_request_2	Дозвольте Папі залишитися в інтересах релігійної та дипломатичної злагоди.	true
+campaign_payload_ui_details_description_dummy_payload_english_kingdom_name	Стати «Королівством Англія».	true
+campaign_payload_ui_details_description_dummy_payload_italian_kingdom_name	Стати «Королівством Італії».	true
+campaign_payload_ui_details_description_dumm_eos_insult_war	Сасаніди оголошують Вам війну!	true
+campaign_payload_ui_details_description_dummy_venedi_food_1	[[rgba:160:0:0]]-50 Їжі[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_2	[[rgba:160:0:0]]-100 Їжі[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_3	[[rgba:160:0:0]]-150 Їжі[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_food_4	[[rgba:160:0:0]]-250 Їжі[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_name_change_3	Стати «Імперією Сходу»	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1ii_choice_2	Простий, ефективний спосіб виграти будь-яку битву бажань.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1ii_choice_1	Рі не відступає ні перед людиною, ні перед твариною.	true
+campaign_payload_ui_details_description_dummy_eos_settle_dont_absorb	Нехай ті, кого Ви визволили, залишаться Вашими союзниками. Ти не поглинеш жодної їхньої землі.	true
+campaign_payload_ui_details_description_cha_carloman_succession_war_declared	Держава Карломана оголошує Вам війну	true
+campaign_payload_ui_details_description_justinian_photius_2	Присвятіть себе Антоніні і станьте надзвичайно багатими за рахунок честі.	true
+campaign_payload_ui_details_description_justinian_photius_1	Відмовтеся від Антоніни та заслужіть прихильність імператора та отримайте підкріплення.	true
+campaign_payload_ui_details_description_party_power_change	Контроль: %+1%%	true
+campaign_payload_ui_details_description_spawn_unit	Загін, набраний до даного війська: %1%	true
+campaign_payload_ui_details_description_dummy_payload_dam_5_destroyed	Дамба зруйнована	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_response_1	Отримана риса: Багатоводний	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_response_2	Феодосій прийнятий	true
+campaign_payload_ui_details_description_dummy_payload_cordoba_caliphate_name	Стати «Кордовським халіфатом».	true
+campaign_payload_ui_details_description_bel_theodora_amalasuntha_2	Імператриця може саботувати Ваші фінанси, але Ви можете збільшити війська, виконавши місію.	true
+campaign_payload_ui_details_description_bel_theodora_amalasuntha_1	Скасувати місію і розлютити Юстиніана. Однак імператриця є неймовірно цінним союзником.	true
+campaign_payload_ui_details_description_dummy_venedi_tax_2	[[rgba:160:0:0]]Ставка податку -30%[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_3	[[rgba:160:0:0]]-40% Ставки податку[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_1	[[rgba:160:0:0]]Ставка податку -20%[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_venedi_tax_4	[[rgba:160:0:0]]-60% Ставки податку[[/rgba:160:0:0]]	true
+campaign_payload_ui_details_description_dummy_sclaveni_reward_offensive	Ви отримаєте постійні покращення нападу.	true
+campaign_payload_ui_details_description_dummy_sclaveni_reward_defensive	Ви отримаєте постійні покращення захисту.	true
+campaign_payload_ui_details_description_dummy_payload_dam_3_medium_damage	Дамба зазнає середньої шкоди	true
+campaign_payload_ui_details_description_dummy_saxon_1_1	Якщо Ви навернетеся, Карл Великий, швидше за все, проявить милосердя, але християнство закріпиться.	true
+campaign_payload_ui_details_description_dummy_saxon_1_2	Люди поважатимуть Вашу позицію проти Карла Великого, але Ваших людей буде страчено.	true
+campaign_payload_ui_details_description_dummy_avars_proven_khagan	Припинення дії ефекту держави «Недоведений каган».	true
+campaign_payload_ui_details_description_marriage_random	Персонаж одружується: %1%	true
+campaign_payload_ui_details_description_dummy_cordoba_1_3	Як і більшість ситуацій, цю можна вирішити шляхом мирних переговорів.	true
+campaign_payload_ui_details_description_dummy_cordoba_1_2	Якщо Ви зберете свої сили на узбережжі, ворог може відступити від такої демонстрації.	true
+campaign_payload_ui_details_description_dummy_cordoba_1_1	Нехай вони заберуть Ваше золото, бо, напевно, вторгнення принесе більше шкоди, ніж втрата кількох монет?	true
+campaign_payload_ui_details_description_dummy_cordoba_1_4	Невже порожня погроза не вимагає відповіді?	true
+campaign_payload_ui_details_description_cha_carloman_succession_3_bankroll	Сепаратисти взяли під контроль деякі території від Вашого імені.	true
+campaign_payload_ui_details_description_dummy_payload_dam_5_flood	Велика повінь у Зафарі	true
+campaign_payload_ui_details_description_att_bundle_dummy_antonina_theodosius_rejected_2	Ваше військо захворіло на дизентерію!	true
+campaign_payload_ui_details_description_become_retainer	Призначення наймита на посаду	true
+campaign_payload_ui_details_description_dummy_antes_1_2	Очевидно, це найнижча та явна хитрість. Залишити його жити після такої капості було б образою для племені та богів.	true
+campaign_payload_ui_details_description_dummy_antes_2_2	Чоловік усе плем'я обдурив. Цей обман терпіти не може. Знайти його і знищити.	true
+campaign_payload_ui_details_description_dummy_antes_1_1	Правда, це дуже сумнівне прохання, але шанс отримати прихильність Риму безсумнівно вартий ризику.	true
+campaign_payload_ui_details_description_dummy_antes_2_1	Мало що можна зробити, щоб усунути осквернення Вашої репутації, і немає гарантії, що його притягнуть до відповідальності. Відпусти його та йди далі.	true
+campaign_payload_ui_details_description_loyalty_change	Вірність: %+1% за %2%	true
+campaign_payload_ui_details_description_cha_carloman_succession_2_alliance	Держава Карломана буде надзвичайно прихильною до Вас у майбутньому	true
+campaign_payload_ui_details_description_dummy_eos_settle_absorb	Поглиньте землі тих союзників, яких Ви звільнили.	true
+campaign_payload_ui_details_description_spawn_unit_home_region	%1%	true
+campaign_payload_ui_details_description_dummy_payload_dam_foreman_trait	Лідер держави отримує рису «Головний наглядач».	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A2_choice_1	Чоловік явно божевільний, і тепер Рі має побачення з рибою.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B2_choice_1	Цій людині не можна довіряти, тому Рі придумав йому гідний кінець.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A2_choice_2	Легендарний король стане могутнім союзником.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B2_choice_2	Можливо, таким чином він зможе загладити свою кривду.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A3_choice_1	Кажуть, що потомство келпі чудові коні.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A3_choice_2	Вона може багато чому навчити Рі.	true
+campaign_payload_ui_details_description_marriage	Персонажі одружуються: %2% з %1%	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_3	Покращений контроль	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_2	Підвищена цілісність	true
+campaign_payload_ui_details_description_bel_antonina_ioanina_1	Велика одноразова сума	true
+campaign_payload_ui_details_description_dummy_payload_religious_event_rebelion_choice_1	У нас немає ні часу, ні грошей на цих єретиків, щоб реагувати на їхні порожні погрози.	true
+campaign_payload_ui_details_description_dummy_payload_religious_event_rebelion_choice_2	Його люди достатньо постраждали, якщо ми зможемо загладити провину, нехай буде так.	true
+campaign_payload_ui_details_description_bel_antonina_rumours_1	Феодосій убитий	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1_choice_1	Це, мабуть, Кат Ші, сумно відома відьма, яка змінює форму!	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B1_choice_1	Якщо він зможе їх врятувати, Рі зробить це.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A1_choice_2	Це кіт. Він має шанувати його!	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B1_choice_2	Якби шкіра мала силу, вони б уже використали її.	true
+campaign_payload_ui_details_description_dummy_payload_dam_2_low_damage	Дамба зазнає невеликої шкоди	true
+campaign_payload_ui_details_description_dummy_ollam_ri_votadini_choice_1	Чорне дзеркало його поверхні відображає всі таємниці людства.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_votadini_choice_2	Первісні дерева обіцяють життя сміливим і смерть необережним.	true
+campaign_payload_ui_details_description_bel_theodora_ioanina_2	Захистіть честь своєї родини і порадуйте дружину, убивши ґвалтівника.	true
+campaign_payload_ui_details_description_bel_theodora_ioanina_1	Киньте виклик своїй дружині та отримайте війська від імператриці, але за рахунок Вашої репутації.	true
+campaign_payload_ui_details_description_divorce	Розлучення персонажів: %1% від %2%	true
+campaign_payload_ui_details_description_bel_antonina_photius_1	Фотій убитий	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_1	Багатий і могутній, друїд все ще залишається інструментом для інших.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_2	Багатий і могутній, друїд все ще залишається інструментом для інших.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_A_choice_3	Ви хапаєте рибу і біжите. Старий за тобою не біжить.	true
+campaign_payload_ui_details_description_embezzle	Розкрадені кошти: %1%	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B_choice_1	Вони повинні мати шанс довести свою невинність.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_B_choice_2	Справді? Свиня? Вони заслуговують на смерть лише за цю брехню.	true
+campaign_payload_ui_details_description_dummy_payload_become_hre	Тепер Ви «Священна Римська імперія».	true
+campaign_payload_ui_details_description_dummy_payload_charlemagne_threat	Незабаром Карл Великий поставить Вам перед дилемою.	true
+campaign_payload_ui_details_description_dummy_pope_attacked_1_2	Прийміть гроші і поверніть його. Рим має вирішувати власні суперечки, щоб Вас не звинуватили у втручанні з метою збільшення Вашої влади.	true
+campaign_payload_ui_details_description_dummy_pope_attacked_1_1	Щодо Лео явно було несправедливо. Пообіцяйте супроводити його до Риму й Ви отримаєте титул імператора Священної Римської імперії!	true
+campaign_payload_ui_details_description_dummy_eos_insult_1_choice_2	Спробувати змінити тему якомога обережніше, давши свою згоду.	true
+campaign_payload_ui_details_description_dummy_eos_insult_1_choice_1	Ризикуєте викликати гнів Шаханшаха, зіткнувшись з ним безпосередньо.	true
+campaign_payload_ui_details_description_dummy_payload_saxon_kingdom_name	Стати «Королівством Саксонія».	true
+campaign_payload_ui_details_description_dummy_eos_insult_3_choice_2	Догоджати королю, ризикуєте глибоко поранити гордість свого народу, коли про це дізнаються.	true
+campaign_payload_ui_details_description_dummy_eos_insult_3_choice_1	Скажіть йому, що Ви розумієте його точку зору, але не стали б королем, якби не захистили своїх підданих.	true
+campaign_payload_ui_details_description_treasury_change	Скарбниця: %+1%	true
+campaign_payload_ui_details_description_dummy_eos_insult_2_choice_2	Не ставити власну пиху вище безпеки своїх людей.	true
+campaign_payload_ui_details_description_dummy_eos_insult_2_choice_1	З Вами так не розмовляють, виженіть його геть, і будуть прокляті наслідки!	true
+campaign_payload_ui_details_description_gravitas_change	Вплив: %+1% для %2%	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_unlock_building_1	Розблокована будівля: Парад Перемоги	true
+campaign_payload_ui_details_description_dummy_payload_tanukhid_unlock_building_2	Розблокована будівля: Імперський збір	true
+campaign_payload_ui_details_description_cha_carloman_succession_victory	Візьміть під контроль всю територію Карломана.	true
+campaign_payload_ui_details_description_att_reinforcements_dummy	Прибуло підкріплення	true
+campaign_payload_ui_details_description_dummy_venedi_2	Доставка гунам значної кількості їжі має гарантувати нашу безпеку.	true
+campaign_payload_ui_details_description_dummy_venedi_3	Відмова щось дати гунам, безсумнівно, розпалить їхній гнів.	true
+campaign_payload_ui_details_description_dummy_venedi_1	Ми можемо платити гунам велику данину, це має гарантувати нашу безпеку.	true
+campaign_payload_ui_details_description_att_choice_issued_dummy	Скоро виникне дилема.	true
+campaign_payload_ui_details_description_damage_buildings	Пошкодження будівель	true
+campaign_payload_ui_details_description_dummy_payload_avar_khaganate_name	Стати «Аварським каганатом».	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_units_2	Розблоковано нові загони	true
+campaign_payload_ui_details_description_dummy_payload_axum_spice_unlock_units_1	Розблоковано нові загони	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_1	Ваша дружина є одним із Ваших найбільших досягнень, коли вона задоволена, але піддані можуть вважати Вас слабким.	true
+campaign_payload_ui_details_description_bel_antonina_theodosius_2	Ви справите гарний вплив на своїх підлеглих, але відкинута Антоніна змусить Вас жалкувати про це.	true
+campaign_payload_ui_details_description_demolish_building_chain	Знесення будівлі	true
+campaign_payload_ui_details_description_lose_ancillary	Втрачено з господи: %1%	true
+campaign_payload_ui_details_description_dummy_daughter_2	Відкиньте ці чутки як безпідставні. Яке Вам діло до думки людей? Ви король!	true
+campaign_payload_ui_details_description_dummy_daughter_1	Покладіть край розпусті Вашої дочки і відновіть свою репутацію ціною її гніву.	true
+campaign_payload_ui_details_description_bel_antonina_anastasius_1	Анастасій убитий	true
+campaign_payload_ui_details_description_dummy_payload_viking_peace_northumbria	Мир з Королівством Нортумбрія.	true
+campaign_payload_ui_details_description_cha_carloman_succession_4	Не втручатися в боротьбу за спадкоємство Карломана може здатися розумним, але можливість може бути втрачена.	true
+campaign_payload_ui_details_description_cha_carloman_succession_3	Фінансуючи сепаратистів, ми отримаємо частину земель, які вони захопили вже.	true
+campaign_payload_ui_details_description_cha_carloman_succession_2	Підтримка його сина неминуче призведе до великої доброзичливості між Вашими двома державами.	true
+campaign_payload_ui_details_description_cha_carloman_succession_1	Захоплення земель Карломана змусить його людей почати власну гру влади.	true
+campaign_payload_ui_details_description_bel_rumours_response_1	Отримана риса: Рогоносець	true
+campaign_payload_ui_details_description_spawn_agent_home_region	Агент завербований у столиці: %1%	true
+campaign_payload_ui_details_description_dummy_payload_iron_crown	Карл Великий отримує Залізну корону Ломбардії!	true
+campaign_payload_ui_details_description_dummy_payload_general_recruited	Цей персонаж став державним діячем у Вашій державі.	true
+campaign_payload_ui_details_description_dummy_mercia_1_2	Ця людина надто важлива, щоб її втратити, але Алкуїн, безсумнівно, буде нещасним, якщо він буде змушений залишитися.	true
+campaign_payload_ui_details_description_dummy_mercia_2_2	Алкуїн залишається Вашим найважливішим ученим, без нього королівству буде гірше.	true
+campaign_payload_ui_details_description_dummy_mercia_1_1	Відпустити Алкуїна — ось чого хоче вчений. Хто ми такі, щоб відмовляти в такому проханні?	true
+campaign_payload_ui_details_description_dummy_mercia_2_1	Ризикувати гнівом Алкуїна було б так само погано, як втратити його. Не спалюйте мости, а відпустіть його.	true
+campaign_payload_ui_details_description_gain_ancillary	Поповнення в господі: %1%	true
+campaign_payload_ui_details_description_kill_character	Убитий персонаж: %1%	true
+campaign_payload_ui_details_description_dummy_sclaveni_1	Прийміть бій із цими гунськими собаками. Ви повинні кілька разів рішуче побити їх, щоб незаперечно довести нашу силу.	true
+campaign_payload_ui_details_description_dummy_sclaveni_2	Нехай гуни сунуться. Захистіть свої поселення від їх нападу та вийдіть переможцем.	true
+campaign_payload_ui_details_description_att_mission_issued_dummy	Незабаром буде видано завдання.	true
+campaign_payload_ui_details_description_rebellion	Повстання	true
+campaign_payload_ui_details_description_dummy_ybor_level_C4_choice_2	Риторика Ібора не потребує божественної підтримки – він обирає короля.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C4_choice_1	Хіба бог не більший за царя? Ібор приймає пропозицію проповідника.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B2_choice_2	Авторитетними словами Ібор спонукає селян до дії.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C2_choice_2	Будь-яка людина може позбавити життя, тільки величні можуть дати його.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B2_choice_1	Відчувши присутність Годана навколо себе, Ібор кидається у вогонь.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C2_choice_1	Знищуючи зло до того, як воно завдасть шкоди, цілитель ніколи не знадобиться.	true
+campaign_payload_ui_details_description_dummy_ollam_ri_ebdani_choice_1	Чорне дзеркало його поверхні відображає всі таємниці людства.	true
+campaign_payload_ui_details_description_dummy_payload_dam_4_high_damage	Дамба зазнає великої шкоди	true
+campaign_payload_ui_details_description_dummy_ollam_ri_ebdani_choice_2	Первісні дерева обіцяють життя сміливим і смерть необережним.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C3_choice_2	Ібор відступає на священну галявину, щоб шукати ліки безпосередньо у Годана.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C3_choice_1	Ібор спускається в село, щоб принести зцілення безпосередньо населенню.	true
+campaign_payload_ui_details_description_seek_wife	Шукати дружину	true
+campaign_payload_ui_details_description_dummy_payload_viking_kingdom_name	Станьте «Королівством вікінгів».	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_4	Ви можете заслужити повагу Карла Великого, залишаючись зухвалим, хоча Ви можете так само легко втратити можливість вплинути на його думку.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_1_1	Поступитися Равенною зменшить Вашу силу, але дотримання угоди Піпіна посіє зерно доброзичливості між Вами та Папою.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_1	Загроза, яку створює Карл Великий, велика. Поступитися і віддати Равенну може бути найрозумнішим варіантом на цьому етапі.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_3_1	Виконайте вимоги Карла Великого та поступіться Равенною Папській області. Тепер це єдиний спосіб уникнути війни з ним.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_3	Підлизатися до Карла Великого, і він може стати на Вашу сторону в цій справі, але Ви можете втратити повагу свого народу, зробивши це.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_1_2	Стратегічно кажучи, Равенна не є регіоном, від якого можна легко відмовитися, але відмова прийняти вимоги Папи Римського, швидше за все, викличе його гнів.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_2_2	Пропозиція великої суми грошей могла б змусити Папу відмовитися від своїх претензій на цю територію.	true
+campaign_payload_ui_details_description_dummy_lombard_pope_demands_3_2	Якщо цей регіон надто важливий, або якщо Ваша гордість надто велика, тоді війна з Карлом Великим тепер є єдиним вибором, який Вам залишається відкритим.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B1_choice_2	Годан свідок, йому відплатять.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C1_choice_2	На самоті Ібор крокує вперед із солодкими словами переконання та примирення.	true
+campaign_payload_ui_details_description_dummy_ybor_level_B1_choice_1	Слова можуть закрутити людині голову і пронизати серце.	true
+campaign_payload_ui_details_description_dummy_ybor_level_C1_choice_1	Із полум’яними закликами Ібор занурюється в серце натовпу.	true
+campaign_payload_ui_details_description_dummy_viking_bloodlust	Ваша пряма і непохитна відмова прийняти мир, безумовно, надихне Ваших воїнів!	true
+campaign_payload_ui_details_description_cha_carloman_succession_loyalists	Тепер війська лоялістів захищають столицю Карломана.	true
+campaign_payload_ui_details_description_dummy_irminsul_destroyed	Язичники повстають у гніві на руїнах Ірмінсуля!	true
+campaign_payload_ui_details_description_dummy_payload_viking_peace_mercia	Мир з Королівством Мерсія.	true
+campaign_payload_ui_details_description_dummy_verden_4	Усі язичники почують про цю бійню, можна лише сподіватися, що їхні думки будуть світлі.	true
+campaign_payload_ui_details_description_dummy_verden_3	Вбивство їхніх лідерів надішле тверде попередження іншим полоненим.	true
+campaign_payload_ui_details_description_dummy_verden_2	Змусивши їхніх лідерів прийняти хрещення могло вплинути на інших.	true
+campaign_payload_ui_details_description_dummy_verden_1	Ваша милість напевно показала б саксам, що мирне співіснування є взаємовигідним.	true
+campaign_payload_ui_details_description_wound_character	Поранений персонаж: %1%	true
+campaign_payload_ui_details_description_assign_character_to_post	Призначено на посаду: %1%, %2%	true

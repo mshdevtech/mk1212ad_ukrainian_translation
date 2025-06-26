@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/government_types.loc		
+government_types_onscreen_gov_jap_shogunate	text_rejected	true
+government_types_onscreen_gov_empire	text_rejected	true
+government_types_onscreen_gov_constitutional_monarchy	text_rejected	true
+government_types_onscreen_gov_absolute_monarchy	text_rejected	true
+government_types_onscreen_gov_jap_clan	text_rejected	true
+government_types_onscreen_gov_republic	text_rejected	true

@@ -1,0 +1,35 @@
+key	text	tooltip
+#Loc;1;text/db/unit_attributes.loc		
+unit_attributes_bullet_text_cant_run	Не бігають||Загін не може бігати і рухатиметься лише кроком.	true
+unit_attributes_bullet_text_scare_elephant	Лякають слонів||Слони отримують моральну шкоду від цього загону.	true
+unit_attributes_bullet_text_raider	Розбійники||Загін може підпалювати будівлі, завдавати більше шкоди вогнем та захоплювати швидше, ніж інші загони.	true
+unit_attributes_bullet_text_ignore_ground_move_mod	Ігнорування місцевості||Швидкість руху не залежить від місцевості.	true
+unit_attributes_bullet_text_all_ranks_fire	Стріляють всі ряди||Всі ряди можуть стріляти, якщо використовують зброю, яка дозволяє це робити лише 1 ряду.	true
+unit_attributes_bullet_text_campaign_stealth	Маскування на мапі||Цей загін може пересуватися на мапі кампанії непомітно.	true
+unit_attributes_bullet_text_charge_reflector_vs_large	Відбивання великого наступу||Ближній бій та шкода цього загону покращується проти великого наступу ворогів.	true
+unit_attributes_bullet_text_boarding	Абордаж||Використавши таран команду під на абордаж.	true
+unit_attributes_bullet_text_guerrilla_deploy	Партизанське розгортання||Загін може розміщуватися перед битвою за межами зони розгортання.	true
+unit_attributes_bullet_text_run_amok	Шаленство||Загін може шаленіти, якщо він знаходиться під тиском.	true
+unit_attributes_bullet_text_mounted_fire_move	Стріляють у русі||Загін може стріляти під час руху.	true
+unit_attributes_bullet_text_mighty_knockback	Могутнє відкидання||Загін завдає додаткової шкоди, коли відкидає ворогів назад.	true
+unit_attributes_bullet_text_scare_all	Лякають усіх||Загін лякає всі ворожі загони.	true
+unit_attributes_bullet_text_charge_reflector	Фахівці відбивати наступ||Ближній бій та шкода цього загону покращується проти наступу ворогів.	true
+unit_attributes_bullet_text_impetuous	Бурхливі||Загін отримує додатковий моральний бонус в запалі битви.	true
+unit_attributes_bullet_text_berserk	Берсерк||Цей загін може скаженіти під час бою. Це робить їх некерованими, вони атакуватимуть найближчих ворогів.	true
+unit_attributes_bullet_text_snipe	Стріляють із укриття||Загін залишається не поміченим під час стрільби.	true
+unit_attributes_bullet_text_stalk	Підкрадаються||Загін може пересуватися приховано на будь-якій місцевості.	true
+unit_attributes_bullet_text_formed_attack	Напад в строю||Загін намагатиметься не залишати стрій під час ближнього бою.	true
+unit_attributes_bullet_text_resist_cold	Стійкі до холоду||Загін менше втомлюється на снігу.	true
+unit_attributes_bullet_text_disciplined	Дисципліновані||Загін не зазнає моральної кари, коли полководець помирає. Після відступу, імовірніше, збереться і повернеться в бій.	true
+unit_attributes_bullet_text_hide_forest	Ховаються (ліс)||Загін може ховатися в лісах, доки ворожі загони не підійдуть занадто близько.	true
+unit_attributes_bullet_text_fatigue_res	Стійкість до втоми||Втома менше впливає на цей загін.	true
+unit_attributes_bullet_text_hide_grass	Ховаються (трава)||Загін може ховатися у високій траві, доки ворожі загони не підійдуть занадто близько.	true
+unit_attributes_bullet_text_resist_heat	Стійкі до спеки||Загін менше втомлюється в пустелі.	true
+unit_attributes_bullet_text_hide_building	Ховаються (будівлі)||Загін може ховатися в спорудах, доки ворожі загони не підійдуть занадто близько.	true
+unit_attributes_bullet_text_hide_scrub_and_forest	Ховаються (кущі та ліс)||Загін може ховатися в чагарниках та лісі, доки ворожі загони не підійдуть занадто близько.	true
+unit_attributes_bullet_text_scare_horse	Лякають коней||Коні отримують моральну шкоду від цього загону.	true
+unit_attributes_bullet_text_immune_cav_penalty	Стійкість до списів||Списи не мають додаткової переваги проти цієї кінноти	true
+unit_attributes_bullet_text_encourages	Заохочення||Загін підвищує моральний дух союзників поряд.	true
+unit_attributes_bullet_text_climb_fast	Швидко вилізають||Загін може лазити по стінах вдвічі швидше, ніж інші.	true
+unit_attributes_bullet_text_mounted_fire_parthian	Парфянський постріл||Загін може стріляти навколо, а не тільки перед собою.	true
+unit_attributes_bullet_text_scare_immune	Безстрашні||Загін не піддається впливу залякування від ворожих загонів.	true

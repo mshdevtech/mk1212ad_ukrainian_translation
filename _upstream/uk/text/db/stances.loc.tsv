@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/stances.loc		
+stances_onscreen_protector	(Placeholder)Протектор	true
+stances_onscreen_client_state	(Placeholder)Залежна держава	true
+stances_onscreen_war	Війна	true
+stances_onscreen_master	(Placeholder)Володар	true
+stances_onscreen_neutral	Нейтралітет	true
+stances_onscreen_military_allies	(Placeholder)Союзник	true
+stances_onscreen_vassal	(Placeholder)Васал	true
+stances_onscreen_defensive_allies	(Placeholder)Оборонний альянс	true

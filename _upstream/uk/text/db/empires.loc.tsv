@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/empires.loc		
+empires_onscreen_holy_roman_empire	text_rejected	true
+empires_onscreen_ottoman_empire	text_rejected	true
+empires_onscreen_english_empire	text_rejected	true
+empires_onscreen_russian_empire	text_rejected	true
+empires_onscreen_indian_empire	text_rejected	true
+empires_onscreen_german_empire	text_rejected	true

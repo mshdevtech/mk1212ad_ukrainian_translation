@@ -1,0 +1,82 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_stats.loc		
+ui_unit_stats_onscreen_name_stat_bonus_vs_infantry	Напад проти піхоти	true
+ui_unit_stats_onscreen_name_stat_melee_damage_base	Початкова шкода в ближнім бою	true
+ui_unit_stats_onscreen_name_stat_charge_bonus	Приріст наступу	true
+ui_unit_stats_tooltip_text_stat_capture_power	Як швидко загін зможе захопити різні цілі в битві за поселення.	true
+ui_unit_stats_tooltip_text_stat_charge_bonus	Підвищення атаки і пошкодження в ближньому бою під час наступу. Не дає фізичного впливу при наступу.	true
+ui_unit_stats_onscreen_name_stat_reloading	Швидкострільність	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_elephants	В ближньому бою загін отримує додаткову перевагу проти слонів.	true
+ui_unit_stats_onscreen_name_stat_weapon_range	Відстань	true
+ui_unit_stats_tooltip_text_stat_weapon_range	Далекобійність може завдавати шкоди ворогами на віддалі, але чим ближе ворог тим точніші постріли.	true
+ui_unit_stats_onscreen_name_stat_men_count	Чисельність	true
+ui_unit_stats_tooltip_text_stat_melee_defence	Визначає можливість отримання удару під час ближнього бою.||Це працює тільки в ближньому бою та не впливає на захист від пострілів!	true
+ui_unit_stats_onscreen_name_stat_bonus_vs_elephants	Напад проти слонів	true
+ui_unit_stats_tooltip_text_stat_speed	Швидкість руху загону на бойовищі.	true
+ui_unit_stats_tooltip_text_stat_ship_health	Тривкість човна	true
+ui_unit_stats_tooltip_text_stat_ammo	Кількість боєприпасів, яку загін може використати в бою.||Якщо вони вичерпаються загін почне ближній бій.||Після битви боєприпаси відновляться.	true
+ui_unit_stats_onscreen_name_stat_ship_health	Міцність корпусу	true
+ui_unit_stats_tooltip_text_stat_melee_attack	Визначає успішність удару по ворогу під час ближнього бою.||Загартовані в битвах воїни отримують досвід ближнього бою і вдосконалюють уміння.	true
+ui_unit_stats_onscreen_name_stat_first_strike	Перший удар	true
+ui_unit_stats_onscreen_name_stat_ammo	Боєприпаси	true
+ui_unit_stats_tooltip_text_stat_missile_damage_base	Основна шкода на відстані.	true
+ui_unit_stats_tooltip_text_stat_first_strike	Визначає хто б'є першим під час сутички.	true
+ui_unit_stats_onscreen_name_stat_missile_damage_base	Основна шкода пострілів	true
+ui_unit_stats_onscreen_name_stat_melee_attack	Ближній бій	true
+ui_unit_stats_tooltip_text_stat_shield_armour	Зменшення ушкодження завдяки щиту.	true
+ui_unit_stats_onscreen_name_scalar_bracing	Непохитність	true
+ui_unit_stats_tooltip_text_stat_weapon_damage	Шкода від зброї складається із основної та крізь обладунки.||Ушкодження крізь обладунки отримують завжди, а від основної шкоди, може врятувати броня.	true
+ui_unit_stats_onscreen_name_stat_missile_block_chance	Імовірність захисту від стрільців	true
+ui_unit_stats_onscreen_name_stat_missile_damage_ap	Шкода крізь обладунки	true
+ui_unit_stats_tooltip_text_stat_missile_block_chance	Відсоток успішного відбиття пострілів щитом (не артилерії). (%)	true
+ui_unit_stats_onscreen_name_stat_spotting	Виявлення	true
+ui_unit_stats_tooltip_text_stat_shield_defence	Покращення захисту чи ухилення завдяки щиту.	true
+ui_unit_stats_onscreen_name_stat_accuracy	Влучність	true
+ui_unit_stats_tooltip_text_stat_reloading	Швидкість з якою може стріляти загін.||Вдосконалюється з досвідом.	true
+ui_unit_stats_onscreen_name_scalar_entity_charge_speed_modifier	Швидкість наступу	true
+ui_unit_stats_tooltip_text_stat_accuracy	Ймовірність ураження ворога пострілами.	true
+ui_unit_stats_tooltip_text_stat_health	Визначає скільки ударів може витримати загін відповідно до броні і захисту в ближньому бою.	true
+ui_unit_stats_tooltip_text_stat_spotting	З якої відстані загін може помітити ворога.	true
+ui_unit_stats_onscreen_name_stat_ship_douse_fire	Гасіння пожеж	true
+ui_unit_stats_tooltip_text_stat_ship_douse_fire	Гасіння пожежі	true
+ui_unit_stats_tooltip_text_stat_remaining_ammo	Постачання боєприпасів мореплавцям.	true
+ui_unit_stats_onscreen_name_stat_bonus_vs_cavalry	Напад проти кінноти	true
+ui_unit_stats_onscreen_name_scalar_entity_deceleration_modifier	Уповільнення	true
+ui_unit_stats_onscreen_name_scalar_entity_acceleration_modifier	Прискорення	true
+ui_unit_stats_tooltip_text_stat_armour	Наскільки міцний загін в ближньому бою та захищений від пострілів. 	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_cavalry	В ближньому бою загін отримує додаткову перевагу проти кінноти.	true
+ui_unit_stats_tooltip_text_stat_bonus_vs_infantry	В ближньому бою загін отримує додаткову перевагу проти піхоти.	true
+ui_unit_stats_tooltip_text_stat_melee_damage_base	Основна шкода в ближньому бою.	true
+ui_unit_stats_tooltip_text_stat_ship_health_fire	Як багато човен може отримати ушкодження вогнем, перш ніж загориться.	true
+ui_unit_stats_onscreen_name_stat_ship_health_fire	Вогнестійкість	true
+ui_unit_stats_tooltip_text_stat_morale	Загін із високим моральним духом не дасть драпака, перебуваючи в небезпеці. Моральний дух підвищується із зростанням досвіду у битвах.	true
+ui_unit_stats_tooltip_text_stat_defence	Захисна спроможність загону.	true
+ui_unit_stats_onscreen_name_stat_defence	Захист	true
+ui_unit_stats_tooltip_text_stat_attack	Можливості загони під час атаки.	true
+ui_unit_stats_tooltip_text_stat_missile_damage	Шкода пострілів складається із основної, крізь обладунки та від вибухів.||Ушкодження крізь обладунки отримують завжди, а основна шкода та від вибухів, може бути поглинута бронею.||Шкода від вибухів має зону дії.	true
+ui_unit_stats_tooltip_text_stat_hiding	Як уміло загін може ховатися.	true
+ui_unit_stats_onscreen_name_stat_capture_power	Сила захоплення	true
+ui_unit_stats_onscreen_name_stat_shield_armour	Броня щита	true
+ui_unit_stats_tooltip_text_scalar_bracing	н.д.	true
+ui_unit_stats_onscreen_name_stat_ship_move_speed	Швидкість	true
+ui_unit_stats_onscreen_name_stat_weapon_damage	Шкода ближ.бою	true
+ui_unit_stats_tooltip_text_stat_ship_move_speed	Як швидко човен може рухатися	true
+ui_unit_stats_tooltip_text_scalar_spotting_range	Змінює звичайну відстань виявлення ворожих загонів, що ховаються.	true
+ui_unit_stats_onscreen_name_scalar_spotting_range	Віддаль стеження	true
+ui_unit_stats_tooltip_text_stat_melee_damage_ap	Шкода крізь обладунки в ближньому бою.	true
+ui_unit_stats_onscreen_name_stat_melee_damage_ap	Шкода крізь обладунки	true
+ui_unit_stats_onscreen_name_stat_hiding	Маскування	true
+ui_unit_stats_onscreen_name_stat_missile_damage	Шкода пострілів	true
+ui_unit_stats_tooltip_text_stat_missile_damage_ap	Шкода крізь обладунки на відстані.	true
+ui_unit_stats_onscreen_name_stat_attack	Напад	true
+ui_unit_stats_onscreen_name_stat_morale	Моральний дух	true
+ui_unit_stats_tooltip_text_stat_men_count	Звичайна чисельність загону.	true
+ui_unit_stats_onscreen_name_stat_health	Здоров'я	true
+ui_unit_stats_onscreen_name_stat_melee_defence	Захист ближ.бою	true
+ui_unit_stats_tooltip_text_scalar_entity_charge_speed_modifier	Додаткова швидкість, яка використовується для кінцевого наступу.	true
+ui_unit_stats_onscreen_name_stat_speed	Швидкість	true
+ui_unit_stats_onscreen_name_stat_shield_defence	Захист щита	true
+ui_unit_stats_onscreen_name_stat_armour	Броня	true
+ui_unit_stats_tooltip_text_scalar_entity_deceleration_modifier	Швидкість з якою загін сповільнюється для зупинки.	true
+ui_unit_stats_tooltip_text_scalar_entity_acceleration_modifier	Швидкість з якою загін прискорюється.	true
+ui_unit_stats_onscreen_name_stat_remaining_ammo	Додаткові боєприпаси	true

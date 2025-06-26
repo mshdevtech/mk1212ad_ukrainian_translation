@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/chat_shortcuts.loc		
+chat_shortcuts_description_unblock	розблоковує спілкування і голос указаних гравців (/unblock player_name)	true
+chat_shortcuts_description_profile	показує профіль вказаного гравця (/profile player_name)	true
+chat_shortcuts_description_r	відповісти останньому, хто прошепотів Вам (/r повідомлення)	true
+chat_shortcuts_description_pm	надіслати приватне повідомлення вказаному гравцеві (/pm повідомлення player_name)	true
+chat_shortcuts_description_unmute	вмикає спілкування і голос вказаних гравців для поточної сесії (/unmute player_name)	true
+chat_shortcuts_description_team	спілкуватися з гравцями поточної команди (/командне повідомлення)	true
+chat_shortcuts_description_help	показує всі доступні команди спілкування для поточної ігрової області (/help)	true
+chat_shortcuts_description_block	блокує спілкування і голос указаних гравців назавжди, доки не буде розблоковано (/block player_name)	true
+chat_shortcuts_description_mute	вимикає спілкування і голос указаних гравців для поточної сесії (/mute player_name)	true
+chat_shortcuts_description_invite	запрошує вказаного гравця до поточної гри (/invite player_name)	true
+chat_shortcuts_description_all	спілкування з усіма гравцями в поточній грі (/всім повідомлення)	true
+chat_shortcuts_description_add	додає вказаного гравця як друга (/add player_name)	true

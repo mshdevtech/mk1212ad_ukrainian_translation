@@ -1,6 +1,6 @@
 import pandas as pd, pathlib, sys
 
-SRC_DIR = pathlib.Path("_upstream/text/db")
+SRC_DIR = pathlib.Path("_upstream/en/text/db")
 TRG_DIR = pathlib.Path("text/db")
 OBS_DIR = pathlib.Path("obsolete")
 

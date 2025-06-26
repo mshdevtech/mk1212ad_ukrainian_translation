@@ -1,0 +1,66 @@
+key	text	tooltip
+#Loc;1;text/db/scripted_objectives.loc		
+scripted_objectives_localised_text_Att.HB.Ravenna.Objective_01	Захищайте Равенну від облоги.	true
+scripted_objectives_localised_text_Att.HB.Huns.Objective_01	Розгроміть гунське військо.	true
+scripted_objectives_localised_text_Att.HB.Vandals.Objective_01	Розгроміть армію вандалів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_180	Відкрийте панель держав.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_181	Перейдіть на вікно «Підсумок».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_182	Розпочати переселення.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_160	Виберіть Апулум.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_161	Відкрийте панель вербування агентів, щоб переглянути доступних агентів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_162	Найміть розвідника.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_174	Закрийте вікно дипломатії.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_170	Перейдіть до вікна дипломатії.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_171	Розпочати дипломатію із Західною Римською імперією.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_172	Запропонувати торгівельну угоду.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_140	Прийміть або відхиліть пропозицію остготів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_150	Відкрийте панель держави.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_120	Виберіть військо вестготів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_121	Перегляньте доступні позиції.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_130	Відкрийте Мапу стратегічного огляду.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_100	Виберіть свою армію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_101	Відкрийте панель «Інформація про війська».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_102	Витратьте наявні очки вмінь.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_110	Додайте облогове машини до черги будівництва.	true
+scripted_objectives_localised_text_Att.HB.RomanNavy.Objective_01	Розгроміть римську фльоту.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_92	Оберіть і призначте полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_90	Виберіть підконтрольне поселення.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_91	Відкрийте панель найму військ	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_80	Розширте поселення, додавши ще одну комірку будівлі.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_32	Відкрийте панель «Загальні відомості».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_33	Витратьте доступні очки умінь полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_30	Пограбуйте і окупуйте Петродаву.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_31	Виберіть свого полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_20	Відкрийте панель найманців і перегляньте доступний перелік.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_14	Огляньте сторінку мети.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_12	Наберіть ще кілька загонів	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_13	Почніть досліджувати технологію	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_10	Завершити хід	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_11	Виберіть Ольвію, щоб відкрити панель «Провінція».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_06	Наберіть війська	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_07	Клацніть лівою кнопкою миші на Ольвії, щоб вибрати її	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_05	Відкрийте панель вербування	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_02	Виберіть вестготську армію	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_03	Клацніть правою кнопкою миші на Ольвії, щоб направити туди військо	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_01	Розвідайте важливі позиції	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_08	Покращте основну споруду Ольвії	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_09	Ремонт майстерні в Ольвії	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_70	Закрийте сторінку подробиць про провінцію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_71	Нехай Ваш губернатор видасть едикт у Дакії.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_62	Виберіть портрет особи або члена родини для просування.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_63	Клацніть лівою кнопкою миші на посаду губернатора Дакії, щоб призначити особу.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_60	Відкрийте сторінку подробиць про провінцію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_61	Перейдіть до сторінки Родоводу, щоб призначити губернатора.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_50	Відкрийте сторінку «Торгівля та фінанси».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_51	Знизьте податок.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_40	Виберіть Петродаву.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_41	Огляньте сторінку подробиць про провінцію.	true
+scripted_objectives_localised_text_Att.Adrianople_Loading_Screen_Override	В битва біля Адріанополя, буде змагатися з військами та обставинами реальної битви, що відбувалися. Приготуйся!	true
+scripted_objectives_localised_text_Att.HB.Soissons.Objective_01	Розгроміть суассонське військо.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_05	Віддайте наказ військам підкріплення зійти на берег.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_04	Захистити Ольвію від нападу.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_01	Огляньте тактично важливі позиції	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_03	Здолайте остготів у битві.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_02	Нехай захисники міста рухаються вперед.	true
+scripted_objectives_localised_text_Att.HB.WestRome.Objective_01	Розгроміть західну римську армію.	true
+scripted_objectives_localised_text_Att.HB.EastRome.Objective_01	Розгроміть східну римську армію.	true

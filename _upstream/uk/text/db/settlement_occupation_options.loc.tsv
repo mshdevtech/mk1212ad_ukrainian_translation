@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/settlement_occupation_options.loc		
+settlement_occupation_options_tooltip_occupation_decision_resettle	Переселитися||Як мігруюча орда, тепер Ви можете розмістити своє військо в цьому поселенні та припинити міграцію.	true
+settlement_occupation_options_tooltip_occupation_decision_colonise	Колонізувати||Заселити вояками.	true
+settlement_occupation_options_tooltip_occupation_decision_liberate	Звільнення||Ви повертаєте колишнім власникам їхній край, де вони відродять свою державу. Всі невільники звільнені.||Вони будуть безмежно вдячні Вам за це.	true
+settlement_occupation_options_tooltip_occupation_decision_do_nothing	Нічого не робити	true
+settlement_occupation_options_tooltip_occupation_decision_raze_without_occupy	Зруйнувати||Усі будівлі буде знищено, а поселення підпалено.	true
+settlement_occupation_options_tooltip_occupation_decision_gift_to_another_faction	Повернути||Повернути цей регіон Імперії! Відновлений до своєї колишньої слави, Рим домінуватиме ще тисячу років!||Ви передаєте контроль над цим регіоном Римській імперії.	true
+settlement_occupation_options_tooltip_occupation_decision_vassal	Підкорити||Залежно від Вашого культурного походження, завойована держава стане або Вашою сатрапією, або Вашим протекторатом. Усі полонені потрапляють у рабство.	true
+settlement_occupation_options_tooltip_occupation_decision_raze	Зруйнувати||Усі будівлі в поселенні буде знищено. Скарби не отримаєте. Усі полонені будуть вбиті.||Громадський порядок знизиться, і попередній власник зненавидить Вас.	true
+settlement_occupation_options_tooltip_occupation_decision_occupy	Окупувати||Ви мирно візьмете під контроль поселення. Всі полонені будуть звільнені.	true
+settlement_occupation_options_tooltip_occupation_decision_loot	Розграбувати і окупувати||Ви отримаєте гроші від грабунку, але будівлі в поселенні будуть пошкоджені. Усіх полонених поневолять.|| Громадський порядок значно погіршиться, і Ваші дипломатичні відносини з попереднім власником також сильно постраждають.	true
+settlement_occupation_options_tooltip_occupation_decision_sack	Спустошити||Ви не захопите поселення, але вкрадете скарби та пошкодите будівлі. Усі полонені будуть вбиті.||Громадський порядок знизиться, і попередні власники Вас любитимуть ще менше.	true

@@ -1,0 +1,29 @@
+key	text	tooltip
+#Loc;1;text/db/unit_traits.loc		
+unit_traits_bullet_text_climb_fast	можливість швидкого масштабування	true
+unit_traits_bullet_text_encourages	забезпечує моральний бонус найближчим союзникам	true
+unit_traits_bullet_text_immune_cav_penalty	списи не отримують бонусу проти цієї кінноти	true
+unit_traits_bullet_text_scare_horse	лякає коней	true
+unit_traits_bullet_text_scare_immune	стійкість до страху	true
+unit_traits_bullet_text_mounted_fire_parthian	вогонь прямо навколо	true
+unit_traits_bullet_text_mounted_fire	можливість стріляти верхи 	true
+unit_traits_bullet_text_snipe	Загін залишається прихованим під час пострілів	true
+unit_traits_bullet_text_stalk	можливість залишатися прихованими під час руху	true
+unit_traits_bullet_text_hide_scrub	можливість ховатися в чагарниках	true
+unit_traits_bullet_text_formed_attack	Цей загін намагається залишатися в строю під час ближнього бою	true
+unit_traits_bullet_text_hide_grass	можливість сховатися в траві	true
+unit_traits_bullet_text_resist_heat	не зазнає втрат у спекотному кліматі	true
+unit_traits_bullet_text_fatigue_res	втома не так сильно впливає	true
+unit_traits_bullet_text_disciplined	відсутня моральна шкода від смерті полководця	true
+unit_traits_bullet_text_resist_cold	не зазнає втрат у холодному кліматі	true
+unit_traits_bullet_text_hide_building	можливість ховатися в будівлях	true
+unit_traits_bullet_text_scare_all	лякає всіх	true
+unit_traits_bullet_text_impetuous	додатковий моральний бонус при бажанні	true
+unit_traits_bullet_text_hide_wood	можливість сховатися в лісі	true
+unit_traits_bullet_text_all_ranks_fire	усі ранги можуть стріляти, якщо використовувати зброю, яка дозволена лише 1 рангом	true
+unit_traits_bullet_text_ignore_ground_move_mod	не вповільнюються місцевістю	true
+unit_traits_bullet_text_cant_run	як правило, для ручної артилерії	true
+unit_traits_bullet_text_scare_elephant	лякає слонів	true
+unit_traits_bullet_text_campaign_stealth	можливість рухатися мапою кампанії непомітно	true
+unit_traits_bullet_text_guerrilla_deploy	можливість розгортатися поза зоною розгортання	true
+unit_traits_bullet_text_mounted_fire_move	вогонь під час руху	true

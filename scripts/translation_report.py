@@ -15,7 +15,7 @@ EXCLUSIONS = ["PLACEHOLDER"]
 def exclude_placeholders(df: pd.DataFrame) -> pd.DataFrame:
     return df[~df["text"].isin(EXCLUSIONS)]
 
-SRC_DIR = Path("_upstream/text/db")
+SRC_DIR = Path("_upstream/en/text/db")
 TRG_DIR = Path("text/db")
 
 def load(p: Path) -> pd.DataFrame:

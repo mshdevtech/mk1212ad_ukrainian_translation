@@ -1,0 +1,54 @@
+key	text	tooltip
+#Loc;1;text/db/agent_culture_details.loc		
+agent_culture_details_onscreen_name_381	Полководець	true
+agent_culture_details_onscreen_name_287	Полководець	true
+agent_culture_details_onscreen_name_288	Полководець	true
+agent_culture_details_onscreen_name_389	Полководець	true
+agent_culture_details_onscreen_name_290	Полководець	true
+agent_culture_details_onscreen_name_291	Воєвода	true
+agent_culture_details_onscreen_name_395	Полководець	true
+agent_culture_details_onscreen_name_297	Ветеран	true
+agent_culture_details_onscreen_name_398	Полководець	true
+agent_culture_details_onscreen_name_341	Капітан	true
+agent_culture_details_onscreen_name_342	Полководець	true
+agent_culture_details_onscreen_name_350	Полководець	true
+agent_culture_details_onscreen_name_351	Волхв	true
+agent_culture_details_onscreen_name_357	Інспектор	true
+agent_culture_details_onscreen_name_359	Борець	true
+agent_culture_details_onscreen_name_365	Жриця	true
+agent_culture_details_onscreen_name_367	Розвідник	true
+agent_culture_details_onscreen_name_270	Капітан	true
+agent_culture_details_onscreen_name_372	Герой	true
+agent_culture_details_onscreen_name_305	Шаман	true
+agent_culture_details_onscreen_name_310	Проповідник	true
+agent_culture_details_onscreen_name_319	Нападник	true
+agent_culture_details_onscreen_name_322	Шпигун	true
+agent_culture_details_onscreen_name_225	Капітан	true
+agent_culture_details_onscreen_name_333	Агент	true
+agent_culture_details_onscreen_name_336	Капітан	true
+agent_culture_details_description_text_398	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_290	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_291	Майстер військового мистецтва, спеціалізується на військовій підготовці, вбивстві ворогів і завданні шкоди.	true
+agent_culture_details_description_text_395	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_297	Майстер військового мистецтва, спеціалізується на військовій підготовці, вбивстві ворогів і завданні шкоди.	true
+agent_culture_details_description_text_288	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_389	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_381	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_287	PLACEHOLDER	true
+agent_culture_details_description_text_270	PLACEHOLDER	true
+agent_culture_details_description_text_372	Майстер військового мистецтва, спеціалізується на військовій підготовці, вбивстві ворогів і завданні шкоди.	true
+agent_culture_details_description_text_365	Сподвижник віри та натхненник для всіх, та чиї слова можуть так само легко деморалізувати або відволікати.	true
+agent_culture_details_description_text_367	Фахівець з хитрощів, експерт у розвідці та знавець у стримуванні ворога.	true
+agent_culture_details_description_text_359	Майстер військового мистецтва, спеціалізується на військовій підготовці, вбивстві ворогів і завданні шкоди.	true
+agent_culture_details_description_text_350	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_351	Сподвижник віри та натхненник для всіх, та чиї слова можуть так само легко деморалізувати або відволікати.	true
+agent_culture_details_description_text_357	Фахівець з хитрощів, експерт у розвідці та знавець у стримуванні ворога.	true
+agent_culture_details_description_text_341	text_rejected	true
+agent_culture_details_description_text_342	Полководці та адмірали використовуються для командування військами та фльотою в боях. Їхній командний рейтинг впливає на ефективність бою їх військ чи фльоти. Полководцям можна призначати корисні вміння та наймитів або речі, коли вони набувають досвіду в бою та підвищуються в званні. Їм також можна призначити посади з "Шляху честі" (Cursus honorum) для додаткових бонусів.	true
+agent_culture_details_description_text_333	PLACEHOLDER	true
+agent_culture_details_description_text_336	text_rejected	true
+agent_culture_details_description_text_322	Фахівець з хитрощів, експерт у розвідці та знавець у стримуванні ворога.	true
+agent_culture_details_description_text_225	PLACEHOLDER	true
+agent_culture_details_description_text_319	Фахівець з хитрощів, експерт у розвідці та знавець у стримуванні ворога.	true
+agent_culture_details_description_text_310	Сподвижник віри та натхненник для всіх, та чиї слова можуть так само легко деморалізувати або відволікати.	true
+agent_culture_details_description_text_305	Сподвижник віри та натхненник для всіх, та чиї слова можуть так само легко деморалізувати або відволікати.	true
