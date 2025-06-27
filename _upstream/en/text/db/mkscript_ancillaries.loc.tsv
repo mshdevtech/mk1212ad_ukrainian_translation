@@ -1,6 +1,0 @@
-key	text	tooltip
-#Loc;1;text/db/mkscript_ancillaries.loc		
-ancillaries_colour_text_mk_companion_all_general_crusades_knight_hospitaller	"One may stare into the light until one becomes the light..."	true
-ancillaries_colour_text_mk_companion_all_general_crusades_knight_templar	"God wills it!"	true
-ancillaries_onscreen_name_mk_companion_all_general_crusades_knight_hospitaller	Knight Hospitaller	true
-ancillaries_onscreen_name_mk_companion_all_general_crusades_knight_templar	Knight Templar	true

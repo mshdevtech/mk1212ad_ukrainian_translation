@@ -1,6 +1,0 @@
-key	text	tooltip
-#Loc;1;text/db/battle_weather_types.loc		
-battle_weather_types_onscreen_snow	Сніг	true
-battle_weather_types_onscreen_rain	Дощ	true
-battle_weather_types_onscreen_fog	Туман	true
-battle_weather_types_onscreen_dry	Сухо	true

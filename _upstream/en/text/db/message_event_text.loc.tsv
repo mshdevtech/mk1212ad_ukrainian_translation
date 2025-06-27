@@ -1,9 +1,0 @@
-key	text	tooltip
-#Loc;1;text/db/message_event_text.loc		
-message_event_text_text_att_pro_roman_displeasure_secondary	The Romans have stated their displeasure about the mass of Huns now marauding across their farmland. The Senate have made it clear that they hold us at least partially responsible for the damage they are causing.	true
-message_event_text_text_att_pro_apulum_captured_title	Notoriety Increases	true
-message_event_text_text_att_pro_roman_displeasure_primary	Hunnic Raiders	true
-message_event_text_text_roman_character_dies_commanding_replace	This force needs leadership now its commander is gone. Who will answer the call?	true
-message_event_text_text_att_pro_apulum_captured_secondary	The enemy capital has fallen! News of our victory will surely gain the attention of even the most powerful of foreign rulers.	true
-message_event_text_text_att_pro_roman_displeasure_title	Relations Deteriorate	true
-message_event_text_text_att_pro_apulum_captured_primary	Apulum Captured	true
