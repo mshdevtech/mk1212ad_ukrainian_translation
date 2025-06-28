@@ -1,464 +1,464 @@
 key	text	tooltip
 #Loc;1;text/db/advice_info_texts.loc		
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Running:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.140	[[url:/units]]Missile Units:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.041	You can run selected units by double right-clicking on the terrain.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.141	Will automatically fire at any enemy units in range.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.042	Hold down the spacebar to see unit destinations.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.142	Display an arc of fire when the cursor is placed over them.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.043	Toggle the speed of selected units by clicking the [[url:script_link_run_button]]Run button[[/url]], or by pressing the R key.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.143	Are generally weak in hand-to-hand combat.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.050	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Attacking:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.051	Issue an attack order to a selected unit by right-clicking an enemy.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.052	Double-right-click on an enemy to order your unit to charge.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.053	Order selected units to precise positions by right-clicking and dragging-out a formation on the terrain.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.060	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Flanking:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.061	Soldiers fight best against enemies that are in front of them.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.062	Units will suffer increased casualties and morale shocks when attacked from the flanks or the rear.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.070	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Morale:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.071	A unit will rout once its morale is broken.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.072	A routing unit will flee the battlefield and will no longer respond to orders.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.073	Unit morale and the influencing factors are displayed on its tooltip.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.074	A unit's icon will flash when its morale begins to waver.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.075	Routing units may rally when safe and return to the battlefield.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.100	[[url:/units]]Cavalry:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.001	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Battlefield Camera:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.101	Mobile soldiers on horseback, ideal for swift maneuovres.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.002	Move the camera using the W, A, S and D keys.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.102	A cavalry charge can swiftly break enemy morale, particularly when delivered to the flank or rear of a unit.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.003	Orientate the camera by holding down the middle mouse button.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.103	Vulnerable against spear or pike weapons, and in prolonged engagements.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.004	Change the camera height with the mouse scroll wheel.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.005	Hold down shift to move the camera faster.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.010	[[url:/units]]Units:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.110	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain#enc_text_manual_battle_conflict_forests]]Forests:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.011	Armies in Total War are subdivided into units.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.111	Units can hide in forests, as long as they move slowly.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.012	Orders are issued to units, not individual troops.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.112	Forests protect troops against incoming missiles.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Selection & Movement:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.120	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Naval combat:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.021	Select Units by using left-click.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.121	Selected ships can be directed to attack enemy vessels by right-clicking.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.022	Select a group of units by left-clicking and dragging a selection box around them.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.122	Order a selected ship to land its troops on shore by right-clicking on the beach.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.023	Right-click on the terrain to issue a move order to the selected units.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.123	Unit cards and ship cards can be seen on the user interface by selecting the appropriate [[url:script_link_force_tabs]]force tab[[/url]].	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.024	Units can also be selected by clicking on their [[url:script_link_unit_cards]]unit cards[[/url]].	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.025	[[url:/manual/page/single-player/0001_enc_page_help_intro]]The Encyclopedia:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.026	Press the F1 key at any time to bring up the encyclopedia.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.027	Battles can be paused with the P key.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.028	The game menu can be accessed with the ESC key.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.029	Press TAB to access the tactical map.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.030	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]High Ground:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.130	[[url:/manual/page/single-player/0088_enc_page_battle_play_phase_conflict_fatigue]]Fatigue:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.031	Fighting downhill offers infantry a great advantage.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.131	Soldiers tire when running or fighting, and slowly recover when standing still.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.132	Fatigued soldiers cannot move as fast or fight as effectively.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.133	The fatigue level of a unit can be seen on its tooltip.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.134	Hold CTRL whilst dragging out a formation with the right mouse button to make units walk into position.	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.001	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Ship Weapons:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.002	Ships can fight each other by ramming, boarding, or with ranged weapons.	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.011	Ships fight in one of three manners: in hand-to-hand combat, with artillery, or skirmishing with ranged weapons.	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.010	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Ship Types:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.021	Land-based units will fight in battle on transport ships.	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.020	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Transport Ships:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.023	The men also suffer from seasickness, which reduces their fighting potential.	true
-advice_info_texts_localised_text_Att.Pro.Naval.Info.022	Transport ships are ineffective in combat and should only be used as a last resort.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.080	[[url:/manual/page/single-player/0083_enc_page_battle_play_phase_conflict_tactics]]Capture Points:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.081	Settlements contain a number of points which can be captured by standing units next to them.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.082	Capture points convey tactical advantages on whichever side holds them.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.083	Towers are destroyed when their capture point is taken.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.085	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Unit Positioning:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.086	Order selected units to precise positions by right-clicking and dragging-out a formation on the terrain.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.087	Hold ALT and left-drag selections of units to reposition them with the same facing.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.088	Use the cursor keys to nudge selected units into position.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.089	Hold Shift and draw a path with the right mouse button for selected units to follow.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.090	[[url:/units]]Infantry:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.091	Dense units of men, armed with hand-to-hand weapons.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.092	Slow and vulnerable to being outranged and outmanoeuvred.	true
-advice_info_texts_localised_text_Att.Pro.Olbia.Info.093	Strong in frontal attacks but vulnerable to the flank and the rear.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.071	Fire-at-will is a missile unit ability which can be toggled from the unit abilities bar.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.176	[[url:/manual/page/single-player/0039a_enc_page_campaign_play_province_trade_finance]]Bankruptcy:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.276	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_faction_intro]]Faction Button:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.070	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_fire]]Fire-At-Will:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.177	A faction with no money is unable to pay its troops.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.277	The family tree and other faction information can be accessed at any time by clicking the Faction [[url:script_link_faction_button]]button[[/url]].	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.073	Turn fire-at-will off to have a unit conserve ammunition, or to prevent inflicting casualties on your own troops as they engage the enemy.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.174	Should your treasury drop below zero, your faction will be unable to pay its troops.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.274	As a faction gains imperium it can issue more edicts per turn.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.374	A faction can enter horde mode from the Faction panel.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.072	When active, units will select their own targets without being ordered otherwise.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.175	The prologue shall end if your treasury drops to zero before Petrodava is captured.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.275	Edicts are applied during the end turn process.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.072	Use the End Turn button to move the game on. Other factions will then get a turn to move their army pieces, recruit units and perform other actions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.172	Recruited units need to be paid an upkeep each turn. Recruiting too many units will send your faction into negative income.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.272	A province governor must be appointed before edicts can be issued.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.372	Horde factions do not occupy settlements but construct buildings within their armies.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.472	Colder weather is coming, and provinces in the north and east will begin to provide less food.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.173	Units can be disbanded from the unit card rollout. Click on a unit card to see the rollout.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.273	Edicts are issued from the Edicts rollout.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.373	Horde factions can resettle in new territory at any time.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.070	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_end_turn]]Turns:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.170	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Upkeep & Income:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.270	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_edicts]]Edicts:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.370	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Horde Migration:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.470	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_fertility]]Fertility:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.071	Time on the campaign map is advanced in turns.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.171	Your [[url:script_link_treasury]]treasury[[/url]] and [[url:script_link_per_turn_income]]income[[/url]] are shown on the user interface.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.271	Edicts can be issued across a province to boost public order, income, or to provide other benefits.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.371	Some barbarian factions can turn into a horde when their territory is threatened.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.471	The fertility of a province greatly affects the amount of food that can be produced there.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.178	Unpaid armies will suffer morale penalties, be less effective in battle and may revolt.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.278	[[url:/manual/page/single-player/0003_enc_page_help_tut]]Prologue boundaries:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.179	Consider raising taxes or disbanding units to increase faction income.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.279	The area your armies can move in is restricted during the prologue.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.061	Soldiers are more effective fighting downhill, and missiles carry further.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.166	Buildings are repaired from the Province panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.266	Units can be retrained and upgraded to be more effective in combat as your faction develops technology.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.060	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]Attacking Uphill:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.267	Retrain units or upgrade units by left-clicking their unit card and selecting the relevant option on the Rollout panel.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.063	Avoid charging men uphill, as they will quickly tire.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.062	Ensure you have numerical superiority when attacking uphill, or try finding an alternate route.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.165	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Building Repair:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.265	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_retrain]]Unit Retraining & Upgrading:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.062	Damaged buildings do not provide their intended benefits until they are repaired.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.162	Seasons can be good or bad, which has an effect on food production, public order and more.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.262	Characters on the family tree can be browsed, promoted into office, married, assassinated, and more.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.362	Treaties can involve declarations of war, truces, alliance-making, trade agreements and more.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.462	The condition of the settlement defences is indicated on the Pre-battle panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.063	A damaged building can be repaired by clicking the Repair button on the Building Rollout panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.163	Armies caught out in snowy country in winter will suffer from attrition.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.263	A character may be promoted to a governorship by selecting his portrait and then left-clicking the governorship.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.363	Diplomacy is conducted on the Diplomacy panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.060	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Building Repair:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.160	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_date]]Seasons:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.260	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Family Tree:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.360	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Diplomacy:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.460	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_escalation]]Siege Escalation:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.061	Buildings in a settlement can be damaged in battles or by enemy agent actions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.161	The passage of seasons through the year is shown on the campaign map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.261	Your family tree shows members of the ruling family and other prominent nobles.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.361	Factions can engage in diplomacy any factions they are in contact with.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.461	The longer a siege goes on for, the more damage is done to the besieged settlement.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.268	Retraining and upgrading units costs money, and may increase unit upkeep.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.051	Army morale will suffer greatly if its general is killed.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.056	Upgrading a settlement's primary building increases the settlement's size and improves its defences.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.456	A disloyal character is more likely to instigate a civil war.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.050	[[url:/manual/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]The General:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.057	The costs and benefits of a building are shown on the Building Rollout panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.457	The loyalty of a nobleman can be improved by promoting him, or marrying or adopting him into the ruling family.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.054	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction]]Buildings:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.354	Agents are recruited from the Recruit Agent panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.454	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_loyalty]]Loyalty:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.052	Routing units will not rally without a general present.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.055	Buildings within a settlement can be browsed, constructed, repaired and dismantled from the Province panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.355	Certain buildings, indicated by red icons on the recruitment panel, must be constructed before an agent of a specific type can be recruited.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.052	Settlements and buildings are managed from the Province panel, which appears when a settlement is selected.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.152	Multiple depleted units of the same type can be merged together by selecting them and clicking the merge button on the rollout panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.252	Province governors are appointed on the Province Details screen.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.352	Agents can be used to benefit allied settlements and armies, or hinder enemy armies, settlements or agents.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.452	Characters may gain traits and ancillaries as they perform actions on the campaign map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.053	The Province panel shows all settlements within the selected province, as well as buildings within those settlements that you control.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.353	Agents can move freely around the campaign map, including into enemy territory.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.453	Noblemen can marry, and their wives bring them an additional trait.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.050	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Province Panel:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.150	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Unit Replenishment:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.250	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province]]Province Governors:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.350	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Agents:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.450	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Character Development:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.051	Settlements contain buildings that perform a variety of functions, such as the recruitment of troops.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.151	Depleted army units will automatically recover their numbers whilst in controlled or allied territory.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.251	A province governor can be appointed to provide bonuses and enact edicts.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.351	Spies, dignitaries and champions can be recruited on the campaign map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.451	A character's attributes are shown on the Character Details panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.058	Buildings are not constructed immediately but take time to complete.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.041	Spearmen are best countered by units bearing offensive melee weapons, such as swords and axes.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.146	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_events]]Lists:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Countering Spearmen:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.147	The [[url:script_link_events_list]]Events[[/url]] list shows important notifications about your faction or the wider world.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.044	Left-click a unit card to add it to the Recruitment queue.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.144	The relative strengths of the forces involved are indicated on the Balance of Power bar.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.244	Some siege weapons, such as onagers, can be recruited like regular units and travel with the army.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.444	Unrest will occur between a faction and any population in its provinces of a different religion.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.042	Spearmen are strong against cavalry, and their heavier armour allows them to better withstand missile fire.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.145	You may decide to attack or withdraw based on your probable chances of victory.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.245	Siege weapons are constructed during the end turn process, usually over many turns.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.445	The religion of a province can be converted over time by agents and religious buildings.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.142	The Forces panels display known forces, reinforcements, commanders and army effects.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.242	Siege weapons are built during the siege. They cost no money but require time and manpower to construct.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.342	Select the Auto-Resolve option on the Pre-Battle panel to auto-resolve a battle.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.442	Relations between factions of different religions will suffer a diplomatic penalty.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.043	The Recruitment panel shows the types of units this army can recruit.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.143	Each commander's portrait can be selected to view his army.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.243	The available manpower is determined by the size of the attacking army.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.443	The population of a province may follow multiple religions. This is shown on the Province Details panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.040	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Unit Recruitment:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.140	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_battle_intro]]Pre-Battle Screen:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.240	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_weapons]]Siege Weapons:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.340	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_ui_battle_auto]]Auto-Resolving:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.440	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Religion:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.041	Additional units can be recruited into an army from the Recruitment panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.141	The Pre-Battle screen provides information about the up-coming battle.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.241	Province capitals are fortified and require siege weapons to attack.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.341	Battles can be auto-resolved so the game automatically determines their likely outcome.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.441	Each faction follows a state religion. This can be seen and converted on the Faction panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.148	The [[url:script_link_forces_list]]Forces[[/url]] list shows all armies, navies and agents controlled by your faction at a glance.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.149	The [[url:script_link_provinces_list]]Provinces[[/url]] and [[url:script_link_factions_list]]Factions[[/url]] lists summarise information about known provinces and factions.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.031	Enemy cavalry are best engaged with spearmen, protected missile units, or chased off by other cavalry.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.030	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Countering Cavalry:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.037	An army garrisoned in a settlement will defend it from enemy attack.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.033	Missile units are particularly vulnerable to hit and run attacks by cavalry.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.034	An army can be selected by left-clicking on it.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.134	The supply of mercenaries in an area is finite and mercenary type varies depending upon the local culture.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.234	Province capitals are fortified and require siege weapons, built during the siege, to take.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.334	The Ambush stance can be used to set an ambush for an attacker.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.434	The tooltip on the balance of power bar shows the effect of the current political order.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.032	Beware enemy cavalry picking off vulnerable or isolated units, or striking engaged units in the flanks or the rear.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.035	Selected armies can be moved to a location by right-clicking there.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.135	Mercenaries are cheaper to recruit but more expensive to maintain than normal units.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.335	The costs and benefits of all stances can be viewed on the button tooltips on the Stances rollout.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.435	Characters may be appointed to high offices once they have served in lower positions. 	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.032	Armies are represented on the campaign map by an army piece.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.132	Are recruited from the Mercenaries panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.232	The defenders of a settlement under siege will eventually starve, unless relieved by a reinforcing army or supplied by sea.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.332	A selected army's stances can be browsed from the Stances rollout.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.432	The power of a political party increases with the influence of its characters.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.034	Cavalry charges are particularly powerful and can quickly break unprepared units.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.033	An army is always led by a General.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.133	Do not have to be trained, and immediately join your army when they are hired.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.233	The defenders may sally out and attempt to break the siege.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.333	The Fortify stance instructs the army to set up camp and increases unit replenishment.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.433	It is important to keep a healthy balance of power: a ruling family being too weak or too powerful carries negative consequences.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.030	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Armies:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.130	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Mercenaries:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.230	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges]]Siege Warfare:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.330	[[url:/manual/page/single-player/0018_enc_page_campaign_play_military_stances]]Army Stances:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.430	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Politics:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.530	The core character attributes,  authority, cunning, and zeal, improve a character's performance in certain situations.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.031	Used to defend territory, seize enemy cities and fight their armies.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.131	Can be hired whilst in enemy regions, unlike regular recruits.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.231	A settlement can be put under siege by attacking it with an army.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.331	Armies can take up different stances, each with their own bonuses and limitations.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.431	The balance of power between the ruling family and other nobles is shown on the Faction panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.531	They also provide defence against attacks of that type by agents.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.038	Settlements also contain garrison units that automatically defend the town from attack.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.021	Enemy ranged units are best fought by chasing them down with fast units like cavalry.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.026	Rivers, mountains and dense forests restrict movement across the campaign map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.126	Some areas of the campaign map are inhospitable due to extremes of temperature.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.226	As the population of a province grows over time it gains population surplus.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Countering Missile Units:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.027	Rivers can be crossed at crossing points.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.127	An army moving through frozen terrain over winter will suffer losses.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.227	Growth is generated by the capital buildings within settlements.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.023	Enemy towers can be destroyed by either capturing them or burning them.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.124	Armies travel faster on roads than across country.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.424	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Building Browser:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.524	Intrigue actions can be conducted by characters, potentially affecting their standing or loyalty.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.022	Missile units are generally vulnerable in hand-to-hand fighting.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.025	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Terrain:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.125	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Attrition:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.225	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_growth]]Population Surplus:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.425	The building browser can be used to preview buildings available to your faction.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.525	Intrigue actions can fail, which may have unintended consequences.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.022	A faction can take a region by capturing the central settlement.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.122	Action points are replenished each turn.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.222	Food is generated by farms and fishing ports, and consumed by certain other buildings.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.322	Factions are discovered by moving to within line of sight or by capturing an adjacent region.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.422	Horde constructions are built on the Buildings tab.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.522	Characters build influence as they perform actions on the campaign map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.023	A faction is destroyed when it controls no more regions or armies.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.123	Certain actions, such as changing stance or moving onto water from a beach, cost action points.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.223	The faction-wide food supply [[url:script_link_food_indicator]]is shown on the user interface[[/url]].	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.423	A horde must stop and enter Encampment stance to construct buildings.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.523	Character influence can be spent by promoting them to an office, or depleted by certain intrigue actions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.020	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions]]Regions & Factions:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.120	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_campaign_action_points]]Action Points:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.220	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_food]]Food:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.320	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Faction Discovery:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.420	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Horde Construction:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.520	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_power]]Influence & Intrigue:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.021	Regions can be controlled by factions, such as the Visigoths and the Huns.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.121	As an army moves it spends action points, until it can move no further.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.221	A positive food supply must be maintained otherwise public order and population growth will suffer.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.321	Factions must discover one another to establish diplomatic relations.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.421	A horde army can build infrastructure that travels with the army.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.521	The power of a political party increases with the influence of its characters.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.128	Armed forces will also suffer attrition in swamps, deserts and deep oceans.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.228	Population surplus can be spent on opening new building slots within that province.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.129	An army in fortified stance does not suffer from attrition.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.229	Population surplus is shown on the Province Overview panel.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.011	Units will rout from the battlefield when their morale is broken.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.116	Active objectives can be viewed on the Objectives panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.216	The Province Details panel shows detailed information about the status of a province.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.010	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Routing & Rallying:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.117	Received objectives can be reviewed here at any time.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.217	The panel may be opened by selecting a settlement within a province and clicking the Details button.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.013	The general's rally ability can be used to try and stir routing units into rallying.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.114	Zones of control are shown by placing the mouse cursor over the owning settlement, army or navy.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.214	Provinces can be exempted from tax to provide a targeted boost to public order there. This is done on the Province Details panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.314	Eligible characters within a faction will appear in the candidate list.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.012	Routing units will sometimes rally when clear of danger, and start responding to orders again.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.115	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_objectives_intro]]Objectives:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.215	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province#enc_text_manual_ui_province]]Province Details:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.012	Zoom in and out by scrolling the mousewheel, or by using the Z and X keys.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.112	Armies, navies and settlements exert zones of control around them.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.212	The tax rate across all provinces is set from the Trade & Finance panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.312	New Generals can be recruited as your faction grows and accumulates imperium.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.412	Settlements are dismantled during this process and a proportion of their value is returned to the treasury.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.512	A portion of your forces or even a whole region will break away to join the separatist faction.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.014	Units will not rally without a general present.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.113	Enemy armies and navies cannot pass through a zone of control, except to attack the owner.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.213	A higher tax rate brings in more income but lowers public order and growth rates.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.313	Generals are appointed at controlled settlements.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.513	Avoid civil wars by monitoring character loyalty, public order, and army discipline.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.010	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Camera:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.110	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Attacking:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.210	[[url:/manual/page/single-player/0044a_enc_page_campaign_play_province_wealth]]Taxation:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.310	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Raising Forces:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.410	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Horde Transition:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.510	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_civil_war]]Civil War:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.011	Move the camera with the W, A, S and D keys, or by holding the middle mouse button and dragging.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.111	A selected army can be ordered to attack an enemy settlement or army by right-clicking on it.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.211	Factions raise income by levying taxes on their citizens.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.311	An army on the campaign map must be commanded by a General.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.411	It takes a turn for a faction to transform into a horde.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.511	Disloyal characters may take advantage of a low-discipline army or low public order in a region to declare a civil war.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.118	Victory conditions may also be reviewed on the Objectives panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.218	Information about wealth, religion, public order and more can be viewed here.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.219	Revolts will occur if public order falls to -100.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.001	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Visibility:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.106	The game will automatically save each turn.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.107	Games can be manually saved and loaded from the Game menu, accessed with the ESC key.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.003	Units can hide in forests, and some in long grass.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.004	Provinces are further divided into regions, each containing a settlement.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.104	An army cannot move while it recruits units.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.204	Factors affecting public order in a province can be viewed on the Province Details panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.504	Existing buildings may be upgraded to provide further benefits.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.002	Enemy units are not visible if line-of-sight is blocked by hills or other terrain features.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.105	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_actions_campaign_quick_save_load]]Saving the Game:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.505	Upgrade the farm in Petrodava if the famine persists.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.002	The campaign map is the theatre in which armies, kingdoms and empires can be created, surveyed, commanded and destroyed.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.202	Various factors can improve public order, such as the presence of home armies and buildings beneficial to the populace.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.302	Gaining more imperium allows your faction to field more armies and agents.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.402	The Diplomacy panel lists known factions and summarises their stance towards you.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.502	Existing troops can often be retrained to a higher level if the right facilities are present in the local province.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.003	Territory is divided into provinces.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.103	Enqueued units can be cancelled by clicking the card in the queue.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.203	Other factors can be detrimental to public order such as religious tension, political instability, food shortages or invading armies.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.303	Imperium and its effects can be browsed on the Faction panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.403	Negotiations can be entered into by double-clicking on a faction from the list.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.503	[[url:/buildings]]Building Upgrades:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.100	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Further Recruitment:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.200	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order]]Public Order:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.300	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_imperium]]Imperium:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.400	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Diplomacy:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.500	[[url:/units]]Troop Quality:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.001	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Campaign Map:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.101	The units available for recruitment are determined by the buildings in the local province.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.201	The public order level in a province must be kept in check to prevent it degenerating into revolt.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.301	As your faction conquers more territory its imperium level grows.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.401	Diplomatic treaties can be proposed to other factions on the Diplomacy panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.501	Upgrade buildings and research technologies to permit the training of better-quality troops.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.091	Units will rout from the battlefield when their morale is broken.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.296	Armies cannot be merged under one commander, but by staying close will reinforce one another in battle.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.090	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Routing & Rallying:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.297	Lines of reinforcement between armies that reinforce each other are shown on the campaign map when the cursor is placed over them.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.093	The general's rally ability can be used to try and stir routing units into rallying.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.194	The Details panel shows information about the selected army, general or agent.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.294	With a controlled army selected, right-click another that is close by to swap units between them.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.394	Filters showing information such as public order level, diplomatic status, region growth and more can be enabled or disabled.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.494	Disease can travel with armies, creates death, and causes unhappiness.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.092	Routing units will sometimes rally when clear of danger, and start responding to orders again.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.195	A character will also gain traits and household over time, depending upon their actions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.295	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_army_reinforcements]]Reinforcing:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.092	Only one technology may be researched at a time.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.192	As a character's rank increases, new skills for that character can be chosen.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.292	If the integrity of an army drops too low it may mutiny and proclaim its own leader.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.392	The strategic overview screen can be toggled by clicking the strategic overview button or by pressing the TAB key.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.492	Squalor can be mollified by buildings that provide sanitation.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.094	Units will not rally without a general present.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.093	Research is undertaken on the Technology panel.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.193	Your general has increased in rank after his victory, and can be awarded a new skill.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.293	[[url:/manual/page/single-player/0027_enc_page_campaign_play_military_merge]]Unit Transfer:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.393	The camera can be panned and zoomed on the strategic map using the mouse.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.493	Disease may break out in provinces suffering from squalor.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.090	[[url:/manual/page/single-player/0039_enc_page_campaign_play_faction_technology]]Technology Research:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.190	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Characters:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.290	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Army Integrity:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.390	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_hud_radar]]Strategic Overview:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.490	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_squalor]]Squalor & Sanitation:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.091	Researching new technologies can bring a variety of civic and military benefits.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.191	Generals and agents gain experience and increase in rank over time as they perform successful actions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.291	The integrity of an army is affected by factors such as battles it has won and lost.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.391	The Strategic Overview panel shows useful information overlaid onto the parchment map.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.491	Some buildings cause squalor within their province.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.081	Loose formation is a unit ability which can be toggled from the unit abilities bar.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.286	As an army fights battles it builds experience and accumulates skill points.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.080	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_loose]]Loose Formation:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.287	Skill points can be spent on specialising and developing the army.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.083	Loose formation reduces the number of casualties a unit will take from missiles.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.384	Trade agreements are setup from the Diplomacy panel.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.082	When active, men in a unit will increase the space between each other.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.285	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Army Skills:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.082	Funds for your treasury are raised through trade, taxes and plunder.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.182	Sacking a settlement does not capture it but strips it of all its valuables.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.282	Revolts cause disruption and must be put down with military force.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.382	Trade can also bring in different types of resources that may not be available in controlled regions.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.482	The experience level of a unit is shown in chevrons on its unit card.	true
-advice_info_texts_localised_text_Att.Pro.Battle.Info.084	A unit in loose formation is vulnerable in hand-to-hand fighting, however. Turn it off if the unit is approached.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.083	The [[url:script_link_treasury]]current treasury[[/url]] and [[url:script_link_per_turn_income]]per-turn income[[/url]] values are shown on the user interface.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.183	Razing a settlement will destroy the settlement, and no-one shall own it.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.283	If a revolt gets out of hand it may threaten nearby settlements.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.483	More experienced units have higher morale and are better in combat.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.080	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_treasury]]Finance:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.180	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_campaign_battle_post]]Post-Battle Options:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.280	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order#enc_text_manual_public_order_rebellions]]Revolts:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.380	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy#enc_text_manual_hud_diplomacy_options_trade_agreement]]Trade:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.480	[[url:/manual/page/single-player/0028_enc_page_campaign_play_military_experience#enc_text_manual_army_experience]]Unit Experience:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.081	Unit recruitment, upkeep and building construction all deplete your treasury.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.181	A captured settlement can be occupied peacefully, looted, sacked, or razed.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.281	The population may revolt if public order in a province gets too low.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.381	Trade agreements can be established between factions to bring in money to both.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.481	Units gain experience when they fight battles.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.288	A selected army can be managed on the Force Details screen.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.289	Your army has new skill points available to spend.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.020	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_fire]]Fire:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.021	Buildings can be set on fire by using flaming projectiles from archers and onagers.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.022	Fire will propagate through a settlement, damaging defences and injuring soldiers.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.023	Fire damage caused in battle must be repaired on the campaign map for the settlement to function properly.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.001	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Siege Weapons:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.002	Unit card markers show when units are carrying siege weapons.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.003	Units attached to siege weapons can drop their weapon using the drop button when selected.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.004	Selected units may be attached to a siege weapon by right-clicking on it.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.005	Units carrying siege weapons cannot fight effectively.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.010	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Siege Weapons:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.011	Selected units with siege weapons can be deployed against the town defences by right-clicking on them.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.012	Rams can be used to attack the city gates.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.013	Ladders and siege towers can be used to scale the walls of a settlement.	true
-advice_info_texts_localised_text_Att.Pro.Apulum.Info.014	Artillery can be used to knock down any building.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.044	If the General dies, army morale will suffer greatly, and units will refuse to rally.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.041	The General is the most important unit in an army with many unique abilities.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.040	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]The General:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.043	Abilities like rally and inspire can be used to empower specified allied units.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.042	Provides a morale boost to nearby units.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.051	Adverse weather conditions can have a variety of effects on troops.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.050	[[url:/manual/page/single-player/0076_enc_page_battle_play_phase_delay]]Weather:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.052	The season on the campaign map is reflected on the battle map.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.004	Infantry is best deployed in a line, where each unit protects the flanks of the adjacent unit.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.001	[[url:/manual/page/single-player/0077_enc_page_battle_play_phase_deployment]]Deployment:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.003	During deployment, units can be placed anywhere within the marked zone.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.002	Each army deploys on the field prior to battle, defenders before attackers.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.014	Hover the mouse cursor over an Ability button to learn more about that specific ability.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.011	Units have abilities that can be activated to aid them in battle situations.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.010	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities]]Unit Abilities:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.013	Skirmish, fire-at-will, and shield screen are examples of unit abilities.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.012	Abilities and formations can be activated on a selected unit by clicking the Ability button on the bottom bar.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.021	An army must have line of sight to an enemy for that enemy to be visible.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.020	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Visibility:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.022	Terrain features such as hills can block line of sight.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.034	Settlements often contain other defensive features such as gates that can be captured for tactical benefit.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.031	Walled settlements contain a victory point which, if captured, leads to victory.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.030	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_victory_points]]Victory Points:[[/url]]	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.033	Once the Victory Point is captured the defender's tickets start counting down to zero, at which point the attacker is victorious.	true
-advice_info_texts_localised_text_Att.Pro.Petrodava.Info.032	Victory points can be captured by standing a unit next to them while no enemy units are nearby.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Біг:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.140	[[url:/units]]Війська дальнього бою:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.041	Щоб змусити вибраний загін бігти, двічі клацніть правою кнопкою миші по пункту призначення.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.141	Автоматично стріляють у віддаленого противника.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.042	Утримуйте пробіл, щоб побачити пункт призначення загону.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.142	При наведенні курсора відображається траєкторія пострілу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.043	Щоб змінити швидкість обраних загонів, клацніть на [[url:script_link_run_button]]кнопці «Біг»[[/url]] або натисніть клавішу R.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.143	Як правило, вразливі в ближньому бою.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.050	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Атака:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.051	Щоб наказати обраному загону піти в атаку, клацніть по ворогу правою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.052	Двічі клацніть правою кнопкою миші по ворожих загонах, щоб відправити свої війська в атаку.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.053	Щоб вказати точні позиції для обраних загонів, клацніть ПКМ по побудові і перетягніть його на мапу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.060	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Захід з флангу:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.061	Найефективніше воїни борються з противником, що знаходиться прямо перед ними.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.062	Будучи атакованим з флангу або тилу, загін несе великі втрати і втрачає бойовий дух.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.070	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Бойовий дух:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.071	Якщо бойовий дух падає до нуля, загін втікає.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.072	Загін, що похитнувся, втече з поля бою, не підкоряючись жодним наказам.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.073	Інформація про бойовий дух загону та фактори, що на нього впливають, міститься у спливаючій підказці.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.074	Значок загону, що блимає білим, вказує на падіння бойового духу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.075	Опинившись у безпечному місці, загін, що втік, може згуртуватися і повернутися в бій.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.100	[[url:/units]]Кіннота:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.001	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Камера в режимі битви:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.101	Бійці верхи на конях дуже мобільні і відмінно виконують найскладніші маневри.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.002	Для переміщення камери використовуйте клавіші W, A, S і D.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.102	Атака кінноти з легкістю підриває бойовий дух противника, особливо якщо удар припадає на фланг або в тил загону.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.003	Щоб змінити ракурс камери, перемістіть мишу при натиснутій середній кнопці.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.103	Вразливі для списів і пік, несуть важкі втрати, якщо сутичка затягнулася.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.004	Щоб змінити висоту камери, скористайтеся коліщатком прокрутки.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.005	Утримуйте клавішу SHIFT, щоб прискорити переміщення камери.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.010	[[url:/units]]Загони:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.110	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain#enc_text_manual_battle_conflict_forests]]Ліси:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.011	Війська в Total War складаються із загонів.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.111	Повільно просуваючись лісом, ваші воїни можуть ховатися від ворогів.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.012	Накази можна віддавати тільки загонам, а не окремим воїнам.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.112	Ліс захищає війська від ворожих снарядів.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Вибір і переміщення:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.120	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Морські битви:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.021	Щоб вибрати загін, клацніть лівою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.121	Щоб наказати обраним кораблям атакувати ворога, клацніть по ньому правою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.022	Щоб вибрати кілька загонів, утримуйте ліву кнопку миші і обведіть потрібні загони рамкою.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.122	Щоб наказати обраному кораблю висадити війська, клацніть правою кнопкою миші по березі.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.023	Клацніть правою кнопкою миші по пункту призначення, щоб віддати наказ про пересування вибраним загонам.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.123	Щоб побачити картки загонів або кораблів, виберіть [[url:script_link_force_tabs]]закладку[[/url]] відповідної армії або флоту.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.024	Ви також можете вибрати загін, клацнувши по його [[url:script_link_unit_cards]]картці[[/url]].	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.025	[[url:/manual/page/single-player/0001_enc_page_help_intro]]Енциклопедія:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.026	Щоб відкрити енциклопедію, натисніть клавішу F1.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.027	Битву можна призупинити, натиснувши клавішу P.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.028	Щоб викликати меню гри, натисніть клавішу ESC.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.029	Натисніть TAB, щоб відкрити тактичну мапу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.030	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]Височини:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.130	[[url:/manual/page/single-player/0088_enc_page_battle_play_phase_conflict_fatigue]]Втома:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.031	Зайнявши позицію на вершині схилу, піхота отримує значну перевагу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.131	Бойці втомлюються від бігу і в бою. Стоячи на місці, вони повільно відновлюють сили.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.132	Втомлені бійці рухаються повільніше і гірше б'ються.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.133	Ступінь втоми загону показаний на його спливаючій підказці.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.134	Утримуйте CTRL і праву кнопку миші, перетягуючи загін, щоб він відправився на потрібну позицію.	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.001	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Озброєння кораблів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.002	У бою кораблі можуть застосовувати таран, абордаж і стрілецьку зброю.	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.011	Кораблі можуть бути призначені для ближнього бою, оснащені метальними машинами або укомплектовані командами стрільців.	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.010	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Типи кораблів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.021	Сухопутні війська, що знаходяться на транспортних суднах, можуть брати участь у морському бою.	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.020	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Транспортні судна:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.023	На транспортних суднах воїни страждають від морської хвороби, що знижує їх бойову ефективність.	true
+advice_info_texts_localised_text_Att.Pro.Naval.Info.022	Транспортні судна вкрай неефективні в бою. Використовуйте їх тільки в якості останнього засобу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.080	[[url:/manual/page/single-player/0083_enc_page_battle_play_phase_conflict_tactics]]Точки захоплення:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.081	У кожному поселенні є кілька точок, для захоплення яких потрібно розташувати поруч із ними свої війська.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.082	Точки захоплення дають тактичну перевагу тій стороні, яка їх контролює.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.083	Щоб зруйнувати вежу, захопіть пов'язану з нею точку.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.085	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]] Розміщення військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.086	Щоб вказати точні позиції для вибраних загонів, клацніть ПКМ на побудові і перетягніть його на мапу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.087	Щоб перемістити вибрані загони зі збереженням вирівнювання, перетягніть їх за допомогою ЛКМ при натиснутій клавіші ALT.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.088	Скоригувати позицію вибраних загонів можна за допомогою клавіш зі стрілками.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.089	Утримуйте SHIFT і праву кнопку миші, перетягуючи загін, щоб вказати маршрут для нього.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.090	[[url:/units]]Піхота:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.091	Щільний стрій воїнів з зброєю ближнього бою.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.092	Повільні, вразливі при чисельній перевазі противника. Вразливі для ударів з флангу і тилу.	true
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.093	Ефективні в лобовій атаці, але вразливі з флангів і тилу.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.071	Режим стрільби без наказу можна ввімкнути або вимкнути на панелі умінь стрілецького загону.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.176	[[url:/manual/page/single-player/0039a_enc_page_campaign_play_province_trade_finance]]Порожня скарбниця:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.276	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_faction_intro]]Кнопка фракції:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.070	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_fire]]Стрільба без наказу:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.177	Без грошей фракція не може платити своїм військам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.277	Натиснувши на [[url:script_link_faction_button]]кнопку фракції[[/url]], ви отримаєте доступ до родоводу та іншої інформації про свою фракцію.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.073	Вимкніть режим стрільби без наказу, щоб зберегти боєприпаси або уникнути втрат у власних військах, які вступили в ближній бій з противником.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.174	Якщо сума у вашій скарбниці стане від'ємною, ви не зможете оплачувати утримання своїх військ.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.274	З ростом імперії фракція може видавати все більше едиктів за хід.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.374	Щоб перейти в режим орди, скористайтеся вікном фракції.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.072	У цьому режимі воїни самі вибирають для себе цілі, не чекаючи ваших наказів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.175	Якщо ваша скарбниця спорожніє до того, як ви захопите Петродаву, пролог завершиться.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.275	Едикти вступають в силу в кінці ходу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.072	Натисніть кнопку «Кінець ходу», щоб продовжити гру. Після цього інші фракції займуться переміщенням армій, набором військ та іншими діями.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.172	На утримання найнятих військ щороку витрачаються певні кошти. Надмірна чисельність армії може призвести до збитків.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.272	Щоб отримати можливість видавати едикти, потрібно призначити губернатора.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.372	Орди не можуть захоплювати поселення, але здатні зводити споруди на своїх стоянках.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.472	Наближається похолодання. Північні та східні провінції будуть виробляти менше їжі.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.173	Ви можете розпустити загін за допомогою його розкривного списку. Щоб відкрити цей список, клацніть по картці загону.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.273	Видавати едикти можна за допомогою однойменного розкривного списку.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.373	У режимі орди фракція може в будь-який час переселитися на нову територію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.070	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_end_turn]]Ходи:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.170	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Утримання та дохід:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.270	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_edicts]]Едикти:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.370	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Переселення орди:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.470	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_fertility]]Родючість:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.071	На мапі кампанії час поділено на ходи.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.171	Відомості про вашу [[url:script_link_treasury]]скарбницю[[/url]] і [[url:script_link_per_turn_income]]дохід[[/url]] наведені на панелі інтерфейсу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.271	Едикти дозволяють поліпшити ситуацію в провінції: наприклад, підвищити її прибутковість або рівень громадського порядку.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.371	Деякі варварські фракції можуть перейти в режим орди, якщо їх територіям загрожує небезпека.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.471	Від родючості залежить кількість їжі, що виробляється в провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.178	Армії, які не отримують плату, втрачають бойовий дух, гірше воюють і можуть підняти заколот.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.278	[[url:/manual/page/single-player/0003_enc_page_help_tut]]Межі прологу:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.179	Щоб збільшити дохід фракції, підніміть податки або розпустіть непотрібні загони.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.279	В ході прологу ваші армії можуть переміщатися тільки в межах обмеженої ділянки.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.061	Воїни, що знаходяться вище по схилу, б'ються ефективніше і стріляють далі.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.166	Будівлі можна ремонтувати у вікні провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.266	Досліджуючи нові технології, ви отримуєте можливість перенавчати і покращувати свої війська для підвищення їх бойової ефективності.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.060	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]Атака вгору по схилу:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.267	Щоб перенавчити або поліпшити загін, клацніть лівою кнопкою миші по його картці і виберіть відповідний пункт у списку, що відкрився.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.063	Натиск вгору по схилу швидко втомлює воїнів.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.062	Збираючись наступати вгору по схилу, переконайтеся, що чисельна перевага за вами. Якщо це не так, краще пошукати інший шлях.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.165	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Ремонт будівель:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.265	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_retrain]]Перенавчання та поліпшення військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.062	Пошкоджені споруди не виконують свою функцію до тих пір, поки не будуть відремонтовані.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.162	Пори року можуть бути хорошими або поганими. Зокрема, це впливає на виробництво їжі та громадянський порядок.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.262	Персонажів на вкладці «Сім'я» можна не тільки переглядати, але й призначати на посади, одружувати і навіть вбивати.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.362	До дипломатичних дій відносяться оголошення війни, а також укладення союзів, договорів і торгових угод.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.462	Стан укріплень поселення показано у вікні підготовки до битви.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.063	Щоб відновити пошкоджену будівлю, натисніть кнопку «Ремонт» у розкривному списку будівель.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.163	Армія, заскочена зимою в регіонах, де випадає сніг, понесе небойові втрати.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.263	Щоб призначити персонажа губернатором, виберіть його портрет і клацніть на відповідну кнопку.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.363	Дипломатичні переговори проводяться у вікні дипломатії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.060	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Ремонт будівель:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.160	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_date]]Пори року:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.260	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Сім'я:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.360	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Дипломатія:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.460	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_escalation]]Наслідки облоги:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.061	Будівлі в поселенні можуть бути пошкоджені в результаті боїв або дій ворожих агентів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.161	Відомості про зміну пір року наводяться на мапі кампанії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.261	На вкладці «Сім'я» перераховані члени правлячої сім'ї та інші знатні люди.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.361	Фракції можуть вести переговори з іншими фракціями, з якими у них встановлено контакт.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.461	Чим довше триває облога, тим сильніше пошкоджуються споруди поселення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.268	Перенавчання і поліпшення військ коштує грошей і може призвести до збільшення витрат на утримання.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.051	У разі загибелі полководця бойовий дух армії помітно впаде.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.056	Поліпшивши головну будівлю поселення, ви можете збільшити його розмір і зміцнити оборонні споруди.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.456	Недостатньо вірний персонаж може розв'язати громадянську війну.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.050	[[url:/manual/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]Полководець:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.057	Відомості про витрати на утримання споруди та переваги, які вона приносить, можна побачити в списку, що розкривається.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.457	Відданість персонажа можна поліпшити, давши йому посаду, усиновивши його або одруживши на представниці правлячої родини.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.054	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction]]Будівлі:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.354	Наймати агентів можна за допомогою відповідного вікна.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.454	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_loyalty]]Відданість:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.052	Без полководця згуртування втікаючих загонів неможливе.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.055	У вікні провінції ви можете переглядати, зводити, ремонтувати і зносити споруди.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.355	Для вербування агентів можуть бути необхідні певні споруди, які позначені червоними піктограмами у вікні найму військ.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.052	Управління поселеннями і спорудами здійснюється за допомогою вікна провінції. Це вікно з'являється при виборі поселення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.152	Кілька однотипних загонів, які зазнали втрат, можна об'єднати між собою. Для цього виберіть потрібні загони і натисніть на кнопку злиття в меню, що розкрилося.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.252	Призначити губернатора можна у вікні відомостей про провінцію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.352	Приносять користь союзним поселенням і військам. Завдають шкоди ворожим арміям, поселенням і агентам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.452	Виконуючи різні дії на мапі кампанії, персонажі можуть обзаводитися новими особливостями і оточенням.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.053	У вікні провінції перераховані всі її поселення, а також споруди тих з них, які знаходяться під вашим контролем.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.353	Можуть вільно пересуватися по мапі кампанії - в тому числі, по землях ворога.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.453	Представники знаті можуть одружуватися, причому дружина наділяє їх новими особливостями.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.050	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Вікно провінції:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.150	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Поповнення загонів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.250	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province]]Губернатори провінцій:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.350	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Агенти:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.450	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Розвиток персонажа:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.051	У поселенні знаходяться будівлі, які виконують різні функції, наприклад, дозволяють набирати війська.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.151	Зріджений загін автоматично відновлює чисельність, якщо знаходиться на вашій або союзній території.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.251	Наявність губернатора дає провінції ряд переваг і дозволяє видавати едикти.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.351	Оглядачів, сановників і воїнів можна наймати на мапі кампанії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.451	Щоб дізнатися про властивості персонажа, відкрийте вікно відомостей про нього.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.058	Будівлі не з'являються відразу: їх зведення вимагає часу.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.041	Копийникам найкраще протистоять воїни з мечами, сокирами або іншою наступальною зброєю ближнього бою.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.146	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_events]]Списки:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Протистояння списоносцям:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.147	[[url:script_link_events_list]]Список подій[[/url]] містить важливі повідомлення про те, що відбувається у вашій фракції та в іншому світі.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.044	Клацніть лівою кнопкою миші на значку загону, щоб додати його в чергу набору.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.144	Відносна міць армій, що беруть участь у бою, показана на шкалі балансу сил.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.244	Онагри та деякі інші облогові знаряддя можна наймати так само, як звичайні загони.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.444	Якщо населення провінції сповідує віру, відмінну від основної релігії фракції, можливі релігійні бунти.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.042	Списники ефективні проти кінноти, а важкі обладунки непогано захищають їх від стріл і дротиків.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.145	Оцінивши шанси на перемогу, ви можете почати бій або відступити.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.245	Обложні знаряддя будуються в кінці ходу. Як правило, їх будівництво займає кілька ходів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.445	Населення цієї провінції може поступово змінити віру завдяки агентам і релігійним спорудам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.142	У вікні військ містяться відомості про відомі загони, підкріплення, командирів і ефекти, що впливають на армії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.242	Обложні знаряддя будуються на місці облоги. Їх виробництво безкоштовне, але вимагає часу і живої сили.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.342	Виберіть авторозрахунок у вікні перед боєм, щоб автоматично розрахувати результат битви.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.442	Дипломатичні стосунки між фракціями, що сповідують різну релігію, схильні до штрафів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.043	У вікні призову відображаються типи військ, які можна найняти для цієї армії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.143	Вибравши портрет командира, ви побачите його армію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.243	Доступна жива сила залежить від чисельності атакуючої армії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.443	Населення цієї провінції може сповідувати різні релігії. Подробиці можна побачити у вікні відомостей про провінцію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.040	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Наймання військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.140	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_battle_intro]]Екран підготовки до битви:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.240	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_weapons]]Обложні знаряддя:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.340	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_ui_battle_auto]]Авторозрахунок:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.440	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Релігія:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.041	Додаткові війська можна набрати в армію у вікні призову.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.141	На екрані підготовки до битви містяться відомості про майбутню битву.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.241	Столиці провінцій зазвичай укріплені, тому для їх штурму потрібні облогові знаряддя.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.341	Результат битви можна розрахувати автоматично - ШІ визначить найбільш ймовірний результат.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.441	У кожної фракції є державна релігія, яку можна побачити і змінити у вікні фракції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.148	Список [[url:script_link_forces_list]]військ[[/url]] включає в себе всі армії, флоти і агенти вашої фракції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.149	[[url:script_link_provinces_list]]Списки провінцій[[/url]] і [[url:script_link_factions_list]]фракцій[[/url]] містять узагальнену інформацію про всі відомі вам провінції та фракції.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.031	Ворожій кінноті найефективніше протистоять списоносці, прикриті лучниками. Крім того, її можуть переслідувати ваші власні вершники.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.030	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Протидія кінноті:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.037	Армія, що знаходиться в поселенні, буде захищати його від ворогів.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.033	Стрільці і метальники вкрай вразливі для тактики «удар - відхід», особливо у виконанні кінноти.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.034	Щоб вибрати армію, клацніть на ній лівою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.134	Кількість найманців, доступних в регіоні, звичайно, а їх типи залежать від культури цього регіону.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.234	Столиці провінцій добре укріплені. Для їх штурму потрібні облогові знаряддя, які будуються під час облоги.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.334	Режим засідки можна використовувати для раптових нападів на атакуючого противника.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.434	Затримавши курсор над шкалою балансу сил, ви дізнаєтеся ефект поточного політичного устрою.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.032	Не дозволяйте ворожій кінноті переслідувати вразливі і окремо стоячі загони, а також заходити у фланги і тил.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.035	Щоб наказати обраній армії переміститися, клацніть правою кнопкою миші в пункті призначення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.135	Найманці дешевші за звичайні війська при наймі, але дорожчі в утриманні.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.335	Переваги та недоліки різних режимів військ перераховані в спливаючих підказках до їх кнопок.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.435	На високі посади можна призначати тільки персонажів, які мають досвід служби на нижчих посадах.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.032	На мапі кампанії армії відображаються у вигляді відповідних значків.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.132	Їх можна наймати у вікні найманців.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.232	Якщо обложене поселення не забезпечується дружньою армією або флотом, його захисники поступово вимирають від голоду.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.332	Для перегляду режимів обраних військ розкрийте відповідний список.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.432	Міць політичної партії залежить від впливу персонажів, що входять до її складу.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.034	Натиск кінноти здатний швидко розгромити непідготовлені загони противника.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.033	Армію завжди повинен очолювати полководець.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.133	Їх не потрібно навчати; крім того, вони приєднаються до вашої армії відразу ж після найму.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.233	Захисники поселення можуть здійснити вилазку, щоб прорвати облогу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.333	У режимі зміцнення армія розбиває табір і прискорює відновлення військ.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.433	Підтримка балансу сил дуже важлива: якщо правляча родина стане занадто слабкою або, навпаки, надто могутньою, наслідки будуть сумними.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.030	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Армії:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.130	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Найманці:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.230	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges]]Облога:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.330	[[url:/manual/page/single-player/0018_enc_page_campaign_play_military_stances]]Режими військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.430	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Політика:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.530	Основні властивості - хитрість, авторитет і завзяття - впливають на поведінку персонажа в певних ситуаціях.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.031	Використовуються для битв, захисту земель і захоплення ворожих міст.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.131	На відміну від звичайних військ, ці загони можна наймати у ворожих регіонах.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.231	Вороже поселення можна атакувати або взяти в облогу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.331	Армії можуть перебувати в різних режимах, кожен з яких має певні переваги.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.431	Відомості про баланс сил між шляхетними родинами наводяться у вікні фракції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.531	Крім того, вони захищають від атак відповідного типу, що здійснюються ворожими агентами.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.038	Загони, що знаходяться в поселенні, входять до його гарнізону і автоматично захищають його від ворожих атак.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.021	Ворожих стрільців і метальників слід атакувати силами швидких загонів - наприклад, кінноти.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.026	Річки, гори і густі ліси обмежують переміщення армій на мапі кампанії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.126	Деякі ділянки на мапі кампанії відрізняються особливо суворим кліматом.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.226	Згодом в провінції може виникнути надлишок населення.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Протидія стрільцям:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.027	Річки можна переходити вбрід.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.127	Просуваючись взимку через ділянки з холодним кліматом, армія несе небойові втрати.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.227	Зростання провінції залежить від будівель в її столиці.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.023	Щоб знищити ворожу вежу, її треба захопити або підпалити.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.124	По дорогах армії переміщаються швидше, ніж по пересіченій місцевості.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.424	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Перегляд будівель:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.524	Влаштовуючи інтриги, ви можете впливати на ставлення або вірність інших персонажів.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.022	Як правило, стрільці та метальники вразливі в рукопашному бою.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.025	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Ландшафт:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.125	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Небойові втрати:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.225	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_growth]]Надлишок населення:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.425	У вікні перегляду будівель ви знайдете всі споруди, які може звести ваша фракція.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.525	Невдала інтрига може призвести до несподіваних наслідків.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.022	Щоб взяти регіон під контроль, фракція повинна захопити його головне поселення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.122	Очки дій поповнюються кожен хід.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.222	Їжа виробляється садибами і рибальськими портами, а споживається деякими іншими будівлями.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.322	Ви познайомитеся з новою фракцією, якщо вона опиниться у вас в межах видимості, або якщо ви захопите прилеглий до її кордонів регіон.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.422	Будівлі орди зводяться за допомогою закладки «Будівлі».	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.522	Персонажі набувають вплив, здійснюючи дії на мапі кампанії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.023	Фракція вважається розбитою, коли у неї не залишається ні регіонів, ні військ.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.123	На деякі дії, такі як зміна режиму або перехід з суші на воду, витрачаються очки дій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.223	Відомості про загальну ситуацію з їжею [[url:script_link_food_indicator]]відображаються на панелі інтерфейсу.[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.423	Щоб почати будівництво, орда повинна зупинитися і перейти в осілий стан.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.523	Вплив персонажа можна вкласти в призначення на посаду або витратити на інтриги.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.020	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions]]Регіони та фракції:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.120	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_campaign_action_points]]Очки дій:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.220	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_food]]Їжа:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.320	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Знайомство з фракцією:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.420	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Будівлі орди:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.520	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_power]]Вплив та інтриги:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.021	Регіони контролюються різними фракціями: наприклад, вестготами та гунами.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.121	На пересування армії витрачаються очки дій. Армія не може рухатися в цей хід, якщо у неї не залишилося очок дій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.221	Відсутність надлишку їжі призводить до погіршення громадського порядку і уповільнення зростання населення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.321	Щоб встановити дипломатичні зв'язки, фракції спочатку повинні дізнатися про існування один одного.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.421	Армія орди може зводити пересувні споруди, які подорожують разом з нею.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.521	Міць політичної партії залежить від впливу персонажів, що входять до її складу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.128	У болотах, пустках і відкритому морі війська також можуть нести небойові втрати.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.228	Надлишок населення можна витратити на збільшення кількості споруд в провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.129	В укріпленому таборі армія не несе небойових втрат.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.229	Надлишок населення відображається на панелі відомостей про провінцію.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.011	Втративши бойовий дух, загін тікає з поля бою.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.116	Переглянути список завдань можна в однойменному вікні.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.216	У вікні відомостей про провінцію містяться докладні відомості про ситуацію в ній.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.010	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Втеча і згуртування:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.117	Тут ви в будь-який момент можете переглянути список отриманих завдань.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.217	Щоб відкрити це вікно, виберіть поселення в провінції і натисніть на кнопку «Деталі».	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.013	Уміння полководця «Згуртувати ряди» дозволяє повертати в бій загони, які втекли.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.114	Щоб побачити зону контролю, вкажіть курсором на своє поселення, армію або флот.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.214	Щоб поліпшити громадянський порядок в провінції, ви можете звільнити її від податків. Для цього скористайтеся вікном відомостей про провінцію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.314	Підхожі персонажі фракції перераховані в списку кандидатів.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.012	Віддалившись від джерела загрози, збитий з пантелику загін може згуртуватися і знову почати підкорятися наказам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.115	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_objectives_intro]]Цілі:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.215	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province#enc_text_manual_ui_province]]Відомості про провінцію:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.012	Щоб наблизити або віддалити вид, використовуйте коліщатко миші або клавіші Z і X.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.112	Навколо армій, флотів і поселень існують певні зони контролю.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.212	Змінити податкові ставки для всіх провінцій можна у вікні торгівлі та фінансів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.312	Зі збільшенням імперії та мірою зміцнення фракції ви зможете наймати нових полководців.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.412	При цьому всі споруди поселень зносяться, а частина їх вартості повертається до скарбниці.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.512	Частина ваших військ або навіть цілий регіон перейде на бік сепаратистів.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.014	Без полководця згуртування рядів неможливе.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.113	Ворожі армії і флоти можуть входити в зону контролю тільки для того, щоб вступити в бій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.213	Підвищення податків збільшує доходи фракції, але погіршує громадянський порядок і знижує темпи зростання.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.313	Полководця можна призначити в підконтрольному вам поселенні.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.513	Щоб запобігти громадянській війні, стежте за вірністю, громадським порядком і дисципліною у військах.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.010	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Камера:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.110	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Атака:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.210	[[url:/manual/page/single-player/0044a_enc_page_campaign_play_province_wealth]]Податки:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.310	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Збір військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.410	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Стан орди:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.510	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_civil_war]]Громадянська війна:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.011	Для переміщення камери використовуйте клавіші W, A, S і D або утримуйте середню кнопку миші, одночасно переміщаючи курсор.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.111	Щоб наказати вибраним військам напасти на армію або поселення противника, клацніть по ньому правою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.211	Фракції отримують дохід, збираючи податки зі своїх підданих.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.311	Армію на мапі кампанії повинен очолювати полководець.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.411	Перехід фракції в стан орди займає один хід.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.511	Недостатньо вірні персонажі можуть скористатися низьким громадянським порядком в регіоні або поганою дисципліною в армії, щоб розв'язати громадянську війну.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.118	Умови перемоги також відображаються у вікні цілей.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.218	Тут міститься інформація про багатство, релігію, громадянський порядок та інші аспекти життя провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.219	Якщо рівень громадського порядку падає нижче -100, в провінції спалахують бунти.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.001	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Огляд:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.106	Гра автоматично зберігається на кожному ході.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.107	Ігри можна завантажувати і зберігати в ігровому меню, яке викликається натисканням клавіші ESC.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.003	Багато загонів можуть ховатися в лісі, а деякі - ще й у високій траві.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.004	Провінції, в свою чергу, складаються з регіонів, в кожному з яких є по поселення.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.104	У процесі найму військ армія не може переміщатися.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.204	Список факторів, що впливають на громадянський порядок, наводиться у вікні відомостей про провінцію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.504	Ви можете поліпшити наявні споруди, щоб підвищити їх ефективність.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.002	Якщо війська противника приховані за пагорбами або іншими особливостями рельєфу, ви їх не бачите.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.105	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_actions_campaign_quick_save_load]]Збереження гри:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.505	У разі продовження голоду покращіть ферму в Петродаві.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.002	Мапа кампанії - це театр дій, на якому можна створювати, спостерігати, контролювати і знищувати армії, царства та імперії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.202	Громадянський порядок можна покращити різними способами: наприклад, розмістивши в провінції армію або побудувавши певні будівлі.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.302	Зростання імперії дозволяє вашій фракції виставляти більше армій і агентів.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.402	У вікні дипломатії міститься список всіх відомих вам фракцій із зазначенням їхнього ставлення до вас.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.502	За наявності в провінції певних споруд ви можете переучувати свої війська, підвищуючи їхню ефективність.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.003	Ігрова територія ділиться на провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.103	Щоб виключити загін з черги найму, клацніть по його картці.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.203	Погіршити громадянський порядок може цілий ряд факторів, в тому числі релігійні конфлікти, політична нестабільність, нестача їжі і вторгнення ворога.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.303	Відомості про імперію і його вплив містяться у вікні фракції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.403	Щоб почати переговори, двічі клацніть на назву фракції в списку.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.503	[[url:/buildings]]Покращення будівель:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.100	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Подальше наймання військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.200	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order]]Громадянський порядок:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.300	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_imperium]]Імперіум:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.400	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Дипломатія:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.500	[[url:/units]]Якість військ:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.001	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Мапа кампанії:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.101	Вибір доступних військ залежить від будівель, наявних у провінції.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.201	Необхідно стежити за рівнем громадського порядку в провінції: його зниження може призвести навіть до повстання.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.301	У міру завоювання нових земель Імперіум вашої фракції зростає.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.401	У вікні дипломатії ви можете пропонувати іншим фракціям дипломатичні угоди.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.501	Покращуйте споруди і досліджуйте технології, щоб отримати доступ до більш ефективних військ.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.091	Втративши бойовий дух, загін тікає з поля бою.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.296	Дві армії неможливо об'єднати під керівництвом одного командира, однак, перебуваючи поруч, вони можуть підтримувати один одного в бою.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.090	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Втеча і згуртування:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.297	Вказавши курсором на армію на мапі кампанії, ви побачите лінії, що з'єднують її з іншими арміями. Ці лінії показують, що відповідні війська готові прийти на допомогу один одному.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.093	Уміння полководця «Згуртувати ряди» дозволяє повертати в бій загони, що втекли.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.194	Панель подробиць показує відомості про вибрані війська, полководця або агента.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.294	Ви можете переводити загони з однієї своєї армії в іншу. Для цього виберіть одну з армій і клацніть правою кнопкою миші по іншій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.394	Ви можете вмикати і вимикати показ таких відомостей, як рівень громадського порядку, зростання регіонів і дипломатичний статус.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.494	Армії можуть поширювати хвороби, які призводять до смерті і масового невдоволення населення.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.092	Віддалившись від джерела загрози, відвернений в біг загін може згуртуватися і знову почати підкорятися наказам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.195	Залежно від своїх дій персонажі можуть набувати нові особливості, а також обзаводитися домочадцями і предметами.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.295	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_army_reinforcements]]Поповнення:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.092	Одночасно можна досліджувати тільки одну технологію.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.192	Коли ваш персонаж отримає новий ранг, ви зможете вибрати для нього додаткові навички.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.292	Якщо згуртованість впаде занадто низько, армія може підняти заколот і висунути власного лідера.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.392	Щоб відкрити вікно стратегічного огляду, клацніть на однойменну кнопку або натисніть клавішу TAB.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.492	Для боротьби із забрудненням зводите санітарні споруди.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.094	Без полководця згуртування рядів неможливе.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.093	Для управління дослідженнями використовується вікно технологій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.193	Після цієї перемоги ваш полководець отримав підвищення в ранзі. Тепер ви можете навчити його новій навичці.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.293	[[url:/manual/page/single-player/0027_enc_page_campaign_play_military_merge]]Переміщення загонів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.393	Переміщати камеру і змінювати масштаб стратегічної мапи можна за допомогою миші.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.493	У провінції, що страждає від забруднення, може початися спалах хвороби.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.090	[[url:/manual/page/single-player/0039_enc_page_campaign_play_faction_technology]]Дослідження технологій:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.190	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Персонажі:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.290	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Згуртованість армії:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.390	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_hud_radar]]Стратегічний огляд:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.490	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_squalor]]Забруднення та санітарія:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.091	Дослідження нових технологій дає різні цивільні та військові переваги.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.191	Успішно виконуючи завдання, полководці та агенти отримують досвід і нові ранги.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.291	На згуртованість армії впливає безліч факторів, у тому числі перемоги та поразки.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.391	У вікні стратегічного огляду відображається стилізована мапа, на яку нанесена різна корисна інформація.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.491	Деякі споруди можуть збільшувати забруднення в провінції.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.081	Режим вільного будівництва можна ввімкнути або вимкнути на панелі умінь загону.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.286	Беручи участь у битвах, армія накопичує досвід і отримує очки навичок.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.080	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_loose]]Вільна побудова:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.287	Очки навичок можна витрачати на спеціалізацію і розвиток армії.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.083	Вільна побудова дозволяє зменшити втрати загону, що потрапив під обстріл.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.384	Торгові угоди можна укладати у вікні дипломатії.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.082	Якщо ви увімкнете цей режим, воїни загону розсіються.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.285	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Навички армій:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.082	Поповнити скарбницю можна за рахунок торгівлі, податків і грабежу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.182	Розоривши поселення, ви залишите його колишньому власнику, але заберете з нього всі цінності.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.282	Повстання викликають розлад в державі. Їх слід придушувати силами армії.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.382	Завдяки торгівлі ви можете отримати ресурси, яких немає у ваших регіонах.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.482	Досвід загону позначається шевронами на його картці.	true
+advice_info_texts_localised_text_Att.Pro.Battle.Info.084	Однак у такому строю воїни більш вразливі для ближнього бою. Якщо до вашого загону наближаються вороги, накажіть йому зімкнути стрій.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.083	[[url:script_link_treasury]]Відомості про стан скарбниці[[/url]] і [[url:script_link_per_turn_income]]доходи за хід[[/url]] відображаються на панелі інтерфейсу.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.183	Ви можете зруйнувати поселення дощенту, щоб воно не дісталося нікому.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.283	Повстання, що вийшло з-під контролю, може створити загрозу для сусідніх поселень.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.483	Більш досвідчені війська краще воюють і мають підвищений бойовий дух.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.080	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_treasury]]Фінанси:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.180	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_campaign_battle_post]]Наслідки битви:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.280	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order#enc_text_manual_public_order_rebellions]]Повстання:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.380	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy#enc_text_manual_hud_diplomacy_options_trade_agreement]]Торгівля:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.480	[[url:/manual/page/single-player/0028_enc_page_campaign_play_military_experience#enc_text_manual_army_experience]]Досвід загонів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.081	Витрати на армію та будівництво можуть спустошити вашу скарбницю.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.181	Захоплене поселення можна окупувати, розграбувати, розорити або зруйнувати дощенту.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.281	Якщо рівень громадського порядку в провінції буде занадто низьким, населення може повстати.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.381	Торгові угоди приносять фінансову вигоду обом сторонам.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.481	Війська набираються досвіду, беручи участь у битвах.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.288	Управління обраною армією здійснюється на екрані «Про армію».	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.289	У вашої армії є очки навичок, які можна витратити.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.020	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_fire]]Вогонь:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.021	Будівлі можна підпалювати за допомогою палаючих стріл і снарядів для онагра.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.022	Пожежа поширюється по поселенню, пошкоджуючи будівлі і завдаючи шкоди військам.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.023	Будівлі, що постраждали від пожежі в ході битви, потрібно відремонтувати на мапі кампанії.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.001	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Обложні знаряддя:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.002	Якщо загін несе облогове знаряддя, на його картці відображається відповідна позначка.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.003	Щоб наказати загону кинути облогові знаряддя і вступити в бій, клацніть на відповідну кнопку.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.004	Щоб наказати вибраним загонам взяти облогове знаряддя, клацніть на нього правою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.005	Загони, що несуть облогові знаряддя, не можуть повноцінно битися.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.010	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Обложні знаряддя:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.011	Щоб наказати загону з облоговим знаряддям почати штурм укріплень, виберіть його і клацніть по цілі правою кнопкою миші.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.012	Таранами можна вибивати ворота поселень.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.013	Сходи та облогові вежі дозволяють підніматися на стіни поселення.	true
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.014	Метальні машини здатні зруйнувати будь-яку споруду.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.044	У разі смерті полководця бойовий дух армії падає, а згуртування військ стає неможливим.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.041	Полководець - найважливіший воїн в армії. Він має безліч унікальних умінь.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.040	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]Полководець:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.043	Уміння «Згуртувати ряди» і «Натхнення» дозволяють посилювати деякі дружні загони.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.042	Піднімає дух сусідніх бійців.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.051	Погані погодні умови можуть по-різному впливати на ваші війська.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.050	[[url:/manual/page/single-player/0076_enc_page_battle_play_phase_delay]]Погода:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.052	Пори року на мапі кампанії впливають і на обстановку в битві.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.004	Піхоту найкраще розташовувати в лінію, щоб кожен загін прикривав фланг сусіднього загону.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.001	[[url:/manual/page/single-player/0077_enc_page_battle_play_phase_deployment]]Розгортання:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.003	У фазі розміщення війська можна розставляти в будь-якому місці в межах позначеної зони.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.002	Перед битвою кожне військо займає позиції на полі бою: спочатку захисники, потім - нападники.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.014	Щоб побачити докладний опис вміння, затримайте курсор над його кнопкою.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.011	Деякі загони мають корисні вміння, які можна використовувати в бою.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.010	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities]]Вміння загонів:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.013	Загони можуть володіти такими вміннями, як «Перестрілка», «Стрільба по готовності» і «Непроникні щити».	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.012	Щоб вибрати вміння або побудову, виберіть загін і натисніть на відповідну кнопку на нижній панелі.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.021	Щоб ваша армія побачила ворога, той повинен бути в прямому полі зору.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.020	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Огляд:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.022	Елементи місцевості, такі як пагорби, можуть закривати лінію огляду.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.034	Ворота та деякі інші укріплення можна захоплювати для отримання тактичної переваги.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.031	У кожному поселенні зі стінами є особлива точка, захоплення якої призводить до перемоги.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.030	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_victory_points]]Точки перемоги:[[/url]]	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.033	Після захоплення точки перемоги починається зворотний відлік, після закінчення якого атакуюча сторона перемагає.	true
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.032	Щоб захопити точку перемоги, розмістіть поруч з нею свій загін і переконайтеся, що поблизу немає ворогів.	true
