@@ -10,7 +10,7 @@ from pathlib import Path
 import pandas as pd
 from textwrap import shorten
 
-EXCLUSIONS = ["PLACEHOLDER"]
+EXCLUSIONS = ["PLACEHOLDER", "placeholder"]
 
 def exclude_placeholders(df: pd.DataFrame) -> pd.DataFrame:
     return df[~df["text"].isin(EXCLUSIONS)]
