@@ -10,7 +10,7 @@ from pathlib import Path
 import pandas as pd
 from textwrap import shorten
 
-EXCLUSIONS = ["PLACEHOLDER", "placeholder"]
+EXCLUSIONS = ["PLACEHOLDER", "placeholder", "text_rejected"]
 
 def exclude_placeholders(df: pd.DataFrame) -> pd.DataFrame:
     return df[~df["text"].isin(EXCLUSIONS)]
@@ -36,8 +36,8 @@ for src_path in sorted(SRC_DIR.glob("*.loc.tsv")):
     trg = load(trg_path)
 
     # пропускаємо порожні key
-    src = src[src["key"].str.strip() != ""]
-    trg = trg[trg["key"].str.strip() != ""]
+    src = src[(src["key"].str.strip() != "") & (src["text"].str.strip() != "")]
+    trg = trg[(trg["key"].str.strip() != "") & (trg["text"].str.strip() != "")]
 
     # пропускаємо ПЕРШІ ДВА службові рядки (index 0 і 1)
     src, trg = src.iloc[2:], trg.iloc[2:]
