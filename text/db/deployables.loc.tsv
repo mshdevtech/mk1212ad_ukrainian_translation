@@ -1,20 +1,20 @@
 key	text	tooltip
 #Loc;1;text/db/deployables.loc		
-deployables_description_deployable_brimstone	Brimstone (sulphur) and bitumen, amongst other things, can be composited to create a highly dangerous weapon. Bitumen helps a slow-burning brimstone composite stick to things, especially men and mounts, causing severe burns if not death. In addition to fire arrows, the mixture can also be poured from towers during sieges. A brimstone pit can be deployed before a battle begins and ignited when an enemy charge is underway, ideally too late for it to be aborted.	true
-deployables_description_deployable_spiketrap	Spike traps are sunken stakes or groups of stakes concealed by foliage which collapses when stepped on, causing injury or death by impalement.	true
-deployables_name_deployable_stakes	Stakes	true
-deployables_tooltip_deployable_sharp_stones	Sharp stones impede a unit's progress, presenting an easy target for missile troops.	true
-deployables_name_deployable_caltrop	Sudes Caltrops	true
-deployables_description_deployable_caltrop	Sudes are an extremely versatile weapon. Due to the nature of their construction they can be placed in the ground to create low palisades or interlocked to create a caltrop shape. In caltrop form, sudes can kill charging/running units from either direction (something that stakes cannot).	true
-deployables_name_deployable_spiketrap	Spike Traps	true
-deployables_name_deployable_brimstone	Brimstone Pits	true
-deployables_tooltip_deployable_stakes	Stakes cause damage to mounted units approaching from the front. They cause extra damage if the unit is moving quickly.	true
-deployables_description_deployable_fireball	Rocks, logs and hay bales can be set alight and used to disrupt battlelines prior to an attack or weaken the morale of the defenders. Objects can doused in pitch, brimstone, resin, sap, etc. depending on the desired effect. These deployable items are best used in ambush situations and/or on undulating terrain.	true
-deployables_name_deployable_fireball	Fireballs	true
-deployables_description_deployable_sharp_stones	Sharp stone beds are created from various types of stone, constructed as a form of non-lethal defence around settlements. Stones can either sunk into the ground or layed in irregular piles. Infantry find these difficult objects to traverse, whereas cavalry can only pass through by picking routes between the stones. This slowing effect produces an effective killing zone in and around the stones, ideal ground for missile units to trap their targets.	true
-deployables_tooltip_deployable_fireball	Fireballs roll downhill and cause great damage to all units in their path. They can be activated by clicking on a unit and then on a fireball.\\n\\nUnits must be in melee mode to activate fireballs.	true
-deployables_description_deployable_stakes	Wooden stakes are one  of the most common settlement defences. A simple yet effective device, sharpened stakes are set in 45 degree lines to impale charging men or horses. They can easily be navigated around when moving slowly, but even this can be used to the advantage of missile units. Stakes angled this way can also enable defenders to sally forth without the risk of impalement.	true
-deployables_name_deployable_sharp_stones	Sharp Stone Beds	true
-deployables_tooltip_deployable_caltrop	Sudes cause damage to mounted units approaching from any angle, and extra damage if they are moving quickly.	true
-deployables_tooltip_deployable_brimstone	Fire pits can be ignited to set alight unsuspecting units. They can be activated by flaming projectiles or unit interaction.	true
-deployables_tooltip_deployable_spiketrap	Spike traps are a concealed danger, causing casualties to any units who attempt to move across them.	true
+deployables_description_deployable_brimstone	Сірка з бітумом, як і деякі інші речовини, можуть бути вкрай небезпечною зброєю. Бітум робив сірчані суміші клейкими, так що ворогам було дуже складно струсити з себе повільно палаючу сірчану суміш: вона навіть якщо не вбивала, то викликала серйозні опіки. Таку суміш наносили на стріли, її ж іноді виливали зі стін під час облоги. Сірчані ями - ще один спосіб використовувати горючі речовини. Такі ями рили перед боєм і підпалювали, щоб зупинити натиск противника. Чим пізніше пастку підпалювали, тим вище була ймовірність, що ворог не встигне перед нею зупинитися.	true
+deployables_description_deployable_spiketrap	Ями з шипами - це прикопані кілля, приховані листям. Коли воїн наступає на таку пастку, вона обрушується, ранячи або навіть вбиваючи жертву.	true
+deployables_name_deployable_stakes	Кілля	true
+deployables_tooltip_deployable_sharp_stones	Гострі камені ускладнюють рух загону, роблячи його легкою мішенню для стрільців.	true
+deployables_name_deployable_caltrop	Шипи	true
+deployables_description_deployable_caltrop	Шипи були універсальним інструментом римської армії. Завдяки їх однотипній конструкції, шипи можна було закопувати в землю, створюючи огорожу, або з'єднувати попарно у вигляді «їжака». У формі «їжаків» шипи вражали як наступаючі, так і тікаючі війська (незалежно від напрямку руху - на відміну від кіл).	true
+deployables_name_deployable_spiketrap	Вовчі ями	true
+deployables_name_deployable_brimstone	Ями з сіркою	true
+deployables_tooltip_deployable_stakes	Кілля завдають шкоди кінним загонам, що йдуть попереду. Чим швидше рухається ворог, тим сильніше буде шкода.	true
+deployables_description_deployable_fireball	Палаючі камені, колоди і пуки сіна використовувалися, щоб розірвати ряди супротивників або послабити бойовий дух захисників. Якщо була така можливість, предмети просочували горючими речовинами: смолою, сіркою, дьогтем і так далі. Всі вони горіли з різною швидкістю і різним ефектом. Такі засоби були найбільш ефективні при нападі з засідки і на горбистій місцевості.	true
+deployables_name_deployable_fireball	Вогняні кулі	true
+deployables_description_deployable_sharp_stones	Поля гострих каменів викладали з підручних матеріалів навколо поселення. Такий захист не міг вбити нападників, але непогано затримував їх. Камені вкопували в землю або скидали в нерівномірні купи. Піхота сповільнювалася на подібних ділянках, а кінноті доводилося акуратно вибирати шлях між перешкодами. Все це робило нападників легкою мішенню для стрільців.	true
+deployables_tooltip_deployable_fireball	Скочуючись по схилу пагорба, вогняна куля завдає великої шкоди всім загонам, що опинилися на її шляху. Щоб її підпалити, клацніть спочатку на загін, а потім - на кулю.\\n\\nЩоб підпалювати кулі, загін повинен перебувати в режимі ближнього бою.	true
+deployables_description_deployable_stakes	Дерев'яні кілля були одним з найбільш поширених методів захисту поселень в Стародавньому світі. Це простий, але ефективний засіб проти ворожої піхоти і (особливо) кінноти. Ряди кілків встановлювалися під 45 градусів, а їх краї загострювалися. Кілля можна було легко обійти, рухаючись повільно, але тоді нападники ставали легкою мішенню для стрільців. Кілля, встановлені під кутом, дозволяли захисникам влаштовувати стрімкі вилазки, не боячись наразитися на власний захист.	true
+deployables_name_deployable_sharp_stones	Гострі камені	true
+deployables_tooltip_deployable_caltrop	Шипи завдають шкоди кінному загону незалежно від напрямку його руху. Чим швидше рухається ворог, тим більшої шкоди він зазнає.	true
+deployables_tooltip_deployable_brimstone	Ями з сіркою можна підпалити, щоб вогонь охопив нічого не підозрюючі загони ворога. Їх можна запалити палаючими стрілами або вручну.	true
+deployables_tooltip_deployable_spiketrap	Вовчі ями непомітні здалеку і завдають шкоди будь-якому загону, який спробує пройти по них.	true

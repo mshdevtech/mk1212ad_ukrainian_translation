@@ -1,24 +1,24 @@
 key	text	tooltip
 #Loc;1;text/db/campaign_politics_strings.loc		
-campaign_politics_strings_string_fail_power	You do not have enough influence.	true
-campaign_politics_strings_string_fail_money	You do not have enough money.	true
-campaign_politics_strings_string_assassinate_result_target_wounded	The target character was wounded.	true
-campaign_politics_strings_string_get_into_position_age_requirement	This character must be at least %n years old.	true
-campaign_politics_strings_string_get_into_position_rank_requirement	This character must be rank %n or higher.	true
-campaign_politics_strings_string_get_into_position_age_and_rank_requirement	This character must be at least %n years old and rank %n or higher.	true
-campaign_politics_strings_string_divorce_desc	Force this character to divorce his wife.	true
-campaign_politics_strings_string_spread_rumours_desc	Spread rumours about this character to decrease his gravitas.	true
-campaign_politics_strings_string_bribe_desc	Bribe this character to bring him over to your party. The target character will lose gravitas if he accepts.	true
-campaign_politics_strings_string_power_cost	Influence: %d	true
-campaign_politics_strings_string_money_cost	Cost: %d	true
-campaign_politics_strings_string_marry_desc	Arrange a marriage between this man and one of your distant relatives. This event will win influence for the weaker party.	true
-campaign_politics_strings_string_adopt_desc	Adopt this character into your party.	true
-campaign_politics_strings_string_assassinate_desc	Attempt to have this character assassinated.	true
-campaign_politics_strings_string_assassinate_fail_faction_leader	You cannot assassinate your faction leader.	true
-campaign_politics_strings_string_adoption_accepted_desc	Character adopted	true
-campaign_politics_strings_string_bribe_fail_party_leader	Heads of parties cannot be bribed.	true
-campaign_politics_strings_string_adopt_fail_party_leader	Heads of parties cannot be adopted.	true
-campaign_politics_strings_string_blackmail_gravitas_loss	%n Gravitas	true
-campaign_politics_strings_string_get_into_position_desc	Use your influence to promote this character to a higher office.	true
-campaign_politics_strings_string_assassinate_result_target_killed	The target character was killed.	true
-campaign_politics_strings_string_assassinate_wife_desc	Attempt to have the wife of this character assassinated.	true
+campaign_politics_strings_string_fail_power	У вас недостатньо впливу.	true
+campaign_politics_strings_string_fail_money	У вас недостатньо грошей.	true
+campaign_politics_strings_string_assassinate_result_target_wounded	Жертва отримала поранення.	true
+campaign_politics_strings_string_get_into_position_age_requirement	Цей персонаж повинен бути не молодше %n років.	true
+campaign_politics_strings_string_get_into_position_rank_requirement	Цей персонаж повинен мати рейтинг %n або вище.	true
+campaign_politics_strings_string_get_into_position_age_and_rank_requirement	Цей персонаж повинен бути не молодше %n років і займати ранг «%n» і вище.	true
+campaign_politics_strings_string_divorce_desc	Змусьте цього персонажа розлучитися з дружиною.	true
+campaign_politics_strings_string_spread_rumours_desc	Поширте плітки про цього персонажа, щоб знизити його харизму.	true
+campaign_politics_strings_string_bribe_desc	Підкупіть цього персонажа, щоб переманити його на бік вашої партії. Прийнявши хабар, цей персонаж втратить харизму.	true
+campaign_politics_strings_string_power_cost	Вартість (влада): %d	true
+campaign_politics_strings_string_money_cost	Вартість (гроші): %d	true
+campaign_politics_strings_string_marry_desc	Влаштуйте весілля між цим персонажем і членом вашої партії, щоб пом'якшити конфлікт.	true
+campaign_politics_strings_string_adopt_desc	Прийміть цього персонажа до своєї партії.	true
+campaign_politics_strings_string_assassinate_desc	Організуйте замах на цього персонажа.	true
+campaign_politics_strings_string_assassinate_fail_faction_leader	Ви не можете вбити ватажка своєї фракції.	true
+campaign_politics_strings_string_adoption_accepted_desc	Персонаж прийнятий в сім'ю	true
+campaign_politics_strings_string_bribe_fail_party_leader	Главу партії підкупити неможливо.	true
+campaign_politics_strings_string_adopt_fail_party_leader	Не можна прийняти в партію лідера іншої партії.	true
+campaign_politics_strings_string_blackmail_gravitas_loss	Харизма: %n	true
+campaign_politics_strings_string_get_into_position_desc	Використовуйте свій вплив, щоб цей персонаж отримав більш високу посаду.	true
+campaign_politics_strings_string_assassinate_result_target_killed	Жертва була вбита.	true
+campaign_politics_strings_string_assassinate_wife_desc	Організуйте замах на дружину цього персонажа.	true
