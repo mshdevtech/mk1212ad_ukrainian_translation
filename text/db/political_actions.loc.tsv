@@ -1,30 +1,30 @@
 key	text	tooltip
 #Loc;1;text/db/political_actions.loc		
 political_actions_onscreen_description_borrow_family_money	[PH]	true
-political_actions_onscreen_description_embezzle_funds	Attempt to supplement the war-chest through dishonesty and creative accounting.	true
-political_actions_onscreen_name_borrow_family_money	[[col:yellow]]Borrow Money[[/col]]	true
-political_actions_onscreen_name_adopt	[[col:yellow]]Adopt[[/col]]	true
-political_actions_onscreen_description_seek_office	Pursue an important ministerial office, allowing you to put your experience into practice for the good of your people, and yourself.	true
-political_actions_onscreen_description_diminish_popularity	Plot to discredit another character, thereby diminishing their influence.	true
-political_actions_onscreen_description_gather_support	Seek support from among the elite, thereby strengthening your control over the political situation.	true
-political_actions_onscreen_name_assassinate	[[col:yellow]]Assassinate[[/col]]	true
-political_actions_onscreen_description_adopt	Propose to adopt a non-family member so that their future efforts may serve your family's interests.\\n\\nThis will increase their loyalty but decrease that of your current adult sons.	true
+political_actions_onscreen_description_embezzle_funds	Спроба поповнити військовий бюджет сумнівними способами.	true
+political_actions_onscreen_name_borrow_family_money	[[col:yellow]]Позичити гроші[[/col]]	true
+political_actions_onscreen_name_adopt	[[col:yellow]]Усиновити[[/col]]	true
+political_actions_onscreen_description_seek_office	Спроба зайняти важливу державну посаду, щоб застосувати свої знання на благо народу і власного гаманця.	true
+political_actions_onscreen_description_diminish_popularity	Змова з метою очорнити персонажа і зменшити його вплив.	true
+political_actions_onscreen_description_gather_support	Спроба домогтися підтримки еліти для кращого контролю політичної ситуації.	true
+political_actions_onscreen_name_assassinate	[[col:yellow]]Замовне вбивство[[/col]]	true
+political_actions_onscreen_description_adopt	Пропозиція усиновити персонажа, щоб у майбутньому він служив інтересам вашої родини.\\n\\nЦе підвищить рівень вірності усиновленого, але знизить такий у ваших дорослих синів.	true
 political_actions_onscreen_description_return_home	[PH]	true
-political_actions_onscreen_name_diminish_popularity	[[col:yellow]]Diminish Popularity[[/col]]	true
-political_actions_onscreen_name_seek_office	[[col:yellow]]Promote to Office[[/col]]	true
+political_actions_onscreen_name_diminish_popularity	[[col:yellow]]Знизити популярність[[/col]]	true
+political_actions_onscreen_name_seek_office	[[col:yellow]]Призначити на посаду[[/col]]	true
 political_actions_onscreen_name_return_home	[PH]	true
-political_actions_onscreen_description_secure_loyalty	Attempt to improve a character's loyalty to the nation, diminishing their chance of defecting.	true
-political_actions_onscreen_description_assassinate	Plot to have a character assassinated, ensuring that they are no longer a threat or a burden upon your family.	true
-political_actions_onscreen_description_divorce	Seek to end the bond betweeen you and your spouse so that you may go your seperate ways.	true
+political_actions_onscreen_description_secure_loyalty	Спроба підвищити вірність персонажа і зменшити шанси на його зраду.	true
+political_actions_onscreen_description_assassinate	Змова з метою вбивства персонажа, який загрожує вашій родині або є для неї тягарем.	true
+political_actions_onscreen_description_divorce	Спроба розірвати шлюбні узи і почати вільне життя.	true
 political_actions_onscreen_description_default	[PH]	true
-political_actions_onscreen_description_marriage	Seek to marry an eligible non-family member of your choosing.	true
-political_actions_onscreen_name_gather_support	[[col:yellow]]Gather Support[[/col]]	true
-political_actions_onscreen_name_become_retainer	[[col:yellow]]Become Retainer[[/col]]	true
-political_actions_onscreen_name_secure_loyalty	[[col:yellow]]Secure Loyalty[[/col]]	true
-political_actions_onscreen_name_divorce	[[col:yellow]]Divorce[[/col]]	true
-political_actions_onscreen_description_seek_wife	Pass the time courting potential wives in the hope that you might find a suitable bride.	true
+political_actions_onscreen_description_marriage	Спроба одружити персонажа, який не входить до вашої родини.	true
+political_actions_onscreen_name_gather_support	[[col:yellow]]Зібрати підтримку[[/col]]	true
+political_actions_onscreen_name_become_retainer	[[col:yellow]]Піти в служіння[[/col]]	true
+political_actions_onscreen_name_secure_loyalty	[[col:yellow]]Забезпечити вірність[[/col]]	true
+political_actions_onscreen_name_divorce	[[col:yellow]]Розлучитися[[/col]]	true
+political_actions_onscreen_description_seek_wife	Спілкування з потенційними нареченими в пошуках підхожої пасії.	true
 political_actions_onscreen_name_default	[PH]	true
-political_actions_onscreen_description_become_retainer	Request the privilege of accompanying another, more experienced character so that you may gain experience from their exploits.	true
-political_actions_onscreen_name_marriage	[[col:yellow]]Arrange Marriage[[/col]]	true
-political_actions_onscreen_name_seek_wife	[[col:yellow]]Seek Wife[[/col]]	true
-political_actions_onscreen_name_embezzle_funds	[[col:yellow]]Embezzle Funds[[/col]]	true
+political_actions_onscreen_description_become_retainer	Спроба піти в учні до більш високопоставленого персонажа, щоб набратися знань і досвіду.	true
+political_actions_onscreen_name_marriage	[[col:yellow]]Влаштувати весілля[[/col]]	true
+political_actions_onscreen_name_seek_wife	[[col:yellow]]Знайти дружину[[/col]]	true
+political_actions_onscreen_name_embezzle_funds	[[col:yellow]]Викрасти кошти[[/col]]	true
