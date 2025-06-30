@@ -1,505 +1,505 @@
 key	text	tooltip
 #Loc;1;text/db/event_feed_strings.loc		
-event_feed_strings_text_att_event_feed_string_faction_succession_description_king_of_kings	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
-event_feed_strings_text_att_event_feed_string_faction_technology_researched_secondary_detail	#(technology.description)\\n	true
-event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_female	Joyous occasion! These family members have been blessed with a daughter.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_independence_secondary_detail	History is full of the stories of great men wasted under the command of weak rulers. Justinian, alas, has proved himself just such a lord – his jealousy hampering Belisarius at every turn, eventually becoming a threat to his life and position. The Emperor may have been born to rule, but Belisarius was also born with a destiny. He will restore the faded glory of the Western Empire, and any impediments will be left behind. Justinian is furious at this betrayal, and overcoming him will be as much of a challenge as the conquest of Italy. Nonetheless, Belisarius embraces the task. Unleashed, he will bring the world to its knees!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_secondary_detail	Practice makes perfect. Your people's olive-growing expertise remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_king_of_kings	Цар царів помер. Влада перейшла до його спадкоємця.\\n\\nХай живе Цар царів!	true
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_secondary_detail	#(technology.description)	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_female	О, славний день! У членів правлячої родини народилася дочка.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_secondary_detail	Історія знає чимало прикладів, коли талант великих людей губили слабкі правителі. На жаль, імператор Юстиніан виявився саме таким - заздрість і ревнощі змушували його на кожному кроці чинити Велісарію перешкоди, а в кінці кінців поставити під загрозу становище і саме життя геніального полководця. Імператор народився для влади, але і Велісарію визначено велике майбутнє. Жодні перешкоди не завадять йому відродити колишню славу Західної Римської імперії. Впоратися з розгніваним Юстиніаном буде не легше, ніж підкорити Італію, але Велісарій не має наміру здаватися. Він поставить світ на коліна!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_secondary_detail	Практика - шлях до досконалості. Ваш народ навчився вирощувати оливки краще за всіх у світі.	true
 event_feed_strings_text_att_event_feed_string_character_ancillary_all_primary_detail	#(ancillary)	true
-event_feed_strings_text_att_event_feed_string_scripted_event_military_building_title	Bards' Hall Unlocked	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_dissolved_description	Changing circumstances have resulted in the need for us to dissolve trade relations with this faction.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description_theirs	This faction has been destroyed by their enemies.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail	Trespassing near: #(force.region)\\n\\nOwning faction: #(faction)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_description	The enemy scourge have ransacked our settlement, leaving desolation in their wake!	true
-event_feed_strings_text_att_event_feed_string_character_dies_suspicious_description	Our subject has died under suspicious circumstances. Beware enemy agents.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_unavailable_primary_details	Targets Lost	true
-event_feed_strings_text_att_event_feed_string_plague_starts_secondary_detail	Location: #(region)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_title	Доступний палац бардів	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_dissolved_description	Через обставини, що змінилися, ми змушені розірвати торговельні відносини з цією фракцією.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description_theirs	Ця фракція знищена ворогами.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail	Місце порушення: #(force.region)\\n\\nФракція: #(faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_primary_detail		true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_description	Ворог розграбував наше поселення!	true
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_description	Наш підданий помер за підозрілих обставин. Остерігайтеся ворожих агентів!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_unavailable_primary_details	Цілі втрачені	true
+event_feed_strings_text_att_event_feed_string_plague_starts_secondary_detail	Місце: #(region)	true
 event_feed_strings_text_att_event_feed_string_provinces_building_all_primary_detail	#(building)	true
-event_feed_strings_text_att_event_feed_string_agent_action_success_description_male	Our agent has accomplished his mission with due diligence and loyalty!	true
-event_feed_strings_text_att_event_feed_string_plague_force_from_region_description	Our forces have contracted the plague whilst passing through infected territory!	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male	Наш вірний і старанний агент успішно виконав завдання!	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description	Наші воїни захворіли на смертельну хворобу, пройшовши по зараженій місцевості!	true
 event_feed_strings_text_att_event_feed_string_provinces_building_demolished_secondary_detail	#(building.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_roman	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_roman	Імператор помер, але його спадкоємець занадто молодий, щоб взяти владу в свої руки. Тому до його повноліття правитиме регент.	true
 event_feed_strings_text_att_event_feed_string_provinces_settlement_region_and_province_primary_detail	#(settlement.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_primary_detail	New Religions	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_primary_detail	Нові релігії	true
 event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_all_primary_detail	#(faction.known_to)	true
-event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_primary_detail	[ph] Avar Khaganate Formed Primary Detail	true
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_primary_detail	[ph] Аварський каганат Cформований Основні деталі	true
 event_feed_strings_text_att_event_feed_string_scripted_event_primary_detail	#(primary_detail)	true
-event_feed_strings_text_att_event_feed_string_military_ambusher_description	We have detected a foreign force attempting to lay an ambush!	true
-event_feed_strings_text_att_event_feed_string_character_loyalty_low_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_plague_region_from_region_description	Plague has spread to our settlement from nearby lands and infected the populace!	true
-event_feed_strings_text_att_event_feed_string_horde_building_demolished_description	This building has been demolished. The population surplus once invested in it may now be applied elsewhere.	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_established_description_theirs	An enemy force has begun its investment of one of our settlements! We are surrounded!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_manipulated_description	Our vassal has declared independence, egged on by a manipulative third-party.	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_description	Ми виявили чужі війська, які намагалися влаштувати засідку!	true
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description	У нашому поселенні поширюється хвороба, занесена з сусідніх земель!	true
+event_feed_strings_text_att_event_feed_string_horde_building_demolished_description	Ця будівля зруйнована. Надлишок населення, який перебував у ній, тепер можна перекинути в інше місце.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description_theirs	Ворожа армія почала облогу нашого поселення! Ми оточені!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_manipulated_description	Піддавшись на вмовляння третьої сторони, наш данник оголосив про свою незалежність.	true
 event_feed_strings_text_att_event_feed_string_faction_event_mission_aborted_secondary_detail	#(mission.description)	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_description	We have stripped this enemy settlement of its riches and razed it to the ground, as is the right of the conqueror.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_description	Ми розграбували вороже поселення і зруйнували його дощенту - як і належить переможцям.	true
 event_feed_strings_text_att_event_feed_string_agent_action_all_primary_detail	#(action_info)	true
-event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description_nomadic	The brave warriors of this horde have known many victories, establishing a legacy for which they will be long remembered.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_recipient_region_province	Capital: #(recipient.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_secondary_detail	The Western Roman Empire has risen in glory once more! For years it has slumbered: diluted, profaned and finally crushed by barbarian hordes. But it has lived on, sustained by the aspirations of the true Romans who sought to restore it through the ages.\\n\\nOther Emperors have tried and failed, dragged down by the weight of this task. Only the spiritual successor to the great conquerors of old, the likes of Julius Caesar, Augustus and Marcus Aurelius, could succeed in this task. Now, just such a man has risen.\\n\\nAll hail Belisarius, Lord of the Western Empire!	true
-event_feed_strings_text_att_event_feed_string_faction_horde_ends_description	It is time for a new beginning. Our people have settled once more.	true
-event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_secondary_detail	Current Power: #(party.power)%	true
-event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_title	Empires of Sand	true
-event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_secondary_detail	#(mission.description)\\n\\nBonus objectives complete: #(mission.completed_bonus_objectives)/#(mission.total_bonus_objectives)\\n	true
-event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description	The brave men of this army have known many victories, establishing a legacy for which they will be long remembered.	true
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description_nomadic	Хоробрі воїни цієї орди здобули безліч перемог. Наш народ надовго запам'ятає їхні подвиги.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_recipient_region_province	Столиця: #(recipient.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_secondary_detail	Західна Римська імперія знову здобула славу! Довгі роки вона спала - покинута, осквернена і зрештою розгромлена варварськими ордами. Але вона продовжувала жити в серцях справжніх римлян, які плекали надію на те, що одного дня вона повстане з попелу.\\n\\nБагато імператорів намагалися її відродити - і зазнавали невдачі, не впоравшись з важким тягарем. Це завдання було під силу лише істинному духовному спадкоємцю Юлія Цезаря, Августа, Марка Аврелія та інших великих римлян минулого. І ось, такий спадкоємець з'явився.\\n\\nСлава Велісарію, володарю Західної Римської імперії!	true
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_description	Настав час почати все спочатку. Наш народ оселився на новому місці.	true
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_secondary_detail	Правляча партія: #(party.power)%	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_title	Імперії пустель	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_secondary_detail	#(mission.description)\\n\\nДодаткові завдання: #(mission.completed_bonus_objectives)/#(mission.total_bonus_objectives)\\n	true
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description	Хоробрі воїни цієї армії здобули безліч перемог. Наш народ надовго запам'ятає їхні подвиги.	true
 event_feed_strings_text_att_event_feed_string_conquest_sea_region_all_primary_detail	#(region)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_secondary_detail	Capital: #(faction_2.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_secondary_detail	The Western Empire has risen in glory once more! The Romans squandered their inheritance, assuming that glory was their birthright. But the Empire is greater than they are - it survived their fall and has waited patiently to be resurrected by a worthy people.\\n\\nWe are those people! Once we were dismissed as barbarians, but now we are truer Romans in spirit than those of pure blood. We alone have inherited their vigour and martial prowess – we alone are capable of undertaking the task of restoring their once-great Empire!\\n\\nAll hail the New Western Roman Empire!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_client_state_description	Following a period of negotiation, this faction has agreed to become our vassal.	true
-event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_description	This man has completed his term in office. He may now be appointed to a higher one.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description	Our non-aggression pact with this faction has come to an end. Beware violence.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_secondary_detail	Столиця: #(faction_2.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_secondary_detail	Західна імперія знову здобула славу! Римляни втратили свою спадщину, вирішивши, що вона належить їм за правом народження. Але імперія виявилася сильнішою - вона пережила їх падіння і терпляче чекала, поки її відродить більш гідний народ.\\n\\nІ таким народом стали ми! Колись нас називали підлими варварами, але тепер ми більші римляни, ніж ті, хто вважає себе такими за кров'ю. Ми одні успадкували римську відвагу і військову доблесть - ми одні здатні воскресити їх велику державу!\\n\\nХай живе нова Західна Римська імперія!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_client_state_description	Після тривалих переговорів ця фракція погодилася стати нашим данником.	true
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_description	Термін служби цієї людини закінчився. Тепер його можна призначити на вищу посаду.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description	Договір про ненапад з цією фракцією втратив чинність. Будьте готові до агресії.	true
 event_feed_strings_text_att_event_feed_string_provinces_all_province_primary_detail	#(province)	true
-event_feed_strings_text_att_event_feed_string_horde_food_shortage_ends_description	This force has procured enough food to sate themselves - they are no longer suffering from a shortage of food.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_eastern	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
-event_feed_strings_text_att_event_feed_string_character_wounded_description	Our faithful subject has been wounded by the enemy. Death was beyond their power, however.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_secondary_detail	This is a time of radical religious change. Nations abandon old traditions and forge new paths almost overnight. Split religious chains allow you to exert much greater control in that area, essential if you wish to access religion-specific buildings, units, victory conditions, technologies and events.\\nHowever, these changes are not welcomed by all. Factions following new religions suffer [[col:red]]severe public order penalties[[/col]] from the presence of rival faiths. Use priests, technologies, governors and buildings to crush dissenting voices and spread your chosen religion across the land!	true
-event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_primary_detail	King’s Market is now available.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_secondary_detail	The darkness gradually abates and life returns to the earth. The crop yield is bountiful, our children are healthier and people are optimistic for a prosperous future.	true
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_ends_description	Ця армія реквізувала достатньо їжі, щоб прогодувати себе. Їй не загрожує голод.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_eastern	Цар царів помер, але його спадкоємець занадто молодий, щоб взяти владу в свої руки. Тому до його повноліття правитиме регент.	true
+event_feed_strings_text_att_event_feed_string_character_wounded_description	Наш вірний підданий поранений ворогами. На щастя, їм не вдалося його вбити.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_secondary_detail	Настав час радикальних релігійних змін. Народи забувають старі традиції і шукають нові шляхи. Релігійний розкол дає можливість краще контролювати регіон, відкриваючи доступ до нових споруд для поклоніння, загонів, умов перемоги, технологій і подій.\\nОднак не всі вітають нововведення. Фракції, які обрали нову віру, отримують [[col:red]]штраф до громадського порядку[[/col]] через наявність протиборчих сторін. Заглушіть незадоволені голоси і поширюйте свою віру за допомогою жерців, технологій, правителів і споруд.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_primary_detail	Доступний королівський ринок.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_secondary_detail	Темрява поступово відступила, дозволивши землі ожити. Урожаї знову стали багатими, діти - здоровими, а народ знайшов надію на щасливе майбутнє.	true
 event_feed_strings_text_att_event_feed_string_agent_recruited_primary_detail	#(agent), #(agent.type)	true
-event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail	Rank: #(character.rank)\\n\\nCommanding: #(character.force)\\n\\nOpponent: #(opponent.primary_general), #(opponent.primary_force), #(opponent)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail	Ранг: #(character.rank)\\n\\nАрмія: #(character.force)\\n\\nПротивник: #(opponent.primary_general), #(opponent.primary_force), #(opponent)\\n\\nМісце: #(character.region_and_province)\\n	true
 event_feed_strings_text_att_event_feed_string_agent_discovered_primary_detail	#(agent)	true
 event_feed_strings_text_att_event_feed_string_faction_event_incident_secondary_detail	#(incident.description)	true
-event_feed_strings_text_att_event_feed_string_province_food_shortage_ends_description	This produce is at last sufficient; no longer is this province suffering from a shortage of food.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_secondary_detail	War weariness has decreased; the people and the land are finally recovering from the wars you have been waging. As the lives of the common folk return to normal and the fatigue suffered by your troops over many long campaigns is fading also.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_secondary_detail	War weariness has increased! Your people grow angry and demand an end to these incessant wars. Worse still, your troops begin to show fatigue from your long military campaigns; if your men can no longer fight then the fighting will soon come to an end, but likely not in the way you intended. You should begin the peace process; your subjects need respite from conflict - give them time to heal, and your men time to recover.	true
-event_feed_strings_text_att_event_feed_string_faction_bankruptcy_description	Our coffers are empty. This will have dire consequences for our people, and soon.	true
+event_feed_strings_text_att_event_feed_string_province_food_shortage_ends_description	Нарешті ми виробляємо достатньо їжі! Ця провінція більше не страждає від перебоїв з продовольством.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_secondary_detail	Втома від воєн поступово сходить нанівець. Земля заліковує свої рани, життя простого народу входить в нормальне русло, а воїни набираються сил, відпочиваючи від довгих походів.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_secondary_detail	Ваша держава втомилася від воєн! Народ хвилюється і вимагає миру, але це ще півбіди. Найгірше, що ваші воїни виснажені нескінченними походами; якщо вони складуть зброю, війна скоро закінчиться, але зовсім не так, як ви розраховували. Терміново шукайте шляхи до примирення: вашій державі потрібно залікувати рани і набратися сил для нових битв!	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_description	Наша скарбниця порожня. Це може обернутися великими бідами для всього народу.	true
 event_feed_strings_text_att_event_feed_string_horde_building_secondary_detail	#(building.force)	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_female	Our agent failed to kill her mark, but nevertheless managed to inflict a palpable wound.	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male_theirs	Their agent, obviously no match for the task before him, has been wounded during his escape attempt.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_female	Нашому агенту не вдалося вбити ціль, але він все ж завдав їй відчутної рани.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male_theirs	Завдання, очевидно, виявилося не під силу їхньому агенту, і він був поранений при спробі втекти.	true
 event_feed_strings_text_att_event_feed_string_faction_event_mission_success_secondary_detail	#(mission.description)	true
-event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_secondary_detail	Raided by: #(raider), #(raider.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_secondary_detail	Нальотчики: #(raider), #(raider.faction)\\n	true
 event_feed_strings_text_att_event_feed_string_faction_event_dilemma_secondary_detail	#(dilemma.description)	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female	Despite her best efforts, our agent has met with frustration. She has failed in her mission!	true
-event_feed_strings_text_att_event_feed_string_character_trait_gained_secondary_detail	Gained by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_province_description	This is no ordinary rebellion; separatists within this province have mobilised to utterly overthrow your rule. Civil war is upon us!	true
-event_feed_strings_text_att_event_feed_string_military_all_founded_secondary_detail	Founded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_military_force_decimated_description	This force has been decimated as a disciplinary measure, thereby diminishing the chance of mutiny.	true
-event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_male	A member of your family has sired an illegitimate son. This may be awkward.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_secondary_detail	Commerce is encouraged, for it is the road to prosperity for all. If you want things, chances are they can be found here.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract marble, but their skill in working with it remains unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_title	Justinian’s Support is Ending	true
-event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail	Age: #(character.age)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_title	Temple of Belenus Unlocked	true
-event_feed_strings_text_att_event_feed_string_province_development_points_available_secondary_detail	Population surplus: #(development_points)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_theirs	This faction has joined a war in progress. Time will tell if their decision was the right one.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female	Незважаючи на всі зусилля, нашій жінці-агенту не вдалося досягти успіху. Вона провалила завдання.	true
+event_feed_strings_text_att_event_feed_string_character_trait_gained_secondary_detail	Придбав: #(character), #(character.type)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_province_description	Це не простий заколот. Проти вас повстала вся провінція. Попереду громадянська війна!	true
+event_feed_strings_text_att_event_feed_string_military_all_founded_secondary_detail	Засновник: #(force.general)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_military_force_decimated_description	Ця армія зазнала децимації в дисциплінарних цілях. Імовірність заколоту в ній помітно знизилася.	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_male	У одного з ваших родичів з'явився незаконнонароджений син. Незручна ситуація.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_secondary_detail	Торгівля приносить процвітання всім і кожному. Якщо вам щось потрібно, швидше за все, ви знайдете це тут.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_secondary_detail	Практика — шлях до досконалості. Ваш народ не лише опанував нові способи видобутку мармуру, а й навчився обробляти його краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_title	Юстиніан припиняє підтримку	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail	Вік: #(character.age)\\n\\nРанг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_title	Доступний Храм Белена	true
+event_feed_strings_text_att_event_feed_string_province_development_points_available_secondary_detail	Надлишок населення: #(development_points)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_theirs	Ця фракція вступила в чужу війну. Час покаже правильність цього рішення.	true
 event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_by	#(war_faction_1)	true
-event_feed_strings_text_att_event_feed_string_military_navy_rank_gained_description	The brave men of this navy have known many victories, establishing a legacy for which they will be long remembered.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_secondary_detail	When the Romans landed in Africa, they tried to pay the Moors off with trinkets - a gilded silver staff and a silver crown, a white cloak, a white tunic, and a gilded boot.\\n\\nThe Moors watched as trespassers fought over their ancestral lands - biding their time, waiting for a moment of weakness.\\n\\nNow that moment has arrived, and the Moors have risen as one to reclaim their birthright. They will scour the coast like the desert wind, purging every last trace of the oppression that has befallen them for so long. 	true
-event_feed_strings_text_att_event_feed_string_agent_action_success_description_female	Success follows in the wake of this woman; her task was executed succesfully!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_description	We now share a common enemy with our allies. Their possessions may now be targeted during war coordination efforts: engage in diplomacy in order to assess mutual threats and issue strategic requests.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_secondary_detail	While he was meditating on flight - a greater calamity than death itself - he decided to seek knowledge of the future through soothsayers. So, as was their custom, they examined the entrails of cattle and certain streaks in bones that had been scraped, and foretold disaster for the Huns. \\n\\n Having lost in battle, Attila's troops are demoralised and have started to doubt his powers. Surely his next defeat will be his last?	true
-event_feed_strings_text_att_event_feed_string_character_dies_action_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_succession_description_emperor	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
+event_feed_strings_text_att_event_feed_string_military_navy_rank_gained_description	Хоробрі моряки цього флоту здобули безліч перемог. Наш народ надовго запам'ятає їхні подвиги.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_secondary_detail	Висадившись в Африці, римляни спробували підкупити маврів дарами: позолоченим срібним жезлом, срібною короною, білим одягом і сандалями.\\n\\nМаври стежили за тим, як чужинці б'ються за землі їхніх предків, і чекали підхожого моменту.\\n\\nЦей момент настав. Маври об'єдналися, щоб повернути те, що належить їм по праву. Подібно до вітру пустелі, вони промчать по узбережжю і зметуть всі сліди багаторічного чужорідного гніту.	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female	Ця жінка дуже щаслива. Вона блискуче виконала завдання!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_description	Союзники визнали, що у нас з ними є спільний ворог. Ведіть переговори з ними, щоб оцінити загрози і висунути вимоги.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_secondary_detail	Замислившись над тим, що втеча гірша за саму смерть, він наказав ворожбітам дізнатися майбутнє. Ті ж, за своїм звичаєм, вдивляючись то у нутрощі тварин, то в якісь прожилки на обдертих кістках, провістили: гуннам загрожує біда.\n\nАттіла зазнав поразки. Його воїни пригнічені й починають сумніватися в його полководницькому дарі. Наступна поразка, безсумнівно, стане для нього останньою.	true
+event_feed_strings_text_att_event_feed_string_character_dies_action_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_emperor	Імператор помер. Влада перейшла до його спадкоємця.\\n\\nХай живе Імператор!	true
 event_feed_strings_text_att_event_feed_string_faction_technology_researched_primary_detail	#(technology)	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_secondary_detail	Province: #(settlement.province)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male	Our agent has utterly failed in his mission and has been wounded whilst trying to make good his escape.	true
-event_feed_strings_text_att_event_feed_string_character_rank_gained_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_invited_by	Invited by: #(war_faction_2)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description_theirs	The military access agreement between these two factions has collapsed.	true
-event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail_theirs	New religion: #(faction.state_religion)\\n\\nFormer religion: #(old_religion)\\n	true
-event_feed_strings_text_att_event_feed_string_horde_food_shortage_description	Food shortages are affecting this force. Measures must be taken before the desperate people rise up against us.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_emerges_description	This faction, once thought lost, has risen from the ashes.	true
-event_feed_strings_text_att_event_feed_string_conquest_province_secured_description	We have secured complete control of this province.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_nomadic	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
-event_feed_strings_text_att_event_feed_string_character_born_illegitimate_secondary_detail	Father: #(father)\\n\\nMother: #(mother)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_province_contested_description	We have lost absolute control of this province to a rival faction. They will pay for this in time.	true
-event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_secondary_detail	Contesting faction: #(contesting)\\n	true
-event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_female	A member of your family has sired an illegitimate daughter. This may be awkward.	true
-event_feed_strings_text_att_event_feed_string_character_ancillary_gained_description	One of our loyal subjects has secured household members and objects to help our cause.	true
-event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_secondary_detail	Current public order: #(public_order_and_delta.first)\\n\\nPredicted change: #(public_order_and_delta.second)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_secondary_detail	Провінція: #(settlement.province)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male	Наш агент провалив завдання, і вороги навіть зуміли його поранити, поки він намагався втекти.	true
+event_feed_strings_text_att_event_feed_string_character_rank_gained_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_invited_by	Фракція, що запросила: #(war_faction_2)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description_theirs	Ці фракції розірвали договір про право проходу.	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail_theirs	Нова релігія: #(faction.state_religion)\\n\\nПопередня релігія: #(old_religion)\\n	true
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_description	Ця армія страждає від нестачі їжі. Треба вжити заходів, поки зневірені воїни не підняли заколот.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_emerges_description	Цю фракцію вважали знищеною, але вона повстала з попелу.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_secured_description	Ми домоглися повного контролю над цією провінцією.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_nomadic	Великий хан помер, але його спадкоємець занадто молодий, щоб взяти владу в свої руки. Тому до його повноліття правитиме регент.	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_secondary_detail	Батько: #(father)\\n\\nМати: #(mother)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_description	Ми більше не маємо абсолютної влади над цією провінцією. Вороги за це заплатять!	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_secondary_detail	Суперник: #(contesting)\\n	true
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_female	У одного з ваших родичів з'явилася незаконнонароджена дочка. Незручна ситуація.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_description	Один з наших вірних підданих обзавівся новим предметом або домочадцем.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_secondary_detail	Поточний загальний порядок: #(public_order_and_delta.first)\\n\\nПрогнозована зміна: #(public_order_and_delta.second)\\n	true
 event_feed_strings_text_att_event_feed_string_provinces_building_constructed_secondary_detail	#(building.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description_them	Our puppet state has declared independence.	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female_theirs	This agent's attempt to undermine our plans has backfired gloriously, wounding her in the process.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_description	The enemy has resorted to violent looting of our captured settlement, stealing what is ours and terrorising the populace. This aggression will not stand!	true
-event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_description	Our expenditure exceeds our financial means. We will be bankrupt unless we take measures to remedy this.	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male	Unusually dissapointing, our agent has in this instance failed in his assigned duty.	true
-event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description_them	Наша маріонеткова держава оголосила про свою незалежність.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female_theirs	Спроба агента перешкодити нашим планам з тріском провалилася. Більш того, він був поранений.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_description	Ворог грабує захоплене поселення, захоплює наше майно і залякує народ. Далі так продовжуватися не може!	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_description	Ми витрачаємо більше, ніж отримуємо. Якщо не вжити заходів, скоро наша скарбниця спорожніє.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male	Як це не прикро, але наш агент не зміг виконати доручення.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail_theirs	Фракція: #(character.faction)\\n\\nРанг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
 event_feed_strings_text_att_event_feed_string_conquest_province_edict_primary_detail	#(edict)	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail_theirs	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_horde_development_points_available_description	We have a surplus of population in this force, ready to invest towards camp development.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_ally	We have joined our allies in a bid to rid the world of our mutual enemies.	true
-event_feed_strings_text_att_event_feed_string_province_rebellion_description	The insolent people of this province have risen up against us! They must be swiftly, and brutally crushed!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description	We have established a military access agreement with this faction and may traverse their lands peacefully.	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail	Besieging force: #(besieger.general), #(besieger)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description_theirs	These two factions have established a trade agreement.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_secondary_detail	Sacked by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail_theirs	Обложна армія: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_description	У цій армії є надлишок населення, який можна використовувати для розвитку табору.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_ally	Ми прийшли на допомогу союзникам, щоб позбавити світ від наших спільних ворогів.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_description	Жителі цієї провінції посміли підняти бунт проти нашої влади! Бунтівників слід швидко і жорстоко покарати!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description	Ми уклали договір про право проходу з цією фракцією. Тепер наші війська можуть ходити по її землях.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail	Обложна армія: #(besieger.general), #(besieger)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description_theirs	Ці фракції уклали торговельну угоду.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_secondary_detail	Розорив: #(attacked_by.general), #(attacked_by)\\n\\nФракція: #(attacked_by.faction)\\n\\nВартість здобичі: #(income)\\n	true
 event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_all_primary_detail	#(ally)	true
-event_feed_strings_text_att_event_feed_string_military_all_disbanded_secondary_detail	Disbanded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_military_all_disbanded_secondary_detail	Розформував: #(force.general)\\n\\nМісце: #(force.region_and_province)\\n	true
 event_feed_strings_text_att_event_feed_string_military_opponent_all_primary_detail	#(opponent)	true
 event_feed_strings_text_att_event_feed_string_faction_event_incident_primary_detail	#(payload.target)	true
-event_feed_strings_text_att_event_feed_string_agent_action_success_description_female_theirs	Their agent, with frustrating determination, has seen her task to its successful completion.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_primary_detail	Olives are now available.	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_stephen_4	Pope Stephen IV	true
-event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_roman	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_description	Our enemies have razed one of our settlements to the ground! They must be made to pay for this ignominy!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_secondary_detail	In this age of uncertainty and turmoil, there is no depth to which the power hungry, in their depravity, will stoop. The Vandals are content to merely imprison the old and infirm, but the Ostrogoths have surpassed this indignity, imprisoning their widowed queen for her pro-Roman inclinations.\\n\\nIt is a deliberately provocative action, sired by fear, defiance and ambition. The Romans are desperate to reconquer their homelands, and this may be their last chance to do so.\\n\\nAs these two mighty powers face off, others scheme, looking for ways to turn the struggle to their own advantage.\\n\\nAnd all the while, a frightened woman waits. 	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female_theirs	Їхня жінка-агент набралася відчайдушної рішучості і повністю виконала завдання.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_primary_detail	Доступні оливки.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_stephen_4	Папа Стефен IV	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_roman	Великий день! Сьогодні хлопчик стане чоловіком і законним правителем нашого народу. Хай живе імператор!	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_description	Вороги зруйнували одне з наших поселень! Вони заплатять за цю образу!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_secondary_detail	В епоху невизначеності та сумнівів не залишається меж, які не здатні перейти нечестивці у своєму грішному прагненні до влади. Вандали кидають до в'язниць слабких і немічних, але остготи перевершили навіть їх: вони ув'язнили власну царицю тільки за те, що вона відчувала симпатію до Риму!\\n\\nЦей негідний вчинок сповнений страху, презирства і честолюбства. Римляни ж вважали його останнім шансом повернути втрачену батьківщину.\\n\\nПоки великі сили ведуть боротьбу, всі інші шукають можливості використати їх протистояння на свою користь.\\n\\nА перелякана жінка тим часом чекає.	true
 event_feed_strings_text_att_event_feed_string_faction_civil_war_all_primary_detail	#(instigator)	true
-event_feed_strings_text_att_event_feed_string_military_path_blocked_secondary_detail	Location: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_character_ancillary_lost_description	Unfortunate circumstances have led to the loss of a household member or object.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_yours	This faction has joined forces with us in a bid to rid the world of our mutual enemies.	true
+event_feed_strings_text_att_event_feed_string_military_path_blocked_secondary_detail	Місце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_description	Несприятливі обставини призвели до втрати предмета або домочадця.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_yours	Ця фракція об'єдналася з нами, щоб позбавити світ від наших спільних ворогів.	true
 event_feed_strings_text_att_event_feed_string_faction_event_mission_primary_detail	#(mission)	true
 event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_recipient	#(recipient)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_title	Reformation of the Western Empire	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description	We have negotiated a trade agreement with this faction. Let the goods flow!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_primary_detail	Reformation Possible	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_title	Відродження Західної імперії	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description	Ми уклали торговельну угоду з цією фракцією. Наші купці вже збираються в дорогу!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_primary_detail	Можливе відродження	true
 event_feed_strings_text_att_event_feed_string_military_force_decimated_primary_detail	#(force)	true
-event_feed_strings_text_att_event_feed_string_faction_heir_nominated_secondary_detail	Location: #(heir.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_primary_detail	Increased	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_character_secondary_detail	Location: #(instigator.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_title	Hilderic Executed	true
-event_feed_strings_text_att_event_feed_string_conquest_province_edict_cancelled_description	Circumstances have made it impossible to maintain this provincial edict.	true
-event_feed_strings_text_att_event_feed_string_placeholder_secondary_detail	Placeholder Secondary Detail - DO NOT LOCALISE\\n	true
-event_feed_strings_text_att_event_feed_string_faction_political_subject_description	Engage in faction politics to deal with your subject, or wait until this stately business has blown over.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_manipulated_description	This faction has been convinced to rescind our military access. Be wary of them trespassing.	true
-event_feed_strings_text_att_event_feed_string_faction_horde_begins_secondary_detail	Former capital: #(capital)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description	This faction was no match for their enemies; they are no more.	true
-event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_description	Time marches on. We have achieved much, but our people face ever increasing odds.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_manipulated_description	Our puppet state has declared independence, egged on by a manipulative third-party.	true
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_secondary_detail	Місце: #(heir.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_primary_detail	Посилюється	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_secondary_detail	Місце: #(instigator.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_title	Гільдеріх страчений	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_cancelled_description	Змінені обставини вимагають від нас припинити дію цього едикту.	true
+event_feed_strings_text_att_event_feed_string_placeholder_secondary_detail	Placeholder Secondary Detail - DO NOT LOCALISE	true
+event_feed_strings_text_att_event_feed_string_faction_political_subject_description	Вирішення цього питання вимагає участі в політичних справах фракції. Але замість цього можна почекати, поки справа вирішиться сама собою.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_manipulated_description	Третя сторона переконала цю фракцію позбавити нас права проходу. Слідкуйте за нашими кордонами!	true
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_secondary_detail	Колишня столиця: #(capital)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description	Ця фракція не змогла протистояти ворогам. Вона більше не існує.	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_description	Час спливає. Ми досягли багато чого, але на наш народ чекають ще важчі випробування.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_manipulated_description	Піддавшись на вмовляння третьої сторони, наша маріонеткова держава оголосила про свою незалежність.	true
 event_feed_strings_text_att_event_feed_string_faction_event_dilemma_primary_detail	#(dilemma.target)	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_secondary_detail	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_secondary_detail	Practice makes perfect. Your people's tanning skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_secondary_detail	Обложна армія: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_secondary_detail	Практика - шлях до досконалості. Ваш народ навчився виробляти хутро краще за всіх у світі.	true
 event_feed_strings_text_att_event_feed_string_conquest_province_all_primary_detail	#(province)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_vassal_description	Following a period of forceful 'negotiation', this faction has become our puppet state.	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_female	The enemy was no match for our agent's deadly skill; she successfully killed her mark.	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male_theirs	Failure becomes this man and his masters; his plans have come undone - he has failed!	true
-event_feed_strings_text_att_event_feed_string_faction_campaign_victory_objective_complete_description	History is written by those who survive. We have emerged victorious from this dark period; our strength and wisdom guiding us to the future.	true
-event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_description	Unrest in this province has reached critical levels; if we do not act at once, the enraged populace will rebel against us!	true
-event_feed_strings_text_att_event_feed_string_character_wounded_description_theirs	Our agent, with tenacious skill, has wounded an enemy subject.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_secondary_detail	Target: #(target)\\n\\nAllegiance: #(target.faction)\\n\\nLocation: #(target.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_secondary_detail	[ph] Avar Khaganate Secondary Detail	true
-event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target)\\n\\nOutcome: #(result)\\n\\nLocation: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_vassal_description	Після тривалих переговорів ця фракція погодилася стати нашою маріонетковою державою.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_female	Наш агент виявився значно вправнішим за ворога і вбив його.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male_theirs	Цього агента і його господарів переслідують невдачі. Їхні плани вкотре пішли прахом!	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_victory_objective_complete_description	Історію пишуть переможці. Ми пережили неспокійні часи; тепер наш сильний і мудрий народ з надією дивиться в майбутнє.	true
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_description	Невдоволення в провінції досягло критичного рівня. Якщо ми негайно не вживемо заходів, населення підніме бунт!	true
+event_feed_strings_text_att_event_feed_string_character_wounded_description_theirs	Наш агент холоднокровно завдав ворожій особі важкої рани.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_secondary_detail	Ціль: #(target)\\n\\nФракція: #(target.faction)\\n\\nМісце: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_secondary_detail	[ph] Аварський каганат Додаткова інформація	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail	Агент: #(agent), #(agent.type)\\n\\nЦіль: #(target)\\n\\nРезультат: #(result)\\n\\nМісце: #(target.region_and_province)\\n	true
 event_feed_strings_text_att_event_feed_string_faction_event_mission_issued_secondary_detail	#(mission.description)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_primary_detail	I. Ashen Skies	true
-event_feed_strings_text_att_event_feed_string_plague_region_from_region_description_theirs	Travel and trade from a plague-infested settlement of ours has spread the disease to nearby lands.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_primary_detail	I. Попелясте небо	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description_theirs	Торговці та мандрівники з нашого зараженого поселення занесли хворобу в сусідні землі.	true
 event_feed_strings_text_att_event_feed_string_conquest_settlement_all_primary_detail	#(settlement.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_eugene_2	Pope Eugene II	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_eugene_2	Папа Євгеній II	true
 event_feed_strings_text_att_event_feed_string_generic_description_placeholder	Quod erat demonstrandum - DO NOT LOCALISE	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_description	Our forces have ransacked an enemy settlement, wreaking destruction and stripping its wealth.	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female_theirs	Their agent, outwitted and inept, has become undone and failed to complete her task.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_secondary_detail	Looted by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_capital_description	The enemy has seized our capital! We must retake it at all costs!	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_description	Disaster! We have lost this settlement to the enemy!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description	We have resolved our differences with this faction and negotiated a peace treaty. Time will tell if it lasts.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_manipulated_description	The lies of others have led to the termination of our trade relations with this faction.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_primary_detail	The Langobards are coming!	true
-event_feed_strings_text_att_event_feed_string_scripted_event_secondary_detail	#(secondary_detail)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_primary_detail	Decreased	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_secondary_detail	Province: #(settlement.province)\\n\\nCaptured from: #(captured_from)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_title	Plague	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_description	Наші війська розграбували вороже поселення, винісши з нього все, що мало цінність.	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female_theirs	Їхня дурна і невміла жінка-агент не змогла виконати завдання.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_secondary_detail	Розграбував: #(attacked_by.general), #(attacked_by)\\n\\nФракція: #(attacked_by.faction)\\n\\nВартість здобичі: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_capital_description	Вороги захопили нашу столицю! Ми повинні повернути її за будь-яку ціну!	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_description	Біда! Вороги захопили наше поселення!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description	Ми дійшли згоди і уклали мирний договір з цією фракцією. Надовго? Час покаже...	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_manipulated_description	Через чиїсь брехливі слова ми більше не торгуємо з цією фракцією.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_primary_detail	Лангобарди йдуть!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_secondary_detail	#(secondary_detail)	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_primary_detail	Ослаблюється	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_secondary_detail	Провінція: #(settlement.province)\\n\\nПопередній господар: #(captured_from)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_title	Чума	true
 event_feed_strings_text_att_event_feed_string_faction_heir_nominated_primary_detail	#(heir)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description_theirs	The defensive alliance between these two factions has collapsed.	true
-event_feed_strings_text_att_event_feed_string_military_all_raised_secondary_detail	Raised by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_secondary_detail	Target: #(target)\\n\\nAllegiance: #(target.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_secondary_detail	Justinian will soon stop paying these men. It will then be up to you to maintain this force.	true
-event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail_female	Age: #(character.age)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_character_ready_for_duty_description	Following a period of absence, this subject is ready to return to duty.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description	Our defensive alliance with this faction has collapsed. We must rely on our own shields now, and not those of others.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description_theirs	Оборонний союз між цими фракціями розірвано.	true
+event_feed_strings_text_att_event_feed_string_military_all_raised_secondary_detail	Зібрав: #(force.general)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_secondary_detail	Ціль: #(target)\\n\\nФракція: #(target.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_secondary_detail	Скоро Юстиніан перестане платити цим військам. Вам доведеться утримувати їх самостійно.	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail_female	Вік: #(character.age)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_description	Цей підданий готовий продовжити службу після періоду відсутності.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description	Оборонний союз з цією фракцією розірвано. Тепер ми можемо покладатися тільки на власних захисників.	true
 event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_attacker_result	#(attacker_result)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description	Our fleet has ended its blockade of this port.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract iron, but their skill in working with it remains unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description_theirs	The non-aggression pact between these two factions has collapsed.	true
-event_feed_strings_text_att_event_feed_string_character_trait_lost_secondary_detail	Lost by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_primary_detail		true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description	Наш флот припинив блокаду цього порту.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_secondary_detail	Практика — шлях до досконалості. Ваш народ не лише опанував нові способи видобутку заліза, а й навчився обробляти його краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description_theirs	Ці фракції розірвали договір про ненапад.	true
+event_feed_strings_text_att_event_feed_string_character_trait_lost_secondary_detail	Втрачено: #(character), #(character.type)\\n\\nМісце: #(character.region_and_province)\\n	true
 event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_defender_result	#(defender_result)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_title	Climate Change	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_paschal_1	Pope Paschal I	true
-event_feed_strings_text_att_event_feed_string_province_cannot_abandon_settlement_description	Due to circumstances beyond our control we are unable to abandon our settlement and withdraw.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_title	Langobards!	true
-event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail	Commanded by: #(force.general)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_secondary_detail	Practice makes perfect. Your people's woodworking skills remain unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract gold, but their skill in working with it remains unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_faction_resource_all_secondary_detail	Location: #(settlement.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_description	During occupation of an enemy settlement, our forces looted its riches. The inhabitants will not soon forget this aggression.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_title	Зміна клімату	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_paschal_1	Папа Пасхаль I	true
+event_feed_strings_text_att_event_feed_string_province_cannot_abandon_settlement_description	Обставини не дозволяють нам покинути це поселення і відступити.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_title	Лангобарди!	true
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail	Командир: #(force.general)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_secondary_detail	Практика - шлях до досконалості. Ваш народ навчився обробляти дерево краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_secondary_detail	Практика — шлях до досконалості. Ваш народ не лише опанував нові способи видобутку золота, а й навчився обробляти його краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_all_secondary_detail	Місце: #(settlement.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_description	Війська, які зайняли вороже поселення, розграбували його. Місцеві жителі не скоро це забудуть.	true
 event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_invited_by	#(war_faction_2)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_title	Climate Change	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description_theirs	These two factions have resolved their differences and negotiated a peace treaty.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_secondary_detail	Practice makes perfect. Your people's wine-making skills remain unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_title	Зміна клімату	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description_theirs	Ці фракції дійшли згоди і уклали мирний договір.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_secondary_detail	Практика - шлях до досконалості. Ваш народ навчився робити найкраще вино в світі.	true
 event_feed_strings_text_att_event_feed_string_provinces_all_settlement_primary_detail	#(settlement)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_primary_detail	IV. Clear Skies	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_primary_detail	IV. Чисте небо	true
 event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_primary_detail	#(faction_2)	true
 event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_primary_detail	#(force)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_primary_detail	A Great Pestilence	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_primary_detail	Велика чума	true
 event_feed_strings_text_att_event_feed_string_diplomacy_faction_all_primary_detail	#(faction)	true
-event_feed_strings_text_att_event_feed_string_military_attrition_description	 	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_character_description	This treacherous man has defied your will and started a civil war. He must be stopped before he can become too powerful.	true
+event_feed_strings_text_att_event_feed_string_military_attrition_description		true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_description	Цей зрадник зрадив вас і розв'язав громадянську війну. Його треба зупинити, поки він не став занадто сильним.	true
 event_feed_strings_text_att_event_feed_string_military_unit_recruited_primary_detail	#(unit)	true
-event_feed_strings_text_att_event_feed_string_military_ambusher_description_theirs	One of our forces has been detected while attempting an ambush!	true
-event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_description	Camp integrity has reached critical levels; if we do not act at once, there will be mutiny!	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail	Blockading force: #(blockader.general), #(blockader)\\n	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_description_theirs	Одна з наших армій виявлена при спробі влаштувати засідку!	true
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_description	Бойовий дух у цьому таборі вкрай низький. Якщо ми негайно не вживемо заходів, солдати піднімуть заколот!	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail	Блокуючий флот: #(blockader.general), #(blockader)\\n	true
 event_feed_strings_text_att_event_feed_string_conquest_blockade_all_primary_detail	#(blockaded.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nCommanding: #(character.force)\\n\\nOpponent: #(opponent.primary_general), #(opponent.primary_force)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_province_settlement_province_secondary_detail	Province: #(settlement.province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_secondary_detail	His holiness, the Pope has been gathered up to God, ending a fruitful chapter in Church history. A new Pope has been elected without delay; this man has a chance to guide all Christendom, few are more important or hold more sway than he does. All good Christian leaders should support the new Pope if called upon to do so, it can only be for the good of their kingdoms – but be aware, by the same token, that crossing him could have dire consequences.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_primary_detail	Marble is now available.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract gems, but their skill in working them remains unmatched anywhere in the world.	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail_theirs	Фракція: #(character.faction)\\n\\nРанг: #(character.rank)\\n\\nАрмія: #(character.force)\\n\\nПротивник: #(opponent.primary_general), #(opponent.primary_force)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_province_settlement_province_secondary_detail	Провінція: #(settlement.province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_secondary_detail	Його святість папа римський відправився на зустріч із Творцем, завершивши чергову главу в історії Церкви. Наступник був обраний негайно: християнський світ не повинен залишатися без пастиря. Обов'язок кожного благочестивого правителя - підтримати нового понтифіка в час потреби: це принесе королівству тільки благо. З іншого боку, конфлікт з новим папою може призвести до найтяжчих наслідків...	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_primary_detail	Доступний мармур.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_secondary_detail	Практика — шлях до досконалості. Ваш народ не лише опанував нові способи видобутку самоцвітів, а й навчився обробляти їх краще за всіх у світі.	true
 event_feed_strings_text_att_event_feed_string_faction_event_mission_failed_secondary_detail	#(mission.description)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_secondary_detail	Practice makes perfect. Not only have your people found new ways to extract lead, but their skill in working with it remains unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description	Our military alliance with this faction has collapsed. Our own strength must suffice now.	true
-event_feed_strings_text_att_event_feed_string_faction_religion_change_primary_detail	#(faction.state_religion)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_established_description	Our army has begun its investment of this enemy settlement. They are surrounded!	true
-event_feed_strings_text_att_event_feed_string_conquest_province_contested_secondary_detail	Contesting faction: #(contesting)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail_theirs	Allegiance: #(force.faction)\\n\\nTrespassing near: #(force.region)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_enemy	This faction has joined  our enemies to fight against us. They will pay for this in time.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_secondary_detail	Практика — шлях до досконалості. Ваш народ не лише опанував нові способи видобутку свинцю, а й навчився обробляти його краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description	Військовий союз з цією фракцією розірвано. Тепер ми можемо покладатися тільки на власні сили.	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_primary_detail	#(faction.state_religion)	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description	Ми почали облогу. Це вороже поселення оточене!	true
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_secondary_detail	Суперник: #(contesting)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail_theirs	Фракція: #(force.faction)\\n\\nМісце порушення: #(force.region)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_enemy	Ця фракція об'єдналася з нашими ворогами. Вона за це заплатить.	true
 event_feed_strings_text_att_event_feed_string_faction_event_all_description	#(event.description_text)	true
-event_feed_strings_text_att_event_feed_string_plague_region_from_force_description	A disease-ridden force has spread the fetid plague to our settlement!	true
-event_feed_strings_text_att_event_feed_string_agent_action_success_description_male_theirs	Their agent, tenacious and frustrating, has accomplished his mission!	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail	New Pope Elected	true
-event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_primary_detail	The Emperor’s good grace nears its end.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_secondary_detail	Practice makes perfect. Your people's salt-extraction skills remain unmatched anywhere in the world.	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail_theirs	Blockading force: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail_theirs	Agent: #(agent), #(agent.type)\\n\\nAllegiance: #(agent.faction)\\n\\nTarget: #(target.region_and_province)\\n\\nOutcome: #(result)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_discovered_description	Despite their best attempts, our agent has been discovered by another faction.	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description	Заражена армія занесла смертельну хворобу в наше поселення!	true
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male_theirs	На наш привеликий жаль, їх підступний агент зумів виконати завдання!	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail	Обрано нового папу	true
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_primary_detail	Скоро ви втратите прихильність імператора.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_secondary_detail	Практика - шлях до досконалості. Ваш народ навчився добувати сіль краще за всіх у світі.	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail_theirs	Блокуючий флот: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail_theirs	Агент: #(agent), #(agent.type)\\n\\nФракція: #(agent.faction)\\n\\nЦіль: #(target.region_and_province)\\n\\nРезультат: #(result)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_description	Незважаючи на всі зусилля, наш агент був розкритий іншою фракцією.	true
 event_feed_strings_text_att_event_feed_string_character_all_primary_detail	#(character)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description_theirs	The military alliance between these two factions has collapsed.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_military_building_primary_detail	Bards’ Hall is now available.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description_them	Our vassal has declared independence.	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_adrian_1	Pope Adrian I	true
-event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail_theirs	Commanded by: #(force.general), #(force.faction)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_religion_change_description	We have embraced another religion, a test of faith as we seek answers to life's great mysteries.	true
-event_feed_strings_text_att_event_feed_string_character_ancillary_lost_secondary_detail	Lost by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_secondary_detail	The disasters which war heaps upon the head of mankind are unending. Rome’s attempts to reclaim its Empire have ravaged the continent, leaving this proud land broken and vulnerable.\\n\\nLong have the Langobards waited for such an opportunity. Now they descend, belongings on their backs and swords in hand, to claim Italy as their own. They seek no payoff, no peaceful settlement – dominion is their only aim, and they will not spare those who stand in their way.	true
-event_feed_strings_text_att_event_feed_string_faction_resource_lost_description	Our supply of this resource has been compromised.	true
-event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail	Allegiance: #(ambusher.faction)\\n\\nLocation: #(ambusher.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_province_development_points_available_description	We have a surplus of population in this province, ready to invest towards local development.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description_theirs	These two factions have established a non-aggression pact.	true
-event_feed_strings_text_att_event_feed_string_conquest_battle_description_draw	Our battle with the enemy has ended in stalemate.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description_theirs	Військовий союз між цими фракціями розірвано.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_primary_detail	Доступний чертог бардів.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description_them	Наш данник оголосив про свою незалежність.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_adrian_1	Папа Адріан I	true
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail_theirs	Командир: #(force.general), #(force.faction)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description	Ми прийняли іншу віру. Це випробування для нас на шляху до розгадки найбільших таємниць.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_secondary_detail	Втратив: #(character), #(character.type)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_secondary_detail	Лиха, які війна приносить людям, воістину незліченні. Спроби римлян повернути владу над Європою призвели до її розорення. Колись горді землі стали вразливими і беззахисними.\\n\\nЛангобарди давно чекали цього моменту. Скоро вони з'являться з мечами в руках і пожитками за спиною, щоб оголосити Італію своєю. Вони не погодяться ні на данину, ні на переговори. Їм потрібна тільки земля - і вони зметуть будь-кого, хто стане на їхньому шляху.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_lost_description	Поставки цього ресурсу порушені.	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail	Фракція: #(ambusher.faction)\\n\\nМісце: #(ambusher.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_province_development_points_available_description	У цій провінції є надлишок населення, який можна використовувати для її розвитку.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description_theirs	Ці фракції уклали договір про ненапад.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_draw	Битва завершилася нічиєю.	true
 event_feed_strings_text_att_event_feed_string_faction_resource_all_primary_detail	#(resource)	true
-event_feed_strings_text_att_event_feed_string_character_dies_political_assassination_description	Some will go to any length to further their ambitions, even murder.	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_force_description	Mutiny within this force has caused a division in the ranks. Many have deserted to form a separatist force: they must be stopped!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_title	The Western Empire Rises Again	true
-event_feed_strings_text_att_event_feed_string_military_army_destroyed_description_theirs	We have destroyed an army belonging to the enemy. Their troops are feed for carrion.	true
-event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description_theirs	We have destroyed an enemy navy, casting its men into a watery grave.	true
-event_feed_strings_text_att_event_feed_string_world_climate_change_description	The years grow colder, and snow creeps ever further south, lasting longer.\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_military_attrition_secondary_detail	Men lost: #(men_lost)\\n\\nLocation: #(force.region_and_province)\\n\\n#(attrition)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description_theirs	These two factions have established a defensive alliance. To attack one is now to attack them both.	true
-event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_secondary_detail	Profession: #(character.role)\\n\\nFormer office: #(post)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target.region_and_province)\\n\\nOutcome: #(result)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_independence_primary_detail	  	true
-event_feed_strings_text_att_event_feed_string_faction_horde_begins_description	Change is coming. Our people are now on the move, free to conquer or settle where we please.	true
-event_feed_strings_text_att_event_feed_string_province_slums_description	Left in a state of neglect, an area of our settlement has turned into slums.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_barbarian	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
-event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nOwning faction: #(from.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_province_food_shortage_description	Food shortages are affecting this province. Measures must be taken before the people rise up against us in desperation.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_title	Climate Change	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_not_available_description	Diplomatic circumstances have dictated that we have lost a common enemy with our allies. Their possessions may no longer be targeted for war coordination through diplomacy.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_joined_theirs	#(war_faction_1) vs. #(joining_faction)	true
-event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_defender	Opponent: #(attacker)\\n\\nForces: #(defender.primary_force) vs. #(attacker.primary_force)\\n\\nCommanders: #(defender.primary_general) vs. #(attacker.primary_general)\\n\\nCasualties: #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount) vs.#(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount)\\n\\nLocation: #(defender.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_manipulated_description	Our military alliance with this faction has collapsed, by the clandestine workings of another. We must now fight on alone.	true
+event_feed_strings_text_att_event_feed_string_character_dies_political_assassination_description	Заради своєї зарозумілості деякі люди готові на все, включаючи вбивство.	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_description	Ряди цієї армії розколола змова. Багато її солдатів перейшли на бік сепаратистів. Їх потрібно розгромити!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_title	Відродження Західної імперії	true
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description_theirs	Ми знищили армію ворога. Ворожі воїни стали поживою для стерв'ятників.	true
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description_theirs	Ми знищили флот ворога. Ворожі моряки стали кормом для риб.	true
+event_feed_strings_text_att_event_feed_string_world_climate_change_description	Зими стають довшими і холоднішими; сніг випадає там, де його ніколи раніше не бачили.\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_primary_detail		true
+event_feed_strings_text_att_event_feed_string_military_attrition_secondary_detail	Втрати: #(men_lost)\\n\\nМісце: #(force.region_and_province)\\n\\n#(attrition)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description_theirs	Ці фракції уклали оборонний союз. Якщо напасти на одну з них, у війну вступлять обидві.	true
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_secondary_detail	Рід занять: #(character.role)\\n\\nПопередня посада: #(post)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail	Агент: #(agent), #(agent.type)\\n\\nЦіль: #(target.region_and_province)\\n\\nРезультат: #(result)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_primary_detail		true
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_description	Настають зміни. Наш народ знявся з місця і вирушив на пошуки нового дому.	true
+event_feed_strings_text_att_event_feed_string_province_slums_description	Залишений без уваги, один з кварталів нашого поселення перетворився на нетрі.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_barbarian	Великий день! Сьогодні хлопчик стане чоловіком і законним правителем нашого народу. Хай живе великий цар!	true
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail	Заражено: #(to)\\n\\nДжерело: #(from)\\n\\nФракція: #(from.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_province_food_shortage_description	Ця провінція страждає від нестачі їжі. Треба вжити заходів, поки місцеве населення не підняло заколот.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_title	Зміна клімату	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_not_available_description	Дипломатична ситуація змінилася: у нас з союзниками більше немає спільного ворога. Ми втратили можливість вказувати цілі для взаємодії.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_joined_theirs	#(war_faction_1) - #(joining_faction)	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_defender	Противник: #(attacker)\\n\\nВійська: #(defender.primary_force) - #(attacker.primary_force)\\n\\nКомандири: #(defender.primary_general) - #(attacker.primary_general)\\n\\nВтрати: #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount) - #(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount)\\n\\nМісце: #(defender.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_manipulated_description	Військовий союз з цією фракцією розірвано через інтриги третьої сторони. Тепер ми самі по собі.	true
 event_feed_strings_text_att_event_feed_string_faction_technology_researched_description	Knowledge is power - DO NOT LOCALISE	true
-event_feed_strings_text_att_event_feed_string_faction_bankruptcy_secondary_detail	Expenditure: #(expenditure)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_title	Amalasuntha Imprisoned	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_description	Our settlement is on the verge of capitulating to the enemy! We must strike at once.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description_theirs	These two factions have established a military alliance. War with one is now war with both.	true
-event_feed_strings_text_att_event_feed_string_military_unit_recruited_secondary_detail	Location: #(unit.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_secondary_detail	Province: #(settlement.province)\\n\\nCaptured by: #(occupier)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female	Our agent has utterly failed in her mission and has been wounded by the enemy in retaliation.	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_capital_description	Our valiant forces have, with righteous zeal, recaptured our capital from the enemy.	true
-event_feed_strings_text_att_event_feed_string_conquest_province_edict_secondary_detail	Province: #(province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_description	Our forces have claimed this settlement, allowing us to further our military and civic ambitions.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_description	You have abandoned this settlement, taking anything of worth and leaving the land desolate.	true
-event_feed_strings_text_att_event_feed_string_horde_development_points_available_secondary_detail	Population surplus: #(development_points)\\n	true
-event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_secondary_detail	Conditions: #(effects)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description_theirs	Diplomacy has failed; these two factions are now at war.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_secondary_detail	Rank: #(new_leader.rank)\\nAge: #(new_leader.age)\\n\\nSucceding: #(former_leader)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_secondary_detail	The Roman Empire is in the rotting grasp of a plague like no other. It moves like an unseen wind, striking down families and even villages as soon as it appears, leaving a trail of blackened, suppurating corpses in its wake. Refugees spread across the globe, bringing their pestilence with them.\\nMany see it as further evidence of the much-prophesised end of days - burning wrath poured from the chalice of God’s judgement - and demand that the correct obeisance is duly paid.\\nOther, more practical minds demand alternative solutions. Dramatic improvements in sanitation and the end of trade with infected nations may stem or even stop the disease in its tracks.	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_secondary_detail	Витрати: #(expenditure)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_title	Амаласунта в темниці	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_description	Наше поселення ось-ось впаде! Треба негайно завдати удару!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description_theirs	Ці фракції уклали військовий союз. Тепер їхні воїни будуть битися разом.	true
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_secondary_detail	Місце: #(unit.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_secondary_detail	Провінція: #(settlement.province)\\n\\nЗагарбник: #(occupier)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female	Наш агент провалив завдання, і вороги навіть зуміли його поранити.	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_capital_description	Наші героїчні воїни розгромили ворожих загарбників і звільнили столицю!	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_secondary_detail	Провінція: #(province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_description	Наші війська захопили це поселення, і це дозволить нам і далі здійснювати наші плани.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_description	Ви покинули це поселення, забравши з нього все цінне; його землі запустіли.	true
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_secondary_detail	Надлишок населення: #(development_points)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_secondary_detail	Умови: #(effects)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description_theirs	Дипломатія виявилася безсилою. Ці фракції розпочали війну.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_secondary_detail	Ранг: #(new_leader.rank)\\nВік: #(new_leader.age)\\n\\nПопередник: #(former_leader)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_secondary_detail	Римська імперія охоплена небаченою моровою пошестю. Невидима, але смертоносна чума винищує цілі сім'ї і навіть поселення, залишаючи за собою слід з почорнілих гнилих трупів. Люди намагаються втекти від неї, але замість цього самі розносять її по світу.\\nБагато хто бачить у цьому знамення швидкого кінця світу, пролиту чашу гніву Господнього і вимагають загального покаяння.\\nБільш практичні уми шукають альтернативні рішення. На їхню думку, прогрес у санітарії та припинення торгівлі з зараженими народами могли б уповільнити або навіть зупинити мор.	true
 event_feed_strings_text_att_event_feed_string_faction_succession_primary_detail	#(new_leader)	true
 event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor	#(actor)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_title	Furs Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_military_army_raised_description	We have reinstated a former army. Its name continues to echo through the ages.	true
-event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_description	The balance of power has shifted. As a result, what it means to rule here has changed also.	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail	Besieging force: #(besieger.general), #(besieger)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_primary_detail	Only a Man	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_secondary_detail	History is full of the stories of great men wasted under the command of weak rulers. Justinian, alas, proved himself just such a lord – his jealousy hampering Belisarius at every turn, eventually becoming a threat to his life and position.\\n\\nThe Emperor may have been born to rule, but Belisarius was also born with a destiny. He will restore the faded glory of the Western Empire, and any impediments will be left behind.\\n\\nJustinian is furious at this betrayal, and overcoming him will be as much of a challenge as the conquest of Italy. Nonetheless, Belisarius embraces the task. Unleashed, he will bring the world to its knees!	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_secondary_detail	He was indeed a lover of war, yet restrained in action, mighty in counsel, gracious to supplicants and lenient with those under his protection. \\n\\n With the death of the previous warlord, Attila seized power. Now he leads the hordes, and their armies swell in number.	true
-event_feed_strings_text_att_event_feed_string_character_trait_lost_description	Much like the shifting heavens, this man has abandoned what he once thought as true.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description	We have established a military alliance with this faction, thereby strengthening us both.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description_theirs	A foreign force has entered our territory without permission; be wary of their intention.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_title	Wood Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_title	Iron Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_secondary_detail	Current integrity: #(public_order_and_delta.first)\\n\\nPredicted change: #(public_order_and_delta.second)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_title	Wine Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_faction_succession_regency_secondary_detail	Regent: #(new_leader)	true
-event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_theirs	Agent: #(agent), #(agent.type)\\n\\nAllegiance: #(agent.faction)\\n\\nTarget: #(target)\\n\\nOutcome: #(result)\\n\\nLocation: #(target.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description_theirs	Trade between these two factions has ceased.	true
-event_feed_strings_text_att_event_feed_string_conquest_province_edict_issued_description	The governor of this province has issued an edict and will maintain it until commanded otherwise.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_title	Gems Level 4 Unlocked	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_title	Хутра: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_military_army_raised_description	Ми відродили армію минулих часів. Її ім'я збережеться у віках.	true
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_description	Баланс сил змінився. В результаті змінилися і умови, в яких доводиться діяти правителю.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail	Обложна армія: #(besieger.general), #(besieger)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_primary_detail	Всього лише людина	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_secondary_detail	Історія знає чимало прикладів, коли талант великих людей губили слабкі правителі. На жаль, імператор Юстиніан виявився саме таким - заздрість і ревнощі змушували його на кожному кроці чинити Велісарію перешкоди, а в кінці кінців поставити під загрозу становище і саме життя геніального полководця.\\n\\nІмператор народився для влади, але і Велісарію визначена велика доля. Жодні перешкоди не завадять йому відродити колишню славу Західної Римської імперії.\\n\\nВпоратися з розгніваним Юстиніаном буде не легше, ніж підкорити Італію, але Велісарій не має наміру здаватися. Він поставить світ на коліна!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_secondary_detail	Любитель війни, сам він був поміркований, дуже сильний здоровим глуздом, доступний тим, хто просить, і милостивий до тих, кому одного разу довірився.\\n\\nПісля смерті попереднього вождя владу захопив Аттіла. Тепер орди гунів очолює він, і число його воїнів постійно зростає.	true
+event_feed_strings_text_att_event_feed_string_character_trait_lost_description	Подібно до мінливого неба, ця людина відкинула те, що раніше вважала істиною.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_primary_detail		true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description	Ми уклали військовий союз з цією фракцією. Разом ми станемо сильнішими.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description_theirs	Чужі воїни порушили наш кордон. Нам варто задуматися про їхні наміри.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_title	Дерево: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_title	Залізо: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_secondary_detail	Поточна згуртованість: #(public_order_and_delta.first)\\n\\nПрогнозована зміна: #(public_order_and_delta.second)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_title	Вино: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_secondary_detail	Регент: #(new_leader)	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_theirs	Агент: #(agent), #(agent.type)\\n\\nФракція: #(agent.faction)\\n\\nЦіль: #(target)\\n\\nРезультат: #(result)\\n\\nМісце: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description_theirs	Ці фракції розірвали торговельну угоду.	true
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_issued_description	Губернатор цієї провінції видав едикт, який діятиме доти, доки не буде скасований іншим розпорядженням.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_title	Самоцвіти: доступний рівень 4	true
 event_feed_strings_text_att_event_feed_string_military_ambusher_primary_detail	#(ambusher)	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_leo_3	Pope Leo III	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_secondary_detail	Razed by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description_theirs	A rival fleet is blockading one of our ports!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_title	Gold Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_title	Salt Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_faction_campaign_lost_description	History is written by those who survive. What will they say of us, now that our people are no more?	true
-event_feed_strings_text_att_event_feed_string_all_null	 	true
-event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail_theirs	Allegiance: #(character.faction)\\n\\nRank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_force_secondary_detail	Location: #(instigator.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_independence_title	Betrayal!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description	We no longer have a military access agreement with this faction. Beware trespassing.	true
-event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_cannot_fail	Agent: #(agent), #(agent.type)\\n\\nTarget: #(target)\\n\\nLocation: #(target.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_title	Moors!	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_leo_3	Папа Лев III	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_secondary_detail	Зруйнував: #(attacked_by.general), #(attacked_by)\\n\\nВартість видобутку: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description_theirs	Ворожий флот блокує один з наших портів!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_title	Золото: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_title	Сіль: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_faction_campaign_lost_description	Історію пишуть переможці. Що вони розкажуть про наш народ, якого більше немає?	true
+event_feed_strings_text_att_event_feed_string_all_null		true
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail_theirs	Фракція: #(character.faction)\\n\\nРанг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_secondary_detail	Місце: #(instigator.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_title	Зрада!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description	Договір з цією фракцією про право проходу більше не діє. Слідкуйте за нашими кордонами!	true
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_cannot_fail	Агент: #(agent), #(agent.type)\\n\\nЦіль: #(target)\\n\\nМісце: #(target.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_title	Маври!	true
 event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_primary_detail	#(raider.region_and_province)	true
 event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_against	#(joining_faction)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_description	We have received word: our ally intends to attack this enemy settlement at the next available opportunity.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_description	Ми отримали звістку, що наш союзник збирається напасти на вороже поселення при першій нагоді.	true
 event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient	#(actor)\\n #(recipient)	true
-event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_settlement_description	Raids within our region are affecting local public order and food production.	true
-event_feed_strings_text_att_event_feed_string_faction_heir_nominated_description	This man has been declared your heir and will ascend to the throne upon your passing.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description	We have granted our puppet state independence.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_description_high_king	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
-event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail	Former religion: #(old_religion)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_attacker	Opponent: #(defender)\\n\\nForces: #(attacker.primary_force) vs. #(defender.primary_force)\\n\\nCommanders: #(attacker.primary_general) vs. #(defender.primary_general)\\n\\nCasualties: #(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount) vs. #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount)\\n\\nLocation: #(attacker.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_military_building_secondary_detail	You are lauded for upholding the Bardic tradition. Here, songs will be sung of your heroism and valour, with great whimsy!	true
-event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_description	As our power increases, so too does our capacity for decisive action.	true
-event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_secondary_detail	The Roman Empire rises again! Responding to threats to its sovereignty, new forces are abroad.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_secondary_detail	The sign of a great leader is in knowing how far your people can be pushed. Wars are significant, dramatic events that should not be undertaken lightly.\\nEach turn you are at war your faction’s war weariness will increase. When it reaches a high enough level your faction will begin to receive penalties that will increase as time wears on. Additionally, losing battles will have drastic effects on war weariness depending on the severity of your defeat.\\nYou can, however, seek respite during peacetime. While at peace your war weariness will reduce quickly; furthermore, signing peace treaties will cause a large one-off reduction.\\nShould war be forced upon you, however, you may slow, halt, or even reverse war weariness levels by winning decisive battles and, as a last resort, by withdrawing your men to within your own borders to help slow its increase.\\nWars must be concluded swiftly and decisively; manage diplomacy carefully but be aware that at times of conflict the greatest enemy sometimes lies within.	true
-event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_secondary_detail	Expenditure: #(expenditure)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_recruited_secondary_detail	Location: #(agent.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_religion_change_description_theirs	The world is full of mysteries. In search of answers, this faction has embraced another religion.	true
-event_feed_strings_text_att_event_feed_string_faction_resource_gained_description	This resource will be a great asset to us.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description	Trade relations with this faction have been terminated.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_all_manipulated_secondary_detail	Manipulated by: #(negotiated_by)\\n	true
-event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail_theirs	Spread to: #(to)\\n\\nSpread from: #(from)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_settlement_description	Громадський порядок і виробництво їжі в нашому регіоні страждають через нальоти.	true
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_description	Ця людина оголошена вашим спадкоємцем. Після вашої смерті трон перейде до нього.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description	Ми надали незалежність нашій маріонетковій державі.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_high_king	Великий цар помер. Влада перейшла до його спадкоємця.\\n\\nХай живе Великий цар!	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail	Попередня релігія: #(old_religion)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_attacker	Противник: #(defender)\\n\\nВійська: #(attacker.primary_force) - #(defender.primary_force)\\n\\nКомандири: #(attacker.primary_general) - #(defender.primary_general)\\n\\nВтрати: #(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount) - #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount)\\n\\nМісце: #(attacker.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_secondary_detail	Барди славлять вас за те, що ви шануєте їхні давні традиції. У цьому чертогу лунатимуть пісні про ваші славні подвиги та дивовижні пригоди.	true
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_description	Наша могутність зростає, відкриваючи можливості для нових рішучих дій.	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_secondary_detail	Римська імперія знову на підйомі! У відповідь на погрози війська були відправлені за її межі.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_secondary_detail	Справжній правитель повинен точно знати, до яких меж можна гнобити свій народ. Кожна війна - це справжня драма у відносинах між королівствами, і безтурботне ставлення до них може обернутися бідою.\\nЗ кожним ходом війни ваш народ все більше втомлюється від неї. Якщо його втома досягне певного рівня, щодо вашої фракції почнуть діяти штрафи, які будуть посилюватися з часом. Крім того, втому від війни посилюють поразки в битвах.\\nНайкращими ліками від наслідків війни є мир. З кожним ходом, проведеним без воєн, ваш народ відновлює сили, а підписання мирного договору прискорює цей процес ще сильніше.\\nЯкщо ворог напав першим, уповільнити зростання втоми від війни можна рішучими перемогами або відведенням військ на власну територію.\\nПам'ятайте: війна вимагає швидкості і рішучості, дипломатія - обережності, а найнебезпечнішим ворогом може виявитися внутрішній.	true
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_secondary_detail	Витрати: #(expenditure)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_recruited_secondary_detail	Місце: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description_theirs	Світ сповнений таємниць. Щоб розгадати їх, ця фракція перейшла в іншу віру.	true
+event_feed_strings_text_att_event_feed_string_faction_resource_gained_description	Цей ресурс дуже цінний для нас.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description	Ми перестали торгувати з цією фракцією.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_all_manipulated_secondary_detail	Маніпулятор: #(negotiated_by)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail_theirs	Заражено: #(to)\\n\\nДжерело: #(from)\\n	true
 event_feed_strings_text_att_event_feed_string_faction_political_subject_primary_detail	#(dilemma)	true
-event_feed_strings_text_att_event_feed_string_plague_force_from_force_description_theirs	Our forces, riddled with plague, have spread their disease.	true
-event_feed_strings_text_att_event_feed_string_conquest_battle_description_winner	Victory! We have triumphed over the enemy!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description	We have established a defensive alliance with this faction, thereby protecting us both.	true
-event_feed_strings_text_att_event_feed_string_military_navy_raised_description	We have reinstated a former navy. Its name continues to echo through the ages.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_title	Lead Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail_theirs	Location: #(ambusher.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_succession_description_great_kan	Our ruler is dead, and the mantle of leadership has been passed.\\n\\nLong may he live!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_manipulated_description	Our defensive alliance with this faction has collapsed. We blame the machinations of another for the relationship breakdown.	true
-event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_description	We have lost absolute control of this sea region to a rival faction.	true
-event_feed_strings_text_att_event_feed_string_character_ancillary_gained_secondary_detail	Gained by: #(character), #(character.type)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_trade_route_description	A force is raiding our trade route!	true
-event_feed_strings_text_att_event_feed_string_military_navy_withdraws_description	Unwilling to fight on the enemy's terms, our navy has withdrawn from battle.	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description_theirs	У наших військах лютує чума, і вони розносять її всюди.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_winner	Перемога! Ми розгромили ворога!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description	Ми уклали оборонний союз з цією фракцією. Тепер ми захищаємо один одного.	true
+event_feed_strings_text_att_event_feed_string_military_navy_raised_description	Ми відродили флот колишніх часів. Його ім'я збережеться у віках.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_title	Свинець: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail_theirs	Місце: #(ambusher.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_description_great_kan	Великий хан помер. Влада перейшла до його спадкоємця.\\n\\nХай живе Великий хан!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_manipulated_description	Оборонний союз з цією фракцією розірвано. Є підстави вважати, що в цьому винна якась третя сторона.	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_description	Ми більше не маємо абсолютної влади над цим морським регіоном.	true
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_secondary_detail	Придбав: #(character), #(character.type)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_trade_route_description	Чиєсь військо розбійничає на нашому торговому шляху!	true
+event_feed_strings_text_att_event_feed_string_military_navy_withdraws_description	Не бажаючи битися в умовах, нав'язаних противником, наш флот вийшов з бою.	true
 event_feed_strings_text_att_event_feed_string_military_attrition_primary_detail	#(force)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_secondary_detail	The Romans have landed in Africa! In response, Gelimer, the Vandal king, has executed the old pro-Roman sovereign, Hilderic, after years of imprisonment.\\n\\nThe death of this broken old man promises to plunge the conflict into even greater depths of ferocity! There is no turning back for the Vandals now; no possibility of a peaceful resolution.\\n\\nThe rest of the world looks on with bated breath. Perhaps the Romans are no longer a force to be reckoned with – can they punish this act of brazen defiance with their trademark unflinching brutality? Or will the Vandals defeat the invaders and usher in a new era of barbarian defiance? 	true
-event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male	Our agent successfully killed his mark, removing a potential threat once and for all.	true
-event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_secondary_detail	Age: #(character.age)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description	Our forces have crossed, unpermitted, into foreign territory; this will have diplomatic repercussions.	true
-event_feed_strings_text_att_event_feed_string_military_army_destroyed_description	This is a dark day: our army has been utterly destroyed by the enemy.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_primary_detail	The King of the Huns	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_primary_detail	The Broken Bow	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description_theirs	These two factions have established a military access agreement.	true
-event_feed_strings_text_att_event_feed_string_character_dies_action_description	This worthy subject has fallen serving his lord and his people. Honour to him!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description	We are at war. Our enemies will submit or be destroyed.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_secondary_detail	Римляни висадилися в Африці! У відповідь на це правитель вандалів Гелімер стратив свого попередника Гільдеріха, раніше кинутого в темницю за симпатію до Риму.\\n\\nВбивство безпорадного зломленого старого стало свідченням звірячої жорстокості вандалів. У них вже немає шляху назад. \\n\\nСвіт завмер в очікуванні. Чи вистачить римлянам сил проявити свою знамениту нещадність і покарати нечестивців? Або ж вандали візьмуть гору і відкриють нову еру варварської ганьби?	true
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male	Наш агент вбив жертву, і тепер вона більше не зможе зашкодити нам.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_secondary_detail	Вік: #(character.age)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description	Наші воїни порушили кордон іншої фракції. Очікуйте дипломатичних наслідків.	true
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description	Сьогодні гіркий день: наша армія повністю знищена ворогом.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_primary_detail	Цар гунів	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_primary_detail	Зламаний лук	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description_theirs	Ці фракції уклали договір про право проходу.	true
+event_feed_strings_text_att_event_feed_string_character_dies_action_description	Цей гідний підданий загинув на службі повелителю і народу. Вшануймо його пам'ять!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description	Ми вступили у війну. Ворог буде зламаний або знищений.	true
 event_feed_strings_text_att_event_feed_string_character_trait_all_primary_detail	#(trait)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_primary_detail	Salt is now available.	true
-event_feed_strings_text_att_event_feed_string_character_dies_battle_description	Our valiant commander has fallen in battle! Honour him!	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail_theirs	Besieging force: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_primary_detail	Доступна сіль.	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description	Наш доблесний командир загинув у бою! Вшануймо його пам'ять!	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail_theirs	Обложна армія: #(besieger.general), #(besieger), #(besieger.faction)\\n	true
 event_feed_strings_text_att_event_feed_string_placeholder_primary_detail	Placeholder Primary Detail - DO NOT LOCALISE	true
 event_feed_strings_text_att_event_feed_string_military_all_force_primary_detail	#(force)	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_title	Attila	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_primary_detail	The Moors are coming!!!	true
-event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_male	Joyous occasion! These family members have been blessed with a son.	true
-event_feed_strings_text_att_event_feed_string_military_army_founded_description	Glorious day! We have founded a new army.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_primary_detail	Gems are now available.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_primary_detail	Furs are now available.	true
-event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_nomadic	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
-event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_barbarian	Our ruler has passed away, but his designated heir is too young to assume the mantle of leadership. As such, a regent has been appointed until such time when he is old enough to rule.	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description	Our fleet has begun blockading this enemy port.	true
-event_feed_strings_text_att_event_feed_string_conquest_sea_region_controlled_description	We have secured complete control of these waters.	true
-event_feed_strings_text_att_event_feed_string_character_rank_gained_description	Diligence and duty have paid off - this character has increased in rank.	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male_theirs	One of our own has been murdered in cold blood by an enemy agent!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_primary_detail	III. Breaking Dawn	true
-event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_title	Roman Empire retaliates!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_secondary_detail	The darkness gradually abates and life returns to the earth. The crop yield is bountiful, our children are healthier and people are optimistic for a prosperous future.	true
-event_feed_strings_text_att_event_feed_string_plague_force_from_force_description	Plague has passed from one military force to another; our troops are sick and dying.	true
-event_feed_strings_text_att_event_feed_string_faction_horde_ends_secondary_detail	New capital: #(capital)\\n	true
-event_feed_strings_text_att_event_feed_string_world_climate_change_description_2	Climate change is afoot; as the perennial winter draws closer, lands become less fertile compelling people ever south and westward in search of warmer, less hostile climes.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_title	War Weariness	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_ally	Joining you against: #(joining_faction)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_primary_detail	The Birth	true
-event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail_theirs	Faction:#(agent.faction)\\n\\n Location: #(agent.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_title	Age of Charlemagne	true
-event_feed_strings_text_att_event_feed_string_agent_recruited_description	This new agent is ready and eager to serve.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_secondary_detail	He was a man born into the world to shake nations; the scourge of all lands, whose name brought fear to all mankind. \\n\\n Far to the east, in the Scythian wastes, a child is born to the royal Hunnic line. Destined for greatness, he was named Attila.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_primary_detail	 	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male_theirs	The enemy came dangerously close to murdering one of our own. Fortunately, the wounds will heal given time.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_secondary_detail	Looted by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
-event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_description	This province is experiencing unusual seasonal conditions.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_title	War Weariness	true
-event_feed_strings_text_att_event_feed_string_character_born_legitimate_secondary_detail	Parents: #(father) - #(mother)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_famine_description	We are consuming more food than we are capable of producing. People are starving and tensions are high.	true
-event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail	Location: #(agent.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_primary_detail	War Weariness Information	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_title	Climate Change	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_secondary_detail	Belenus smiles upon you. May his bright star guide you always.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_title	Аттіла	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_primary_detail	Маври йдуть!!!	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_male	О, славний день! У цих членів правлячої родини народився син.	true
+event_feed_strings_text_att_event_feed_string_military_army_founded_description	Сьогодні славний день! Ми заснували нову армію.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_primary_detail	Доступні самоцвіти.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_primary_detail	Доступні хутра.	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_nomadic	Великий день! Сьогодні хлопчик стане чоловіком і законним правителем нашого народу. Хай живе великий хан!	true
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_barbarian	Великий цар помер, але його спадкоємець занадто молодий, щоб взяти владу в свої руки. Тому до його повноліття правитиме регент.	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description	Наш флот розпочав блокаду ворожого порту.	true
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_controlled_description	Ми домоглися повного контролю над цими водами.	true
+event_feed_strings_text_att_event_feed_string_character_rank_gained_description	Вірність і старанність цього персонажа принесли плоди. Його ранг підвищився.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male_theirs	Ворожий агент холоднокровно вбив одного з наших людей!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_primary_detail	III. Новий світанок	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_title	Римська імперія завдає удару у відповідь!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_secondary_detail	Темрява поступово відступила, дозволивши землі ожити. Урожаї знову стали багатими, діти - здоровими, а народ знайшов надію на щасливе майбутнє.	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description	Одна армія заразила іншу смертельною хворобою. Воїни хворіють і вмирають.	true
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_secondary_detail	Нова столиця: #(capital)\\n	true
+event_feed_strings_text_att_event_feed_string_world_climate_change_description_2	Клімат змінюється; настає вічна зима, землі стають менш родючими, і це змушує людей рухатися на південь і на захід у пошуках тепліших земель.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_title	Втома від воєн	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_ally	Спільний ворог: #(joining_faction)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_primary_detail	Народження Аттіли	true
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_primary_detail		true
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail_theirs	Фракція:#(agent.faction)\\n\\nМісце: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_title	Епоха Карла Великого	true
+event_feed_strings_text_att_event_feed_string_agent_recruited_description	Новий агент готовий виконати завдання.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_secondary_detail	Був він мужем, народженим для того, щоб стрясати народи, жахом для всіх країн, що з якоїсь незбагненної долі вселяв тремтіння в усіх...\n\nДалеко на сході, в пустках Скіфії, у родині вождя гунів народився син, якому судилася велич. Його нарекли Аттілою.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_primary_detail		true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male_theirs	Ворог ледь не вбив одного з наших. На щастя, рани зазвичай загоюються.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_secondary_detail	Розграбував: #(attacked_by.general), #(attacked_by)\\n\\nВартість здобичі: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_description	У цій провінції настали незвичайні сезонні умови.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_title	Втома від воєн	true
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_secondary_detail	Батьки: #(father) - #(mother)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_famine_description	Ми споживаємо більше їжі, ніж виробляємо. Люди починають голодувати. Напруга наростає.	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail	Місце: #(agent.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_primary_detail	Відомості про втому від воєн	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_title	Зміна клімату	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_secondary_detail	Белен посміхається вам. Нехай його сяйво завжди освітлює ваш шлях.	true
 event_feed_strings_text_att_event_feed_string_plague_all_primary_detail	#(plague)	true
-event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_secondary_detail	The Tanukhids are a tribe dedicated to a single purpose – rebellion. As such they may only sustain themselves through constant conquest. However, their hordes are unable to grow their own food and they may only sustain themselves by vanquishing an enemy settlement and living off its supplies for a limited number of turns.\\nAs they win battles, fame increases and new followers flock to their banner. Each victory will earn the horde significant growth for the next five turns. Additionally, by entering raiding stance they may rouse local support, earning free units every turn.\\nPersecution against Eastern Christianity led to the  first Tanukhid rebellion. When, eventually, the Tanukhids settle once more, they  will face severe public order penalties for religious differences with the local populations.\\nThe challenges facing the Tanukhids are great, but so too are their means.\\nGo forth and reduce the Roman Empire to ash!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_primary_detail	II. Darkness Abates	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_secondary_detail	Razed by: #(attacked_by.general), #(attacked_by)\\n\\nAllegiance: #(attacked_by.faction)\\n\\nValue of plunder: #(income)\\n	true
-event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description	This is a dark day: our entire navy has been destroyed.	true
-event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_male	Life is indiscriminate in its cruelty. This boy passed away before coming of age.	true
-event_feed_strings_text_att_event_feed_string_military_army_withdraws_description	Unwilling to fight on the enemy's terms, our army has withdrawn from battle.	true
-event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_female	Life is indiscriminate in its cruelty. This girl passed away before coming of age.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_secondary_detail	Танухіди - плем'я, пристосоване тільки для одного: повстання. Їм необхідно постійно воювати, щоб отримувати припаси. Орда не може добути їжу іншим способом, тому змушена розоряти ворожі поселення і відбирати припаси у інших, щоб протриматися певну кількість ходів.\\nПісля перемоги зростає рівень слави, і під прапори переможців збігаються нові сили. Кожна перемога збільшує орду на наступні п'ять ходів. До того ж в режимі нальоту можна кожен хід безкоштовно поповнювати загони місцевими воїнами.\\nПерше повстання танухідів сталося через протистояння східному християнству. Коли танухіди нарешті оселилися знову, у них виникли проблеми з громадським порядком через релігійні протиріччя з місцевим населенням.\\nВипробування, що випали на долю танухідів, великі, але і нагорода теж велика.\\nІдіть вперед і зітріть Римську імперію в порох!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_primary_detail	II. Темрява відступає	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_secondary_detail	Зруйнував: #(attacked_by.general), #(attacked_by)\\n\\nФракція: #(attacked_by.faction)\\n\\nВартість здобичі: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description	Сьогодні гіркий день: ми втратили цілий флот.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_male	Життя жорстоке. Цей хлопчик помер, не досягнувши повноліття.	true
+event_feed_strings_text_att_event_feed_string_military_army_withdraws_description	Не бажаючи битися в умовах, нав'язаних противником, наша армія вийшла з бою.	true
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_female	Життя жорстоке. Ця дівчинка померла, не досягнувши повноліття.	true
 event_feed_strings_text_att_event_feed_string_character_all_primary_detail_role	#(character), #(character.role)	true
-event_feed_strings_text_att_event_feed_string_faction_political_subject_secondary_detail	Subject: #(subject)\\n\\n#(dilemma.description)\\n	true
-event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_eastern	This is a momentous occasion! A boy becomes a man, and assumes his rightful place as ruler of our people. Long may he live!	true
-event_feed_strings_text_att_event_feed_string_provinces_building_demolished_description	This building has been demolished and its land may now be redeveloped.	true
-event_feed_strings_text_att_event_feed_string_character_dies_suspicious_secondary_detail	Rank: #(character.rank)\\n\\nLocation: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_character_loyalty_low_description	Rumour has it that this man's loyalty is wavering. If we are to avoid civil war, we must ensure that it does not fall any further.	true
-event_feed_strings_text_att_event_feed_string_military_force_decimated_secondary_detail	Order given by: #(force.general)\\n\\nLocation: #(force.region_and_province)	true
-event_feed_strings_text_att_event_feed_string_plague_region_from_force_description_theirs	Our forces have unwittingly brought a pestilence upon foreign soil.	true
-event_feed_strings_text_att_event_feed_string_conquest_battle_description_loser	Tragedy! The enemy has vanquished our forces in battle.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_primary_detail	Wood is now available.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_primary_detail	Gold is now available.	true
-event_feed_strings_text_att_event_feed_string_plague_starts_description	A foul pestilence has erupted within our lands, no doubt a result of filth and squalor. Sanitation is key to fending off disease!	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_primary_detail	Lead is now available.	true
-event_feed_strings_text_att_event_feed_string_military_unit_recruited_description	This unit is now trained and ready to fight for our cause.	true
+event_feed_strings_text_att_event_feed_string_faction_political_subject_secondary_detail	Підданий: #(subject)\\n\\n#(dilemma.description)\\n	true
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_eastern	Великий день! Сьогодні хлопчик стане чоловіком і законним правителем нашого народу. Хай живе цар царів!	true
+event_feed_strings_text_att_event_feed_string_provinces_building_demolished_description	Ця споруда знищена. Землю, на якій вона стояла, можна використовувати повторно.	true
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_secondary_detail	Ранг: #(character.rank)\\n\\nМісце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_description	За чутками, відданість цієї людини викликає сумніви. Потрібно заручитися його підтримкою - інакше громадянської війни не уникнути.	true
+event_feed_strings_text_att_event_feed_string_military_force_decimated_secondary_detail	Віддав наказ: #(force.general)\\n\\nМісце: #(force.region_and_province)	true
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description_theirs	Наші воїни необачно занесли хворобу на чужі землі.	true
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_loser	Горе! Вороги розгромили нашу армію!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_primary_detail	Доступне дерево.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_primary_detail	Доступне золото.	true
+event_feed_strings_text_att_event_feed_string_plague_starts_description	На наших землях поширюється страшна хвороба, викликана брудом і злиднями. Перемогти її допоможе тільки санітарія!	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_primary_detail	Доступний свинець.	true
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_description	Загін навчений і готовий служити нашій справі.	true
 event_feed_strings_text_att_event_feed_string_character_all_primary_detail_type	#(character), #(character.type)	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_primary_detail	Wine is now available.	true
-event_feed_strings_text_att_event_feed_string_military_all_rank_secondary_detail	Rank: #(force.rank)\\n\\nLocation: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description_theirs	An enemy force has ended its investment of our settlement!	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description_theirs	An enemy fleet has lifted its blockade of our port!	true
-event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_secondary_detail	They plucked out the hair of their heads and made their faces hideous with deep wounds, that the renowned warrior might be mourned; not by effeminate wailings and tears, but by the blood of men. \\n\\n Attila, the Scourge of God, lies vanquished. Without his leadership the hordes weaken and begin to dissipate.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_primary_detail	Доступне вино.	true
+event_feed_strings_text_att_event_feed_string_military_all_rank_secondary_detail	Ранг: #(force.rank)\\n\\nМісце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description_theirs	Ворог зняв облогу нашого поселення!	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description_theirs	Ворожий флот зняв блокаду нашого порту!	true
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_secondary_detail	Тоді, дотримуючись звичаю того племені, вони відрізають собі частину волосся й спотворюють свої потворні обличчя глибокими ранами, аби вшанувати доблесного воїна не жіночими голосіннями й сльозами, а кров’ю чоловіків.\n\nАттіла, Бич Божий, упав у бою. Залишившись без вождя, його орди слабшають і починають розсіюватися.	true
 event_feed_strings_text_att_event_feed_string_character_born_all_primary_detail	#(child)	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description	We have established a non-aggression pact with this faction, helping to ensure our mutual survival.	true
-event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_secondary_detail	Sacked by: #(attacked_by.general), #(attacked_by)\\n\\nValue of plunder: #(income)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_title	Olives Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_agent_discovered_description_theirs	Ever lurking, but not always unseen - we have uncovered this foreign operative!	true
-event_feed_strings_text_att_event_feed_string_character_ready_for_duty_secondary_detail	Location: #(character.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail_theirs	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nLocation: #(from.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail_theirs	Blockading force: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
-event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail	Spread to: #(to)\\n\\nSpread from: #(from)\\n\\nOwning faction: #(from.faction)\\n\\nLocation: #(from.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_secondary_detail	Your conquests are countless and so your fame reaches across the world! As you survey your achievements, your thoughts turn to the Western Roman Empire - broken but not entirely forgotten.\\n\\nThere has never been a better time – or a better leader - to resurrect this fallen giant and reconquer its former territory. Act now and surpass the achievements of those who came before you! Don the robes of the Caesars of old and stride forth in Rome’s name! 	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description	Ми уклали договір про ненапад з цією фракцією. Наші народи більше не загрожують один одному.	true
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_secondary_detail	Розорив: #(attacked_by.general), #(attacked_by)\\n\\nВартість здобичі: #(income)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_title	Оливки: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_agent_discovered_description_theirs	Все таємне рано чи пізно стає явним. Ми викрили чужинця-шпигуна!	true
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_secondary_detail	Місце: #(character.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail_theirs	Заражено: #(to)\\n\\nДжерело: #(from)\\n\\nМісце: #(from.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail_theirs	Блокуючий флот: #(blockader.general), #(blockader), #(blockader.faction)\\n	true
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail	Заражено: #(to)\\n\\nДжерело: #(from)\\n\\nФракція: #(from.faction)\\n\\nМісце: #(from.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_secondary_detail	Ваші перемоги незліченні, а слава про них лунає по всьому світу. Обдумуючи подальші плани, ви звернули свій погляд на Західну Римську імперію - зруйновану, але поки що не забуту.\\n\\nВи цілком здатні відродити занепалу державу і повернути їй колишню велич. Момент настав. У вас є шанс перевершити своїх попередників і приміряти лаври цезарів минулого! Вперед - в ім'я Риму!	true
 event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_primary_detail	#(mission)	true
-event_feed_strings_text_att_event_feed_string_character_dies_battle_description_theirs	Our noble enemy has fallen in battle against us!	true
-event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_description	We have established contact with this faction and may now establish relations or, should we see fit, make war with them.	true
-event_feed_strings_text_att_event_feed_string_plague_force_from_region_description_theirs	This force has taken ill while crossing our plague-ridden territory.	true
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description_theirs	Наші воїни позбавили життя благородного ворога!	true
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_description	Ми вступили в контакт з цією фракцією. Тепер ми можемо вести з нею дипломатичні переговори, а якщо знадобиться, то і війни.	true
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description_theirs	Це військо підхопило заразу, поки йшло по нашій зараженій території.	true
 event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_title	[ph] Avar Khaganate Formed Title	true
-event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_title	King's Market Unlocked	true
-event_feed_strings_text_att_event_feed_string_military_army_disbanded_description	This army has been retired from active service. It may be reinstated at a later time if we feel that it's reputation is worthy.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_description	We have received word: our ally intends to attack this enemy force at the next available opportunity.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_secondary_detail	“During this year a most dread portent took place. For the sun gave forth its light without brightness, and it seemed exceedingly like the sun in eclipse, for the beams it shed were not clear.” - Procopius\\n\\nDark times are upon us; the earth has withered and blackened, the crops have failed, and the priests speak of damnation! Has the Lord forsaken His kingdom?	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_primary_detail	Temple of Belenus is now available.	true
-event_feed_strings_text_att_event_feed_string_character_dies_hostile_description_theirs	Our agent, with the cold calculation of forethought, has assassinated an enemy subject according to your whim.	true
-event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male	The mark narrowly avoided death by our agent's hand, but did not escape unscathed.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_title	The Western Empire Rises Again	true
-event_feed_strings_text_att_event_feed_string_military_navy_disbanded_description	This navy has been recalled from active service. It may be reinstated at a later time if we feel that its reputation is worthy.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_title	Доступний королівський ринок	true
+event_feed_strings_text_att_event_feed_string_military_army_disbanded_description	Ця армія відсторонена від служби. Можливо, вона буде відроджена пізніше, якщо ми вирішимо, що її репутація цього варта.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_description	Ми отримали звістку, що наш союзник збирається напасти на ворожу армію при першій нагоді.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_secondary_detail	І в цьому році сталося найбільше диво: весь рік сонце випромінювало світло як місяць, без променів, ніби воно втрачало свою силу, переставши, як раніше, чисто і яскраво сяяти. - Прокопій Кесарійський\\n\\nНастали темні часи! Земля висохла і почорніла, врожай загинув, а священники твердять про кару Божу. Невже Господь залишив Своє царство?	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_primary_detail	Доступний храм Белена.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description_theirs	Наш агент розважливо і холоднокровно усунув ворожого підданого за вашим наказом.	true
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male	Жертві вдалося втекти, проте агент все ж зумів завдати їй рану.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_title	Відродження Західної імперії	true
+event_feed_strings_text_att_event_feed_string_military_navy_disbanded_description	Цей флот відсторонений від служби. Можливо, він буде відроджений пізніше, якщо ми вирішимо, що його репутація цього варта.	true
 event_feed_strings_text_att_event_feed_string_provinces_building_constructed_description	#(building.description)	true
-event_feed_strings_text_att_event_feed_string_character_dies_natural_description	Life has taken its toll upon our venerable subject; they are no more.	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_title	Belisarius Declares Independence	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_primary_detail	Iron is now available.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description	We have granted our vassal independence.	true
-event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_title	Empires of Sand	true
-event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_faction_region_province	Capital: #(faction.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_secondary_detail	Finally, the sun has risen again, painting the land with its vivid colours. The people give thanks to God for the restoration of their livelihoods. It is a good time to be alive.	true
-event_feed_strings_text_att_event_feed_string_faction_civil_war_ends_description	The separatists have been crushed; the civil war is over.	true
-event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description	Our army has ended its investment of this enemy settlement.	true
-event_feed_strings_text_att_event_feed_string_character_dies_hostile_description	Our faithful subject has been assassinated with callous brutality by enemy agents.	true
-event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_manipulated_description	This faction has ended its non-aggression pact with us, convinced of the need by a manipulative third party.	true
-event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_title	New Pope Elected	true
-event_feed_strings_text_att_event_feed_string_military_all_location_only_secondary_detail	Location: #(force.region_and_province)\\n	true
-event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_primary_details	Targets Available	true
-event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_primary_detail	Tanukhids	true
-event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail	Blockading force: #(blockader.general), #(blockader)\\n	true
-event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_title	Marble Level 4 Unlocked	true
-event_feed_strings_text_att_event_feed_string_military_navy_founded_description	Glorious day! We have established a new navy.	true
-event_feed_strings_text_att_event_feed_string_character_trait_gained_description	Through the trials of life, this man has learned much, both good and bad.	true
-event_feed_strings_text_att_event_feed_string_military_path_blocked_description	Our progress has been obstructed; an alternative route must be plotted.	true
-event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_secondary_detail	Imperium level: #(faction.fame_level)\\n\\n#(faction.fame_level_description)\\n	true
+event_feed_strings_text_att_event_feed_string_character_dies_natural_description	Наш старий підданий покинув цей тлінний світ.	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_title	Велісарій проголошує незалежність	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_primary_detail	Доступне залізо.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description	Ми надали незалежність нашому даннику.	true
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_title	Імперії пустель	true
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_faction_region_province	Столиця: #(faction.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_secondary_detail	Нарешті сонце знову зійшло, забарвивши землю яскравими фарбами. Люди подякували Богу за те, що він повернув їм життєдайне світло. Життя триває!	true
+event_feed_strings_text_att_event_feed_string_faction_civil_war_ends_description	Сепаратисти переможені. Громадянська війна закінчилася.	true
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description	Наша армія припинила облогу цього ворожого поселення.	true
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description	Наш вірний підданий був жорстоко вбитий ворожими агентами.	true
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_manipulated_description	Третя сторона переконала цю фракцію розірвати договір про ненапад, укладений з нами.	true
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_title	Обрано нового папу	true
+event_feed_strings_text_att_event_feed_string_military_all_location_only_secondary_detail	Місце: #(force.region_and_province)\\n	true
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_primary_details	Доступні цілі	true
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_primary_detail	Танухіди	true
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail	Блокуючий флот: #(blockader.general), #(blockader)\\n	true
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_title	Мармур: доступний рівень 4	true
+event_feed_strings_text_att_event_feed_string_military_navy_founded_description	Сьогодні славний день! Ми заснували новий флот.	true
+event_feed_strings_text_att_event_feed_string_character_trait_gained_description	За роки нелегкого життя ця людина навчилася багато чому - і хорошому, і поганому.	true
+event_feed_strings_text_att_event_feed_string_military_path_blocked_description	Наш шлях перекритий. Треба шукати іншу дорогу.	true
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_secondary_detail	Рівень імперіума: #(faction.fame_level)\\n\\n#(faction.fame_level_description)\\n	true
