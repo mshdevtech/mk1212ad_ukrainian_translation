@@ -1,11 +1,11 @@
 key	text	tooltip
 #Loc;1;text/db/mkscript_scripted_subtitles.loc		
-scripted_subtitles_localised_text_Att.SB.LN.Intro_01	Las Navas de Tolosa, Andalusia, AD 1212	true
-scripted_subtitles_localised_text_Att.SB.LN.Intro_02	The Caliph of the Almohads has launched an invasion into Spain, resulting in the formation a Christian coalition to stop him.	true
-scripted_subtitles_localised_text_Att.SB.LN.Intro_03	After a brief war of manuever, the armies of the Almohads and the Christians have met in the fields of Las Navas de Tolosa.	true
-scripted_subtitles_localised_text_Att.SB.LN.Intro_04	Both sides know that the fate of Spain will be decided in this battle.	true
-scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_01	The Pope has called a crusade for Cairo, calling upon all righteous Catholics to take up the cross.	true
-scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_02	His Holiness hopes that the conquest of Egypt will provide for a staging ground to retake the rest of the Holy Land for Christianity.	true
-scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03	The choice now befalls you: should you participate in the crusade you may gain the Pope's favour and many riches, but sit it out and there may be consequences.	true
-scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Non_Christian	It is expected that the great powers of the Catholic world will take up the cross and unite to invade Egypt.	true
-scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Crusade_Target	As the owner of Cairo, your faction is the target of this crusade. It would be wise to focus your forces on defense, for the crusaders are soon to arrive...	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_01	Лас Навас де Толоса, Андалусія, 1212 рік	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_02	Халіф Альмохадів почав вторгнення в Іспанію, результатом чого стало утворення християнської коаліції, що поставила за мету зупинити його.	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_03	Після нетривалої маневреної війни, армії Альмохадів і християн зустрілися на полях Лас Навас де Толоса.	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_04	Обидві сторони розуміють, що доля Іспанії буде вирішуватися в цій битві.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_01	Папа Римський оголосив початок хрестового походу на Каїр і закликав всіх праведних католицьких християн взяти на себе хрест.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_02	Його Святість сподівається, що підкорення Єгипту послужить початком повернення християнам всієї решти Святої землі.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03	Тепер вам належить зробити вибір. Якщо ви візьмете участь у хрестовому поході, то можете розраховувати на прихильність Папи і здобути величезні багатства, але якщо ви відмовитеся, то це, можливо, спричинить за собою деякі наслідки.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Non_Christian	Очікується, що великі держави християнського світу візьмуть на себе хрест і об'єднаються для вторгнення в Єгипет.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Crusade_Target	Будучи власником Каїра, ваша фракція є метою для цього хрестового походу. Було б розумно зосередити свої сили на обороні, тому що хрестоносці не змусять себе чекати...	true

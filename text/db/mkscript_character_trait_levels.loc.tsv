@@ -1,28 +1,28 @@
 key	text	tooltip
 #Loc;1;text/db/mkscript_character_trait_levels.loc		
-character_trait_levels_colour_text_mk_trait_crusades_crusader_king_1	This character has pledged himself to a crusade as a reigning ruler, fighting and winning at least one battle whilst on crusade.	true
-character_trait_levels_colour_text_mk_trait_crusades_crusader_king_2	This character is a veteran crusader, fighting and winning several battles whilst on crusade as a ruler.	true
-character_trait_levels_colour_text_mk_trait_crusades_crusader_king_3	This character's renown and religious zeal are peerless, as they have fought and won a great many battles whilst on crusade as a ruler.	true
-character_trait_levels_colour_text_mk_trait_bubonic_plague	This unfortunate soul is stricken with the Black Death, assuredly a death sentence.	true
-character_trait_levels_colour_text_mk_trait_crusades_crusader_1	This character has pledged himself to a crusade, fighting and winning at least one battle whilst on crusade.	true
-character_trait_levels_colour_text_mk_trait_crusades_crusader_2	This character is a veteran crusader, fighting and winning several battles whilst on crusade.	true
-character_trait_levels_colour_text_mk_trait_crusades_crusader_3	This character's renown and religious zeal are peerless, as they have fought and won a great many battles whilst on crusade.	true
-character_trait_levels_colour_text_mk_trait_crusades_mujahid_1	This character has answered the call to defend against a crusade, fighting and winning at least one battle against the crusaders.	true
-character_trait_levels_colour_text_mk_trait_crusades_mujahid_2	This character is a veteran mujahid, fighting and winning several battles against the crusaders.	true
-character_trait_levels_colour_text_mk_trait_crusades_mujahid_3	This character's renown and religious zeal are peerless, as they have fought and won a great many battles against the crusaders.	true
-character_trait_levels_onscreen_name_mk_trait_bubonic_plague	The Black Death	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_1	Crusader	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_2	Veteran Crusader	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_3	Legendary Crusader	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_1	Crusader King	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_2	Veteran Crusader King	true
-character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_3	Legendary Crusader King	true
-character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_1	Mujahid	true
-character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_2	Veteran Mujahid	true
-character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_3	Legendary Mujahid	true
-character_trait_levels_colour_text_mk_trait_old_1	This character has lived a long while.	true
-character_trait_levels_onscreen_name_mk_trait_old_1	Aged	true
-character_trait_levels_colour_text_mk_trait_old_2	This character has lived a long while.	true
-character_trait_levels_onscreen_name_mk_trait_old_2	Old	true
-character_trait_levels_colour_text_mk_trait_old_3	This character has lived a long while.	true
-character_trait_levels_onscreen_name_mk_trait_old_3	Elder	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_king_1	Цей чоловік, будучи правителем, дав обіцянку відправитися в хрестовий похід, здобувши в ньому перемогу принаймні в одній битві.	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_king_2	Ця людина - ветеран хрестового походу, який здобув у ньому, будучи правителем, перемогу в декількох битвах.	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_king_3	Слава і релігійне завзяття цієї людини справді вражають, адже він, будучи правителем, здобув у хрестовому поході перемогу в безлічі битв.	true
+character_trait_levels_colour_text_mk_trait_bubonic_plague	Ця нещасна душа вражена Чорною смертю, що, безсумнівно, є для неї смертним вироком.	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_1	Ця людина дала обіцянку вирушити в хрестовий похід, здобувши в ньому перемогу принаймні в одній битві.	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_2	Ця людина - ветеран хрестового походу, який здобув у ньому перемогу в декількох битвах.	true
+character_trait_levels_colour_text_mk_trait_crusades_crusader_3	Слава і релігійне завзяття цієї людини справді вражають, адже вона здобула в хрестовому поході перемогу в безлічі битв.	true
+character_trait_levels_colour_text_mk_trait_crusades_mujahid_1	Ця людина відповіла на заклик стати на захист проти хрестоносців, здобувши над ними перемогу принаймні в одній битві.	true
+character_trait_levels_colour_text_mk_trait_crusades_mujahid_2	Ця людина - досвідчений муджахід, який здобув перемогу над хрестоносцями в декількох битвах.	true
+character_trait_levels_colour_text_mk_trait_crusades_mujahid_3	Слава і релігійне завзяття цієї людини справді вражають, адже він здобув перемогу над хрестоносцями в безлічі битв.	true
+character_trait_levels_onscreen_name_mk_trait_bubonic_plague	Чорна смерть	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_1	Хрестоносець	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_2	Хрестоносець-ветеран	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_3	Прославлений хрестоносець	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_1	Король-хрестоносець	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_2	Досвідчений король-хрестоносець	true
+character_trait_levels_onscreen_name_mk_trait_crusades_crusader_king_3	Прославлений король-хрестоносець	true
+character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_1	Муджахід	true
+character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_2	Досвідчений муджахід	true
+character_trait_levels_onscreen_name_mk_trait_crusades_mujahid_3	Прославлений муджахід	true
+character_trait_levels_colour_text_mk_trait_old_1	Ця людина прожила чимало років.	true
+character_trait_levels_onscreen_name_mk_trait_old_1	Похилого віку	true
+character_trait_levels_colour_text_mk_trait_old_2	Ця людина прожила чимало років.	true
+character_trait_levels_onscreen_name_mk_trait_old_2	Літній	true
+character_trait_levels_colour_text_mk_trait_old_3	Ця людина прожила чимало років.	true
+character_trait_levels_onscreen_name_mk_trait_old_3	Старець	true

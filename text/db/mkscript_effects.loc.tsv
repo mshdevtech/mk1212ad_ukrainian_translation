@@ -1,32 +1,32 @@
 key	text	tooltip
 #Loc;1;text/db/mkscript_effects.loc		
-effects_description_mk_effect_byzantium_formed	The Byzantine Empire is formed!	true
-effects_description_mk_effect_dummy_magna_carta_parliament	A council of nobles now meets to discuss matters of state.	true
-effects_description_mk_effect_pope_bonus	%+n diplomatic relations with Catholic factions	true
-effects_description_mk_effect_ilkhanate_formed	The Ilkhanate is formed!	true
-effects_description_mk_effect_golden_horde_formed	The Golden Horde is formed!	true
-effects_description_mk_effect_poland_formed	The Kingdom of Poland is formed!	true
-effects_description_mk_effect_spain_formed	The Kingdom of Spain is formed!	true
-effects_description_mk_effect_hungary_cumans_recruitable	Cuman units are now recruitable for your faction!	true
-effects_description_mk_effect_public_order_pope	Public order: %+n from excommunication.	true
-effects_description_mk_effect_force_morale_versus_catholics	Morale: %+n when fighting Catholic factions	true
-effects_description_mk_effect_force_morale_versus_noncatholics	Morale: %+n when fighting non-Catholic factions	true
-effects_description_mk_effect_dummy_bubonic_plague	This character may soon succumb to the Plague.	true
-effects_description_mk_effect_greek_fire_ammo_loss	Ammunition: %+n% for Greek Fire units.	true
-effects_description_mk_effect_dummy_population_nobles	Nobility:\\nManpower	true
-effects_description_mk_effect_dummy_population_artisans	Artisans:\\nManpower	true
-effects_description_mk_effect_dummy_population_peasants	Peasantry:\\nManpower	true
-effects_description_mk_effect_dummy_population_foreigners	Foreigners:\\nManpower	true
-effects_description_mk_effect_dummy_population_tribesmen	Tribesmen:\\nManpower	true
-effects_description_mk_effect_dummy_hre_reform_electors	The Prince-electors are established, limiting elections to 7 voting factions.	true
-effects_description_mk_effect_dummy_hre_reform_abolish_elections	Elections are abolished.	true
-effects_description_mk_effect_dummy_hre_reform_no_war	Factions in the Holy Roman Empire can no longer declare war on each other.	true
-effects_description_mk_effect_dummy_hre_reform_inheritance	The emperorship is now always inherited by the emperor's faction.	true
-effects_description_mk_effect_dummy_hre_reform_unite	The Holy Roman Empire is united into one faction!	true
-effects_description_mk_effect_dummy_hre_imperial_authority	Imperial Authority Growth: %+n%	true
-effects_description_mk_effect_dummy_pope_crusades_enable_recruitment	Enables the recruitment of crusaders in majority-Catholic regions.	true
-effects_description_mk_effect_pretender_no_desertion	Desertion attrition is disabled.	true
-effects_description_mk_effect_general_religious_ibadi_islam_unrest	Public order: Up to %+n bonus from presence of Ibadi Islam	true
-effects_description_mk_effect_general_religious_shia_islam_unrest	Public order: Up to %+n bonus from presence of Shia Islam	true
-effects_description_mk_effect_islam_bonus	%+n diplomatic relations with Islamic factions	true
-effects_description_mk_effect_general_religious_sunni_islam_unrest	Public order: Up to %+n bonus from presence of Sunni Islam	true
+effects_description_mk_effect_byzantium_formed	Заснована Візантійська імперія!	true
+effects_description_mk_effect_dummy_magna_carta_parliament	Тепер для обговорення державних справ збирається рада дворянства.	true
+effects_description_mk_effect_pope_bonus	Дип. ставлення: %+n з католицькими фракціями	true
+effects_description_mk_effect_ilkhanate_formed	Засновано Ільханат!	true
+effects_description_mk_effect_golden_horde_formed	Заснована Золота Орда!	true
+effects_description_mk_effect_poland_formed	Засновано Королівство Польське!	true
+effects_description_mk_effect_spain_formed	Засновано Королівство Іспанія!	true
+effects_description_mk_effect_hungary_cumans_recruitable	Половецькі загони тепер доступні для найму вашої фракції!	true
+effects_description_mk_effect_public_order_pope	Громадський порядок: %+n після відлучення від церкви.	true
+effects_description_mk_effect_force_morale_versus_catholics	Бойовий дух: %+n в боях з католицькими фракціями	true
+effects_description_mk_effect_force_morale_versus_noncatholics	Бойовий дух: %+n в боях з усіма фракціями, крім католицьких	true
+effects_description_mk_effect_dummy_bubonic_plague	Цей персонаж може незабаром померти від чуми.	true
+effects_description_mk_effect_greek_fire_ammo_loss	Боєприпаси: %+n% для загонів з грецьким вогнем	true
+effects_description_mk_effect_dummy_population_nobles	Знать:\\nлюдей	true
+effects_description_mk_effect_dummy_population_artisans	Ремісники:\\nлюдей	true
+effects_description_mk_effect_dummy_population_peasants	Селяни:\\nлюдей	true
+effects_description_mk_effect_dummy_population_foreigners	Іноземці:\\nлюдей	true
+effects_description_mk_effect_dummy_population_tribesmen	Тубільці:\\nлюдей	true
+effects_description_mk_effect_dummy_hre_reform_electors	Призначено курфюрстів, що обмежує до 7 кількість голосуючих фракцій.	true
+effects_description_mk_effect_dummy_hre_reform_abolish_elections	Вибори скасовані.	true
+effects_description_mk_effect_dummy_hre_reform_no_war	Фракції в Священній Римській імперії більше не можуть оголошувати одна одній війну.	true
+effects_description_mk_effect_dummy_hre_reform_inheritance	Титул імператора тепер успадковується членом сім'ї тільки з фракції імператора.	true
+effects_description_mk_effect_dummy_hre_reform_unite	Священна Римська імперія стає єдиною фракцією!	true
+effects_description_mk_effect_dummy_hre_imperial_authority	Зростання імперської влади: %+n%	true
+effects_description_mk_effect_dummy_pope_crusades_enable_recruitment	Можливість найму загонів хрестоносців у католицьких регіонах.	true
+effects_description_mk_effect_pretender_no_desertion	Відсутність втрат через дезертирство.	true
+effects_description_mk_effect_general_religious_ibadi_islam_unrest	Загальний порядок: до %+n від наявності мусульман-ібадитів	true
+effects_description_mk_effect_general_religious_shia_islam_unrest	Загальний порядок: до %+n від наявності мусульман-шиїтів	true
+effects_description_mk_effect_islam_bonus	Дипломатичні відносини: %+n з мусульманськими фракціями	true
+effects_description_mk_effect_general_religious_sunni_islam_unrest	Загальний порядок: до %+n від наявності мусульман-сунітів	true
