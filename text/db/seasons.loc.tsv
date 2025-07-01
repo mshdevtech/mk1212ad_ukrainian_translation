@@ -1,6 +1,6 @@
 key	text	tooltip
 #Loc;1;text/db/seasons.loc		
-seasons_onscreen_none	Жоден	true
+seasons_onscreen_none	Ні	true
 seasons_onscreen_season_spring	Весна	true
 seasons_onscreen_season_summer	Літо	true
 seasons_onscreen_season_winter	Зима	true

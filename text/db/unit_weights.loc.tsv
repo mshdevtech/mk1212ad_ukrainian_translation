@@ -1,8 +1,8 @@
 key	text	tooltip
 #Loc;1;text/db/unit_weights.loc		
-unit_weights_onscreen_text_very_light	Very Light	true
-unit_weights_onscreen_text_very_heavy	Very Heavy	true
-unit_weights_onscreen_text_medium	Medium	true
-unit_weights_onscreen_text_light	Light	true
-unit_weights_onscreen_text_super_heavy	Super Heavy	true
-unit_weights_onscreen_text_heavy	Heavy	true
+unit_weights_onscreen_text_very_light	Дуже легк.	true
+unit_weights_onscreen_text_very_heavy	Дуже важк.	true
+unit_weights_onscreen_text_medium	Середн.	true
+unit_weights_onscreen_text_light	Легк.	true
+unit_weights_onscreen_text_super_heavy	Надзвичайно важк.	true
+unit_weights_onscreen_text_heavy	Важк.	true

@@ -1,66 +1,66 @@
 key	text	tooltip
 #Loc;1;text/db/scripted_objectives.loc		
-scripted_objectives_localised_text_Att.HB.Ravenna.Objective_01	Defend Ravenna from the siege.	true
-scripted_objectives_localised_text_Att.HB.Huns.Objective_01	Defeat the Hunnic army.	true
-scripted_objectives_localised_text_Att.HB.Vandals.Objective_01	Defeat the Vandal army.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_180	Open the Faction panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_181	Switch to the Summary tab.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_182	Start a migration.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_160	Select Apulum.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_161	Open the Recruit Agent panel to browse the available agents.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_162	Recruit a Scout.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_174	Close the Diplomacy panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_170	Enter the Diplomacy panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_171	Initiate diplomacy with the Western Roman Empire.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_172	Submit a request for a trade agreement.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_140	Accept or reject the Ostrogothic proposal.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_150	Open the Faction panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_120	Select a Visigothic army.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_121	Browse the available stances.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_130	Open the Strategic Overview map.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_100	Select your army.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_101	Open the Force Details panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_102	Spend your available skill points.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_110	Add Siege Equipment to the construction queue.	true
-scripted_objectives_localised_text_Att.HB.RomanNavy.Objective_01	Defeat the Roman navy.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_92	Choose and appoint a general.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_90	Select a controlled settlement.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_91	Open the Raise Forces panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_80	Expand the settlement by adding another building slot.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_32	Open the General Details panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_33	Spend the General's available skill points.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_30	Loot & Occupy Petrodava.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_31	Select your general.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_20	Open the Mercenaries panel and inspect the available list.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_14	Inspect the Objectives panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_12	Recruit some more units	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_13	Start researching a technology	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_10	End the turn	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_11	Select Olbia to open the Province panel	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_06	Recruit some units	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_07	Left-click on Olbia to select it	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_05	Open the Recruitment panel	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_02	Select the Visigothic army	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_03	Right-click on Olbia to move the army there	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_01	Examine the positions of importance	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_08	Upgrade Olbia's primary building	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_09	Repair the Workshop in Olbia	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_70	Close the Province Details panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_71	Have your governor issue an edict in Dacia.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_62	Select the portrait of a suitable noble or family member to promote.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_63	Left-click on the governorship of Dacia to appoint him there.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_60	Open the Province Details panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_61	Enter the Family Tree panel to appoint a governor.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_50	Open the Trade & Finance panel.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_51	Reduce the tax rate.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_40	Select Petrodava.	true
-scripted_objectives_localised_text_Att.Pro.Camp.Objective_41	Inspect the Province Details panel.	true
-scripted_objectives_localised_text_Att.Adrianople_Loading_Screen_Override	The Battle of Adrianople will be contested with the armies and setup from the real battle in antiquity. Prepare yourself!	true
-scripted_objectives_localised_text_Att.HB.Soissons.Objective_01	Defeat the Soisson army.	true
-scripted_objectives_localised_text_Att.Pro.Olbia.Objective_05	Land the reinforcements on shore.	true
-scripted_objectives_localised_text_Att.Pro.Olbia.Objective_04	Defend Olbia from attack.	true
-scripted_objectives_localised_text_Att.Pro.Olbia.Objective_01	Inspect the points of tactical interest	true
-scripted_objectives_localised_text_Att.Pro.Olbia.Objective_03	Defeat the Ostrogoths in battle.	true
-scripted_objectives_localised_text_Att.Pro.Olbia.Objective_02	Move the town defenders forwards.	true
-scripted_objectives_localised_text_Att.HB.WestRome.Objective_01	Defeat the Western Roman army.	true
-scripted_objectives_localised_text_Att.HB.EastRome.Objective_01	Defeat the Eastern Roman army.	true
+scripted_objectives_localised_text_Att.HB.Ravenna.Objective_01	Захищайте Равенну від обложних військ.	true
+scripted_objectives_localised_text_Att.HB.Huns.Objective_01	Переможіть гунську армію.	true
+scripted_objectives_localised_text_Att.HB.Vandals.Objective_01	Переможіть вандальську армію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_180	Відкрийте вікно фракції.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_181	Перейдіть на вкладку «Звіт».	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_182	Почніть переселення.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_160	Виберіть Апулу.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_161	Відкривши вікно найму агента, ви побачите список всіх доступних персонажів цього типу.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_162	Найміть розвідника.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_174	Закрийте вікно дипломатії.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_170	Відкрийте вікно дипломатії.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_171	Почніть дипломатичні переговори із Західною Римською імперією.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_172	Запропонуйте укласти торговельну угоду.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_140	Прийміть або відхиліть пропозицію остготів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_150	Відкрийте вікно фракції.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_120	Виберіть армію вестготів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_121	Перегляньте доступні режими.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_130	Відкрийте стратегічну оглядову мапу.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_100	Виберіть свою армію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_101	Відкрийте вікно відомостей про армію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_102	Розподіліть доступні очки навичок.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_110	Додайте облогові машини в чергу будівництва.	true
+scripted_objectives_localised_text_Att.HB.RomanNavy.Objective_01	Переможіть римський флот.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_92	Виберіть і призначте полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_90	Виберіть підконтрольне вам поселення.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_91	Відкрийте вікно збору війська.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_80	Розширте поселення, додавши ще одну комірку для будівництва.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_32	Відкрийте вікно інформації про полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_33	Розподіліть очки навичок свого полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_30	Розграбуйте і окупуйте Петродаву.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_31	Виберіть свого полководця.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_20	Відкрийте вікно найманців і перегляньте список доступних військ.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_14	Вивчіть вікно завдань.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_12	Найміть більше загонів	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_13	Почніть дослідження технології	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_10	Завершіть хід	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_11	Виберіть Ольвію, щоб відкрити вікно провінції	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_06	Найміть війська	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_07	Виберіть Ольвію, клацнувши по ній правою кнопкою миші	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_05	Відкрийте вікно найму військ	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_02	Виберіть армію вестготів	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_03	Клацніть правою кнопкою миші на Ольвії, щоб відправити туди армію	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_01	Розвідайте важливі позиції	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_08	Покращіть головну будівлю Ольвії	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_09	Відремонтуйте майстерню в Ольвії	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_70	Закрийте вікно відомостей про провінцію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_71	Накажіть губернатору Дакії видати едикт.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_62	Виберіть портрет підхожого представника знаті або члена сім'ї.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_63	Клацніть на посаду губернатора Дакії, щоб призначити персонажа на цю посаду.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_60	Відкрийте вікно відомостей про провінцію.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_61	Відкрийте вкладку «Сім'я», щоб призначити губернатора.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_50	Відкрийте вікно торгівлі та фінансів.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_51	Зменшіть податкову ставку.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_40	Виберіть Петродаву.	true
+scripted_objectives_localised_text_Att.Pro.Camp.Objective_41	Вивчіть вікно відомостей про провінцію.	true
+scripted_objectives_localised_text_Att.Adrianople_Loading_Screen_Override	Співвідношення сил і умови відповідають тим, що склалися в дійсності перед початком битви біля Адріанополя. Готуйтеся до бою!	true
+scripted_objectives_localised_text_Att.HB.Soissons.Objective_01	Переможіть суассонську армію.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_05	Висадіть підкріплення на берег.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_04	Захищайте Ольвію від нападу.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_01	Огляньте тактично важливі точки	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_03	Переможіть остготів у битві.	true
+scripted_objectives_localised_text_Att.Pro.Olbia.Objective_02	Накажіть захисникам вийти вперед.	true
+scripted_objectives_localised_text_Att.HB.WestRome.Objective_01	Переможіть західноримську армію.	true
+scripted_objectives_localised_text_Att.HB.EastRome.Objective_01	Переможіть східноримську армію.	true

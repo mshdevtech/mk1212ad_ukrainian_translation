@@ -1,13 +1,13 @@
 key	text	tooltip
 #Loc;1;text/db/settlement_occupation_options.loc		
-settlement_occupation_options_tooltip_occupation_decision_resettle	Resettle||As a migrating horde, the option is now yours to settle your army down in this settlement and cease migration.	true
-settlement_occupation_options_tooltip_occupation_decision_colonise	Colonise||Settle down soldiers.	true
-settlement_occupation_options_tooltip_occupation_decision_liberate	Liberate||You return the original owners of this region to power, resurrecting their faction. All captives are released.||They will be immensely grateful for this.	true
-settlement_occupation_options_tooltip_occupation_decision_do_nothing	Do nothing	true
-settlement_occupation_options_tooltip_occupation_decision_raze_without_occupy	Raze||All buildings are destroyed and the settlement is torched.	true
-settlement_occupation_options_tooltip_occupation_decision_gift_to_another_faction	Reclaim||Reclaim this region for the Empire! Restored to its former glory, Rome will dominate for another thousand years!||You hand control of this region to the Roman Empire.	true
-settlement_occupation_options_tooltip_occupation_decision_vassal	Subjugate||The conquered faction will become a vassal of yours.	true
-settlement_occupation_options_tooltip_occupation_decision_raze	Raze||All destructible buildings in the settlement are destroyed and no treasure are taken. All captives are killed.||Public order is reduced and the previous owner will hate you.	true
-settlement_occupation_options_tooltip_occupation_decision_occupy	Occupy||You peacefully occupy the settlement and all captives are released.	true
-settlement_occupation_options_tooltip_occupation_decision_loot	Loot & Occupy||You gain money from looting, but buildings in the settlement are damaged. All captives are enslaved.|| Public order is greatly reduced and your diplomatic relations with the previous owner also suffer greatly.	true
-settlement_occupation_options_tooltip_occupation_decision_sack	Sack||You do not capture the settlement but steal treasures and damage buildings. All captives are killed.||Public order is reduced and the previous owners will like you a lot less.	true
+settlement_occupation_options_tooltip_occupation_decision_resettle	Оселитися||Вибравши цей пункт, ви накажете своїй орді оселитися в цьому поселенні і завершити міграцію.	true
+settlement_occupation_options_tooltip_occupation_decision_colonise	Колонізувати||Поселити солдатів.	true
+settlement_occupation_options_tooltip_occupation_decision_liberate	Звільнити||Ви повертаєте регіон початковим власникам, таким чином відроджуючи їх фракцію. Всі полонені будуть відпущені.||Вони будуть безмежно вдячні вам за це.	true
+settlement_occupation_options_tooltip_occupation_decision_do_nothing	Не робити нічого	true
+settlement_occupation_options_tooltip_occupation_decision_raze_without_occupy	Зруйнувати||Всі споруди в поселенні будуть зруйновані, а їх руїни - спалені.	true
+settlement_occupation_options_tooltip_occupation_decision_gift_to_another_faction	Повернути||Повернення регіону до складу імперії. Нехай Рим поверне колишню славу і буде правити ще тисячу років!||Ви передасте контроль над цим регіоном Римській імперії.	true
+settlement_occupation_options_tooltip_occupation_decision_vassal	Підкорити||Завойована фракція стане вашим васалом.	true
+settlement_occupation_options_tooltip_occupation_decision_raze	Руйнування||Всі споруди в поселенні, які можна зруйнувати, були знесені. Ви не отримали ніякої здобичі. Всі полонені вбиті.||Громадський порядок істотно погіршився, а колишній власник поселення вас ненавидить.	true
+settlement_occupation_options_tooltip_occupation_decision_occupy	Окупувати||Ви мирно займете поселення і відпустите всіх полонених.	true
+settlement_occupation_options_tooltip_occupation_decision_loot	Розграбувати і окупувати||В результаті розграбування ви отримаєте гроші, але будівлі в цьому поселенні будуть пошкоджені. Всі полонені будуть обернені в рабство.||Громадський порядок істотно погіршиться. Дипломатичні відносини з колишнім власником цих земель сильно постраждають.	true
+settlement_occupation_options_tooltip_occupation_decision_sack	Розорити||Ви не захопите поселення, але заберете з нього здобич і пошкодите будівлі. Всі полонені будуть вбиті.||Громадський порядок погіршиться, ставлення колишніх власників поселення до вас сильно погіршиться.	true
