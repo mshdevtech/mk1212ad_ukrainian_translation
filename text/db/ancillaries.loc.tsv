@@ -47,7 +47,7 @@ ancillaries_onscreen_name_att_sp_apparel_priest_solar_wheel_amulet	Солярн�
 ancillaries_colour_text_att_sp_companion_general_sagittarius_slavs	Навички, отримані на арені, знадобляться і в битві.	true
 ancillaries_colour_text_att_sp_apparel_general_druids_cloak	Білий колір символізує чистоту, а плями бруду нагадують, де я спав сьогодні вночі.	true
 ancillaries_onscreen_name_att_sp_apparel_general_mani_codex	Кодекс Мані	true
-ancillaries_colour_text_att_sp_companion_general_artillerist_slavs	Хороша робота далекобійних машин - найкращий аргумент для противника. Безвідмовний.	true
+ancillaries_colour_text_att_sp_companion_general_artillerist_slavs	Добра робота далекобійних машин - найкращий аргумент для противника. Безвідмовний.	true
 ancillaries_colour_text_att_cha_item_avar_general_skullcup	Не бачу нічого поганого в тому, щоб пити з неї. А ти?	true
 ancillaries_colour_text_att_sp_companion_general_arian_deacon	Я проповідую Слово Боже!	true
 ancillaries_onscreen_name_mk_item_all_general_fighting_target	Тренувальна мішень	true
@@ -623,7 +623,7 @@ ancillaries_colour_text_att_sp_companion_general_woodworker	Урієнс, нав
 ancillaries_onscreen_name_att_sp_companion_priest_priestess_of_freyja	Жриця Фрейї	true
 ancillaries_colour_text_att_cel_anc_barbarian_item_fish_sauce	Це ж тухла риба! І вони називають нас варварами!	true
 ancillaries_onscreen_name_att_cha_companion_all_general_arab_turncoat	Арабський перебіжчик	true
-ancillaries_colour_text_att_sp_apparel_general_superior_lorica_hamata	Хороший обладунок - ознака розсудливості воїна.	true
+ancillaries_colour_text_att_sp_apparel_general_superior_lorica_hamata	Добрий обладунок - ознака розсудливості воїна.	true
 ancillaries_colour_text_att_sp_item_priest_box_of_ash	Ви створені з пороху і в порох повернетеся.	true
 ancillaries_onscreen_name_att_sp_apparel_priest_greco_roman_sacrificial_robes	Одяг жерця	true
 ancillaries_onscreen_name_att_sp_item_general_drinking_horn	Ріг для пиття	true
@@ -681,7 +681,7 @@ ancillaries_colour_text_mk_item_all_spy_well_groomed_horse	Цей кінь... д
 ancillaries_colour_text_att_sp_item_veteran_verutum	Ви бачили, щоб борсук метав спис?	true
 ancillaries_colour_text_att_sp_companion_priest_orthodox_presbyter	Старість не заважає вчити.	true
 ancillaries_onscreen_name_mk_companion_all_admiral_shipwright_east	Корабел	true
-ancillaries_colour_text_att_sp_item_general_legionary_patera	Хороший командир розділяє зі своїми солдатами їхні тяготи і чесну просту їжу.	true
+ancillaries_colour_text_att_sp_item_general_legionary_patera	Добрий командир розділяє зі своїми солдатами їхні тяготи і чесну просту їжу.	true
 ancillaries_onscreen_name_att_sp_companion_general_navigator	Навігатор	true
 ancillaries_colour_text_att_sp_apparel_veteran_raiders_helm	Не дає волоссю загорітися.	true
 ancillaries_colour_text_att_cel_anc_barbarian_companion_astronomer	Це світило точно змінило положення. Минулого місяця воно було там... Хм, є ідея...	true
@@ -1014,7 +1014,7 @@ ancillaries_onscreen_name_att_sp_apparel_priest_mani_codex	Кодекс Мані
 ancillaries_onscreen_name_att_sp_item_general_curse_tablet	Табличка з прокляттям	true
 ancillaries_colour_text_att_sp_item_general_alpha_and_omega_fibulae	Я є Альфа і Омега, Перший і Останній, початок і кінець...	true
 ancillaries_onscreen_name_att_sp_item_general_sica	Сіка	true
-ancillaries_colour_text_att_sp_companion_spy_zealot	Хороший ворог - мертвий ворог.	true
+ancillaries_colour_text_att_sp_companion_spy_zealot	Добрий ворог - мертвий ворог.	true
 ancillaries_onscreen_name_att_sp_item_priest_fragment_of_scripture	Фрагмент рукопису	true
 ancillaries_colour_text_att_sp_apparel_general_face_covering	Коли риєш підкоп, треба бути готовим до будь-яких несподіванок.	true
 ancillaries_colour_text_att_sp_companion_veteran_diobolaria	Я дружина воєначальника. Тому я і подобаюся його воїнам.	true
@@ -1036,7 +1036,7 @@ ancillaries_onscreen_name_att_cel_anc_barbarian_item_potion_sleeping	Сноді�
 ancillaries_onscreen_name_att_sp_item_priest_crux_pectoralis	Натільний хрест	true
 ancillaries_onscreen_name_att_sp_apparel_general_orthodox_episcopal_gloves	Рукавички православного єпископа	true
 ancillaries_onscreen_name_att_cel_anc_barbarian_item_heart	Висушене серце	true
-ancillaries_colour_text_mk_item_eastern_general_recurve_bow	Улюблена зброя степовиків з доволі високим уроном як на свої розміри.	true
+ancillaries_colour_text_mk_item_eastern_general_recurve_bow	Улюблена зброя степовиків з доволі високою шкодою як на свої розміри.	true
 ancillaries_onscreen_name_att_sp_item_general_pugio	Пугіо	true
 ancillaries_colour_text_att_companion_barbarian_outlander_educated_weakling	Я вмію читати і писати мовою культурних міських жителів.	true
 ancillaries_colour_text_att_sp_companion_general_navigator	Хто вірно читає зірки і розбирається в припливах і вітрах, той володіє світом.	true
@@ -1146,7 +1146,7 @@ ancillaries_colour_text_att_sp_apparel_general_zeira	Приголомшливо!
 ancillaries_onscreen_name_mk_companion_all_general_indian_khandayat	Індійський кхандаїт	true
 ancillaries_onscreen_name_att_sp_apparel_general_arian_ecclesiastical_ring	Перстень аріанського проповідника	true
 ancillaries_onscreen_name_att_sp_companion_priest_pyraethi	Жрець вогню	true
-ancillaries_colour_text_att_sp_companion_general_artillerist	Хороша робота далекобійних машин - найкращий аргумент для противника. Безвідмовний.	true
+ancillaries_colour_text_att_sp_companion_general_artillerist	Добра робота далекобійних машин - найкращий аргумент для противника. Безвідмовний.	true
 ancillaries_colour_text_att_sp_companion_general_battlefield_runner	Накази слід передавати швидко.	true
 ancillaries_colour_text_att_item_barbarian_chainmail_shirt	Ну, спробуй, вдар мене! Споримо, не зможеш?	true
 ancillaries_colour_text_att_sp_companion_spy_wagon	Їхати швидше, ніж йти. А ще зручніше, особливо якщо лежати на м'якому сіні.	true
@@ -1879,7 +1879,7 @@ ancillaries_colour_text_att_cha_companion_barbarian_german_heroic_axeman	Дро�
 ancillaries_onscreen_name_att_sp_apparel_general_cheires	Наручні пластини	true
 ancillaries_colour_text_att_sp_apparel_veteran_bed_roll	Він дозволяє спати де завгодно!	true
 ancillaries_colour_text_att_sp_apparel_general_beaded_trousers	Своє багатство краще тримати при собі.	true
-ancillaries_colour_text_att_sp_apparel_general_superior_lorica_squamata	Хороші обладунки - не ознака боягузтва. Мертві битв не виграють.	true
+ancillaries_colour_text_att_sp_apparel_general_superior_lorica_squamata	Добрі обладунки - не ознака боягузтва. Мертві битв не виграють.	true
 ancillaries_colour_text_att_sp_item_general_equipment_contract	Бийся за Рим, і Рим озброїть тебе.	true
 ancillaries_onscreen_name_att_cha_item_faction_leader_frankish_relic_diadem_constantine	Залізна корона	true
 ancillaries_colour_text_att_sp_companion_general_ancient_warrior	Шістдесят зим тому я думав так само, як ти, молокопий! Бийся не тільки мечем, а й головою!	true
@@ -1996,7 +1996,7 @@ ancillaries_onscreen_name_att_sp_item_veteran_rusty_blade	Іржавий меч	
 ancillaries_colour_text_att_sp_apparel_veteran_generals_disguise	Гей, солдате, досить байдикувати! Іди і приведи себе до ладу!	true
 ancillaries_colour_text_att_eos_anc_companion_eastern_poisoner	У палацах Сходу отруєння зведено в ранг мистецтва.	true
 ancillaries_onscreen_name_att_sp_item_general_weighted_practice_shield	Важкий тренувальний щит	true
-ancillaries_colour_text_att_sp_companion_general_farming_expert	Хороша земля і хороші працівники - запорука хорошого доходу!	true
+ancillaries_colour_text_att_sp_companion_general_farming_expert	Добра земля і хороші працівники - запорука хорошого доходу!	true
 ancillaries_onscreen_name_att_cel_anc_barbarian_item_war_helmet	Бойовий шолом	true
 ancillaries_onscreen_name_att_sp_item_general_odins_bow	Лук Одіна	true
 ancillaries_onscreen_name_att_sp_item_general_shamshir	Шамшир	true
@@ -2233,7 +2233,7 @@ ancillaries_colour_text_att_sp_item_veteran_kopis	Власнику такого 
 ancillaries_colour_text_att_eos_anc_item_eastern_inscribed_armlet	На зап'ясті моєї руки, що стискає меч, викарбувано ім'я моєї коханої.	true
 ancillaries_onscreen_name_att_sp_companion_general_doctor	Лікар	true
 ancillaries_colour_text_att_sp_item_veteran_kylix	Той, хто по-справжньому любить випити, завжди повинен пам'ятати, де стоїть його улюблений кубок.	true
-ancillaries_colour_text_att_sp_item_general_pugio	Хороший колючий удар майже завжди смертельний.	true
+ancillaries_colour_text_att_sp_item_general_pugio	Добрий колючий удар майже завжди смертельний.	true
 ancillaries_onscreen_name_att_sp_apparel_general_shackles	Кайдани	true
 ancillaries_colour_text_att_sp_item_general_calix	Ще вина?	true
 ancillaries_onscreen_name_att_sp_companion_priest_bozkurt	Бозкурт	true
