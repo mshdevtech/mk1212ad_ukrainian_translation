@@ -194,7 +194,7 @@ factions_clan_summary_name_mk_fact_uyunids	placeholder	true
 factions_senator_text_gain_n_mk_fact_silesia	Підтримка сенаторів: +%n	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_antioch	%n з %n сенаторів	true
 factions_screen_name_when_rebels_mk_fact_separatists_turks	Туркоманські бунтівники	true
-factions_screen_adjective_mk2_fact_wallachia	Валахи	true
+factions_screen_adjective_mk2_fact_wallachia	Волохи	true
 factions_senator_text_gain_n_mk_fact_england	Підтримка сенаторів: +%n	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_castile	%n з %n сенаторів	true
 factions_senator_text_gain_n_mk_fact_separatists_jerusalem	Підтримка сенаторів: +%n	true
@@ -1651,7 +1651,7 @@ factions_defend_desc_cha_fact_separatist_gallician_cw	На вас напали �
 factions_screen_name_when_rebels_mk_fact_rebels_dutch	Данські бунтівники	true
 factions_senator_text_lose_n_mk_fact_konstanz	Підтримка знаті: -%n	true
 factions_senator_text_n_out_of_n_mk_fact_leon	%n з %n сенаторів	true
-factions_screen_name_when_rebels_mk_fact_rebels_vlach	Валашські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_rebels_vlach	Волоські бунтівники	true
 factions_senator_text_gain_1_mk_fact_armenia	Підтримка сенаторів: +%n	true
 factions_senator_text_gain_1_mk_fact_croatia	Підтримка сенаторів: +%n	true
 factions_screen_name_cha_fact_spoleto	Сполетське герцогство	true
@@ -3097,7 +3097,7 @@ factions_attack_desc_mk_fact_mentese	Ви напали на бейлик Мен�
 factions_clan_summary_name_att_fact_vandali	placeholder	true
 factions_screen_name_when_rebels_mk_fact_separatists_ireland	Ірландські бунтівники	true
 factions_defend_desc_mk_fact_bavaria	На вас напало герцогство Баварія!	true
-factions_screen_name_mk2_fact_separatists_wallachia	Валашські самозванці	true
+factions_screen_name_mk2_fact_separatists_wallachia	Волоські самозванці	true
 factions_clan_summary_name_att_fact_gaetuli	placeholder	true
 factions_attack_desc_mk_fact_granada	Ви напали на Гранадський емірат!	true
 factions_screen_name_when_rebels_mk_fact_separatists_polotsk	Полоцькі бунтівники	true
@@ -3223,7 +3223,7 @@ factions_senator_text_n_out_of_n_att_fact_alamanni	%n з %n вождів	true
 factions_screen_name_when_shogun_cha_fact_barcelona	placeholder	true
 factions_attack_desc_mk_fact_makuria	Ви напали на царство Мукурра!	true
 factions_screen_name_when_rebels_bel_fact_burgundii	Бургундські бунтівники	true
-factions_attack_desc_mk_fact_separatists_wallachia	Ви напали на валашських самозванців!	true
+factions_attack_desc_mk_fact_separatists_wallachia	Ви напали на волоських самозванців!	true
 factions_clan_summary_name_cha_fact_bohemia	placeholder	true
 factions_screen_name_when_shogun_mk2_fact_austria	placeholder	true
 factions_screen_name_when_shogun_mk2_fact_brabant	placeholder	true
@@ -3476,7 +3476,7 @@ factions_clan_summary_name_when_shogun_mk_fact_separatists_nuremberg	placeholder
 factions_screen_name_when_rebels_mk_fact_separatists_bohemia	Богемські бунтівники	true
 factions_screen_adjective_mk_fact_smolensk	Смоляни	true
 factions_screen_name_mk_fact_silesia	Князівство Сілезія	true
-factions_defend_desc_mk_fact_separatists_wallachia	На вас напали валашські самозванці!	true
+factions_defend_desc_mk_fact_separatists_wallachia	На вас напали волоські самозванці!	true
 factions_screen_name_when_rebels_mk2_fact_bavaria	Баварські бунтівники	true
 factions_screen_name_when_rebels_mk_fact_latinempire	Латинські бунтівники	true
 factions_screen_name_when_rebels_att_fact_separatist_hunnic	Гунські бунтівники	true
@@ -3485,7 +3485,7 @@ factions_attack_desc_mk_fact_separatists_lithuania	Ви напали на лит
 factions_senator_text_lose_1_mk_fact_pisa	Підтримка сенаторів: -%n	true
 factions_attack_desc_mk_fact_ghurids	Ви напали на Гуридський султанат!	true
 factions_screen_name_mk_fact_england	Королівство Англія	true
-factions_screen_name_when_rebels_mk2_fact_wallachia	Валашські бунтівники	true
+factions_screen_name_when_rebels_mk2_fact_wallachia	Волоські бунтівники	true
 factions_screen_name_mk_fact_epirus	Епірське царство	true
 factions_screen_adjective_mk_fact_lorraine	Лотаринги	true
 factions_screen_name_mk_fact_karaman	Бейлик Караманогулларів	true
@@ -3616,7 +3616,7 @@ factions_screen_name_when_shogun_mk2_fact_burgundy	placeholder	true
 factions_screen_name_when_shogun_mk2_fact_wallachia	placeholder	true
 factions_screen_name_mk_fact_separatists_pereyaslavl	Переяславські самозванці	true
 factions_screen_name_when_shogun_mk_fact_separatists_ireland	placeholder	true
-factions_defend_desc_mk2_fact_separatists_wallachia	На вас напали валашські самозванці!	true
+factions_defend_desc_mk2_fact_separatists_wallachia	На вас напали волоські самозванці!	true
 factions_screen_name_when_shogun_att_fact_separatist_hunnic	placeholder	true
 factions_screen_name_when_shogun_cha_fact_burgundy	placeholder	true
 factions_screen_name_when_shogun_mk_fact_separatists_polotsk	placeholder	true
@@ -3832,7 +3832,7 @@ factions_defend_desc_att_fact_oriens	На вас напали жителі Сх�
 factions_senator_text_lose_n_att_fact_gauti	Підтримка вождів: -%n	true
 factions_senator_text_lose_1_att_fact_gauti	Підтримка вождів: -%n	true
 factions_screen_name_mk2_fact_separatists_hafsids	Хафсидські самозванці	true
-factions_screen_name_when_rebels_mk_fact_wallachia	Валашські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_wallachia	Волоські бунтівники	true
 factions_screen_adjective_mk_fact_separatists_kiev	Кияни	true
 factions_attack_desc_mk2_fact_separatists_hafsids	Ви напали на хафсидських самозванців!	true
 factions_screen_name_when_rebels_mk_fact_bavandids	Бавандидські бунтівники	true
@@ -3868,7 +3868,7 @@ factions_defend_desc_mk_fact_crimea	На вас напало Кримське х
 factions_screen_name_when_shogun_att_fact_votadini	placeholder	true
 factions_screen_name_when_rebels_mk2_fact_rasulids	Расулідські бунтівники	true
 factions_senator_text_n_out_of_n_mk2_fact_holstein	%n з %n придворних	true
-factions_screen_adjective_mk_fact_wallachia	Валахи	true
+factions_screen_adjective_mk_fact_wallachia	Волохи	true
 factions_clan_summary_name_mk_fact_jerusalem	placeholder	true
 factions_screen_name_mk_fact_seljuks	Конійський султанат	true
 factions_screen_name_when_shogun_mk2_fact_mentese	placeholder	true
@@ -4121,7 +4121,7 @@ factions_screen_name_when_rebels_cha_fact_carloman	Франкські бунті
 factions_attack_desc_mk_fact_separatists_latinempire	Ви напали на латинських самозванців!	true
 factions_screen_name_when_shogun_att_fact_visigothi	placeholder	true
 factions_screen_name_when_rebels_mk_fact_separatists_georgia	Грузинські бунтівники	true
-factions_attack_desc_mk2_fact_separatists_wallachia	Ви напали на валашських самозванців!	true
+factions_attack_desc_mk2_fact_separatists_wallachia	Ви напали на волоських самозванців!	true
 factions_clan_summary_name_mk2_fact_separatists_qara_qoyunlu	placeholder	true
 factions_screen_name_when_rebels_mk2_fact_separatists_mecklenburg	Мекленбурзькі бунтівники	true
 factions_screen_name_mk_fact_serbia	Сербське князівство	true
@@ -4139,7 +4139,7 @@ factions_clan_summary_name_cha_fact_bavaria	placeholder	true
 factions_screen_name_when_rebels_cha_fact_rebel_pict	Піктські бунтівники	true
 factions_screen_adjective_mk_fact_burgundy	Бургундці	true
 factions_attack_desc_mk_fact_schwyz	Ви напали на кантон Швіц!	true
-factions_screen_name_mk_fact_separatists_wallachia	Валашські самозванці	true
+factions_screen_name_mk_fact_separatists_wallachia	Волоські самозванці	true
 factions_screen_name_when_shogun_mk2_fact_brunswick	placeholder	true
 factions_screen_name_mk_fact_swabia	Герцогство Швабія	true
 factions_senator_text_n_out_of_n_mk2_fact_scotland	%n з %n придворних	true
@@ -5636,7 +5636,7 @@ factions_clan_summary_name_att_fact_separatist_vandalic	placeholder	true
 factions_senator_text_gain_n_mk_fact_jerusalem	Підтримка сенаторів: +%n	true
 factions_clan_summary_name_cha_fact_separatist_frankish	placeholder	true
 factions_senator_text_gain_1_mk_fact_jerusalem	Підтримка сенаторів: +%n	true
-factions_screen_adjective_mk2_fact_separatists_wallachia	Валахи	true
+factions_screen_adjective_mk2_fact_separatists_wallachia	Волохи	true
 factions_screen_name_cha_fact_rebel_irish	Ірландські бунтівники	true
 factions_attack_desc_cha_fact_rebel_irish	Ви напали на ірландських бунтівників!	true
 factions_clan_summary_name_mk_fact_alania	placeholder	true
@@ -6454,7 +6454,7 @@ factions_senator_text_n_out_of_n_mk2_fact_separatists_brabant	%n з %n прид�
 factions_screen_name_when_shogun_mk2_fact_separatists_wallachia	placeholder	true
 factions_attack_desc_att_fact_visigothi	Ви напали на вестготів!	true
 factions_defend_desc_att_fact_separatist_hunnic	На вас напали гунські сепаратисти!	true
-factions_defend_desc_mk2_fact_wallachia	На вас напало князівство Валахія!	true
+factions_defend_desc_mk2_fact_wallachia	На вас напало князівство Волощина!	true
 factions_clan_summary_name_when_shogun_cha_fact_toledo	placeholder	true
 factions_senator_text_lose_n_att_fact_greuthingi	Підтримка вождів: -%n	true
 factions_senator_text_n_out_of_n_mk2_fact_separatists_ireland	%n з %n придворних	true
@@ -6576,7 +6576,7 @@ factions_screen_name_when_shogun_mk_fact_alodia	placeholder	true
 factions_clan_summary_name_when_shogun_mk2_fact_holstein	placeholder	true
 factions_attack_desc_cha_fact_obodrites	Ви напали на ободритів!	true
 factions_clan_summary_name_when_shogun_cha_fact_wessex	placeholder	true
-factions_defend_desc_mk_fact_wallachia	На вас напало Валашське воєводство!	true
+factions_defend_desc_mk_fact_wallachia	На вас напало Волоське воєводство!	true
 factions_clan_summary_name_when_shogun_mk2_fact_bulgaria	placeholder	true
 factions_attack_desc_mk_fact_lithuania	Ви напали на Вел. княз. Литовське!	true
 factions_screen_name_cha_fact_benevento	Герцогство Беневенто	true
@@ -6585,7 +6585,7 @@ factions_clan_summary_name_when_shogun_att_fact_gallia	placeholder	true
 factions_clan_summary_name_when_shogun_cha_fact_valencia	placeholder	true
 factions_senator_text_gain_1_mk2_fact_separatists_epirus	Підтримка сенаторів: +%n	true
 factions_defend_desc_mk_fact_bavandids	На вас напала держава Бавандидів!	true
-factions_screen_name_when_rebels_mk2_fact_separatists_wallachia	Валашські бунтівники	true
+factions_screen_name_when_rebels_mk2_fact_separatists_wallachia	Волоські бунтівники	true
 factions_clan_summary_name_cha_fact_rebel_saxon	placeholder	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_yaroslavl	%n з %n знаті	true
 factions_screen_adjective_att_fact_dacia	Дакія	true
@@ -6856,7 +6856,7 @@ factions_senator_text_lose_1_bel_fact_basques	Підтримка вождів: -
 factions_senator_text_lose_n_mk2_fact_kartids	Підтримка придворних: -%n	true
 factions_senator_text_gain_n_bel_fact_ostrogothi	Підтримка вождів: +%n	true
 factions_defend_desc_cha_fact_barcelona	На вас напала тайфа Барселона!	true
-factions_attack_desc_mk_fact_wallachia	Ви напали на Валашське воєводство!	true
+factions_attack_desc_mk_fact_wallachia	Ви напали на Волоське воєводство!	true
 factions_defend_desc_mk_fact_lithuania	На вас напало Вел. княз. Литовське!	true
 factions_screen_adjective_mk2_fact_france	Французи	true
 factions_defend_desc_att_fact_separatist_nordic	На вас напали скандинавські сепаратисти!	true
@@ -6974,13 +6974,13 @@ factions_clan_summary_name_when_shogun_mk_fact_rebels_italians	placeholder	true
 factions_defend_desc_mk2_fact_brunswick	На вас напало герцогство Брауншвейг-Люнебург!	true
 factions_screen_name_when_shogun_mk2_fact_separatists_brunswick	placeholder	true
 factions_defend_desc_att_fact_separatist_himyar	На вас напали хім'ярські сепаратисти!	true
-factions_screen_name_mk_fact_wallachia	Валашське воєводство	true
+factions_screen_name_mk_fact_wallachia	Волоське воєводство	true
 factions_screen_adjective_mk_fact_separatists_lithuania	Литовці	true
 factions_senator_text_gain_1_bel_fact_basques	Підтримка вождів: +%n	true
 factions_senator_text_gain_n_mk2_fact_kartids	Підтримка придворних: +%n	true
 factions_screen_name_when_shogun_mk_fact_candar	placeholder	true
 factions_screen_name_when_shogun_mk_fact_rebels_moorish	placeholder	true
-factions_attack_desc_mk2_fact_wallachia	Ви напали на князівство Валахія!	true
+factions_attack_desc_mk2_fact_wallachia	Ви напали на князівство Волощина!	true
 factions_screen_adjective_mk2_fact_naples	Неаполітанці	true
 factions_screen_adjective_mk2_fact_eretna	Еретніди	true
 factions_attack_desc_att_fact_separatist_hunnic	Ви напали на гунських сепаратистів!	true
@@ -7064,11 +7064,11 @@ factions_senator_text_lose_n_mk_fact_separatists_mecca	Підтримка при
 factions_senator_text_lose_1_mk_fact_separatists_mecca	Підтримка придворних: -%n	true
 factions_senator_text_gain_n_mk2_fact_separatists_verona	Підтримка сенаторів: +%n	true
 factions_defend_desc_att_fact_rebel_western_roman	Ви напали на західноримських бунтівників!	true
-factions_attack_desc_mk_fact_rebels_vlach	Ви напали на валашських бунтівників!	true
+factions_attack_desc_mk_fact_rebels_vlach	Ви напали на волоських бунтівників!	true
 factions_clan_summary_name_att_fact_suebi	placeholder	true
 factions_clan_summary_name_mk2_fact_jalayirids	placeholder	true
 factions_screen_adjective_cha_fact_separatist_frankish_cw	Франки	true
-factions_screen_name_mk_fact_rebels_vlach	Валашські бунтівники	true
+factions_screen_name_mk_fact_rebels_vlach	Волоські бунтівники	true
 factions_clan_summary_name_when_shogun_mk_fact_separatists_nicaea	placeholder	true
 factions_senator_text_lose_n_mk2_fact_separatists_papacy	Підтримка сенаторів: -%n	true
 factions_defend_desc_att_fact_rebel_eastern_roman	На вас напали східноримські бунтівники!	true
@@ -7216,7 +7216,7 @@ factions_screen_adjective_mk_fact_antioch	Антіохійці	true
 factions_clan_summary_name_mk2_fact_bavaria	placeholder	true
 factions_senator_text_lose_1_mk_fact_brandenburg	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_1_mk_fact_goldenhorde	Підтримка знаті: -%n	true
-factions_screen_adjective_mk_fact_separatists_wallachia	Валахи	true
+factions_screen_adjective_mk_fact_separatists_wallachia	Волохи	true
 factions_clan_summary_name_mk_fact_separatists_jerusalem	placeholder	true
 factions_screen_name_mk_fact_lithuania	Вел. княз. Литовське	true
 factions_attack_desc_att_fact_afrighids	Ви напали на афригідів!	true
@@ -7254,7 +7254,7 @@ factions_senator_text_lose_n_mk_fact_brandenburg	Підтримка сенато
 factions_screen_name_cha_fact_carloman	Королівство Карломана	true
 factions_clan_summary_name_when_shogun_mk_fact_yaroslavl	placeholder	true
 factions_screen_adjective_cha_fact_danes	Дани	true
-factions_screen_name_when_rebels_mk_fact_separatists_wallachia	Валашські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_separatists_wallachia	Волоські бунтівники	true
 factions_senator_text_lose_n_mk_fact_separatists_france	Підтримка сенаторів: -%n	true
 factions_senator_text_gain_n_mk_fact_separatists_aragon	Підтримка сенаторів: +%n	true
 factions_senator_text_lose_1_mk_fact_separatists_france	Підтримка сенаторів: -%n	true
@@ -7822,7 +7822,7 @@ factions_clan_summary_name_att_fact_separatist_african	placeholder	true
 factions_senator_text_lose_1_att_fact_gaetuli	Підтримка придворних: -%n	true
 factions_senator_text_lose_n_mk2_fact_separatists_hazaraspids	Підтримка придворних: -%n	true
 factions_screen_name_when_shogun_mk_fact_saxony	placeholder	true
-factions_screen_adjective_mk_fact_rebels_vlach	Валахи	true
+factions_screen_adjective_mk_fact_rebels_vlach	Волохи	true
 factions_screen_name_when_shogun_mk_fact_rebels_spanish	placeholder	true
 factions_clan_summary_name_when_shogun_att_fact_rebel_sarmatian	placeholder	true
 factions_senator_text_lose_n_mk_fact_hospitaller	Підтримка придворних: -%n	true
@@ -7965,7 +7965,7 @@ factions_clan_summary_name_when_shogun_att_fact_rebel_white_huns	placeholder	tru
 factions_senator_text_gain_n_mk_fact_separatists_abbasid	Підтримка придворних: +%n	true
 factions_senator_text_n_out_of_n_mk2_fact_france	%n з %n придворних	true
 factions_attack_desc_att_fact_rebel_western_roman	Ви напали на західноримських бунтівників!	true
-factions_defend_desc_mk_fact_rebels_vlach	На вас напали валашські бунтівники!	true
+factions_defend_desc_mk_fact_rebels_vlach	На вас напали волоські бунтівники!	true
 factions_senator_text_lose_1_att_fact_marcomanni	Підтримка вождів: -%n	true
 factions_senator_text_gain_1_att_fact_langobardi	Підтримка вождів: +%n	true
 factions_screen_name_att_fact_rebel_western_roman	Західноримські бунтівники	true
@@ -8010,7 +8010,7 @@ factions_screen_name_att_fact_separatist_hunnic	Гунські сепарати�
 factions_senator_text_gain_n_att_fact_langobardi	Підтримка вождів: +%n	true
 factions_screen_name_when_rebels_mk_fact_epirus	Епірські бунтівники	true
 factions_senator_text_lose_n_att_fact_marcomanni	Підтримка вождів: -%n	true
-factions_screen_name_mk2_fact_wallachia	Князівство Валахія	true
+factions_screen_name_mk2_fact_wallachia	Волоське князівство	true
 factions_senator_text_lose_n_mk2_fact_croatia	Підтримка придворних: -%n	true
 factions_clan_summary_name_when_shogun_bel_fact_franci	placeholder	true
 factions_screen_name_when_rebels_cha_fact_separatist_muslim_cw	Ісламські бунтівники	true
