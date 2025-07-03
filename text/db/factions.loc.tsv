@@ -107,7 +107,7 @@ factions_clan_summary_name_when_shogun_att_fact_marcomanni	placeholder	true
 factions_senator_text_lose_n_bel_fact_franci	Підтримка вождів: -%n	true
 factions_senator_text_gain_1_mk_fact_separatists_hre	Підтримка сенаторів: +%n	true
 factions_senator_text_lose_n_mk_fact_novgorod	Підтримка придворних: -%n	true
-factions_screen_adjective_att_fact_white_huns	Гунни	true
+factions_screen_adjective_att_fact_white_huns	Гуни	true
 factions_senator_text_gain_1_mk_fact_separatists_pereyaslavl	Підтримка знаті: +%n	true
 factions_senator_text_lose_1_mk_fact_tlemcen	Підтримка придворних: -%n	true
 factions_screen_adjective_mk_fact_ilkhanatecb	Монголи	true
@@ -189,7 +189,7 @@ factions_clan_summary_name_when_shogun_mk_fact_epirus	placeholder	true
 factions_clan_summary_name_mk2_fact_poland	placeholder	true
 factions_clan_summary_name_when_shogun_mk2_fact_separatists_candar	placeholder	true
 factions_clan_summary_name_when_shogun_bel_fact_rebel_roman	placeholder	true
-factions_screen_adjective_att_fact_separatist_hunnic	Гунни	true
+factions_screen_adjective_att_fact_separatist_hunnic	Гуни	true
 factions_clan_summary_name_mk_fact_uyunids	placeholder	true
 factions_senator_text_gain_n_mk_fact_silesia	Підтримка сенаторів: +%n	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_antioch	%n з %n сенаторів	true
@@ -1293,7 +1293,7 @@ factions_clan_summary_name_when_shogun_mk_fact_leon	placeholder	true
 factions_screen_adjective_att_fact_separatist_antes	Анти	true
 factions_senator_text_gain_n_mk_fact_candar	Підтримка придворних: +%n	true
 factions_senator_text_gain_1_mk_fact_candar	Підтримка придворних: +%n	true
-factions_attack_desc_att_fact_rebel_hunnic	Ви напали на гуннських бунтівників!	true
+factions_attack_desc_att_fact_rebel_hunnic	Ви напали на гунських бунтівників!	true
 factions_senator_text_lose_n_mk_fact_armenia	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_n_mk_fact_croatia	Підтримка сенаторів: -%n	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_cumans	%n з %n знаті	true
@@ -2008,7 +2008,7 @@ factions_screen_adjective_mk2_fact_separatists_aragon	Арагонці	true
 factions_senator_text_gain_n_att_fact_italia	Підтримка сенаторів: +%n	true
 factions_senator_text_lose_n_mk2_fact_separatists_georgia	Підтримка сенаторів: -%n	true
 factions_screen_name_when_rebels_mk_fact_separatists_french	Французькі бунтівники	true
-factions_screen_name_att_fact_hunni	Гунни	true
+factions_screen_name_att_fact_hunni	Гуни	true
 factions_senator_text_lose_1_att_fact_red	Підтримка сенаторів: -%n	true
 factions_clan_summary_name_when_shogun_cha_fact_separatist_english	placeholder	true
 factions_defend_desc_att_fact_rebel_arabian	На вас напали аравійські бунтівники!	true

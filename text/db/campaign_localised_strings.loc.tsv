@@ -17,8 +17,8 @@ campaign_localised_strings_string_politics_assign_governor	Клацніть ЛК
 campaign_localised_strings_string_cha_mission_pope_attacked_1	Направте персонажа, в оточення якого входить папа римський, в регіон Рим.	true
 campaign_localised_strings_string_recruit_assassin_tooltip	Найняти таємного вбивцю||Таємні вбивці спеціалізуються на усуненні ворожих полководців і агентів. Крім того, вони можуть навчати воїнів своєму мистецтву і виснажувати ворожі армії.	true
 campaign_localised_strings_string_details_panel_skills_cannot_select	Цей персонаж не може освоїти цю навичку:	true
-campaign_localised_strings_string_raise_navy_capped	Неможливо створити флот.||У вас недостатньо імперіума.	true
-campaign_localised_strings_string_raise_legacy_capped	Неможливо відновити спадщину.||У вас недостатньо імперіума.	true
+campaign_localised_strings_string_raise_navy_capped	Неможливо створити флот.||У вас недостатньо імперіуму.	true
+campaign_localised_strings_string_raise_legacy_capped	Неможливо відновити спадщину.||У вас недостатньо імперіуму.	true
 campaign_localised_strings_string_end_turn_warning_not_researching	Зараз ви не досліджуєте жодних технологій.	true
 campaign_localised_strings_string_military_force_growth_technologies	Технології	true
 campaign_localised_strings_string_development_points_tooltip_hordes_insufficent_development_points_number_expedition	Необхідний надлишок населення: %n.||Ваша експедиція зросте з часом. Щоб прискорити її зростання, здійснюйте набіги, розбивайте табори і зводите певні споруди.	true
