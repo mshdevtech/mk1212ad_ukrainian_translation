@@ -66,7 +66,7 @@ uied_component_texts_localised_string_HRE_Tooltip_Tab_Policies	Ця вкладк
 uied_component_texts_localised_string_ironman_mode_tx_NewState_Text_100050	Режим «Незламний»	true
 uied_component_texts_localised_string_ironman_mode_tx_Tooltip_100048	Встановіть тут прапорець, щоб активувати режим “Незламний”.||- Доступ до досягнень MK1212.\\n- Автоматично активує налаштування «Щасливі нації».\\n- Ручне збереження вимкнено.\\n- Гра автоматично зберігається на початку і в кінці ходу.\\n- Гра автоматично зберігається перед і після битви.\\n- Гра автоматично зберігається при оголошенні вам або вами війни або при укладенні мирного договору.	true
 uied_component_texts_localised_string_LandBanner_1_Text_300000		true
-uied_component_texts_localised_string_lucky_nations_tx_NewState_Text_100051	Налаштування «Щасливі нації»	true
+uied_component_texts_localised_string_lucky_nations_tx_NewState_Text_100051	«Щасливі нації»	true
 uied_component_texts_localised_string_lucky_nations_tx_Tooltip_100049	Встановіть тут прапорець, щоб активувати налаштування «Щасливі нації».||- Надає деяким ШІ-фракціям невеликі бонуси в битвах з авторозрахунком, вербуванні та доходах.\\n - Це налаштування допомагає деяким ШІ-фракціям вижити на пізніх етапах гри.	true
 uied_component_texts_localised_string_max_units_Tooltip_1e0666	Доступна кількість загонів хрестоносців	true
 uied_component_texts_localised_string_merch_type_crusader_Tooltip_3f0666	Загін хрестоносців||Цей загін доступний для найму армії, якщо та знаходиться в хрестовому поході. Загони хрестоносців можуть бути набрані безкоштовно під час хрестових походів в регіонах, де більшість населення сповідує католицизм. Однак їх кількість обмежена і не поповниться до початку наступного хрестового походу.	true

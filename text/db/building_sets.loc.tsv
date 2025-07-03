@@ -1,6 +1,6 @@
 key	text	tooltip
 #Loc;1;text/db/building_sets.loc		
-building_sets_onscreen_name_att_building_set_civic	Громад. влада	true
+building_sets_onscreen_name_att_building_set_civic	Цивільна влада	true
 building_sets_onscreen_name_att_building_set_water	Санітарія	true
 building_sets_onscreen_name_att_building_set_newhorde_hunnic	Немає даних	true
 building_sets_onscreen_name_rom_building_set_capital	Столиця	true
