@@ -298,7 +298,7 @@ effect_bundles_localised_description_mk_bundle_population_size_450000	Цей р�
 effect_bundles_localised_description_mk_bundle_population_size_500	У цьому поселенні мізерна чисельність населення.	true
 effect_bundles_localised_title_mk_bundle_army_timurid_invasion	Армія вторгнення Тимуридів!	true
 effect_bundles_localised_description_mk_bundle_population_bundle_region	Заг. чисельність населення:	true
-effect_bundles_localised_title_mk_effect_bundle_unlawful_territory	Незаконна територія
+effect_bundles_localised_title_mk_effect_bundle_unlawful_territory	Незаконна територія	true
 effect_bundles_localised_title_mk_bundle_crusade_victory	Переможний хрестовий похід	true
 effect_bundles_localised_title_mk_bundle_las_navas_victory	Перемога при Лас Навас де Толоса	true
 effect_bundles_localised_title_mk_bundle_france_victory	Перемога в Нормандії	true
