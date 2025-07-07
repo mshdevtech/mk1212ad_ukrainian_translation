@@ -42,20 +42,20 @@ function Add_Pope_Favour_Listeners()
 		Register_Decision(
 			"ask_pope_for_money", 
 			function() 	
-				local conditionstring = "Conditions:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Is religion: Catholic.\n";
+				local conditionstring = "Умови:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Державна релігія: Католицизм.\n";
 				local money = "5000";
 				local faction_name = cm:get_local_faction();
 				
 				if FACTION_EXCOMMUNICATED[faction_name] == true then
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not excommunicated.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ви не відлучені від церкви.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not excommunicated.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ви не відлучені від церкви.\n";
 				end
 			
 				if FACTION_POPE_FAVOUR[faction_name] > 7 then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Papal Favour is greater than 7.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Рівень Прихильності Папи Римського вище 7.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Papal Favour is greater than 7.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Рівень Прихильності Папи Римського вище 7.\n";
 				end
 			
 				if FACTION_POPE_FAVOUR[faction_name] == 9 then
@@ -64,7 +64,7 @@ function Add_Pope_Favour_Listeners()
 					money = "10000";
 				end
 			
-				conditionstring = conditionstring.."\nEffects:\n\n- Recieve [[rgba:255:215:0:215]]"..money.." money[[/rgba]] at the cost of [[rgba:255:0:0:150]]3 Papal Favour[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Отримання [[rgba:255:215:0:215]]"..money.." монет[[/rgba]] за рахунок [[rgba:255:0:0:150]]3 од. Прихильності Папи Римського[[/rgba]].";
 			
 				return conditionstring;
 			end, 

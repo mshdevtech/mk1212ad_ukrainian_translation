@@ -496,7 +496,7 @@ function OnPanelOpenedCampaign_Pope_UI(context)
 					local dy_extra_info_uic = UIComponent(event_mission_uic:Find("dy_extra_info"));
 					local turns = tostring((NEXT_CRUSADE_START_TURN + CRUSADE_DURATION) - cm:model():turn_number());
 
-					dy_extra_info_uic:SetStateText("Turns remaining:  "..tostring(turns));
+					dy_extra_info_uic:SetStateText("Залишилося ходів:  "..tostring(turns));
 				end
 			end
 		end
