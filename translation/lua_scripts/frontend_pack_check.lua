@@ -17,11 +17,11 @@ local all_packs_in_order = true;
 REQUIRED_PACKS = {
 	--{key = "1-1212scriptsTEST.pack", enabled = true, packPos = nil, order = 1, name = "1-1212scriptsTEST.pack"},
 	{key = "1-1212scripts.pack", enabled = true, packPos = nil, order = 1, name = "Medieval Kingdoms 1212 AD Scripts"},
+	{key = "Custom cities beta.pack", enabled = false, packPos = nil, order = 2, name = "Medieval Kingdoms 1212AD - Custom cities beta"},
 	--{key = "1212_all_settlement_walled_v2.pack", enabled = false, packPos = nil, order = 2, name = "All Settlement Walled - Siege Map Replacer"},
 	--{key = "1212compiletest.pack", enabled = false, packPos = nil, order = 3, name = "1212compiletest.pack"},
-	{key = "Custom cities beta.pack", enabled = false, packPos = nil, order = 2, name = "Medieval Kingdoms 1212AD - Custom cities beta Pack"},
 	{key = "1212compbuild_v2.pack", enabled = false, packPos = nil, order = 3, name = "Medieval Kingdoms 1212 AD Base Pack"},
-	{key = "1212models1_v2.pack", enabled = false, packPos = nil, order = 4, name = "Medieval Kingdoms 1212 AD Models Pack 1"},
+	{key = "1212models1_v2.pack", enabled = false, packPos = nil, order = 4, name = "Medieval Kingdoms 1212 AD Models Pack 1.v2"},
 	{key = "1212models2.pack", enabled = false, packPos = nil, order = 5, name = "Medieval Kingdoms 1212 AD Models Pack 2"},
 	{key = "1212models3.pack", enabled = false, packPos = nil, order = 6, name = "Medieval Kingdoms 1212 AD Models Pack 3"},
 	{key = "1212models4.pack", enabled = false, packPos = nil, order = 7, name = "Medieval Kingdoms 1212 AD Models Pack 4"},
@@ -137,7 +137,7 @@ function CreatePackWarning(warning_string)
 	);
 
 	pack_warning_tx_title_uic:SetStateText("Medieval Kingdoms 1212 AD");
-	pack_warning_dy_subtitle_uic:SetStateText("Warning! Missing .pack files!");
+	pack_warning_dy_subtitle_uic:SetStateText("Увага! Відсутні .pack файли!");
 	pack_warning_text_uic:SetStateText(warning_string);
 	pack_warning_uic:SetVisible(true);
 end
@@ -173,7 +173,7 @@ function ShowPackWarning(modsFile)
 		modsFile:close();
 	end
 
-	warning_string = warning_string.."The following mandatory .pack files are missing:\n\n";
+	warning_string = warning_string.."Не вистачає наступних .pack файлів:\n\n";
 
 	for i = 1, #REQUIRED_PACKS do
 		local pack = REQUIRED_PACKS[i];
@@ -188,21 +188,21 @@ function ShowPackWarning(modsFile)
 	end
 
 	if all_packs_enabled == false then
-		warning_string = warning_string.."\nWe recommend downloading the missing files from the Steam Workshop for the best experience!";
+		warning_string = warning_string.."\nМи рекомендуємо завантажити відсутні файли з Майстерні Steam для кращого враження!";
 
 		CreatePackWarning(warning_string);
 	elseif all_packs_in_order == false then
-		warning_string = "The following .pack files are out of order:\n\n";
+		warning_string = "Наступні .pack файли встановлено не по порядку:\n\n";
 
 		for i = 1, #REQUIRED_PACKS do
 			local pack = REQUIRED_PACKS[i];
 
 			if pack.packPos ~= pack.order then
-				warning_string = warning_string.."("..tostring(pack.packPos)..") "..pack.name.."\nRecommended: "..tostring(pack.order).."\n";
+				warning_string = warning_string.."("..tostring(pack.packPos)..") "..pack.name.."\nРекомендований: "..tostring(pack.order).."\n";
 			end
 		end
 
-		warning_string = warning_string.."\nOut of order .pack files may make MK1212 multiplayer impossible due to incompatible versions.";
+		warning_string = warning_string.."\nНеправильний порядок встановлення .pack файлів може призвести до недоступності багатокористувацької гри в MK1212 через несумісні версії.";
 
 		CreatePackWarning(warning_string);
 	end

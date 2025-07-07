@@ -14,15 +14,15 @@ CHALLENGES = {
 };
 
 CHALLENGE_STRINGS = {
-	["judgement_day"] = {"Judgement Day", "Difficulty: Hard"},
-	["no_retreat"] = {"Not One Step Back!", "Difficulty: Easy"},
-	["this_is_total_war"] = {"This is Total War!", "Difficulty: Hard"}
+	["judgement_day"] = {"Судний день", "Складність: Висока"},
+	["no_retreat"] = {"Ні кроку назад!", "Складність: Низька"},
+	["this_is_total_war"] = {"Це Total War!", "Складність: Висока"}
 };
 
 CHALLENGE_BULLETINS = {
-	["judgement_day"] = {"All AI factions will become extremely aggressive, attacking you with little regard for defending their own regions.", "AI factions will also focus heavily on military spending and building armies."},
-	["no_retreat"] = {"When attacking or being attacked by an enemy force, you will not be able to retreat your force.", "Withdrawing units in battles is disabled."},
-	["this_is_total_war"] = {"At the start of the campaign you will automatically declare war against every faction.", "Any new factions encountered will automatically be declared war upon.", "All diplomatic options for the player are disabled, and the AI will never make peace offers.", "Story events (excluding world events) are disabled.", "The 'Subjugate' and 'Liberate' occupation decisions are disabled.", "The Papal Favour system is disabled and War Weariness penalties are decreased."}
+	["judgement_day"] = {"Усі ШІ-фракції стають надзвичайно агресивними, нападаючи на вас без особливої уваги до захисту своїх власних територій.", "ШІ-фракції також приділятимуть велику увагу військовим витратам і створенню армій."},
+	["no_retreat"] = {"Під час нападу або оборони можливість відступу армії відключено.", "Виведення загонів із бою вимкнено."},
+	["this_is_total_war"] = {"На початку кампанії ви автоматично оголошуєте війну кожній фракції.", "Оголошується війна кожній новій фракції, яку ви зустрінете.", "Усі дипломатичні опції для гравця відключені, а ШІ ніколи не буде пропонувати укласти мирний договір.", "Сюжетні події (за винятком світових подій) недоступні.", "Під час захоплення міст опції 'Підкорення' і 'Звільнення' будуть недоступні.", "Систему Прихильності Папи Римського відключено, а штрафи за Втому від воєн знижено."}
 };
 
 CHALLENGES_ENABLED = {
@@ -87,19 +87,19 @@ function OnComponentLClickUp_Challenge_Menu(context)
 		local button_select_challenge_uic = UIComponent(sp_challenge_menu_uic:Find("button_select_challenge"));
 
 		if CHALLENGES_ENABLED[challenge] == true then
-			UIComponent(button_select_challenge_uic:Find("button_txt")):SetStateText("Disable Challenge");
+			UIComponent(button_select_challenge_uic:Find("button_txt")):SetStateText("Скасувати випробування");
 		elseif CHALLENGES_ENABLED[challenge] == false then
-			UIComponent(button_select_challenge_uic:Find("button_txt")):SetStateText("Enable Challenge");
+			UIComponent(button_select_challenge_uic:Find("button_txt")):SetStateText("Активувати випробування");
 		end
 
 		UIComponent(sp_challenge_menu_uic:Find("challenge_image")):SetState(challenge);
 	elseif context.string == "button_select_challenge" then
 		if CHALLENGES_ENABLED[CHALLENGE_SELECTED] == true then
 			CHALLENGES_ENABLED[CHALLENGE_SELECTED] = false;
-			UIComponent(UIComponent(context.component):Find("button_txt")):SetStateText("Enable Challenge");
+			UIComponent(UIComponent(context.component):Find("button_txt")):SetStateText("Активувати випробування");
 		elseif CHALLENGES_ENABLED[CHALLENGE_SELECTED] == false then
 			CHALLENGES_ENABLED[CHALLENGE_SELECTED] = true;
-			UIComponent(UIComponent(context.component):Find("button_txt")):SetStateText("Disable Challenge");
+			UIComponent(UIComponent(context.component):Find("button_txt")):SetStateText("Скасувати випробування");
 		end
 
 		UpdateChallenges();
@@ -114,7 +114,7 @@ function OnComponentLClickUp_Challenge_Menu(context)
 			sp_challenge_menu_uic:SetVisible(false);
 			sp_challenge_menu_uic:UnLockPriority();
 			checkbox_ironman_uic:SetVisible(true);
-			text_ironman_uic:SetStateText("[[rgba:255:255:242:150]]Enable Ironman[[/rgba:255:255:242:150]]");
+			text_ironman_uic:SetStateText("[[rgba:255:255:242:150]]Активувати режим 'Незламний'[[/rgba:255:255:242:150]]");
 			text_ironman_uic:SetVisible(true);
 		else
 			sp_challenge_menu_uic:SetVisible(true);

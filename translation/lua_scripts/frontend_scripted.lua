@@ -304,7 +304,7 @@ function ChangeCampaignMenu()
  		end
 
 		faction_details_parent_uic:Resize(436, 616);
-		tx_factions_uic:SetStateText("Faction");
+		tx_factions_uic:SetStateText("Фракція");
 		start_year_uic:Resize(400, 64);
 	elseif CAMPAIGN_START_DATE_SELECTED == 2 then	
 		local faction_group_button_group_uic = UIComponent(sp_grand_campaign_uic:Find("faction_group_button_group"));

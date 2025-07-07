@@ -7,10 +7,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-disclaimertitlestring = "Multiplayer Scripts Disclaimer";
-disclaimerstring = "Due to a lack of networking functionality in Total War: Attila's scripting environment, a great number of scripted features have been disabled for multiplayer campaigns."..
-					"\n\nEnabled Features:\nInvasions\nPapal Favour\nStarting Battles\nWar Weariness\nWorld Events\n\nPartially Working Features:\nDynamic Faction Names (Automatic)\nKingdom Events (Automatic)\nStory Events(HRE & Sicily Disabled)"..
-					"\n\nDisabled Features:\nAnnexing Vassals\nBuffer States\nChallenges\nCrusades\nDecisions\nHoly Roman Empire System\nIronman/Achievements\nPopulation";
+disclaimertitlestring = "Попередження про скрипт-сценарії в багатокористувацькій грі";
+disclaimerstring = "Через брак мережевих функцій у скрипт-середовищі гри Total War: Attila велику кількість скриптових функцій було відключено для багатокористувацьких кампаній."..
+					"\n\nДоступно:\nВторгнення\nПрихильність Папи Римського\nПочаток боїв\nВтома від воєн\n\nГлобальні події\n\n\nДоступно частково:\nДинам. назви фракцій (Автомат.)\nПодії в королівствах (Автомат.)\nСюжетні події (для СРІ та Кор. Сицилія - недоступно)"..
+					"\n\nНедоступно:\пАннексування васалів\пБуферні держави\пВипробування\пХрестові походи\пРішення\пСистема Св. Римської імперії\пРежим 'Незламний'/Досягнення\пНаселення";
 
 eh:add_listener(
 	"OnFrontendScreenTransition_MP_Campaign",
