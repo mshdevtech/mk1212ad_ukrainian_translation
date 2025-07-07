@@ -16,57 +16,57 @@ mkHRE.reforms = {
 	-- Reforms are unlocked in order from first to last.
 	{
 		["key"] = "hre_reform_kufursten", 
-		["name"] = "Confirm Permanent Prince-Electors", 
-		["description"] = "The emperor is only elected by a select group of electors.", 
-		["effects"] = {"The Prince-electors are established, limiting elections to 7 voting factions."}
+		["name"] = "Учреждение постоянных курфюрстов", 
+		["description"] = "Император избирается особой группой выборщиков.", 
+		["effects"] = {"Назначены курфюрсты, что ограничивает до 7 количество голосующих фракций."}
 	},
 	{
 		["key"] = "hre_reform_reichstag", 
-		["name"] = "Formalize the Imperial Diet", 
-		["description"] = "The Imperial Diet becomes the formal consultative and legislative body of the empire with representatives from the empire's estates.", 
-		["effects"] = {"+25 Diplomatic Relations With All Factions."}
+		["name"] = "Оформление Рейхстага", 
+		["description"] = "Рейхстаг становится официальным совещательным и законодательным органом империи с участием представителей всех ее сословий.", 
+		["effects"] = {"+25 к дип. отношениям со всеми фракциями."}
 	},
 	{
 		["key"] = "hre_reform_reichspfennig", 
-		["name"] = "Institute the Common Penny", 
-		["description"] = "Institute the levy of a widespread poll tax.", 
-		["effects"] = {"+20% Income From Vassals."}
+		["name"] = "Ввод общего пфеннига", 
+		["description"] = "Ввод повсеместного подушного налога.", 
+		["effects"] = {"+20% к доходу от вассалов."}
 	},
 	{
 		["key"] = "hre_reform_reichskreise", 
-		["name"] = "Organize the Imperial Circles", 
-		["description"] = "Regroup regions of the empire into administrative territories to better manage the empire.", 
-		["effects"] = {"+5% Tax Rate.", "+1 Levy Unit From Vassals."}
+		["name"] = "Организация имперских округов", 
+		["description"] = "Регионы империи перегруппируются в административные территории для лучшего управления империей.", 
+		["effects"] = {"+5% к налоговой ставке.", "+1 к количеству новобранцев из вассальных государств."}
 	},
 	{
 		["key"] = "hre_reform_ewiger_landfriede", 
-		["name"] = "Enact Perpetual Public Peace", 
-		["description"] = "Outlaws feuds and organizes legal structure into a single body, with the Emperor as the ultimate arbiter.", 
-		["effects"] = {"Factions in the Holy Roman Empire can no longer declare war on each other.", "+1 Public Order.", "+25% Imperial Authority Growth."}
+		["name"] = "Установление Вечного земского мира", 
+		["description"] = "Усобицы объявляются вне закона, а правовая структура организуется в единый орган во главе с императором в качестве последней инстанции.", 
+		["effects"] = {"Фракции в составе Священной Римской империи больше не могут объявлять друг другу войны.", "+1 к общественному порядку.", "+25% к росту Имперской власти."}
 	},
 	{
 		["key"] = "hre_reform_reichskammergericht", 
-		["name"] = "Establish the Imperial Chamber Court", 
-		["description"] = "Creates the Imperial Chamber Court to hear cases and apply imperial law.", 
-		["effects"] = {"+2 Public Order."}
+		["name"] = "Создание Имперского камерального суда", 
+		["description"] = "Создается Имперский камеральный суд для рассмотрения дел и применения имперского права.", 
+		["effects"] = {"+2 к общественному порядку."}
 	},
 	{
 		["key"] = "hre_reform_reichsregiment", 
-		["name"] = "Establish the Imperial Government", 
-		["description"] = "Create an executive organ led by the estates, acting as representatives of the emperor.", 
-		["effects"] = {"+25% Imperial Authority Growth.", "+15% Building Cost.", "+5% Corruption."}
+		["name"] = "Создание Имперского управления", 
+		["description"] = "Создается исполнительный орган во главе с сословиями, выступающими в качестве представителей императора.", 
+		["effects"] = {"+25% к росту Имперской власти.", "+15% к стоимости строительства.", "+5% к коррупции."}
 	},
 	{
 		["key"] = "hre_reform_erbkaisertum", 
-		["name"] = "Adopt Hereditary Succession", 
-		["description"] = "Abolishes elections and institutes a hereditary monarchy.", 
-		["effects"] = {"The emperorship is now always inherited by the emperor's faction.", "Elections are abolished."}
+		["name"] = "Утверждение престолонаследия", 
+		["description"] = "Выборы отменяются и устанавливается наследственная монархия.", 
+		["effects"] = {"Титул императора теперь наследуется членом семьи только из фракции императора.", "Выборы отменены."}
 	},
 	{
 		["key"] = "hre_reform_renovatio_imperii", 
 		["name"] = "Renovatio Imperii", 
-		["description"] = "The Holy Roman Empire is united into one faction!", 
-		["effects"] = {"+2 Public Order.", "-15% Building Cost.", "-5% Corruption."}
+		["description"] = "Священная Римская империя становится единой фракцией!", 
+		["effects"] = {"+2 к общественному порядку.", "-15% к стоимости строительства.", "-5% к коррупции."}
 	}
 };
 
@@ -234,7 +234,7 @@ function mkHRE:Get_Reform_Tooltip(reform_key)
 
 	for i = 1, #self.reforms do
 		if self.reforms[i]["key"] == reform_key then
-			reformstring = "[[rgba:255:215:0:215]]"..self.reforms[i]["name"].."[[/rgba]]\n[[rgba:219:211:173:150]]"..self.reforms[i]["description"].."[[/rgba]]\n\nEffects:";
+			reformstring = "[[rgba:255:215:0:215]]"..self.reforms[i]["name"].."[[/rgba]]\n[[rgba:219:211:173:150]]"..self.reforms[i]["description"].."[[/rgba]]\n\nРезультат:";
 
 			for j = 1, #self.reforms[i]["effects"] do
 				reformstring = reformstring.."\n"..self.reforms[i]["effects"][j];

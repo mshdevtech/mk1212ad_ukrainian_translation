@@ -47,22 +47,22 @@ function Add_Dynamic_Faction_Names_Listeners()
 			function() 	
 				local faction_name = cm:get_local_faction();
 				local num_regions = cm:model():world():faction_by_key(faction_name):region_list():num_items();
-				local conditionstring = "Conditions:\n\n";
+				local conditionstring = "Умови:\n\n";
 			
 				if mkHRE and faction_name == mkHRE.emperor_key then
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ви не є імператором Св. Римської імперії.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ви не є імператором Св. Римської імперії.\n";
 				end
 			
 				if num_regions >= NUM_REQUIRED_REGIONS_LVL2 then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Control "..tostring(NUM_REQUIRED_REGIONS_LVL2).." regions.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Контролюйте "..tostring(NUM_REQUIRED_REGIONS_LVL2).." регіони(ів).\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Control "..tostring(NUM_REQUIRED_REGIONS_LVL2).." regions.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Контролюйте "..tostring(NUM_REQUIRED_REGIONS_LVL2).." регіони(ів).\n";
 				end
 			
-				conditionstring = conditionstring.."(Current total: "..tostring(num_regions)..")";
-				conditionstring = conditionstring.."\n\nEffects:\n\n- Become the [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl2"].."[[\rgba]].";
+				conditionstring = conditionstring.."(Поточне число: "..tostring(num_regions)..")";
+				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl2"].."[[\rgba]].";
 			
 				return conditionstring;	
 			end, 
@@ -76,26 +76,26 @@ function Add_Dynamic_Faction_Names_Listeners()
 			function() 	
 				local faction_name = cm:get_local_faction();
 				local num_regions = cm:model():world():faction_by_key(faction_name):region_list():num_items();
-				local conditionstring = "Conditions:\n\n";
+				local conditionstring = "Умови:\n\n";
 			
 				if mkHRE and HasValue(mkHRE.factions, faction_name) then
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				end
 				
 				if num_regions >= NUM_REQUIRED_REGIONS_LVL3 then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Control "..tostring(NUM_REQUIRED_REGIONS_LVL3).." regions.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Контролюйте "..tostring(NUM_REQUIRED_REGIONS_LVL3).." регіони(ів).\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Control "..tostring(NUM_REQUIRED_REGIONS_LVL3).." regions.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Контролюйте "..tostring(NUM_REQUIRED_REGIONS_LVL3).." регіони(ів).\n";
 				end
 			
-				conditionstring = conditionstring.."(Current total: "..tostring(num_regions)..")";
+				conditionstring = conditionstring.."(Текущее число: "..tostring(num_regions)..")";
 			
 				if FACTIONS_DFN_LEVEL[faction_name] == 4 then
-					conditionstring = conditionstring.."\n\nEffects:\n\n- Become the [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl5"].."[[\rgba]].";
+					conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl5"].."[[\rgba]].";
 				else
-					conditionstring = conditionstring.."\n\nEffects:\n\n- Become the [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl3"].."[[\rgba]].";
+					conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl3"].."[[\rgba]].";
 				end
 			
 				return conditionstring;	

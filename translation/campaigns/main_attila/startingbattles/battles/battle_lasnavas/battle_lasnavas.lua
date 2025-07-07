@@ -26,7 +26,7 @@ require "battle_generic_advice";
 bm = battle_manager:new(empire_battle:new());
 cam = bm:camera();
 
-battle_name = "Battle of Las Navas de Tolosa";
+battle_name = "Битва при Лас-Навас-де-Толоса";
 
 bm:set_close_queue_advice(false);
 

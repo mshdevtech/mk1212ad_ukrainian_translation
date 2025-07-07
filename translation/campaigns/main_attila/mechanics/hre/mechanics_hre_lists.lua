@@ -9,14 +9,14 @@
 
 -- Order: Attitude title, attitude description.
 mkHRE.factions_states = {
-	["loyal"] = {"Loyal", "This faction is loyal to the emperor and will always support them."},
-	["ambitious"] = {"Ambitious", "This faction is ruthlessly ambitious, serving its own ends at the expense of all others."},
-	["malcontent"] = {"Malcontent", "This faction has been extremely offended by the emperor and will always oppose them."},
-	["discontent"] = {"Discontent", "This faction is displeased with the actions of the emperor and will oppose them unless it is against their interests."},
-	["neutral"] = {"Neutral", "This faction has no significant grievances or commendations towards the emperor, acting in the best interest of the empire at large."},
-	["emperor"] = {"Emperor", "This faction currently holds the throne of the Holy Roman Empire."},
-	["pretender"] = {"Pretender", "This faction is a pretender to the throne of the Holy Roman Empire."},
-	["puppet"] = {"Puppet", "This faction exists only in name, being completely subservient to the whims of the emperor"}
+	["loyal"] = {"Преданные", "Эта фракция верна императору и всегда будет его поддерживать."},
+	["ambitious"] = {"Амбициозные", "Эта фракция крайне честолюбива и преследует свои собственные цели в ущерб другим."},
+	["malcontent"] = {"Мятежные", "Император сильно оскорбил эту фракцию, и она всегда будет выступать против него."},
+	["discontent"] = {"Недовольные", "Эта фракция недовольна действиями императора и будет выступать против него, если это не будет противоречить ее интересам."},
+	["neutral"] = {"Безразличные", "Этой фракции безразличные действия императора, и она будет действовать по большей части в интересах империи."},
+	["emperor"] = {"Императорская фракция", "Лидер этой фракции является нынешним императором Священной Римской империи."},
+	["pretender"] = {"Претенденты", "Эта фракция претендует на трон Священной Римской империи."},
+	["puppet"] = {"Марионетки", "Эта фракция существует лишь формально, полностью подчиняясь прихотям императора."}
 };
 
 mkHRE.event_dilemmas = {

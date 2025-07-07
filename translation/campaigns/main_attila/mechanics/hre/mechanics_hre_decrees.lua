@@ -16,57 +16,57 @@ mkHRE.decrees = {
 	-- Reforms are unlocked in order from first to last.
 	{
 		["key"] = "hre_decree_imperial_levies",
-		["name"] = "Muster Imperial Levies",
+		["name"] = "Призыв импер. новобранцев",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_imperial_levies",
-		["emperor_effects"] = {"Upkeep cost: +10% for land units", "Replenishment: +5%", "Army recruitment capacity: +1"},
+		["emperor_effects"] = {"Стоимость содержания: +10% для сухопутных отрядов", "Пополнение: +5%", "Численность войск: +1"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_imperial_levies",
-		["member_effects"] = {"Replenishment: +5%", "Army recruitment capacity: +1"}
+		["member_effects"] = {"Пополнение: +5%", "Численность войск: +1"}
 	},
 	{
 		["key"] = "hre_decree_patronize_universities",
-		["name"] = "Patronize Universities",
+		["name"] = "Покровительство университетам",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_patronize_universities",
-		["emperor_effects"] = {"Research rate: +20%", "Agent recruit experience: +3 for priests", "Tax rate: -10%"},
+		["emperor_effects"] = {"Скорость исследований: +20%", "Опыт новых агентов: +3 для священнослужителей", "Налоговая ставка: -10%"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_patronize_universities",
-		["member_effects"] = {"Research rate: +20%", "Agent recruit experience: +3 for priests"}
+		["member_effects"] = {"Скорость исследований: +20%", "Опыт новых агентов: +3 для священнослужителей"}
 	},
 	{
 		["key"] = "hre_decree_expand_bureaucracy",
-		["name"] = "Expand The Bureaucracy",
+		["name"] = "Расширение чинов. аппарата",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_expand_bureaucracy",
-		["emperor_effects"] = {"Loyalty: +2", "Corruption: +5%", "Tax rate: +15%"},
+		["emperor_effects"] = {"Верность: +2", "Коррупция: +5%", "Налоговая ставка: +15%"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_expand_bureaucracy",
-		["member_effects"] = {"Loyalty: +2", "Tax rate: +15%"}
+		["member_effects"] = {"Верность: +2", "Налоговая ставка: +15%"}
 	},
 	{
 		["key"] = "hre_decree_promote_commerce",
-		["name"] = "Promote Commerce",
+		["name"] = "Развитие торговли",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_promote_commerce",
-		["emperor_effects"] = {"Trade income: -5% trade agreement tariffs", "Diplomatic standing: +10 with all factions", "Wealth: +25% from commercial buildings"},
+		["emperor_effects"] = {"Торговый доход: -5% от торговых соглашений", "Дип. отношения: +10 со всеми фракциями", "Богатство: +25% от торговых построек"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_promote_commerce",
-		["member_effects"] = {"Diplomatic standing: +10 with all factions", "Wealth: +25% from commercial buildings"}
+		["member_effects"] = {"Дип. отношения: +10 со всеми фракциями", "Богатство: +25% от торговых построек"}
 	},
 	{
 		["key"] = "hre_decree_lessen_tax_burdens",
-		["name"] = "Lessen Tax Burdens",
+		["name"] = "Снижение налогового бремени",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_lessen_tax_burdens",
-		["emperor_effects"] = {"Population Growth: +0.5% Burgher and Peasantry Growth", "Tax rate: -15%", "Public order: +5"},
+		["emperor_effects"] = {"Прирост числ. населения: +0.5% для горожан и крестьян", "Налоговая ставка: -15%", "Общественный порядок: +5"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_lessen_tax_burdens",
-		["member_effects"] = {"Population Growth: +0.5% Burgher and Peasantry Growth", "Public order: +5"}
+		["member_effects"] = {"Прирост числ. населения: +0.5% для горожан и крестьян", "Общественный порядок: +5"}
 	},
 	{
 		["key"] = "hre_decree_encourage_development",
-		["name"] = "Encourage Development",
+		["name"] = "Стимулирование строительства",
 		["cost"] = 15,
 		["emperor_effect_bundle_key"] = "mk_effect_bundle_hre_decree_encourage_development",
-		["emperor_effects"] = {"Sanitation: +2", "Construction cost: -25%", "Tax rate: -15%"},
+		["emperor_effects"] = {"Санитария: +2", "Стоимость строительства: -25%", "Налоговая ставка: -15%"},
 		["member_effect_bundle_key"] = "mk_effect_bundle_hre_member_encourage_development",
-		["member_effects"] = {"Sanitation: +2", "Construction cost: -25%"}
+		["member_effects"] = {"Санитария: +2", "Стоимость строительства: -25%"}
 	}
 };
 
@@ -187,19 +187,19 @@ function Get_Decree_Tooltip(decree_key)
 			local decree_name = mkHRE.decrees[i]["name"];
 			local decree_cost = tostring(mkHRE.decrees[i]["cost"]);
 
-			decreestring = decree_name.."\n----------------------------------------------\nEffects for the emperor:";
+			decreestring = decree_name.."\n----------------------------------------------\nРезультат для фракции императора:";
 
 			for j = 1, #mkHRE.decrees[i]["emperor_effects"] do
 				decreestring = decreestring.."\n"..mkHRE.decrees[i]["emperor_effects"][j];
 			end
 
-			decreestring = decreestring.."\n\nEffects for member-states:";
+			decreestring = decreestring.."\n\nРезультат для государств-членов империи:";
 
 			for j = 1, #mkHRE.decrees[i]["member_effects"] do
 				decreestring = decreestring.."\n"..mkHRE.decrees[i]["member_effects"][j];
 			end
 
-			decreestring = decreestring.."\n\nThis decree will cost "..decree_cost.." Imperial Authority to enact, and will last for "..tostring(hre_decree_duration).." turns.";
+			decreestring = decreestring.."\n\nЭтот указ затребует "..decree_cost.." ед. Имперской власти и будет длиться на протяжении "..tostring(hre_decree_duration).." х.";
 		end
 	end
 
