@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Rise of the Republic";
-achievement.description = "As a merchant republic (the Republic of Genoa, Pisa, or Venice), ensure that all rival merchant republics are destroyed.";
+achievement.name = "Розквіт республіки";
+achievement.description = "Граючи за торговельну фракцію (Генуезьку, Пізанську або Венеціанську республіку), досягніть того, щоб інші торговельні республіки були знищені.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requireddeadfactions = {"mk_fact_genoa", "mk_fact_pisa", "mk_fact_venice"}; -- These factions need to be destroyed (not counting if player is one of them).
 achievement.requiredfactions = {"mk_fact_genoa", "mk_fact_pisa", "mk_fact_venice"}; -- The player must be one of these factions.

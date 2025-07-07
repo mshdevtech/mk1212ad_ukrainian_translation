@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Tri Moreta";
-achievement.description = "As the Tsardom of Bulgaria, reconquer the old borders of the First Bulgarian Empire.";
+achievement.name = "Біля трьох морів";
+achievement.description = "Граючи за Болгарське царство, відновіть історичні кордони Першого Болгарського царства.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_bulgaria"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

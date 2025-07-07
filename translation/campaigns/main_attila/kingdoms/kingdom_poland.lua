@@ -33,14 +33,14 @@ function Add_Kingdom_Poland_Listeners()
 		Register_Decision(
 			"form_kingdom_poland", 
 			function() 	
-				local conditionstring = "Conditions:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Is the Duchy of Lesser Poland.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - The Kingdom of Poland does not yet exist.\n";
+				local conditionstring = "Умови:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Гра за Малопольське князівство.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - Немає фракції Королівство Польське.\n";
 				local faction_name = cm:get_local_faction();
 
 				if mkHRE then
 					if faction_name == mkHRE.emperor_key then
-						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Вы не являетесь императором Св. Римской империи.\n";
 					else
-						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Вы не являетесь императором Св. Римской империи.\n";
 					end
 				end
 	
@@ -48,13 +48,13 @@ function Add_Kingdom_Poland_Listeners()
 					local region = cm:model():world():region_manager():region_by_key(REGIONS_POLAND[i]);
 					
 					if region:owning_faction():name() == cm:get_local_faction() then
-						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_POLAND[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_POLAND[i]]..".\n";
 					else
-						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_POLAND[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_POLAND[i]]..".\n";
 					end
 				end
 			
-				conditionstring = conditionstring.."\nEffects:\n\n- Become the [[rgba:255:215:0:215]]Kingdom of Poland[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Королівство Польське[[/rgba]].";
 			
 				return conditionstring;
 			end, 

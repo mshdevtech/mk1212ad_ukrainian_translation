@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Prester John";
-achievement.description = "As the Ulus of Jochi or Ulus or Tolui, convert to a Christian faith and own the region Jerusalem.";
+achievement.name = "Пресвітер Іоанн";
+achievement.description = "Граючи за Улус Джучі або Улус Толуя, перейдіть у християнську віру і заволодійте регіоном Єрусалим.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_goldenhorde", "mk_fact_ilkhanate"}; -- The player must be one of these factions.
 achievement.requiredregions = {"att_reg_palaestinea_aelia_capitolina"}; -- Regions required for this achievement to unlock.

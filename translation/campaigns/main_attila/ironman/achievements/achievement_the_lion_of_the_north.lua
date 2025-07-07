@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "The Lion of the North";
-achievement.description = "As the Kingdom of Sweden, become the Holy Roman Emperor or own all of the Holy Roman Empire's territory.";
+achievement.name = "Лев Півночі";
+achievement.description = "Граючи за Королівство Швеція, станьте імператором Священної Римської імперії або заволодійте всією її територією.";
 achievement.manual = false; -- Is unlocked during achievement turn start check (although this achievement is also unlocked manually).
 achievement.requiredfactions = {"mk_fact_sweden"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

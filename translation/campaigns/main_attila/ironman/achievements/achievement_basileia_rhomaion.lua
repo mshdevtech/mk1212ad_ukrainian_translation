@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Basileia Rhomaion";
-achievement.description = "As the Empire of Epirus, Empire of Nicaea, or Empire of Trebizond, restore the Roman Empire.";
+achievement.name = "Держава ромеїв";
+achievement.description = "Граючи за Епірське царство, Нікейську імперію або Трапезундську імперію, відновіть Римську імперію.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

@@ -33,26 +33,26 @@ function Add_Kingdom_Ilkhanate_Listeners()
 		Register_Decision(
 			"form_empire_ilkhanate", 
 			function() 	
-				local conditionstring = "Conditions:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Is the Ulus of Tolui.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - The Ilkhanate does not yet exist.\n";
+				local conditionstring = "Умови:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Гра за Улус Толуя.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - Немає фракції Ільханат.\n";
 				local faction_name = cm:get_local_faction();
 
 				if mkHRE and HasValue(mkHRE.factions, faction_name) then
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				end
 	
 				for i = 1, #REGIONS_ILKHANATE do
 					local region = cm:model():world():region_manager():region_by_key(REGIONS_ILKHANATE[i]);
 					
 					if region:owning_faction():name() == cm:get_local_faction() then
-						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_ILKHANATE[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_ILKHANATE[i]]..".\n";
 					else
-						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_ILKHANATE[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_ILKHANATE[i]]..".\n";
 					end
 				end
 			
-				conditionstring = conditionstring.."\nEffects:\n\n- Become the [[rgba:255:215:0:215]]Ilkhanate[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Ільханат[[/rgba]].";
 			
 				return conditionstring;
 			end, 

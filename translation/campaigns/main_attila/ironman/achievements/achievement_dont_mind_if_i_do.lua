@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Don't Mind If I Do";
-achievement.description = "As a pretender to the Holy Roman Empire, successfully overthrow the emperor.";
+achievement.name = "Не заперечуєте, якщо я...?";
+achievement.description = "У ролі претендента на трон Священної Римської імперії успішно скиньте нинішнього імператора.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

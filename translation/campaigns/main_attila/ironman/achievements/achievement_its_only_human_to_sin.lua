@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "It's Only Human To Sin";
-achievement.description = "As a Catholic faction, be excommunicated by the Pope.";
+achievement.name = "Грішить лише людина";
+achievement.description = "Граючи за католицьку фракцію, добийтеся вашого відлучення від церкви Папою Римським.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

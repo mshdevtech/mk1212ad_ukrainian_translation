@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Megalopolis";
-achievement.description = "Have a region with a population of over 1,000,000.";
+achievement.name = "Мегалополіс";
+achievement.description = "Тримайте під контролем регіон із населенням понад 1 000 000 осіб.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

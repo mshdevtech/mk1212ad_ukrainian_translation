@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "North Sea Empire";
-achievement.description = "As the Kingdom of Denmark, restore the borders of King Cnut the Great's domain by conquering all of Scandinavia and England.";
+achievement.name = "Імперія Північного моря";
+achievement.description = "Граючи за Королівство Данія, відновіть кордони володінь короля Канута Великого, завоювавши всю Скандинавію та Англію.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_denmark"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

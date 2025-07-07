@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "World Conquest";
-achievement.description = "Own all regions on the campaign map.";
+achievement.name = "Світове панування";
+achievement.description = "Заволодійте всіма регіонами на карті кампанії.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.
 	"att_reg_aegyptus_alexandria",

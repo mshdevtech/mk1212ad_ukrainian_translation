@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "King of Kings";
-achievement.description = "As the Ghurid Sultanate, Hazaraspid Atabegate, Ildegizid Atabegate, or Salghurid Atabegate, restore the Persian Empire.";
+achievement.name = "Цар царів";
+achievement.description = "Граючи за Гуридський султанат, Атабекство Хазараспідів, Атабекство Ільдегізідів або Атабекство Салгурідів, відновіть Перську імперію.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

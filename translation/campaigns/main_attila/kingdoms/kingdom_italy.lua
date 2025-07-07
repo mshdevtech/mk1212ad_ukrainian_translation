@@ -44,14 +44,14 @@ function Add_Kingdom_Italy_Listeners()
 		Register_Decision(
 			"form_kingdom_italy", 
 			function() 	
-				local conditionstring = "Conditions:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Is an Italian faction.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - The Kingdom of Italy does not yet exist.\n";
+				local conditionstring = "Умови:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Гра за італійську фракцію.\n([[rgba:8:201:27:150]]Y[[/rgba:8:201:27:150]]) - Немає фракції Італійське королівство.\n";
 				local faction_name = cm:get_local_faction();
 
 				if mkHRE then
 					if faction_name == mkHRE.emperor_key then
-						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ви не є імператором Св. Римської імперії.\n";
 					else
-						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not the Holy Roman Emperor.\n";
+						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ви не є імператором Св. Римської імперії.\n";
 					end
 				end
 	
@@ -59,13 +59,13 @@ function Add_Kingdom_Italy_Listeners()
 					local region = cm:model():world():region_manager():region_by_key(REGIONS_ITALY[i]);
 					
 					if region:owning_faction():name() == cm:get_local_faction() then
-						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_ITALY[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_ITALY[i]]..".\n";
 					else
-						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION[REGIONS_ITALY[i]]..".\n";
+						conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION[REGIONS_ITALY[i]]..".\n";
 					end
 				end
 				
-				conditionstring = conditionstring.."\nEffects:\n\n- Become the [[rgba:255:215:0:215]]Kingdom of Italy[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Італійське королівство[[/rgba]].";
 			
 				return conditionstring;
 			end, 

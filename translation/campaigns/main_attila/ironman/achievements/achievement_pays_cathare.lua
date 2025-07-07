@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Pays Cathare";
-achievement.description = "As the County of Tolouse, convert to Cathar Christianity and own all of France.";
+achievement.name = "Край катарів";
+achievement.description = "Граючи за Графство Тулуза, перейдіть у християнство катарів і заволодійте всією Францією.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_toulouse"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

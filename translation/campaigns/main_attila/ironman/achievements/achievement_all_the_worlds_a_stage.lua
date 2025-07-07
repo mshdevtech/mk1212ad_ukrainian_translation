@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "All the World's a Stage";
-achievement.description = "As the Kingdom of England, construct a Grand Theater in Alexandria, Constantinople, London, Paris, Rome, Venice, and Vienna.";
+achievement.name = "Весь світ - театр";
+achievement.description = "Граючи за Королівство Англія, зведіть Великий театр в Олександрії, Константинополі, Лондоні, Парижі, Римі, Венеції та Відні.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredbuildings = {"mk_bld_weskingdoms_civic_major_theater_3"};
 achievement.requiredregionsforbuildings = {

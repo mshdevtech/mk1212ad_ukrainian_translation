@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "The Re-Reconquista";
-achievement.description = "As the Almohad Caliphate or Marinid Sultanate, conquer the entire Iberian peninsula while remaining Islamic.";
+achievement.name = "Ре-Реконкіста";
+achievement.description = "Граючи за Халіфат Альмохадів або Султанат Маринідів, завоюйте весь Піренейський півострів, залишаючись в ісламській вірі.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_almohads", "mk_fact_marinids"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

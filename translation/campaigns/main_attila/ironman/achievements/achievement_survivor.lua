@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "Survivor";
-achievement.description = "Survive 50 turns with the 'This is Total War' challenge enabled.";
+achievement.name = "Той, хто залишився в живих";
+achievement.description = "Переживіть перші 50 ходів у випробуванні 'Це Total War'.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";

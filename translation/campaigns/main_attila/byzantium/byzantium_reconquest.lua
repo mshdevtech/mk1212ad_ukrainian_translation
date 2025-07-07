@@ -52,69 +52,69 @@ function Add_Byzantium_Reconquest_Listeners()
 				local has_regions_greece = Has_Required_Regions(BYZANTINE_EMPIRE_FACTION, BYZ_REGIONS_GREECE);
 				local has_regions_oriens = Has_Required_Regions(BYZANTINE_EMPIRE_FACTION, BYZ_REGIONS_ORIENS);
 			
-				local conditionstring = "Conditions:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Is the Byzantine Empire.\n([[rgba:8:201:27:150]]Y[[/rgba]]) - The Roman Empire does not exist.\n";
+				local conditionstring = "Умови:\n\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Гра за Візантійську імперію.\n([[rgba:8:201:27:150]]Y[[/rgba]]) - Немає фракції Римська імперія.\n";
 			
 				if LATIN_EMPIRE_DEAD == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - The Latin Empire does not exist.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Немає фракції Латинська імперія.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - The Latin Empire does not exist.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Немає фракції Латинська імперія.\n";
 				end
 
 				if mkHRE and HasValue(mkHRE.factions, faction_name) then
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Is not a member of the Holy Roman Empire.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Ваша фракція не є складовою частиною Св. Римської імперії.\n";
 				end
 			
 				if cm:model():world():region_manager():region_by_key("att_reg_thracia_constantinopolis"):owning_faction():name() == BYZANTINE_EMPIRE_FACTION then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION["att_reg_thracia_constantinopolis"]..".\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION["att_reg_thracia_constantinopolis"]..".\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the region of "..REGIONS_NAMES_LOCALISATION["att_reg_thracia_constantinopolis"]..".\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння регіоном "..REGIONS_NAMES_LOCALISATION["att_reg_thracia_constantinopolis"]..".\n";
 				end
 			
 				if has_regions_greece == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Greece.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всією Грецією.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Greece.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всією Грецією.\n";
 				end
 			
 				if has_regions_anatolia == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Anatolia.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всією Анатолією.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Anatolia.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всією Анатолією.\n";
 				end
 			
 				if has_regions_oriens == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of the Levant.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всім Левантом.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of the Levant.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всім Левантом.\n";
 				end
 			
 				if has_regions_egypt == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Egypt.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всім Єгиптом.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Egypt.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всім Єгиптом.\n";
 				end
 				
 				if has_regions_africa == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Tunisia and Tripolitania.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всім Тунісом і Трипотитанією.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Tunisia and Tripolitania.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всім Тунісом і Трипотитанією.\n";
 				end
 			
 				if has_regions_italy == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Italy.\n";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всією Італією.\n";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Italy.\n";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всією Італією.\n";
 				end
 			
 				if has_regions_dalmatia == true then
-					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Own the entirety of Dalmatia.";
+					conditionstring = conditionstring.."([[rgba:8:201:27:150]]Y[[/rgba]]) - Володіння всією Далмацією.";
 				else
-					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Own the entirety of Dalmatia.";
+					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всією Далмацією.";
 				end
 			
-				conditionstring = conditionstring.."\n\nEffects:\n\n- Become the [[rgba:255:215:0:215]]Roman Empire[[/rgba]].";
+				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Римська імперія[[/rgba]].";
 			
 				return conditionstring;
 			end, 

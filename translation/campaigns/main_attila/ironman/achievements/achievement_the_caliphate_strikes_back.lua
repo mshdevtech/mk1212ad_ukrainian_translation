@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "The Caliphate Strikes Back";
-achievement.description = "As the Abbasid Caliphate, restore the borders of the Abbasid Caliphate at its height.";
+achievement.name = "Халіфат завдає удару у відповідь";
+achievement.description = "Граючи за Аббасидський халіфат, відновіть його історичні кордони в період найвищого розквіту.";
 achievement.manual = false; -- Is unlocked during achievement turn start check.
 achievement.requiredfactions = {"mk_fact_abbasids"}; -- The player must be one of these factions.
 achievement.requiredregions = {  -- Regions required for this achievement to unlock.

@@ -9,8 +9,8 @@
 
 local achievement = {};
 
-achievement.name = "The Spice Must Flow";
-achievement.description = "Own all 5 spice port settlements.";
+achievement.name = "Спайс повинен текти, не припиняючись";
+achievement.description = "Контролюйте всі 5 портових поселень із прянощами.";
 achievement.manual = true; -- Is unlocked elsewhere in scripts.
 achievement.unlocked = false;
 achievement.unlocktime = "";
