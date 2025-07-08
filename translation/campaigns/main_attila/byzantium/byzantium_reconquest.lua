@@ -114,7 +114,7 @@ function Add_Byzantium_Reconquest_Listeners()
 					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Володіння всією Далмацією.";
 				end
 			
-				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Римська імперія[[/rgba]].";
+				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]Римська імперія[[/rgba]].";
 			
 				return conditionstring;
 			end, 

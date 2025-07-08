@@ -65,7 +65,7 @@ function Add_Kingdom_Italy_Listeners()
 					end
 				end
 				
-				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Італійське королівство[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]Італійське королівство[[/rgba]].";
 			
 				return conditionstring;
 			end, 

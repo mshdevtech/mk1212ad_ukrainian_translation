@@ -54,7 +54,7 @@ function Add_Kingdom_Poland_Listeners()
 					end
 				end
 			
-				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Королівство Польське[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]Королівство Польське[[/rgba]].";
 			
 				return conditionstring;
 			end, 

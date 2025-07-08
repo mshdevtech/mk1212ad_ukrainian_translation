@@ -55,7 +55,7 @@ function Add_Kingdom_Persia_Listeners()
 					end
 				end
 			
-				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]Перська імперія[[/rgba]].";
+				conditionstring = conditionstring.."\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]Перська імперія[[/rgba]].";
 			
 				return conditionstring;
 			end, 

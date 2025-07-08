@@ -26,7 +26,7 @@ effects_description_mk_effect_dummy_hre_reform_unite	Священна Римсь
 effects_description_mk_effect_dummy_hre_imperial_authority	Зростання імперської влади: %+n%	true
 effects_description_mk_effect_dummy_pope_crusades_enable_recruitment	Можливість найму загонів хрестоносців у католицьких регіонах.	true
 effects_description_mk_effect_pretender_no_desertion	Відсутність втрат через дезертирство.	true
-effects_description_mk_effect_general_religious_ibadi_islam_unrest	Загальний порядок: до %+n від наявності мусульман-ібадитів	true
-effects_description_mk_effect_general_religious_shia_islam_unrest	Загальний порядок: до %+n від наявності мусульман-шиїтів	true
+effects_description_mk_effect_general_religious_ibadi_islam_unrest	Громадський порядок: до %+n від наявності мусульман-ібадитів	true
+effects_description_mk_effect_general_religious_shia_islam_unrest	Громадський порядок: до %+n від наявності мусульман-шиїтів	true
 effects_description_mk_effect_islam_bonus	Дипломатичні відносини: %+n з мусульманськими фракціями	true
-effects_description_mk_effect_general_religious_sunni_islam_unrest	Загальний порядок: до %+n від наявності мусульман-сунітів	true
+effects_description_mk_effect_general_religious_sunni_islam_unrest	Громадський порядок: до %+n від наявності мусульман-сунітів	true

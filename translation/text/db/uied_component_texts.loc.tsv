@@ -543,7 +543,7 @@ uied_component_texts_localised_string_spectate_icon_Tooltip_200027	Ви зали
 uied_component_texts_localised_string_dy_command_Tooltip_6f0041s	Авторитет||Захищає від хитрощів ворожих агентів.	true
 uied_component_texts_localised_string_spectate_icon_Tooltip_480042	Ви віддали управління своїми військами і тепер граєте роль глядача.||Щоб покинути поле бою, виберіть відповідний пункт в меню.	true
 uied_component_texts_localised_string_icon_vassals_client_state_Tooltip_290050rc	Держави-данини||Ці фракції знаходяться під вашим захистом. За це вони кожен хід виплачують вам данину. Крім того, вони зобов'язані захищати вас, якщо хтось оголосить вам війну.	true
-uied_component_texts_localised_string_tx_public-order_lowest_NewState_Text_530076	Найгірший загальний порядок на наступному ході:	true
+uied_component_texts_localised_string_tx_public-order_lowest_NewState_Text_530076	Найгірший громад. порядок на наступ. ході:	true
 uied_component_texts_localised_string_treasury_icon_Tooltip_560030	Стан скарбниці	true
 uied_component_texts_localised_string_stat1_Tooltip_60058	За розміщенням	true
 uied_component_texts_localised_string_slider_inactive_Tooltip_3e006f	Ви можете змінювати податки тільки протягом свого ходу.	true
@@ -1310,7 +1310,7 @@ uied_component_texts_localised_string_demand_hostage_tx_NewState_Text_5f001b	В�
 uied_component_texts_localised_string_government_screen_button_close_Tooltip_1f0049	Закрити	true
 uied_component_texts_localised_string_icon_allies_NewState_Tooltip_530008n	Їхні оборонні союзники||У разі оголошення війни ці фракції з великою ймовірністю стануть на бік вашого партнера по переговорах. Якщо у фракції багато сильних союзників, будьте з нею обережні.	true
 uied_component_texts_localised_string_tx_loyalty_honour_honour_Tooltip_530021	Честь дайме впливає на вірність його воєначальників, славу дому і дипломатичні перспективи.||Честь приносять перемоги, здобуті особисто даймё.||Розгромні поразки і неблагородні вчинки позбавляють честі.	true
-uied_component_texts_localised_string_sort_happiness_Tooltip_5a0034	За рівнем загального порядку	true
+uied_component_texts_localised_string_sort_happiness_Tooltip_5a0034	За рівнем громадського порядку	true
 uied_component_texts_localised_string_button_occupy_Tooltip_4a0041	Occupy.\\n\\nPLACEHOLDER OCCUPY DESCRIPTION\\n\\n	true
 uied_component_texts_localised_string_replenish_icon_attrition_Tooltip_610001	Цей загін несе небойові втрати через облогу.	true
 uied_component_texts_localised_string_button_release_Tooltip_3a006dw	Відпустити полонених||Ваш ворог і його союзники ставитимуться до вас більш прихильно, якщо ви відпустите полонених, захоплених у цьому бою.	true
@@ -2162,7 +2162,7 @@ uied_component_texts_localised_string_string_active_Text_3b	Епоха Карл�
 uied_component_texts_localised_string_heading_txt_newstate_Text_49001d	Вибрати карту	true
 uied_component_texts_localised_string_tx_upkeep_building_Tooltip_100052	Витрати на утримання будівель	true
 uied_component_texts_localised_string_Text_MainState_Text_780042	Повідомлення про подію	true
-uied_component_texts_localised_string_dy_date_last_NewState_Text_130004	Попередній хід	true
+uied_component_texts_localised_string_dy_date_last_NewState_Text_130004	Поп. хід	true
 uied_component_texts_localised_string_Level_3_Tooltip_6c0041w	3-й ранг персонажа	true
 uied_component_texts_localised_string_Level_3_Tooltip_6c0041t	3-й ранг загону	true
 uied_component_texts_localised_string_heading_txt_load_Text_61002af	Налаштування бою	true
@@ -2285,7 +2285,7 @@ uied_component_texts_localised_string_cycle_button_parent_NewState_Tooltip_48006
 uied_component_texts_localised_string_accuracy_2_Tooltip_180010	Відмінна влучність	true
 uied_component_texts_localised_string_tx_recruitment_options_Satrapy_Text_130060e	Новобранці з маріонеткової держави	true
 uied_component_texts_localised_string_accuracy_1_Tooltip_1e001d	Хороша влучність	true
-uied_component_texts_localised_string_tx_starting_treasury_NewState_Text_380017x	Скарбниця на початок ходу	true
+uied_component_texts_localised_string_tx_starting_treasury_NewState_Text_380017x	Скарбниця на поч. ходу	true
 uied_component_texts_localised_string_button_txt_sea_Text_53000c	Зберегти флот	true
 uied_component_texts_localised_string_button_autoresolve_Tooltip_6f0026	Авторозрахунок штурму||Якщо противник істотно поступається вам і перемога очевидна, ви можете автоматично розрахувати результат штурму і здобути швидку перемогу.	true
 uied_component_texts_localised_string_button_txt_sea_Text_5c0004	Завантажити флот	true

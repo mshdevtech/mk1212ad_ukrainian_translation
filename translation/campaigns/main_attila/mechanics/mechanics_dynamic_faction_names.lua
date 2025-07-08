@@ -62,7 +62,7 @@ function Add_Dynamic_Faction_Names_Listeners()
 				end
 			
 				conditionstring = conditionstring.."(Поточне число: "..tostring(num_regions)..")";
-				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення у фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl2"].."[[\rgba]].";
+				conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl2"].."[[\rgba]].";
 			
 				return conditionstring;	
 			end, 
@@ -90,7 +90,7 @@ function Add_Dynamic_Faction_Names_Listeners()
 					conditionstring = conditionstring.."([[rgba:255:0:0:150]]X[[/rgba]]) - Контролюйте "..tostring(NUM_REQUIRED_REGIONS_LVL3).." регіони(ів).\n";
 				end
 			
-				conditionstring = conditionstring.."(Текущее число: "..tostring(num_regions)..")";
+				conditionstring = conditionstring.."(Поточне число: "..tostring(num_regions)..")";
 			
 				if FACTIONS_DFN_LEVEL[faction_name] == 4 then
 					conditionstring = conditionstring.."\n\nРезультат:\n\n- Перетворення на фракцію [[rgba:255:215:0:215]]"..DFN_NAMES_LOCALISATION[faction_name.."_lvl5"].."[[\rgba]].";
