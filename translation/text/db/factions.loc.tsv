@@ -298,7 +298,7 @@ factions_screen_name_when_rebels_cha_fact_separatist_avars	Аварські бу
 factions_screen_name_att_fact_gauti	Гети	true
 factions_senator_text_lose_n_mk_fact_smolensk	Підтримка знаті: -%n	true
 factions_senator_text_gain_1_mk_fact_hungary	Підтримка сенаторів: +%n	true
-factions_screen_adjective_mk_fact_hazaraspids	Хазараспиди	true
+factions_screen_adjective_mk_fact_hazaraspids	Хазараспіди	true
 factions_senator_text_lose_n_mk_fact_lorraine	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_1_mk_fact_georgia	Підтримка сенаторів: -%n	true
 factions_senator_text_n_out_of_n_mk_fact_pisa	%n з %n сенаторів	true
@@ -3624,7 +3624,7 @@ factions_screen_name_mk_fact_separatists_hre	Імперські самозван
 factions_screen_name_when_rebels_mk2_fact_whitehorde	Білоординські бунтівники	true
 factions_screen_name_when_shogun_cha_fact_rebel_welsh	placeholder	true
 factions_senator_text_gain_n_bel_fact_basques	Підтримка вождів: +%n	true
-factions_screen_adjective_mk2_fact_hazaraspids	Хазараспиди	true
+factions_screen_adjective_mk2_fact_hazaraspids	Хазараспіди	true
 factions_senator_text_gain_1_mk2_fact_kartids	Підтримка придворних: +%n	true
 factions_screen_name_when_rebels_att_fact_rebel_slavs	Слов'янські бунтівники	true
 factions_screen_name_when_shogun_cha_fact_rebel_irish	placeholder	true
@@ -4645,7 +4645,7 @@ factions_defend_desc_mk_fact_separatists_marinids	На вас напали ма�
 factions_screen_name_mk2_fact_separatists_candar	Джандаридські самозванці	true
 factions_defend_desc_mk2_fact_separatists_epirus	На вас напали епірські самозванці!	true
 factions_defend_desc_mk_fact_separatists_burgundy	На вас напали бургундські самозванці!	true
-factions_screen_adjective_mk2_fact_separatists_hazaraspids	Хазараспиди	true
+factions_screen_adjective_mk2_fact_separatists_hazaraspids	Хазараспіди	true
 factions_senator_text_gain_1_mk2_fact_separatists_kartids	Підтримка придворних: +%n	true
 factions_attack_desc_mk2_fact_separatists_aragon	Ви напали на арагонських самозванців!	true
 factions_screen_name_when_shogun_mk2_fact_poland	placeholder	true
