@@ -121,7 +121,7 @@ effects_description_att_effect_faction_trait_norse_geats_cold_blood_2_immune_sno
 effects_description_att_effect_force_army_campaign_recruitment_cost_infantry	Вартість найму: %+n% для піхоти	true
 effects_description_mk_effect_food_production_poor_fertility	Додаткова їжа: %+n у всіх неродючих регіонах.	true
 effects_description_att_effect_suebi_dummy	Утримання: %+n% на 10 ходів для будь-якої армії, що грабує або спустошує поселення.	true
-effects_description_att_effect_edict_zoroastrian_teachings_religious_tolerance_mod	Едикт «Вчення Заратустри». Штраф до загального порядку через інші релігії: %+n%	true
+effects_description_att_effect_edict_zoroastrian_teachings_religious_tolerance_mod	Едикт «Вчення Заратустри». Штраф до громад. порядку через інші релігії: %+n%	true
 effects_description_mk_faction_trait_castile_2_sunni	Іберійські хрестоносці. Бойовий дух: %+n в боях з фракціями сунітів	true
 effects_description_att_effect_force_army_battle_unit_morale_during_forest	Бойовий дух: %+n в лісі	true
 effects_description_att_effect_agent_action_success_chance	Шанс на успіх: %+n%	true
@@ -425,7 +425,7 @@ effects_description_mk_faction_trait_venice_3	Королева Адріатик�
 effects_description_mk_faction_trait_venice_2	Венеціанський Арсенал: чисельність морських військ +1, а також можливість наймати проф. військові кораблі в торгових портах	true
 effects_description_mk_faction_trait_venice_1	Колонії Венеції. Дохід: %+n% від васальних держав	true
 effects_description_mk_faction_trait_zengid_1	Руїни Едеси та Антіохії. Бойовий дух противника: %+n в боях з християнськими фракціями	true
-effects_description_mk_faction_trait_zengid_3	Перехрестя культури і віри. Штраф до загального порядку: %+n% через присутність інших релігій	true
+effects_description_mk_faction_trait_zengid_3	Перехрестя культури і віри. Штраф до громад. порядку: %+n% через присутність інших релігій	true
 effects_description_mk_faction_trait_zengid_2	Мосульські майстерні: вартість будівництва для ресурсних і виробничих споруд %+n%, а також багатство від виробництва +10%	true
 effects_description_att_effect_force_all_campaign_military_morale_factor_buildings	Згуртованість: %+n	true
 effects_description_mk_faction_trait_zengid_4	Держава-обрубок. Авторитет: %+n	true
@@ -463,7 +463,7 @@ effects_description_att_effect_general_bodyguard_mod_battle_movement_speed	Шв�
 effects_description_mk_faction_trait_poland_4	Роз'єднаність Пястів. Авторитет: %+n	true
 effects_description_mk_faction_trait_poland_3	Німецькі поселенці: вартість будівництва %+n%, а також приріст чисельності іноземців +0.5%	true
 effects_description_mk_faction_trait_poland_2	Стрільці: швидкострільність %+n% і вартість утримання -10% для стрілецької кінноти	true
-effects_description_mk_faction_trait_poland_1	Королівське місто Краків: багатство від місцевої торгівлі %+n%, а також відсутність витрат на зведення і штрафів до загального порядку для єврейських будівель	true
+effects_description_mk_faction_trait_poland_1	Королівське місто Краків: багатство від місцевої торгівлі %+n%, а також відсутність витрат на зведення і штрафів до громад. порядку для єврейських будівель	true
 effects_description_att_effect_food_production_farming_grain	Їжа: %+n від землеробства	true
 effects_description_att_effect_force_army_campaign_stance_growth_all_dummy	Зростання: %+n в провінції нальоту	true
 effects_description_att_effect_faction_trait_barbarian_saxon_saxon_shore_2_morale_for_raiding	Згуртованість: %+n при нальоті	true
@@ -744,7 +744,7 @@ effects_description_att_effect_economy_gdp_mod_commerce_land	Багатство:
 effects_description_att_effect_general_religious_zoroastrian_unrest	Громад. порядок: до %+n від наявності зороастрійців	true
 effects_description_att_effect_faction_trait_barbarian_langobard_1	Визволителі. Подвоєне поповнення військ після битви за рахунок переможеної армії.	true
 effects_description_att_effect_faction_trait_barbarian_langobard_2	Гнів нашого бога. Бойовий дух: %+n проти армій, що сповідують іншу релігію	true
-effects_description_att_effect_food_production_fertility_neighbouring	одиниця додаткової їжі: %+n за кожен рівень родючості	true
+effects_description_att_effect_food_production_fertility_neighbouring	од. додаткової їжі: %+n за кожен рівень родючості	true
 effects_description_mk_effect_unit_training_attack_cavalry	Тренування атаки в ближньому бою: %+n для нових загонів кінноти	true
 effects_description_att_effect_diplomacy_bonus_minor	Дипломатія: невелика перевага з усіма	true
 effects_description_att_effect_province_food_events	Їжа: %+n через недавні події	true
@@ -918,7 +918,7 @@ effects_description_att_effect_character_gravitas_per_turn_dummy	Особист�
 effects_description_att_effect_siege_engine_number_siege_tower_15m_heavy	15-метрові важкі облогові вежі за кожну облогову машину: %n	true
 effects_description_cha_effect_religion_conversion_tengri_faction	Релігійний вплив: %+n для культу Тенгрі	true
 effects_description_att_effect_religion_conversion_tengri_faction	Релігійний вплив: %+n для культу Тенгрі	true
-effects_description_att_effect_food_production_fertility	одиниця додаткової їжі: %+n за кожен рівень родючості	true
+effects_description_att_effect_food_production_fertility	од. додаткової їжі: %+n за кожен рівень родючості	true
 effects_description_att_effect_morale_against_paganism	Бойовий дух: %+n проти фракцій сунітів	true
 effects_description_att_effect_religion_conversion_other	Релігійний вплив: %+n для католицьких єресей	true
 effects_description_att_effect_agent_action_enable_dignitary_assist_army_inspire_troops	Доступ: [[col:yellow]]Натхнення військ[[/col]]	true
@@ -1608,7 +1608,7 @@ effects_description_mk_faction_trait_lorraine_2	Торгівля в Рейнла
 effects_description_mk_faction_trait_lorraine_3	Сепаратизм Меца. Громадський порядок: %+n від місцевого сепаратизму	true
 effects_description_mk_faction_trait_lorraine_1	Прихильність «сусідських судів». Дип. відносини: %+n із західноєвропейськими фракціями	true
 effects_description_att_effect_siege_engine_number_siege_tower_8m_medium	8-метрові середні облогові вежі за кожну облогову машину: %n	true
-effects_description_att_effect_economy_gdp_fertility_livestock	одиниця додаткового багатства: %+n від тваринництва за кожен рівень родючості	true
+effects_description_att_effect_economy_gdp_fertility_livestock	од. додаткового багатства: %+n від тваринництва за кожен рівень родючості	true
 effects_description_att_effect_sanitation_events	Санітарія: %+n	true
 effects_description_att_faction_trait_axum_food	Поставки припасів. Їжа: %+n від кожного діючого торгового шляху (максимум: 150)	true
 effects_description_att_effect_force_army_battle_enable_defensive_deployables_fortification_rome	Дає невеликий набір оборонних засобів у разі нападу ворога	true
