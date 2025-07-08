@@ -364,13 +364,13 @@ random_localisation_strings_string_siege_tab	Облога	true
 random_localisation_strings_string_skills_num_points	оч. в умінні	true
 random_localisation_strings_string_blockaded	У блокаді	true
 random_localisation_strings_string_character_situation_cunning_bribe	Хабарництво	true
-random_localisation_strings_string_mk_dif_lat	[[col:dark_r]]Дуж. висок.[[/col]], ворожі сусідні фракції	true
+random_localisation_strings_string_mk_dif_lat	[[col:dark_r]]Дуж. висок.[[/col]], ворож. сусід. фракції	true
 random_localisation_strings_string_mk_dif_mar	[[col:yellow]]Середн.[[/col]], в міграції	true
 random_localisation_strings_string_mk_dif_cas	[[col:green]]Низьк.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_prebattle_reinforcing_army	Посилює військо	true
-random_localisation_strings_string_mk_dif_haf	[[col:yellow]]Середн.[[/col]], васальна держава	true
+random_localisation_strings_string_mk_dif_haf	[[col:yellow]]Середн.[[/col]], васал. держава	true
 random_localisation_strings_string_mk_dif_zag	[[col:red]]Висок.[[/col]], в ізоляції	true
-random_localisation_strings_string_mk_dif_wal	[[col:dark_r]]Дуж. висок.[[/col]], васальна держава	true
+random_localisation_strings_string_mk_dif_wal	[[col:dark_r]]Дуж. висок.[[/col]], васал. держава	true
 random_localisation_strings_string_mk_dif_mak	[[col:red]]Висок.[[/col]], в ізоляції	true
 random_localisation_strings_string_technology_status_being_researched	text_rejected	true
 random_localisation_strings_string_network_error_host	Не вдалося створити гру	true
@@ -414,7 +414,7 @@ random_localisation_strings_string_damaged	Пошкоджено	true
 random_localisation_strings_string_retreat	Відступити	true
 random_localisation_strings_string_marines	text_rejected	true
 random_localisation_strings_string_manoeuverability_medium	Середн.	true
-random_localisation_strings_string_mk_dif_abb	[[col:yellow]]Середн.[/col]], сильна дипломатія	true
+random_localisation_strings_string_mk_dif_abb	[[col:yellow]]Середн.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_stats_clan_current_highest_ranked_solo_clan_mbr_na	text_rejected	true
 random_localisation_strings_string_audio_provider_srs_circle_surround	SRS Circle	true
 random_localisation_strings_string_mission_reward_enable_unit	Дозволяє найм:	true
@@ -449,14 +449,14 @@ random_localisation_strings_string_mission_issued_make_peace	Укласти ми
 random_localisation_strings_string_recruitment_unavailable	Цей загін недоступний з наступних причин:	true
 random_localisation_strings_string_trade_node_tooltip_supply_to_you	доставлено до вашої столиці	true
 random_localisation_strings_string_gfx_low	Низьк.	true
-random_localisation_strings_string_mk_dif_tou	[[col:red]]Висок.[[/col]], Альбігойський хрест. похід	true
+random_localisation_strings_string_mk_dif_tou	[[col:red]]Висок.[[/col]], Альбіг. хрест. похід	true
 random_localisation_strings_string_mk_dif_lor	[[col:yellow]]Середн.[[/col]]	true
 random_localisation_strings_string_mk_dif_nor	[[col:yellow]]Середн.[[/col]], в міграції	true
 random_localisation_strings_string_mk_dif_por	[[col:green]]Низьк.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_gfx_custom	На вибір	true
 random_localisation_strings_string_mk_dif_gol	[[col:yellow]]Середн.[[/col]], кочівники	true
 random_localisation_strings_string_mk_dif_pol	[[col:yellow]]Середн.[[/col]]	true
-random_localisation_strings_string_mk_dif_vol	[[col:red]]Висок.[[/col]], монгольське вторгнення	true
+random_localisation_strings_string_mk_dif_vol	[[col:red]]Висок.[[/col]], монгол. вторгнення	true
 random_localisation_strings_string_mk_dif_boh	[[col:yellow]]Середн.[[/col]]	true
 random_localisation_strings_string_right_click_info	ПКМ - дізнатися більше	true
 random_localisation_strings_string_ping_none	Немає маркера	true
@@ -471,7 +471,7 @@ random_localisation_strings_string_Campaign_button_end_turn_summer	Літо	true
 random_localisation_strings_string_tile_upgrade_none	Ні	true
 random_localisation_strings_string_town_commercial	Поселення (торговий центр)	true
 random_localisation_strings_string_mk_dif_ant	[[col:dark_r]]Дуж. висок.[[/col]], могутній ворог	true
-random_localisation_strings_string_mk_dif_eng	[[col:dark_g]]Дуж. низьк.[[/col]], острівний гегемон	true
+random_localisation_strings_string_mk_dif_eng	[[col:dark_g]]Дуж. низьк.[[/col]], острів. гегемон	true
 random_localisation_strings_string_campaign_type_co_op_long	Тривала спільна гра	true
 random_localisation_strings_string_quick_battle_fail	Не вдалося підключитися до швидкого бою	true
 random_localisation_strings_string_region_specialty_horses	text_rejected	true
@@ -484,7 +484,7 @@ random_localisation_strings_string_mk_dif_lit	[[col:red]]Висок.[[/col]], я
 random_localisation_strings_string_stats_clan_current_highest_ranked_solo_clan_member	text_rejected	true
 random_localisation_strings_string_mk_dif_pis	[[col:green]]Низьк.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_mk_dif_kie	[[col:yellow]]Середн.[[/col]]	true
-random_localisation_strings_string_mk_dif_nic	[[col:yellow]]Середн.[[/col]], ворожі сусідні фракції	true
+random_localisation_strings_string_mk_dif_nic	[[col:yellow]]Середн.[[/col]], ворож. сусід. фракції	true
 random_localisation_strings_string_mk_dif_sic	[[col:yellow]]Середн.[[/col]]	true
 random_localisation_strings_string_mission_objectives	Мета:	true
 random_localisation_strings_string_mk_dif_mil	[[col:yellow]]Середн.[[/col]]	true
@@ -495,7 +495,7 @@ random_localisation_strings_string_military_force_legacy_name_garrison_army	Ар
 random_localisation_strings_string_influence	Вплив:	true
 random_localisation_strings_string_round_id_january	Січень	true
 random_localisation_strings_string_StratHudbutton_cannot_navy_repair_nocash	Ремонт неможливий||У вас недостатньо коштів.||Розпустіть непотрібні війська або підвищіть податки, щоб збільшити дохід.	true
-random_localisation_strings_string_mk_dif_khw	[[col:red]]Висок.[[/col]], монгольське вторгнення	true
+random_localisation_strings_string_mk_dif_khw	[[col:red]]Висок.[[/col]], монгол. вторгнення	true
 random_localisation_strings_string_mk_dif_ghu	[[col:red]]Висок.[[/col]], в ізоляції	true
 random_localisation_strings_string_military_force_legacy_name_transport_fleet	Вантажний флот	true
 random_localisation_strings_string_quick_save	Швидке збереження	true
@@ -542,7 +542,7 @@ random_localisation_strings_string_technology_bonuses_tooltip	Швидкість
 random_localisation_strings_string_technology_status_unavailable_tech	text_rejected	true
 random_localisation_strings_string_mk_dif_hun	[[col:green]]Низьк.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_mk_dif_bul	[[col:yellow]]Середн.[[/col]]	true
-random_localisation_strings_string_mk_dif_cum	[[col:dark_r]]Дуж. висок.[[/col]], монгольське вторгнення	true
+random_localisation_strings_string_mk_dif_cum	[[col:dark_r]]Дуж. висок.[[/col]], монгол. вторгнення	true
 random_localisation_strings_string_mk_dif_rum	[[col:red]]Висок.[[/col]], реліг. заворушення	true
 random_localisation_strings_string_agent_help_string_incite_rebels	Неможливо підбурювати до бунту в повсталій провінції.	true
 random_localisation_strings_string_unit_concerned_casualties	Зазнали втрат	true
@@ -616,7 +616,7 @@ random_localisation_strings_string_resource_tariffs	Мита	true
 random_localisation_strings_string_trade_route_tooltip_other_factions	Інше	true
 random_localisation_strings_string_agents_tab	Агенти	true
 random_localisation_strings_string_gfx_filtering_ani4x	Анізотр. 4x	true
-random_localisation_strings_string_mk_dif_epi	[[col:red]]Висок.[[/col]], ворожі сусідні фракції	true
+random_localisation_strings_string_mk_dif_epi	[[col:red]]Висок.[[/col]], ворож. сусід. фракції	true
 random_localisation_strings_string_battle_filter_clan	Кланові битви	true
 random_localisation_strings_string_unit_concerned_enemy_controls_land	Ворог контролює сушу - потрібно висадитися!	true
 random_localisation_strings_string_technology_not_yet_researched_for_this_unit_type	text_rejected	true
@@ -635,13 +635,13 @@ random_localisation_strings_string_predicted_income	Прогнозований �
 random_localisation_strings_string_network_message_content_not_owned	Ви виключені з гри, оскільки адміністратор вибрав мапу, для якої у вас немає завантажених матеріалів.	true
 random_localisation_strings_string_town_industrial	text_rejected	true
 random_localisation_strings_string_art_active	ЛКМ - вивчити цю технологію.	true
-random_localisation_strings_string_mk_dif_hre	[[col:red]]Висок.[[/col]], ворожі сусідні фракції	true
+random_localisation_strings_string_mk_dif_hre	[[col:red]]Висок.[[/col]], ворож. сусід. фракції	true
 random_localisation_strings_string_mk_dif_tre	[[col:yellow]]Середн.[[/col]]	true
 random_localisation_strings_string_cpu_player	ШІ %d	true
 random_localisation_strings_string_mk_dif_ara	[[col:yellow]]Середн.[[/col]], сильна дипломатія	true
 random_localisation_strings_string_mk_dif_bra	[[col:yellow]]Середн.[[/col]]	true
 random_localisation_strings_string_mk_dif_fra	[[col:green]]Низьк.[[/col]], велика територія	true
-random_localisation_strings_string_mk_dif_cro	[[col:red]]Висок.[[/col]], васальна держава	true
+random_localisation_strings_string_mk_dif_cro	[[col:red]]Висок.[[/col]], васал. держава	true
 random_localisation_strings_string_one_minute	1 хв.	true
 random_localisation_strings_string_mk_dif_arm	[[col:red]]Висок.[[/col]], реліг. заворушення	true
 random_localisation_strings_string_mk_dif_tri	[[col:yellow]]Середн.[[/col]]	true
@@ -746,7 +746,7 @@ random_localisation_strings_string_character_role_politician	Держ. діяч	
 random_localisation_strings_string_FACTION_FOOD_FACTOR_POOR_FERTILITY_BONUS	Особливість фракції	true
 random_localisation_strings_string_leaderboard_no_entries_returned	Записів не знайдено.	true
 random_localisation_strings_string_multiplayer_waiting_load	Чекаємо завершення завантаження інших гравців...	true
-random_localisation_strings_string_mk_dif_aze	[[col:red]]Висок.[[/col]], ворожі сусідні фракції	true
+random_localisation_strings_string_mk_dif_aze	[[col:red]]Висок.[[/col]], ворож. сусід. фракції	true
 random_localisation_strings_string_CARD_STAT_BEST_4V4_LADDER_PLACEMENT_NAVAL	Кращий абордаж 4 на 4	true
 random_localisation_strings_string_gfx_downgraded	УВАГА! Якість графіки знижена через брак відеопам'яті. Увімкніть параметр «Необмежена відеопам'ять» в меню додаткових параметрів графіки. Якщо продуктивність гри знизиться, вимкніть його і зменшіть якість текстур.	true
 random_localisation_strings_string_morale	Бойовий дух	true

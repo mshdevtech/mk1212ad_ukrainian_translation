@@ -198,7 +198,7 @@ function OnComponentMouseOn_Population_UI(context)
 		local queue_number = string.gsub(context.string, "LandUnit ", "");
 
 		if tonumber(queue_number) > 0 and merc_icon_uic:Visible() == false and LAST_CHARACTER_SELECTED:faction():is_horde() == false then
-			local newToolTip = oldToolTip.."\n\nВикористовувана кількість людей: "..strength_number.."\n\nЛКМ - вибрати.";
+			local newToolTip = oldToolTip.."\n\nВикористано населення: "..strength_number.."\n\nЛКМ - вибрати.";
 			UIComponent(context.component):SetTooltipText(newToolTip);
 		else
 			local newToolTip = oldToolTip.."\n\nЛКМ - вибрати.";
@@ -288,7 +288,7 @@ function OnComponentLClickUp_Population_UI(context)
 		local queue_number = string.gsub(context.string, "LandUnit ", "");
 
 		if tonumber(queue_number) > 0 and merc_icon_uic:Visible() == false and LAST_CHARACTER_SELECTED:faction():is_horde() == false then
-			local newToolTip = oldToolTip.."\n\nВикористовувана кількість людей: "..strength_number.."\n\nЛКМ - вибрати.";
+			local newToolTip = oldToolTip.."\n\nВикористано населення: "..strength_number.."\n\nЛКМ - вибрати.";
 			UIComponent(context.component):SetTooltipText(newToolTip);
 		else
 			local newToolTip = oldToolTip.."\n\nЛКМ - вибрати.";

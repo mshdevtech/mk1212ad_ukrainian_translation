@@ -119,7 +119,7 @@ uied_component_texts_localised_string_button_tx_war_Text_3a0026D	Оголоси�
 uied_component_texts_localised_string_tx_descr_NewState_Text_520029	Підходить для збалансованих армій	true
 uied_component_texts_localised_string_dy_left_NewState_Text_2d0012	Торговий шлях	true
 uied_component_texts_localised_string_payment_description_gift_Text_7b000cf	Дарунки дозволяють поліпшити відносини з фракцією, якщо їх запропонувати без будь-яких вимог (в іншому випадку вони розглядаються як виплати).	true
-uied_component_texts_localised_string_tx_initial_challenge:_NewState_Text_670040	Баз. рівень:	true
+uied_component_texts_localised_string_tx_initial_challenge:_NewState_Text_670040	Баз. складн.:	true
 uied_component_texts_localised_string_tab_army_Tooltip_380012	Армія	true
 uied_component_texts_localised_string_tx_admin_costs_NewState_Text_150063g	> Корупція	true
 uied_component_texts_localised_string_button_migrate_active_Tooltip_1c0007	Почавши переселення, ви покинете всі поселення своєї країни і перетворите армії на орди.	true
@@ -415,7 +415,7 @@ uied_component_texts_localised_string_tx_title_default_Text_430009	Шлюбни�
 uied_component_texts_localised_string_button_flip_sides_Tooltip_670018sr	Поміняти місцями нападників і захисників	true
 uied_component_texts_localised_string_tx_battle_options_NewState_Text_590076n	Налаштування битви	true
 uied_component_texts_localised_string_region_name_contested_Tooltip_90027	Спірна провінція	true
-uied_component_texts_localised_string_dy_name_NewState_Text_5d0024	Роки:	true
+uied_component_texts_localised_string_dy_name_NewState_Text_5d0024	Вік:	true
 uied_component_texts_localised_string_StatusIcon_Unorderable_Tooltip_53003c	Некеровані	true
 uied_component_texts_localised_string_label_change_note_NewState_Text_7a0075	Всі зміни набудуть чинності на початку наступної трансляції.	true
 uied_component_texts_localised_string_icon_Tooltip_240031qvfj	Загальна кількість робітників||Робітники потрібні для будівництва облогових машин. Їх кількість залежить від розміру армії: чим вона більша, тим більше в ній робітників. Це кількість робітників, які будуть доступні протягом облоги.	true
@@ -710,7 +710,7 @@ uied_component_texts_localised_string_tx_faction_leader_NewState_Text_290070	Л�
 uied_component_texts_localised_string_button_txt_NewState_Text_47001ea	Почати	true
 uied_component_texts_localised_string_experience_points_NewState_Text_500058	Оп	true
 uied_component_texts_localised_string_realism_mode_tx_Tooltip_630019	Реалістичність битв||Якщо цей параметр увімкнено, вам доведеться вести битви без міні-карти та контекстних підказок. Ви також не зможете віддавати накази, коли гра зупинена.||Крім того, камера не зможе віддалятися від будь-якого загону далі, ніж на 200 метрів, а ворожі війська на відстані більше 600 метрів будуть невидимі.	true
-uied_component_texts_localised_string_tx_finance_NewState_Text_7d0055	Торгівля і фінанси	true
+uied_component_texts_localised_string_tx_finance_NewState_Text_7d0055	Торгівля та фінанси	true
 uied_component_texts_localised_string_tx_gravitas_Tooltip_d0031	Харизма відображає важливість персонажа і впливає на те, який вплив він чинить на свою партію. Чим вища харизма, тим більша ймовірність, що вплив персонажа зросте.	true
 uied_component_texts_localised_string_tx_income_annual_Tooltip_30005d	Ця сума надійде до вашої скарбниці на наступному ході.||Вона обчислюється на основі перерахованих вище доходів і витрат.	true
 uied_component_texts_localised_string_tx_units_recruited_NewState_Text_57006d	Найняті загони (всього/кінь/піхота/осадні)	true
@@ -832,7 +832,7 @@ uied_component_texts_localised_string_button_assemble_fleet_Tooltip_46001a	Зі�
 uied_component_texts_localised_string_tx_vassals_tx_satrapy_of_Text_250050	Маріонетка:	true
 uied_component_texts_localised_string_dy_wealth_Tooltip_42002bs	Обсяг їжі, який виробляє або споживає провінція.	true
 uied_component_texts_localised_string_panel_heading_host_campaign_Text_4b0070t	Створити кімнату чату	true
-uied_component_texts_localised_string_age_parent_NewState_Text_5d0024	Роки:	true
+uied_component_texts_localised_string_age_parent_NewState_Text_5d0024	Вік:	true
 uied_component_texts_localised_string_construction_button_Tooltip_a0037	Будівництво	true
 uied_component_texts_localised_string_click_text_NewState_Text_770029rr	ЛКМ - вибрати; клацніть двічі, щоб наблизитися до точки.	true
 uied_component_texts_localised_string_tx_war_delcared_declare_war_Text_3a0006	Війна	true
@@ -1380,7 +1380,7 @@ uied_component_texts_localised_string_label_txt_NewState_Text_520005	DRA	true
 uied_component_texts_localised_string_label_txt_NewState_Text_7b002e	Тіні	true
 uied_component_texts_localised_string_label_txt_NewState_Text_790023	Ліміт часу:	true
 uied_component_texts_localised_string_button_txt_newstate_Text_2f0054	Автори	true
-uied_component_texts_localised_string_diplomacy_attitude_faction_Tooltip_d0025	Відношення	true
+uied_component_texts_localised_string_diplomacy_attitude_faction_Tooltip_d0025	Ставлення	true
 uied_component_texts_localised_string_label_tx_NewState_Tooltip_4b0062j	Увімкніть цей параметр для імітації тремтіння теплого повітря та інших ефектів спотворення.||Якщо продуктивність гри недостатньо висока, спробуйте вимкнути цей параметр.	true
 uied_component_texts_localised_string_attacker_defender_title_attacking_Text_100058	Нападники	true
 uied_component_texts_localised_string_button_ungroup_Tooltip_530031	Розпустити групу	true
@@ -2397,7 +2397,7 @@ uied_component_texts_localised_string_row_header_tx_income_Text_640047	Дохо�
 uied_component_texts_localised_string_tx_fertility_NewState_Text_1d002e	Родючість:	true
 uied_component_texts_localised_string_button_next_battle_Tooltip_220009	Наступне навчальне відео	true
 uied_component_texts_localised_string_tx_subtitle_NewState_Text_740056	Навички	true
-uied_component_texts_localised_string_row_subheader_tx_trade_Text_160050	Торгівля	true
+uied_component_texts_localised_string_row_subheader_tx_trade_Text_160050	Торг.	true
 uied_component_texts_localised_string_tx_subtitle_NewState_Text_7e005b	Традиції	true
 uied_component_texts_localised_string_tx_subtitle_NewState_Text_680041	Особливості	true
 uied_component_texts_localised_string_button_activate_slot_Tooltip_6a006bte	Розширити місто||Ви можете розширити місто, щоб побудувати нові будівлі.	true
@@ -2552,7 +2552,7 @@ uied_component_texts_localised_string_button_game_Tooltip_450016	Канал іг
 uied_component_texts_localised_string_label_txt_default_Text_4e0032h	Великі армії	true
 uied_component_texts_localised_string_add_offer_button_inactive_Tooltip_7f000a	Дипломатичні можливості недоступні.||Це може бути викликано рядом причин: наприклад, статусом протекторату або данника, а також іншими особливими відносинами між фракціями.	true
 uied_component_texts_localised_string_tx_ships_sunk_NewState_Text_260054	Потоплено кораблів	true
-uied_component_texts_localised_string_tx_NewState_Text_d0025	Відношення	true
+uied_component_texts_localised_string_tx_NewState_Text_d0025	Ставл.	true
 uied_component_texts_localised_string_tx_war_delcared_30_Text_a000c	Розірвати оборонний союз з...	true
 uied_component_texts_localised_string_heading_tx_NewState_Text_c0038	Досягнення	true
 uied_component_texts_localised_string_string_inactive_Text_1b	Епоха Карла Великого	true
