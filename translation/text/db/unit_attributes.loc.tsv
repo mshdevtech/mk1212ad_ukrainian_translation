@@ -2,7 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/unit_attributes.loc		
 unit_attributes_bullet_text_cant_run	Не бігають||Ці бійці не можуть перейти на біг і пересуваються тільки кроком.	true
 unit_attributes_bullet_text_scare_elephant	Лякають слонів||Цей загін може змусити втекти бойових слонів.	true
-unit_attributes_bullet_text_raider	Нальотчик||Може автоматично підпалювати споруди.	true
+unit_attributes_bullet_text_raider	Нальотник||Може автоматично підпалювати споруди.	true
 unit_attributes_bullet_text_ignore_ground_move_mod	Не сповільнюються||Швидкість пересування цього загону не залежить від типу місцевості.	true
 unit_attributes_bullet_text_all_ranks_fire	Стріляють всі ряди||Всі воїни цього загону можуть вести вогонь зі зброї, яка зазвичай дозволяє стріляти тільки першому ряду бійців.	true
 unit_attributes_bullet_text_campaign_stealth	Маскуються на мапі||Цей загін може переміщатися по мапі кампанії, залишаючись непоміченим.	true

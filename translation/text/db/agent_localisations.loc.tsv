@@ -4,7 +4,7 @@ agent_localisations_text_agent_attribute_tooltip_subterfuge	Хитрість
 agent_localisations_text_general_profession_admiral	Флотоводець	true
 agent_localisations_text_general_profession_general	Полководець	true
 agent_localisations_text_general_attribute_tooltip_subterfuge	Хитрість
-agent_localisations_text_agent_attribute_tooltip_zeal	Завзяття
+agent_localisations_text_agent_attribute_tooltip_zeal	Завзятість
 agent_localisations_text_agent_localisation_action_deployed_cannot_undeploy	Цей агент розміщений тут.\\n\\\n[[col:red]]На цьому ходу змінити його розташування неможливо.[[/col]]	true
 agent_localisations_text_general_profession_emperor	Імператор	true
 agent_localisations_text_agent_localisation_action_execution_status_agent_cap_reached	[[col:red]]У вас вже максимальне число агентів цього типу. \\n[[/col]]	true
@@ -60,7 +60,7 @@ agent_localisations_text_agent_localisation_action_deployed_can_undeploy	Цей 
 agent_localisations_text_agent_localisation_action_execution_status_guaranteed	[[col:red]]Ця дія напевно буде успішною.\\n[[/col]]	true
 agent_localisations_text_agent_outcome_opportune_failure_go_again	Вони пішли непомітно і безперешкодно. Ніщо не заважало їм зробити ще одну спробу.	true
 agent_localisations_text_agent_outcome_opportune_failure_ancillary_steal	Вони переконали домочадця своєї жертви приєднатися до них, а потім зникли.	true
-agent_localisations_text_general_attribute_tooltip_zeal	Завзяття
+agent_localisations_text_general_attribute_tooltip_zeal	Завзятість
 agent_localisations_text_agent_localisation_action_execution_status_insufficient_funds	[[col:red]]У вас недостатньо коштів, щоб виконати цю дію.[[/col]]	true
 agent_localisations_text_agent_action_panel_outcomes_hinder_agent_success	Зазначеного агента затримано:	true
 agent_localisations_text_agent_action_panel_outcomes_hinder_army_success	Помірний ефект:	true

@@ -2,7 +2,7 @@ key	text	tooltip
 #Loc;1;text/db/message_event_text.loc		
 message_event_text_text_att_pro_roman_displeasure_secondary	Римляни висловлюють невдоволення тим, що орди гунів спустошують сільськогосподарські угіддя. Сенат дав зрозуміти, що вважає нас як мінімум частково відповідальними за завдані ними збитки.	true
 message_event_text_text_att_pro_apulum_captured_title	Збільшення популярності	true
-message_event_text_text_att_pro_roman_displeasure_primary	Нальотчики гунів	true
+message_event_text_text_att_pro_roman_displeasure_primary	Нальотники гунів	true
 message_event_text_text_roman_character_dies_commanding_replace	Хто очолить людей, які осиротіли без полководця? Хто поведе їх у бій?	true
 message_event_text_text_att_pro_apulum_captured_secondary	Ворожа столиця впала! Звістка про нашу перемогу змусить задуматися навіть наймогутніших іноземних правителів.	true
 message_event_text_text_att_pro_roman_displeasure_title	Погіршення ставлення	true

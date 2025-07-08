@@ -328,7 +328,7 @@ message_event_text_text_mk_event_mecca_attacked_title	Падіння Мекки	
 message_event_text_text_mk_event_mecca_liberated_secondary	Мекка, священне місто мусульман, нарешті була звільнена прихильниками ісламської віри. Радість огорнула серце кожного мусульманина в усьому світі.	true
 message_event_text_text_mk_event_mecca_liberated_title	Відвоювання Мекки	true
 message_event_text_text_mk_event_mecca_destroyed_title	Руйнування Мекки	true
-message_event_text_text_mk_event_mecca_destroyed_secondary	Для мусульман усього світу настав найгірший день в історії: священне місто Мекка було повністю зруйновано, а всі його святині розорені і знищені чужинцями-загарбниками. Іслам, можливо, і не оговтається від такого серйозного удару, але точно, що у правовірних з'явиться жага помсти.	true
+message_event_text_text_mk_event_mecca_destroyed_secondary	Для мусульман усього світу настав найгірший день в історії: священне місто Мекка було повністю зруйновано, а всі його святині спустошені і знищені чужинцями-загарбниками. Іслам, можливо, і не оговтається від такого серйозного удару, але точно, що у правовірних з'явиться жага помсти.	true
 message_event_text_text_mk_event_faction_rank_secondary_4	Ваша фракція досягла рангу «королівства», що вказує на її статус регіональної держави.	true
 message_event_text_text_mk_event_faction_rank_secondary_5	Ваша фракція досягла рангу «імперії», що вказує на її статус великої держави.	true
 message_event_text_text_mk_event_faction_rank_title_4	Заснування королівства	true

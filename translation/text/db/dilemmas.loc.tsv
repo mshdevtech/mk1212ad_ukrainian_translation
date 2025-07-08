@@ -15,7 +15,7 @@ dilemmas_localised_title_att_bel_request_justinian_photius_1	Прохання Ю
 dilemmas_localised_description_att_subject_religious_none_the_relic_seller_1	Столичний торговець реліквіями нещодавно втринадцяте продав гілку, за допомогою якої втопили святого Саву! Він пропонує вам гроші, щоб ви закрили на це очі.	true
 dilemmas_localised_description_slav_dilemma_anteans_1	Як і було обіцяно, Хілібідій постав перед вами і засвідчив, що є досить впливовим римським полководцем. Але якщо це так, то чому ми про нього досі не чули? Як би там не було, він обіцяє нам прихильність Риму в обмін на свою свободу. Справа вкрай сумнівна, але остаточне рішення приймати вам...	true
 dilemmas_localised_description_slav_dilemma_anteans_2	Жахливі новини, мій пане! Полководець Хілібідій, якого ми відпустили до Риму, виявився брехуном! Інший раб з табору зізнався під страхом смерті, що цей «Хілібідій» насправді звичайний розбійник і злодій. Він уже майже дістався до римських кордонів, але ми ще можемо встигнути його перехопити.	true
-dilemmas_localised_description_att_dilemma_religious_christian_the_manichean_heresy_1	Недавній синод постановив, що дуалістичні погляди маніхейців бентежать уми благочестивих християн. Згідно з наказом Папи Римського, маніхейські єретики повинні бути вигнані з наших земель.	true
+dilemmas_localised_description_att_dilemma_religious_christian_the_manichean_heresy_1	Недавній синод постановив, що дуалістичні погляди маніхеїв бентежать уми благочестивих християн. Згідно з наказом Папи Римського, маніхейські єретики повинні бути вигнані з наших земель.	true
 dilemmas_localised_description_att_subject_religious_arian_illegal_practice_1	Цей чоловік порушив закон, проповідуючи аріанство на міському ринку.	true
 dilemmas_localised_description_att_subject_politics_barb_nomad_tribal_loyalty	У племені назріває розкол. Дві групи вже влаштували бійку з метою з'ясувати, хто кровожерливіший!	true
 dilemmas_localised_title_att_subject_domestic_civil_master_agitator	Агітатор аграріїв	true
@@ -247,7 +247,7 @@ dilemmas_localised_title_att_subject_politics_civil_challenger	Вискочка	
 dilemmas_localised_description_att_subject_military_barb_master_hostile_governor	Місцевий вождь кидає вам виклик. Він проклинає ваші задуми, сумнівається у вашій військовій могутності і навіть насміхається над вашою чоловічою гідністю. Більше того, він відкрито прагне зайняти ваше місце!	true
 dilemmas_localised_description_att_subject_religious_none_the_golden_tongued_1	Місцевий жрець досяг видатних успіхів у наверненні жителів цього села. Він буде корисний в інших регіонах.	true
 dilemmas_localised_title_att_political_action_dilemma_gather_support_opposition	Високопоставлені вороги	true
-dilemmas_localised_description_att_dilemma_religious_manichaeism_religious_sanctions_1	Значну частину нашого населення складають маніхейці. Як з ними слід поводитись?	true
+dilemmas_localised_description_att_dilemma_religious_manichaeism_religious_sanctions_1	Значну частину нашого населення складають маніхеї. Як з ними слід поводитись?	true
 dilemmas_localised_title_att_subject_military_none_the_lanista_1	Ланіста	true
 dilemmas_localised_description_att_subject_domestic_barb_nomad_hostile_dispute	Ваш безтолковий син побився з видатним представником ворожого племені. Старійшини закликають вас владнати конфлікт, поки він не переріс у війну.	true
 dilemmas_localised_title_att_political_action_dilemma_assassinate_caught	На місці злочину	true

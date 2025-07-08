@@ -433,7 +433,7 @@ effect_bundles_localised_description_cha_objective_payload_religious_2a	Ваша
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_army_preach_doom_success_target	Бойовий дух цієї армії підірваний ворожим священнослужителем.	true
 effect_bundles_localised_title_cha_objective_payload_military_2b	Військова спеціалізація II	true
 effect_bundles_localised_title_cha_objective_payload_military_2a	Захист армії II	true
-effect_bundles_localised_description_att_bundle_stance_army_raiding_taunkhids	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_att_bundle_stance_army_raiding_taunkhids	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_description_att_bundle_season_summer_med_bad	Навіть сонце не може перемогти ці нескінченні дощі.	true
 effect_bundles_localised_title_bel_bundle_stance_navy_double_time_horde_nomad	Режим: подвоєний темп!	true
 effect_bundles_localised_title_cha_agent_action_sabotage_walls_critical_success_actor	Пошкодження стін	true
@@ -858,7 +858,7 @@ effect_bundles_localised_title_cha_bundle_abbasid_tax	Данина Аббаси�
 effect_bundles_localised_title_att_faction_trait_aethiopian	Вправні торговці	true
 effect_bundles_localised_title_mk_faction_trait_ireland_separatists	 Безстрашні й непокорені	true
 effect_bundles_localised_title_att_bundle_post_battle_region_debuff	Руйнування	true
-effect_bundles_localised_description_bel_bundle_stance_army_raiding	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_bel_bundle_stance_army_raiding	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_mk_faction_trait_austria_separatists	Велике королівство Леопольдів	true
 effect_bundles_localised_title_mk_faction_trait_brabant_separatists	З попелу Лотарингії	true
 effect_bundles_localised_description_att_pro_military_morale_bundle_positive	Ваші воїни відчувають піднесення духу.	true
@@ -964,7 +964,7 @@ effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_character
 effect_bundles_localised_title_att_payload_setback_snowstorm_region	Сніжна буря	true
 effect_bundles_localised_description_mk_group_trait_sinus_arabicus	Серце арабського світу знову підноситься...	true
 effect_bundles_localised_title_att_bundle_season_autumn_north_good	Гарна осінь	true
-effect_bundles_localised_title_att_faction_trait_tanukhids	Легендарні нальотчики	true
+effect_bundles_localised_title_att_faction_trait_tanukhids	Легендарні нальотники	true
 effect_bundles_localised_title_bel_bundle_stance_navy_patrol	Режим: патруль	true
 effect_bundles_localised_title_cha_agent_action_gather_intelligence_target	Збір інформації	true
 effect_bundles_localised_title_att_bundle_stance_navy_patrol	Режим: патруль	true
@@ -979,7 +979,7 @@ effect_bundles_localised_description_mk_faction_trait_lorraine_separatists	«І 
 effect_bundles_localised_description_att_payload_good_omen_faction	Знамення сприятливі. Жителі цієї країни радіють.	true
 effect_bundles_localised_title_cha_agent_action_sabotage_walls_success_actor	Пошкодження стін	true
 effect_bundles_localised_title_rom_payload_religion_rom_mercury_way	Шлях Меркурія	true
-effect_bundles_localised_description_bel_bundle_stance_navy_raiding	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_bel_bundle_stance_navy_raiding	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_att_wonder_mausoleum_mausolus	Мавзолей Мавсола	true
 effect_bundles_localised_title_mk_faction_trait_hungary_separatists	Королівство мадярів	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_character_trap_critical_success_actor	Пастка	true
@@ -994,7 +994,7 @@ effect_bundles_localised_description_mk_faction_trait_croatia	„А наступ
 effect_bundles_localised_description_att_public_order_roman_1_outraged	Населення цієї провінції розгніване; ризик повстання дуже великий!	true
 effect_bundles_localised_title_bel_bundle_stance_army_raiding	Режим: наліт	true
 effect_bundles_localised_description_rom_payload_infantry_recruitment	Піхота: хребет будь-якої армії.	true
-effect_bundles_localised_description_att_bundle_stance_navy_raiding	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_att_bundle_stance_navy_raiding	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_att_eos_bundle_insult_peace	Зачеплена національна гордість	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_settlement_preach_intolerance_critical_success_target	У цьому поселенні поширюється релігійна нетерпимість, посіяна промовами ворожого священнослужителя.	true
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_army_poison_provisions_success_actor	Цей підглядник пошкодив припаси ворожої армії.	true
@@ -1619,7 +1619,7 @@ effect_bundles_localised_description_bel_bundle_stance_army_forced_march_horde	�
 effect_bundles_localised_description_att_bundle_stance_army_forced_march_horde	Збільшення дальності переміщення цієї армії на мапі кампанії.	true
 effect_bundles_localised_description_att_payload_osmosis_religious_zoroastrian_positive_faction	Вплив цієї релігії на сусідні землі зріс.	true
 effect_bundles_localised_title_cha_bundle_kingdom_formed	Розквіт королівства	true
-effect_bundles_localised_title_att_faction_trait_norse	Вікінги-нальотчики	true
+effect_bundles_localised_title_att_faction_trait_norse	Вікінги-нальотники	true
 effect_bundles_localised_title_att_bundle_season_winter_med_good	Хороша зима	true
 effect_bundles_localised_title_att_payload_military_recruit_costs_more_expensive_faction	Втома від війни	true
 effect_bundles_localised_title_cha_faction_trait_mercia	Військові трофеї	true
@@ -1757,7 +1757,7 @@ effect_bundles_localised_title_att_food_bundle_faction_positive_host_negative_be
 effect_bundles_localised_description_mk_faction_trait_sicily_separatists	„Після тривалої наради і ретельного обговорення Квірити за царським правом передали римському імператору право створення законів і владу над імперією, щоб він, взявши на себе цей тягар, панував над народами, щоб він був джерелом і захисником правосуддя.“	true
 effect_bundles_localised_title_att_food_bundle_faction_positive	Надлишок продовольства	true
 effect_bundles_localised_description_att_payload_growth_religious_zoroastrian_negative_faction	Кількість послідовників цієї релігії зменшується.	true
-effect_bundles_localised_title_cha_faction_trait_danes	Вікінги-нальотчики	true
+effect_bundles_localised_title_cha_faction_trait_danes	Вікінги-нальотники	true
 effect_bundles_localised_description_mk_faction_trait_bulgaria	„...і зайняв грецькі землі від Одріна до Драча, а також землі Арбанасські і Сербські. Франки володіли тільки містами навколо Царгорода і цим містом теж, але і вони підкорялися всесильній правиці мого царства, бо не було у них іншого царя, крім мене, і завдяки мені вони проживали свої дні...»	true
 effect_bundles_localised_title_att_bundle_agent_action_all_failure_character_actor_compromised	Провал	true
 effect_bundles_localised_title_bel_bundle_invasion_force_moors	Армія вторгнення	true
@@ -1899,7 +1899,7 @@ effect_bundles_localised_description_slav_bundle_antes_barbarian	Ви вчини
 effect_bundles_localised_description_att_bundle_stance_army_garrisoned	Охорона місцевого поселення.	true
 effect_bundles_localised_title_cha_bundle_angry_bishops	Гнів єпископів	true
 effect_bundles_localised_description_cha_bundle_viking_bloodlust	Вікінги не знають пощади! Нехай кров ворогів бурхливою рікою рине в море!	true
-effect_bundles_localised_description_bel_bundle_stance_navy_raiding_horde_nomad	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_bel_bundle_stance_navy_raiding_horde_nomad	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_province_discourage_populace_cannot_fail_actor	Залякування населення	true
 effect_bundles_localised_title_bel_bundle_empire_support_force	Допоміжні сили імперії	true
 effect_bundles_localised_description_att_bundle_season_summer_east_bad	Навіть сонце не може перемогти ці нескінченні дощі.	true
@@ -1955,7 +1955,7 @@ effect_bundles_localised_description_att_faction_trait_migrators_alans	Щоб м
 effect_bundles_localised_title_mk_faction_trait_almohads	Новий Хіджаз	true
 effect_bundles_localised_description_att_bundle_edict_catholic_mission	Слово Боже для всіх і кожного.	true
 effect_bundles_localised_description_att_bundle_agent_action_spy_passive_ability_infiltrate_cannot_fail_target	[Не використовується]	true
-effect_bundles_localised_description_att_bundle_stance_navy_raiding_horde_nomad	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_att_bundle_stance_navy_raiding_horde_nomad	Наліт на сусідні сухопутні регіони з метою забрати частку їхнього багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_mk_faction_trait_trebizond	Великі Комніни	true
 effect_bundles_localised_title_att_bundle_stance_army_raiding_celts_horde	Режим: наліт	true
 effect_bundles_localised_title_att_payload_public_order_negative_province	Заворушення	true
@@ -2176,7 +2176,7 @@ effect_bundles_localised_title_att_wonder_mount_argaeus	Гора Аргей	true
 effect_bundles_localised_description_mk_faction_trait_trebizond	„Високий колос, що пронизує повітря, він прагне досягти неба...“	true
 effect_bundles_localised_description_att_bundle_season_spring_south_good	Цього року весна настала рано.	true
 effect_bundles_localised_description_att_bundle_season_winter_north_good	Цього року сніг лише злегка припорошив землю.	true
-effect_bundles_localised_description_att_bundle_stance_army_raiding_celts_horde	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотчики забирають частину доходів від торгівлі.	true
+effect_bundles_localised_description_att_bundle_stance_army_raiding_celts_horde	Наліт на місцевий регіон з метою забрати частину його багатства. При розміщенні на торговому шляху нальотники забирають частину доходів від торгівлі.	true
 effect_bundles_localised_title_att_bundle_agent_action_spy_hinder_army_poison_provisions_critical_success_target	Отруєння їжі	true
 effect_bundles_localised_description_att_payload_public_order_negative_province	Жителі цієї провінції схвильовані і неспокійні.	true
 effect_bundles_localised_title_mk_faction_trait_jerusalem	Королі Утремера	true

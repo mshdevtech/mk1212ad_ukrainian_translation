@@ -94,7 +94,7 @@ event_feed_events_event_title_diplomacy_treaty_broken_defensive_alliance	Обо�
 event_feed_events_event_title_character_ancillary_lost	Втрати в оточенні	true
 event_feed_events_event_title_diplomacy_treaty_negotiated_trade	Укладено торговельну угоду	true
 event_feed_events_event_title_agent_action_vs_settlement	Агент проти поселення	true
-event_feed_events_event_title_provinces_settlement_sacked	Поселення розорено	true
+event_feed_events_event_title_provinces_settlement_sacked	Поселення спустошене	true
 event_feed_events_event_title_horde_development_points_available	Надлишок населення	true
 event_feed_events_event_title_provinces_unrest_rebellion	Повстання	true
 event_feed_events_event_title_faction_political_subject	Державна справа	true
