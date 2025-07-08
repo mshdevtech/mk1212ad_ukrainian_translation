@@ -2,12 +2,12 @@ name: Validate TSV
 
 on:
   pull_request:
-    paths: ["text/db/*.loc.tsv", "scripts/validate_tsv.py"]
+    paths: [ "translation/text/db/*.loc.tsv", "scripts/validate_tsv.py"]
 
   push:
     branches: ['main']
     paths:
-      - 'text/db/*.loc.tsv'
+      - 'translation/text/db/*.loc.tsv'
       - 'scripts/validate_tsv.py'
 
 jobs:

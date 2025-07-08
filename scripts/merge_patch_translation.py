@@ -27,7 +27,7 @@ import pandas as pd
 
 ROOT_EN     = Path("_upstream/en/text/db")
 ROOT_PATCH  = Path("_upstream/uk/text/db")
-ROOT_MAIN   = Path("text/db")
+ROOT_MAIN   = Path("translation/text/db")
 
 def load(p: Path) -> pd.DataFrame:
     """Читаємо TSV, нічого не перетворюємо на NaN."""

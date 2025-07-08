@@ -16,7 +16,7 @@ def exclude_placeholders(df: pd.DataFrame) -> pd.DataFrame:
     return df[~df["text"].isin(EXCLUSIONS)]
 
 SRC_DIR = Path("_upstream/en/text/db")
-TRG_DIR = Path("text/db")
+TRG_DIR = Path("translation/text/db")
 
 def load(p: Path) -> pd.DataFrame:
     return pd.read_csv(p, sep="\t", dtype=str, keep_default_na=False)

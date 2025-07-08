@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-validate_tsv.py – швидка перевірка всіх *.loc.tsv у text/db/
+validate_tsv.py – швидка перевірка всіх *.loc.tsv у translation/text/db/
 
 • 3 колонки у порядку: key, text, tooltip
 • key не порожній
@@ -14,7 +14,7 @@ from pathlib import Path
 import sys
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[1] / "text" / "db"
+ROOT = Path(__file__).resolve().parents[1] / "translation" / "text" / "db"
 REQUIRED_COLS = ["key", "text", "tooltip"]
 EXIT_CODE = 0
 
