@@ -63,8 +63,10 @@ up1_dict  = load_dir(DIR_UP1) if DIR_UP1 else {}
 # ── регулярки ────────────────────────────────────────────────────────
 # 1) знайти потрібну таблицю цілком
 TABLE_RE = re.compile(
-    rf'({re.escape(args.table)}\s*=\s*\{{)(?P<body>.*?)(\n\}})',
-    re.S
+    rf'^[ \t]*(?P<open>{re.escape(args.table)}\s*=\s*\{{)'  # відкриття
+    r'(?P<body>.*?)'                                        # тіло
+    r'^[ \t]*(?P<close>\})'                                 # закриття
+    , re.S | re.M
 )
 
 # 2) усередині body: key / ["key"] = "Text"
@@ -104,9 +106,11 @@ def patch_lua(src: str) -> tuple[str,int]:
 
     def table_repl(t: re.Match) -> str:
         nonlocal total_updates
-        patched_body, n = patch_body(t["body"])
+        original_body = t.group('body')
+        patched_body, n = patch_body(original_body)
         total_updates += n
-        return t.group(1) + patched_body + t.group(3)
+        # збираємо назад: open + нове тіло + close
+        return f"{t.group('open')}{patched_body}{t.group('close')}"
 
     new_src = TABLE_RE.sub(table_repl, src, count=1)
     return new_src, total_updates
