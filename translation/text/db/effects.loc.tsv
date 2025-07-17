@@ -156,7 +156,7 @@ effects_description_att_effect_tech_income_damaging_buildings	Дохід: %+n з
 effects_description_att_effect_edict_manichaeist_exaltation_elect_religious_happiness	Громад. порядок: до %+n від наявності маніхеїв	true
 effects_description_mk_faction_trait_zagwe_3	Великі покровителі релігії, літератури та мистецтва: вартість будівництва для цивільних і релігійних споруд %+n%, а також багатство від культури +10%	true
 effects_description_mk_faction_trait_zagwe_2	Гірська війна: бойовий дух у боях на пагорбах і гірській місцевості %+n, а також шанс на успішну засідку на своїй території +25%	true
-effects_description_mk_faction_trait_zagwe_1	Ефіопська православна церква. Релігійний вплив: %+n для давньосхідного православ'я	true
+effects_description_mk_faction_trait_zagwe_1	Ефіопська православна церква. Релігійний вплив: %+n для стародавньосхідного православ'я	true
 effects_description_mk_faction_trait_zagwe_4	Геополітична ізоляція. Багатство: %+n% від місцевої торгівлі	true
 effects_description_mk_faction_trait_wales_1	Валлійське вівчарство. Багатство: 25% від будівель для вівчарства	true
 effects_description_mk_faction_trait_wales_2	Валлійський довгий лук. Вартість найму та утримання: %+n% для загонів з луками	true
@@ -748,7 +748,7 @@ effects_description_att_effect_food_production_fertility_neighbouring	од. до
 effects_description_mk_effect_unit_training_attack_cavalry	Тренування атаки в ближньому бою: %+n для нових загонів кінноти	true
 effects_description_att_effect_diplomacy_bonus_minor	Дипломатія: невелика перевага з усіма	true
 effects_description_att_effect_province_food_events	Їжа: %+n через недавні події	true
-effects_description_mk_effect_religion_conversion_bogomilist_faction	Релігійний вплив: %+n для богомілля	true
+effects_description_mk_effect_religion_conversion_bogomilist_faction	Релігійний вплив: %+n для богомильства	true
 effects_description_att_effect_faction_trait_norse_raiders_income_from_sack_loot_raid	Дохід: %+n% від спустошення, нальотів і грабежів	true
 effects_description_att_effect_military_force_morale_mod_buildings_ai	[NOT DISPLAYED] AI modifier on horde building integrity penalties	true
 effects_description_att_effect_agent_action_enable_champion_hinder_army_sabotage_army	Доступ: [[col:yellow]]Диверсія в армії[[/col]]	true
@@ -810,7 +810,7 @@ effects_description_att_effect_agent_action_cost_mod_champion	Вартість �
 effects_description_mk_faction_trait_hre_1	Новобранці для імперської кампанії. Кількість новобранців з васальних держав: %+n	true
 effects_description_cha_effect_building_corruption_adjacent_province	Корупція: %+n% від поточного значення в сусідніх провінціях	true
 effects_description_att_effect_melee_attack_against_judeism	Атака в ближньому бою: %+n проти іудейських фракцій	true
-effects_description_mk_effect_religion_conversion_bogomilist	Релігійний вплив: %+n для богомілля	true
+effects_description_mk_effect_religion_conversion_bogomilist	Релігійний вплив: %+n для богомильства	true
 effects_description_att_effect_agent_action_outcome_parent_army_zeal_dummy	Завзятість: %+n	true
 effects_description_att_effect_force_campaign_stance_begin_fatigued_3_winded	Стан загону: [[col:yellow]] втома[[/col]]	true
 effects_description_mk_faction_trait_volga_1_goods	Волзький торговий шлях і знамениті ремісники. Виробництво промислових виробів і шкіри: %+n%	true
@@ -986,7 +986,7 @@ effects_description_mk_effect_tech_morale_levy_militia	Бойовий дух: %+
 effects_description_att_effect_province_food_surplus_development_growth_benefit	Зростання: %+n	true
 effects_description_att_effect_general_bodyguard_mod_unit_health	Зброя: %+n% для загону полководця	true
 effects_description_att_effect_force_newhorde_buildings_barbarian	[Не відображається] Набір будівель, що використовується при появі нової орди варварів	true
-effects_description_mk_effect_religion_osmosis_bogomilist	"Проникнення релігії"" %+n для богомілля"	true
+effects_description_mk_effect_religion_osmosis_bogomilist	"Проникнення релігії"" %+n для богомильства"	true
 effects_description_att_effect_general_aura_mod_all_during_ambush	Зона впливу полководця: %+n% при засідці	true
 effects_description_mk_faction_trait_hafsids_2_po	Торгова столиця Туніс. Штраф до громад. порядку: %+n% через присутність інших релігій	true
 effects_description_att_effect_force_army_campaign_experience_base_light_units	Досвід: %+n для нових легких загонів	true
@@ -1096,7 +1096,7 @@ effects_description_mk_faction_trait_antioch_1	Прагматична терпи
 effects_description_att_faction_trait_antes_grassland_desert_plains_dummy	На луках і відкритій місцевості: захист і атака в ближньому бою, а також бойовий дух %+n, шкода в ближньому бою -10	true
 effects_description_mk_faction_trait_antioch_3	Антіохійські асизи. Громадський порядок: %+n від політичних реформ	true
 effects_description_mk_faction_trait_antioch_2	Підтримка Вірменії. Міцні дип. відносини з Кілікійським царством і доступ до вірменських найманих загонів.	true
-effects_description_mk_faction_trait_antioch_4	Місцевий вплив. Релігійний вплив: %+n для православ'я і давньосхідного православ'я	true
+effects_description_mk_faction_trait_antioch_4	Місцевий вплив. Релігійний вплив: %+n для православ'я і стародавньосхідного православ'я	true
 effects_description_mk_faction_trait_cilicia_4	Давня ворожнеча. Дип. відносини: %+n з православними фракціями і фракціями сунітів	true
 effects_description_mk_faction_trait_cilicia_3	Антіохійські асизи: доступ до маєтків хрестоносців і турнірних споруд, а також приріст чисел. знаті +0.5%	true
 effects_description_mk_faction_trait_cilicia_2	Союзники франків. Дип. відносини: %+n із західноєвропейськими фракціями	true

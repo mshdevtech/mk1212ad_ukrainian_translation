@@ -884,7 +884,7 @@ effect_bundles_localised_description_att_bundle_tech_tanukhid_civil_4	Велик
 effect_bundles_localised_title_att_payload_osmosis_religious_arian_positive_faction	Сильний вплив аріанства	true
 effect_bundles_localised_description_mk_faction_trait_toulouse_separatists	Хай соромляться ті, хто не наважився захистити себе.	true
 effect_bundles_localised_title_att_payload_unhappy_populace_province	Роздратоване населення	true
-effect_bundles_localised_title_mk_payload_public_order_religious_bogomilist_positive_faction	Поширення богомілля	true
+effect_bundles_localised_title_mk_payload_public_order_religious_bogomilist_positive_faction	Поширення богомильства	true
 effect_bundles_localised_description_att_wonder_bam_citadel	[[col:green]]Диво[[/col]]\\n\\nНайвеличніша фортеця, побудована руками людськими. Всі інші бліднуть перед нею.	true
 effect_bundles_localised_description_att_payload_agent_champion_experience_faction	Охоче беручись за будь-яку справу, ваші воїни все схоплюють на льоту.	true
 effect_bundles_localised_description_cha_agent_action_sabotage_walls_critical_success_target	Стіни цього поселення серйозно пошкоджені ворогом.	true
@@ -1245,7 +1245,7 @@ effect_bundles_localised_description_rom_payload_subject_research	Ваш нар�
 effect_bundles_localised_title_att_wonder_necropolis_giza	Некрополь у Гізі	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_character_persuade_success_target	Переконання	true
 effect_bundles_localised_description_mk_faction_trait_croatia_separatists	„А наступного дня присягнули сплітчани — спочатку старші, потім молодші, а потім весь простолюд — у тому, що вони на всі часи залишаться вірними підданими короля Коломана, його нащадків і королівства Угорщини.“	true
-effect_bundles_localised_title_mk_payload_public_order_religious_eastern_positive_faction	Поширення давньосхідного православ'я	true
+effect_bundles_localised_title_mk_payload_public_order_religious_eastern_positive_faction	Поширення стародавньосхідного православ'я	true
 effect_bundles_localised_description_att_payload_infamy_faction	Ганьба? О так, вони накликали її на вас! Ваша родина втрачає вплив.	true
 effect_bundles_localised_title_att_payload_tax_positive_faction	Данина	true
 effect_bundles_localised_description_cha_bundle_excommunication	Лідер вашої фракції настільки розгнівав папу римського, що той вважав за потрібне відлучити його від Католицької церкви.\\n[[col:yellow]]Покарання залишатиметься в силі до зміни лідера фракції.[[/col]]	true
@@ -1998,7 +1998,7 @@ effect_bundles_localised_description_mk_faction_trait_trier_separatists	Ви… 
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_army_gather_intelligence_success_target	У цій армії стався витік інформації про володіння її фракції.	true
 effect_bundles_localised_description_att_bundle_season_summer_north_good	Вже давно в небі не з'являлося жодної хмаринки.	true
 effect_bundles_localised_title_att_payload_cavalry_experience_positive_faction	Верхова їзда	true
-effect_bundles_localised_title_mk_bundle_rel_bogomilism	Богомільство	true
+effect_bundles_localised_title_mk_bundle_rel_bogomilism	Богомильство	true
 effect_bundles_localised_description_att_payload_public_order_religious_celtic_positive_faction	Прихильники цієї релігії в захваті від недавніх подій.	true
 effect_bundles_localised_description_att_bundle_war_weariness_8	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
 effect_bundles_localised_description_att_bundle_war_weariness_9	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
