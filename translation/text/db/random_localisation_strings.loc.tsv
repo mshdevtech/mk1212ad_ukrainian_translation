@@ -440,7 +440,7 @@ random_localisation_strings_string_StratHudbutton_cannot_enlist_full	Немож�
 random_localisation_strings_string_sanitation	Санітарія	true
 random_localisation_strings_string_mk_dif_fla	[[col:red]]Висок.[[/col]]	true
 random_localisation_strings_string_famous_battle_victory_over	Перемога над:	true
-random_localisation_strings_string_mk_dif_alm	[[col:red]]Висок.[[/col]], численні вороги	true
+random_localisation_strings_string_mk_dif_alm	[[col:red]]Висок.[[/col]], числ. вороги	true
 random_localisation_strings_string_mk_dif_ilk	[[col:yellow]]Середн.[[/col]], кочівники	true
 random_localisation_strings_string_campaign_ministers_effectiveness_effect	Рівень управління священнослужителів: %+n	true
 random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_POOR_FERTILITY_BONUS	Особливість фракції	true
