@@ -343,7 +343,7 @@ uied_component_texts_localised_string_steam_name_mute_Tooltip_1a0064	Граве�
 uied_component_texts_localised_string_dy_command_Tooltip_2c0051gj	Захист від хитрощів ворожих агентів.	true
 uied_component_texts_localised_string_frame_Tooltip_2c0048	Баланс сил||На цій шкалі показується, наскільки сильна ваша фракція (жовта) відносно іншої фракції (червоної).	true
 uied_component_texts_localised_string_Flags_Tooltip_40042c	Ваша фракція і її лідер на момент збереження.	true
-uied_component_texts_localised_string_dy_zeal_Tooltip_20042a	Завзятість||Захищає від дій агента, що підривають авторитет влади.	true
+uied_component_texts_localised_string_dy_zeal_Tooltip_20042a	Завзяття||Захищає від дій агента, що підривають авторитет влади.	true
 uied_component_texts_localised_string_upgradable_Tooltip_260047fi	У персонажа є очки навичок, які можна витратити.	true
 uied_component_texts_localised_string_button_zoom_down_Tooltip_5f006e	Наблизитися до точки	true
 uied_component_texts_localised_string_upgradable_Tooltip_260047fc	У цього персонажа є очки навичок, які можна витратити.	true
@@ -400,7 +400,7 @@ uied_component_texts_localised_string_button_tx_alliance_cancel_Text_410066	Ро
 uied_component_texts_localised_string_tx_income_annual_NewState_Text_490070	Наступний хід	true
 uied_component_texts_localised_string_tx_naval_battles_NewState_Text_1d0015	Морські битви (успішні/всього)	true
 uied_component_texts_localised_string_standard_ping_Tooltip_550054b	Стандартний маркер	true
-uied_component_texts_localised_string_tx_zeal_NewState_Text_9003b	Завзятість	true
+uied_component_texts_localised_string_tx_zeal_NewState_Text_9003b	Завзяття	true
 uied_component_texts_localised_string_treasury_tx_theirs_Text_3e0049	Їхня економіка:	true
 uied_component_texts_localised_string_button_txt_cancel_Text_48004e	Скасувати	true
 uied_component_texts_localised_string_tab_agents_hover_Text_7a0050	Агенти	true
@@ -681,7 +681,7 @@ uied_component_texts_localised_string_button_txt_land_Tooltip_180047	Впоря�
 uied_component_texts_localised_string_red_bar_Tooltip_310020	Сила противника	true
 uied_component_texts_localised_string_public_order_Tooltip_3006c	Громадський порядок	true
 uied_component_texts_localised_string_label_txt_Tooltip_480019jc	Виберіть обсяг коштів з випадаючого меню. Кошти використовуються для найму армії та збору флоту.	true
-uied_component_texts_localised_string_tx_zeal_Tooltip_6c006b	Завзятість||Від цієї властивості залежить рішучість і схильність до насильства.	true
+uied_component_texts_localised_string_tx_zeal_Tooltip_6c006b	Завзяття||Від цієї властивості залежить рішучість і схильність до насильства.	true
 uied_component_texts_localised_string_amount_treasury_demand_Tooltip_230003	Тут показано, як у цієї фракції йдуть справи з скарбницею та доходом. Від цього залежить, яку данину ви можете вимагати і які дари справлять враження на правителя.	true
 uied_component_texts_localised_string_button_rename_Tooltip_90014	Перейменування поселення	true
 uied_component_texts_localised_string_name_NewState_Text_9005d	Здоров'я	true
@@ -2757,7 +2757,7 @@ uied_component_texts_localised_string_dy_province_Tooltip_5c0026	Камера н
 uied_component_texts_localised_string_dy_replenish_Tooltip_6d000b	Поповнення загону	true
 uied_component_texts_localised_string_panel_heading_default_Text_69004c	Статистика	true
 uied_component_texts_localised_string_icon_wall_integrity_amber_Tooltip_7c0057	Стіни пошкоджені.	true
-uied_component_texts_localised_string_icon_zeal_Tooltip_9003b	Завзятість	true
+uied_component_texts_localised_string_icon_zeal_Tooltip_9003b	Завзяття	true
 uied_component_texts_localised_string_kill_ratio_frame_Tooltip_700060y	Баланс сил	true
 uied_component_texts_localised_string_ancillary_tx_subtitle_NewState_Text_19002f	Домочадець або предмет	true
 uied_component_texts_localised_string_LandBanner_1_Text_300000	100	true

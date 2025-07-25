@@ -811,7 +811,7 @@ effects_description_mk_faction_trait_hre_1	Новобранці для імпе�
 effects_description_cha_effect_building_corruption_adjacent_province	Корупція: %+n% від поточного значення в сусідніх провінціях	true
 effects_description_att_effect_melee_attack_against_judeism	Атака в ближньому бою: %+n проти іудейських фракцій	true
 effects_description_mk_effect_religion_conversion_bogomilist	Релігійний вплив: %+n для богомильства	true
-effects_description_att_effect_agent_action_outcome_parent_army_zeal_dummy	Завзятість: %+n	true
+effects_description_att_effect_agent_action_outcome_parent_army_zeal_dummy	Завзяття: %+n	true
 effects_description_att_effect_force_campaign_stance_begin_fatigued_3_winded	Стан загону: [[col:yellow]] втома[[/col]]	true
 effects_description_mk_faction_trait_volga_1_goods	Волзький торговий шлях і знамениті ремісники. Виробництво промислових виробів і шкіри: %+n%	true
 effects_description_att_effect_force_unit_stat_melee_attack_versus_barbarians	Атака в ближньому бою: %+n в битвах зі східними європейцями	true
@@ -877,7 +877,7 @@ effects_description_mk_effect_technology_beklyaribek_recruit_cost	Вартіст
 effects_description_att_effect_food_production_reserves	Їжа: +%n від запасів	true
 effects_description_att_effect_economy_gdp_subsistance	Багатство: %n від малих господарств	true
 effects_description_att_effect_siege_engine_unlock_battering_ram	Дозволяє будувати тарани перед битвою	true
-effects_description_att_effect_agent_attribute_zeal_mod	Завзятість: %+n	true
+effects_description_att_effect_agent_attribute_zeal_mod	Завзяття: %+n	true
 effects_description_att_effect_religion_conversion_arian	Релігійний вплив: %+n для аріанства	true
 effects_description_att_faction_trait_sands_sanitation	Сонячна спека. Санітарія: %+n	true
 effects_description_att_effect_force_campaign_military_morale_factor_tax	Згуртованість: %+n	true
@@ -1310,7 +1310,7 @@ effects_description_att_faction_imperium_diplomacy_penalty_major	Велика д
 effects_description_att_faction_imperium_diplomacy_penalty_minor	Велика держава: невеликий штраф до дип. відносин з більшістю фракцій	true
 effects_description_cha_effect_imperium	Імперіум: %+n	true
 effects_description_mk_effect_region_resource_silver_production	Виробництво срібла: %n	true
-effects_description_att_effect_general_attribute_mod_zeal_land	Завзятість: %+n при командуванні армією	true
+effects_description_att_effect_general_attribute_mod_zeal_land	Завзяття: %+n при командуванні армією	true
 effects_description_att_effect_edict_rome_east_urbanisation_tax_rate_mod	Едикт «Східна урбанізація». Податкова ставка: %+n%	true
 effects_description_att_effect_province_attribute_zeal	Безпека провінції: %+n проти воїнів	true
 effects_description_att_effect_region_resource_salt_production	Виробництво солі: %n	true
@@ -1381,7 +1381,7 @@ effects_description_att_effect_force_unit_stat_fatigue_resistance	Накопич
 effects_description_att_effect_agent_action_outcome_target_army_damage_unit_dummy	Втрати ворога: %+n%	true
 effects_description_att_effect_agent_action_outcome_passive_stealth_dummy	Невидимий для чужих персонажів і військ, поки не розкритий	true
 effects_description_mk_faction_trait_makuria_3_food	Землеробство в долині Нілу. Додаткова їжа: %+n за кожен рівень родючості	true
-effects_description_att_effect_general_attribute_mod_zeal	Завзятість: %+n	true
+effects_description_att_effect_general_attribute_mod_zeal	Завзяття: %+n	true
 effects_description_mk_faction_trait_bulgaria_3_recruit_cost	Союзні половецькі загони. Вартість найму: %+n% для загонів місцевого найму	true
 effects_description_att_effect_unit_training_accuracy_ranged_inf	Тренування шкоди від пострілів: %+n% для нових загонів піших стрільців	true
 effects_description_bel_effect_building_construction_cost_mod_civic_expedition	Вартість будівництва: %+n% для цивільних будівель	true
@@ -1491,7 +1491,7 @@ effects_description_att_sands_raid_stance_extra_troop_tanukhid_dummy_2	Згур�
 effects_description_att_sands_raid_stance_extra_troop_tanukhid_dummy_1	Згуртування: набір 1 додаткового загону в режимі нальоту	true
 effects_description_att_faction_trait_axum_mercs	Купецька охорона. Швидкість поповнення резерву найманців: %+n%	true
 effects_description_att_effect_force_army_campaign_upkeep_cost_cavalry	Вартість утримання: %+n% для кінноти	true
-effects_description_att_effect_general_attribute_mod_zeal_naval	Завзятість: %+n при командуванні флотом	true
+effects_description_att_effect_general_attribute_mod_zeal_naval	Завзяття: %+n при командуванні флотом	true
 effects_description_att_effect_force_army_battle_infantry_spears_melee_defence	Захист у ближньому бою: %+n для піхоти з списами	true
 effects_description_att_effect_agent_action_buff_dignitary_hinder_army_encourage_mutiny_campaign_morale	Розпалювання заколоту: %+n до згуртованості	true
 effects_description_att_effect_agent_enable_recruitment_champion	Можливість наймати найманих вбивць	true
