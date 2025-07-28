@@ -596,9 +596,9 @@ land_units_onscreen_name_mk_nic_t1_hippoakritai	Кінні акрити (Ран�
 land_units_onscreen_name_mk_mio_t1_templar_knights_dismounted	Піші лицарі-тамплієри (Ранні)	true
 land_units_onscreen_name_mk_mio_t2_templar_knights_dismounted	Піші лицарі-тамплієри (Старші)	true
 land_units_onscreen_name_mk_mio_t3_templar_knights_dismounted	Піші лицарі-тамплієри (Пізні)	true
-land_units_onscreen_name_mk_haf_t3_nasara_al_rabat	'Uluj ar-Rabat (Late)	true	Улудж ар-Рабат (Пізні)
-land_units_onscreen_name_mk_haf_t2_nasara_al_rabat	'Uluj ar-Rabat (High)	true	Улудж ар-Рабат (Старші)
-land_units_onscreen_name_mk_haf_t1_nasara_al_rabat	'Uluj ar-Rabat (Early)	true	Улудж ар-Рабат (Ранні)
+land_units_onscreen_name_mk_haf_t3_nasara_al_rabat	Улудж ар-Рабат (Пізні)	true
+land_units_onscreen_name_mk_haf_t2_nasara_al_rabat	Улудж ар-Рабат (Старші)	true
+land_units_onscreen_name_mk_haf_t1_nasara_al_rabat	Улудж ар-Рабат (Ранні)	true
 land_units_onscreen_name_mk_lit_t1_lithuanian_thieves	Литовські розбійники	true
 land_units_onscreen_name_mk_jer_t1_maronite_skirmishers	Маронітські застрільники	true
 land_units_onscreen_name_mk_rus_t2_guard_axemen	Вартові з бердишами (Старші)	true
@@ -2678,9 +2678,9 @@ land_units_onscreen_name_mk_merc_eur_t1_knights	Вільна компанія л
 land_units_onscreen_name_mk_merc_eur_t2_knights	Вільна компанія латників (Старші)	true
 land_units_onscreen_name_mk_mon_t1_tammachi_horse_archers	Таммачі з луками	true
 land_units_onscreen_name_mk_merc_eur_t3_knights	Вільна компанія латників (Пізні)	true
-land_units_onscreen_name_mk_alm_t1_arab_horsemen	'Urban al-Khayl (Early)	true	Арабські вершники (Ранні)
-land_units_onscreen_name_mk_alm_t2_arab_horsemen	'Urban al-Khayl (High)	true	Арабські вершники (Старші)
-land_units_onscreen_name_mk_alm_t3_arab_horsemen	'Urban al-Khayl (Late)	true	Арабські вершники (Пізні)
+land_units_onscreen_name_mk_alm_t1_arab_horsemen	Арабські вершники (Ранні)	true
+land_units_onscreen_name_mk_alm_t2_arab_horsemen	Арабські вершники (Старші)	true
+land_units_onscreen_name_mk_alm_t3_arab_horsemen	Арабські вершники (Пізні)	true
 land_units_onscreen_name_cha_cel_kerns	Керни	true
 land_units_onscreen_name_att_cel_kerns	Керни	true
 land_units_onscreen_name_att_merc_ger_thracian_warriors	Наймані фракійські воїни	true
@@ -3851,7 +3851,7 @@ land_units_onscreen_name_mk_volga_t1_light_HA	Кінні тубільці з л�
 land_units_onscreen_name_att_ger_sarmatian_cataphracts	Сарматські катафракти	true
 land_units_onscreen_name_mk_aus_t2_foot_glevener	Піші глевнери (Старші)	true
 land_units_onscreen_name_mk_bur_t2_scout	Бургундські розвідники (Старші)	true
-land_units_onscreen_name_mk_haf_t1_irban	'Irban 	true	Ірбан
+land_units_onscreen_name_mk_haf_t1_irban	Ірбан 	true
 land_units_onscreen_name_cha_eng_thegns	Тени	true
 land_units_onscreen_name_mk_flo_t2_light_archers	Чернида з луками (Старші)	true
 land_units_onscreen_name_mk_flo_t3_light_archers	Чернида з луками (Пізні)	true
@@ -5205,9 +5205,9 @@ land_units_onscreen_name_mk_arm_t2_italian_colonial_cavalry	Кінні італ�
 land_units_onscreen_name_mk_tri_t1_trier_spearmen	Трірські списоносці (Ранні)	true
 land_units_onscreen_name_mk_tri_t2_trier_spearmen	Трірські списоносці (Старші)	true
 land_units_onscreen_name_mk_tri_t3_trier_spearmen	Трірські списоносці з павезами (Пізні)	true
-land_units_onscreen_name_mk_merc_arab_t1_ayyarun	'Ayyarun (Early)	true	Айярун (Ранні)
-land_units_onscreen_name_mk_merc_arab_t3_ayyarun	'Ayyarun (Late)	true	Айярун (Пізні)
-land_units_onscreen_name_mk_merc_arab_t2_ayyarun	'Ayyarun (High)	true	Айярун (Старші)
+land_units_onscreen_name_mk_merc_arab_t1_ayyarun	Айярун (Ранні)	true
+land_units_onscreen_name_mk_merc_arab_t3_ayyarun	Айярун (Пізні)	true
+land_units_onscreen_name_mk_merc_arab_t2_ayyarun	Айярун (Старші)	true
 land_units_onscreen_name_mk_merc_tur_t1_swordsmen	Наймана анатол. піхота (Ранні)	true
 land_units_onscreen_name_mk_merc_tur_t2_swordsmen	Наймані азапи (Старші)	true
 land_units_onscreen_name_mk_merc_tur_t3_swordsmen	Наймані азапи (Пізні)	true
