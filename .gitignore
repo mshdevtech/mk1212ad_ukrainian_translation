@@ -1,2 +1,3 @@
 # Ignore all files in the _upstream directory
 /_upstream/*
+/_dedup/*
