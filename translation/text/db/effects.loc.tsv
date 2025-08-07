@@ -1059,7 +1059,7 @@ effects_description_att_effect_province_faction_mercenary_pool_cap_mod	Резе�
 effects_description_att_effect_region_resource_iron_production	Виробництво заліза: %n	true
 effects_description_mk_faction_trait_castile_4	Пастуші каньяди. Забруднення: %+n	true
 effects_description_mk_faction_trait_castile_1	Даровані латифундії. Вартість утримання: %+n% для загонів знаті та духовно-лицарських орденів	true
-effects_description_mk_faction_trait_castile_3	Тактика хінетів: досвід %+n і дальність стрільби +15% для кінних списоносців	true
+effects_description_mk_faction_trait_castile_3	Тактика хінетів: досвід %+n і дальність стрільби +15% для кінних списників	true
 effects_description_mk_faction_trait_castile_2	Іберійські хрестоносці. Бойовий дух: %+n в боях з фракціями мусульман	true
 effects_description_mk_faction_trait_austria_4	Переслідування єретиків. Штраф до громад. порядку: %+n% через присутність інших релігій	true
 effects_description_mk_faction_trait_austria_1	Центр міннезанга. Багатство: %+n% від культурних споруд	true
@@ -1678,7 +1678,7 @@ effects_description_att_effect_horde_unit_replenishment_hidden	[Hidden] Осно
 effects_description_att_effect_agent_action_buff_spy_hinder_character_assassinate_critical_chance	Замовне вбивство. Шанс вбити ціль: %+n%	true
 effects_description_mk_faction_trait_marinids_4	Влада візирів. Вірність: %+n	true
 effects_description_mk_faction_trait_marinids_1	Племінні нальотники: дохід від спустошення і грабежів %+n%, а також переміщення на мапі кампанії для армій +10%	true
-effects_description_mk_faction_trait_marinids_2	Родовід зенета: досвід %+n і дальність стрільби +15% для кінних списоносців	true
+effects_description_mk_faction_trait_marinids_2	Родовід зенета: досвід %+n і дальність стрільби +15% для кінних списників	true
 effects_description_mk_faction_trait_marinids_3	Блукання по пустелі. Можливість міграції та захист від небойових втрат у пустелі	true
 effects_description_mk_faction_trait_bulgaria_3	Союзні половецькі загони: вартість найму -25% і вартість утримання -10% для загонів місцевого найму	true
 effects_description_mk_faction_trait_bulgaria_2	Болгарський патріархат: поліпшення громад. порядку від присутності православ'я до +4 і проникнення православ'я в кожній провінції +1	true
