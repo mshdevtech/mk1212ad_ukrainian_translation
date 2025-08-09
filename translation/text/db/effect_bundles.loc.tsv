@@ -1414,7 +1414,7 @@ effect_bundles_localised_description_mk_faction_trait_aragon_separatists	„Пр
 effect_bundles_localised_title_att_faction_trait_celtic	Швидка здобич	true
 effect_bundles_localised_title_att_payload_osmosis_religious_manichaean_positive_faction	Сильний вплив маніхейства	true
 effect_bundles_localised_description_att_public_order_eastern_5_content	Населення цієї провінції окрилене поточним станом справ.	true
-effect_bundles_localised_title_att_plague_smallpox_region		true
+effect_bundles_localised_title_att_plague_smallpox_region	Віспа!	true
 effect_bundles_localised_description_mk_faction_trait_ayyubid_separatists	„Єрусалим — об’єкт нашого поклоніння, від якого ми не відступимо, і ми твердо налаштовані за жодних обставин не здавати це місто, битися за нього до останньої людини. Що ж до землі — вона має належати нам аж до того берега ріки Йордан.“	true
 effect_bundles_localised_title_bel_bundle_mission_payload_income_positive	Підтримка Феодори	true
 effect_bundles_localised_title_att_bundle_edict_eastern_mass_conscription	Масовий заклик	true
@@ -1664,7 +1664,7 @@ effect_bundles_localised_description_att_public_order_barbarian_7_jubilant	На�
 effect_bundles_localised_description_mk_faction_trait_latinempire	Завдяки диву Господньому імперія римлян тепер в наших руках.	true
 effect_bundles_localised_description_mk_faction_trait_bohemia_separatists	„Краще добре померти, ніж погано жити.“	true
 effect_bundles_localised_description_att_faction_trait_eastern_sassanid	Владне й пильне око шаха стежить за всім, що відбувається.	true
-effect_bundles_localised_description_att_faction_trait_arabian		true
+effect_bundles_localised_description_att_faction_trait_arabian	Захист від небойових втрат у пустелях.	true
 effect_bundles_localised_description_mk_faction_trait_teuton_separatists	„Я, такий-то, даю обітницю і обіцяю берегти невинність, відмовитися від власності, бути слухняним Богу і благій Діві Марії і тобі, брате такий-то, магістр Тевтонського ордену, і твоїм наступникам згідно з Уставом і Статутами ордена і буду слухняний тобі і твоїм наступникам до самої смерті.“	true
 effect_bundles_localised_description_att_faction_trait_eastern	Знання - не сила, але фундамент для могутності.	true
 effect_bundles_localised_title_att_bundle_edict_rome_east_urbanisation	Східна урбанізація	true
