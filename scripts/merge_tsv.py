@@ -1,3 +1,26 @@
+# This script merges translation files from a source directory (`_upstream/en/text/db`)
+# with corresponding files in a target directory (`translation/text/db`).
+# It performs the following steps:
+#
+# 1. Reads all `.loc.tsv` files from the source directory.
+# 2. For each source file:
+#    - Reads the corresponding target file if it exists, or creates an empty DataFrame.
+#    - Filters out rows with empty or whitespace-only keys.
+#    - Merges the source and target files on the `key` column:
+#      - Keeps existing translations from the target file if they are non-empty.
+#      - Copies the source text if no translation exists in the target file.
+#    - Ensures the column order matches the source file and replaces NaN values with empty strings.
+#    - Saves the merged file back to the target directory.
+# 3. Tracks and logs statistics:
+#    - Counts new keys added from the source file to the target file.
+#    - Identifies and archives keys removed from the source file into an `obsolete` directory.
+# 4. Outputs a summary of processed files, new keys added, and keys archived.
+#
+# Usage:
+# - Place the source `.loc.tsv` files in `_upstream/en/text/db`.
+# - Place the target `.loc.tsv` files (if any) in `translation/text/db`.
+# - Run the script. The merged files will be saved in `translation/text/db`,
+#   and removed keys will be archived in the `obsolete` directory.
 import pandas as pd, pathlib, sys
 
 SRC_DIR = pathlib.Path("_upstream/en/text/db")
