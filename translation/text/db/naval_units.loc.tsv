@@ -56,10 +56,10 @@ naval_units_onscreen_name_att_lib_heavy_dbl_art_rom	Залпова лібурн�
 naval_units_onscreen_name_mk_oar_galea_small_t2_mus	Шебека	true
 naval_units_onscreen_name_mk_oar_galea_small_t2_ita	Легка галера	true
 naval_units_onscreen_name_mk_oar_galea_small_t2_naft_mus	Вогнеметний шині	true
-naval_units_onscreen_name_mk_sail_cog_small_t3_gun	Гарматний когг	true
+naval_units_onscreen_name_mk_sail_cog_small_t3_gun	Гарматний ког	true
 naval_units_onscreen_name_mk_oar_dromon_small_t1_byz	Легкий дромон	true
-naval_units_onscreen_name_mk_sail_cog_small_t1_art	Осадний когг	true
-naval_units_onscreen_name_mk_sail_cog_small_t1_tra	Транспортний когг	true
+naval_units_onscreen_name_mk_sail_cog_small_t1_art	Осадний ког	true
+naval_units_onscreen_name_mk_sail_cog_small_t1_tra	Транспортний ког	true
 naval_units_onscreen_name_att_lib_light_spike_ram_wr	Штурмова лібурна	true
 naval_units_onscreen_name_mk_oar_galea_large_t2_cat	Галера	true
 naval_units_onscreen_name_mk_oar_galea_large_t1_cat	Галера	true
@@ -145,7 +145,7 @@ naval_units_onscreen_name_mk_oar_galea_large_t3_gun_mus	Гарматний ши�
 naval_units_onscreen_name_att_lon_light_tra_hun	Мала корбіта	true
 naval_units_onscreen_name_att_lon_light_mel_alan	Шнека	true
 naval_units_onscreen_name_att_lon_light_mel_slav	Сагена	true
-naval_units_onscreen_name_mk_sail_cog_large_t2	Великий когг	true
+naval_units_onscreen_name_mk_sail_cog_large_t2	Великий ког	true
 naval_units_onscreen_name_mk_oar_galea_large_t3_gun_ita	Гарматна ординарна галера	true
 naval_units_onscreen_name_att_lib_light_mis_rom	Лібурна зі стрілками	true
 naval_units_onscreen_name_att_lon_light_mis_nor	Скейд	true

@@ -1043,7 +1043,7 @@ effects_description_att_effect_force_navy_battle_unit_morale_sea_attack	Бойо
 effects_description_att_effect_force_army_battle_cavalry_movement_speed	Швидкість переміщення в бою: %+n% для кінноти	true
 effects_description_att_effect_force_navy_battle_movement_speed	Швидкість переміщення в морському бою: %+n%	true
 effects_description_att_effect_force_all_campaign_recruitment_cost_heavy	Вартість найму: %+n% для важких військ	true
-effects_description_mk_faction_trait_ayyubid_4	Амбітні еміри Айюбідів. Громадський порядок: %+n	true
+effects_description_mk_faction_trait_ayyubid_4	Амбітні еміри Аюбідів. Громадський порядок: %+n	true
 effects_description_mk_faction_trait_ayyubid_1	Землі паломників. Штраф до громад. порядку: %+n% через присутність інших релігій	true
 effects_description_mk_faction_trait_ayyubid_2	Впроваджений інститут і стан мамлюків: посилення натиску і швидкострільності проф. військ %+n%, а також приріст чисел. знаті +0.5%	true
 effects_description_mk_faction_trait_ayyubid_3	Торгівля між Сходом і Заходом: багатства від портових споруд %+n%, а також дохід від торгових мит +15%	true

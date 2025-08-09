@@ -1721,7 +1721,7 @@ factions_defend_desc_mk_fact_greaterpoland	На вас напало Велико
 factions_clan_summary_name_when_shogun_mk_fact_separatists_frankish	placeholder	true
 factions_screen_name_cha_fact_separatist_italian_cw	Ломбардські сепаратисти	true
 factions_senator_text_lose_1_mk2_fact_papacy	Підтримка сенаторів: -%n	true
-factions_screen_adjective_mk_fact_separatists_tlemcen	Зайяніди	true
+factions_screen_adjective_mk_fact_separatists_tlemcen	Заяніди	true
 factions_senator_text_lose_n_mk_fact_ahmadili	Підтримка знаті: -%n	true
 factions_senator_text_lose_n_mk_fact_scotland	Підтримка сенаторів: -%n	true
 factions_clan_summary_name_mk2_fact_separatists_georgia	placeholder	true
@@ -2403,7 +2403,7 @@ factions_clan_summary_name_mk2_fact_teutonic	placeholder	true
 factions_senator_text_lose_1_mk_fact_separatists_prussian	Підтримка придворних: -%n	true
 factions_senator_text_gain_n_bel_fact_suebi	Підтримка вождів: +%n	true
 factions_senator_text_gain_1_bel_fact_suebi	Підтримка вождів: +%n	true
-factions_defend_desc_mk2_fact_separatists_tlemcen	На вас напали зайянідські самозванці!	true
+factions_defend_desc_mk2_fact_separatists_tlemcen	На вас напали заянідські самозванці!	true
 factions_attack_desc_att_fact_oriens	Ви напали на жителів Сходу!	true
 factions_screen_adjective_cha_fact_angrians	Ангрен	true
 factions_attack_desc_mk2_fact_separatists_croatia	Ви напали на хорватських самозванців!	true
@@ -2731,10 +2731,10 @@ factions_screen_adjective_mk2_fact_separatists_mamluks	Мамлюки	true
 factions_screen_name_mk2_fact_poland	Королівство Польське	true
 factions_screen_name_when_shogun_mk_fact_separatists_almohads	placeholder	true
 factions_screen_name_when_shogun_mk_fact_separatists_lombards	placeholder	true
-factions_screen_name_mk_fact_ayyubids	Султанат Айюбідів	true
+factions_screen_name_mk_fact_ayyubids	Султанат Аюбідів	true
 factions_screen_name_when_rebels_mk_fact_separatists_novgorod	Новгородські бунтівники	true
 factions_clan_summary_name_when_shogun_att_fact_hunni	placeholder	true
-factions_attack_desc_mk_fact_ayyubids	Ви напали на султанат Айюбідів!	true
+factions_attack_desc_mk_fact_ayyubids	Ви напали на султанат Аюбідів!	true
 factions_clan_summary_name_when_shogun_att_fact_alani	placeholder	true
 factions_attack_desc_cha_fact_toledo	Ви напали на тайфу Толедо!	true
 factions_screen_name_att_fact_italia	Італія	true
@@ -2924,7 +2924,7 @@ factions_screen_name_mk_fact_separatists_jerusalem	Єрусалимські са
 factions_clan_summary_name_mk_fact_lithuania	placeholder	true
 factions_attack_desc_mk_fact_navarre	Ви напали на Королівство Наварра!	true
 factions_screen_adjective_mk2_fact_separatists_shirvan	Ширванці	true
-factions_screen_adjective_mk2_fact_separatists_tlemcen	Зайяніди	true
+factions_screen_adjective_mk2_fact_separatists_tlemcen	Заяніди	true
 factions_senator_text_lose_n_bel_fact_berberi	Підтримка придворних: -%n	true
 factions_screen_name_mk2_fact_saxony	Курфюрство Саксонія	true
 factions_screen_name_when_rebels_mk_fact_homs	Хомські бунтівники	true
@@ -3005,7 +3005,7 @@ factions_attack_desc_mk2_fact_cyprus	Ви напали на Кіпрське к�
 factions_screen_name_when_rebels_mk2_fact_separatists_poland	Польські бунтівники	true
 factions_clan_summary_name_att_fact_separatist_germanic_north	placeholder	true
 factions_screen_name_when_shogun_mk_fact_separatists_khwarazm	placeholder	true
-factions_screen_name_when_rebels_mk_fact_separatists_ayyubids	Айюбські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_separatists_ayyubids	Аюбські бунтівники	true
 factions_screen_name_mk_fact_novgorod	Новгородська республіка	true
 factions_attack_desc_mk_fact_novgorod	Ви напали на Новгородську республіку!	true
 factions_defend_desc_cha_fact_separatist_frankish_cw	На вас напали австразійські сепаратисти!	true
@@ -3167,7 +3167,7 @@ factions_screen_name_when_rebels_mk_fact_separatists_uyunids	Уюнідські 
 factions_screen_name_when_shogun_mk2_fact_muscovy	placeholder	true
 factions_screen_adjective_mk_fact_jerusalem	Єрусалимці	true
 factions_clan_summary_name_mk_fact_wallachia	placeholder	true
-factions_defend_desc_mk_fact_tlemcen	На вас напав султанат Зайянідів!	true
+factions_defend_desc_mk_fact_tlemcen	На вас напав султанат Заянідів!	true
 factions_defend_desc_mk_fact_shirvan	На вас напала держава Ширваншахів!	true
 factions_screen_name_when_shogun_mk_fact_separatists_albania	placeholder	true
 factions_clan_summary_name_mk_fact_bavandids	placeholder	true
@@ -3299,7 +3299,7 @@ factions_screen_name_when_rebels_mk_fact_separatists_muscovy	Московськ�
 factions_screen_adjective_mk_fact_novgorod	Новгородці	true
 factions_senator_text_lose_n_bel_fact_byzantine_expedition	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_1_bel_fact_byzantine_expedition	Підтримка сенаторів: -%n	true
-factions_attack_desc_mk_fact_tlemcen	Ви напали на султанат Зайянідів!	true
+factions_attack_desc_mk_fact_tlemcen	Ви напали на султанат Заянідів!	true
 factions_defend_desc_mk_fact_rebels_iranian	На вас напали іранські бунтівники!	true
 factions_screen_name_when_shogun_cha_fact_separatist_muslim	placeholder	true
 factions_screen_name_mk_fact_separatists_rus	Руські самозванці	true
@@ -3538,7 +3538,7 @@ factions_senator_text_n_out_of_n_mk2_fact_lithuania	%n з %n придворни�
 factions_screen_adjective_mk_fact_rebels_rus	Руси	true
 factions_screen_name_when_rebels_att_fact_septem_provinciem	Провінційні бунтівники	true
 factions_screen_name_mk_fact_bologna	Болонська комуна	true
-factions_screen_adjective_mk_fact_ayyubids	Айюбіди	true
+factions_screen_adjective_mk_fact_ayyubids	Аюбіди	true
 factions_screen_name_when_shogun_cha_fact_asturias	placeholder	true
 factions_clan_summary_name_when_shogun_cha_fact_separatist_christian	placeholder	true
 factions_defend_desc_mk_fact_navarre	На вас напало Королівство Наварра!	true
@@ -3551,7 +3551,7 @@ factions_screen_name_when_shogun_mk_fact_mihrabanids	placeholder	true
 factions_screen_name_when_rebels_mk_fact_muzaffarids	Музаффаридські бунтівники	true
 factions_attack_desc_cha_fact_rebel_frankish	Ви напали на франкських бунтівників!	true
 factions_attack_desc_mk_fact_castile	Ви напали на Королівство Кастилія!	true
-factions_screen_name_when_rebels_mk2_fact_tlemcen	Зайянідські бунтівники	true
+factions_screen_name_when_rebels_mk2_fact_tlemcen	Заянідські бунтівники	true
 factions_screen_name_when_rebels_mk_fact_separatists_hungary	Угорські бунтівники	true
 factions_senator_text_lose_1_mk2_fact_bavaria	Підтримка придворних: -%n	true
 factions_screen_name_when_rebels_mk_fact_pisa	Пізанські бунтівники	true
@@ -3581,14 +3581,14 @@ factions_senator_text_gain_1_mk_fact_teutonicorder	Підтримка сенат
 factions_senator_text_lose_n_mk_fact_goldenhordecb	Підтримка знаті: -%n	true
 factions_senator_text_lose_1_mk_fact_goldenhordecb	Підтримка знаті: -%n	true
 factions_screen_name_when_shogun_mk2_fact_separatists_oman	placeholder	true
-factions_attack_desc_mk2_fact_separatists_tlemcen	Ви напали на зайянідських самозванців!	true
+factions_attack_desc_mk2_fact_separatists_tlemcen	Ви напали на заянідських самозванців!	true
 factions_defend_desc_mk2_fact_separatists_croatia	На вас напали хорватські самозванці!	true
 factions_screen_name_mk2_fact_separatists_shirvan	Ширванські самозванці	true
 factions_clan_summary_name_when_shogun_cha_fact_charlemagne	placeholder	true
 factions_attack_desc_cha_fact_frisia	Ви напали на герцогство Фризія!	true
 factions_attack_desc_mk2_fact_separatists_shirvan	Ви напали на ширванських самозванців!	true
 factions_senator_text_lose_1_mk_fact_separatists_toulouse	Підтримка сенаторів: -%n	true
-factions_screen_name_mk2_fact_separatists_tlemcen	Зайянідські самозванці	true
+factions_screen_name_mk2_fact_separatists_tlemcen	Заянідські самозванці	true
 factions_screen_adjective_bel_fact_sardinii	не використовується	true
 factions_screen_adjective_cha_fact_aquitane	Аквітанія	true
 factions_screen_adjective_mk_fact_separatists_swabia	Шваби	true
@@ -3897,7 +3897,7 @@ factions_defend_desc_mk2_fact_poland	На вас напало Королівст
 factions_senator_text_lose_n_att_fact_separatist_dani	Підтримка вождів: -%n	true
 factions_screen_name_when_shogun_mk_fact_separatists_kipchaks	placeholder	true
 factions_clan_summary_name_mk_fact_separatists_venice	placeholder	true
-factions_defend_desc_mk_fact_ayyubids	На вас напав султанат Айюбідів!	true
+factions_defend_desc_mk_fact_ayyubids	На вас напав султанат Аюбідів!	true
 factions_screen_adjective_mk2_fact_burgundy	Бургундці	true
 factions_senator_text_n_out_of_n_att_fact_separatist_ebdani	%n з %n вождів	true
 factions_clan_summary_name_cha_fact_pamplona	placeholder	true
@@ -3926,7 +3926,7 @@ factions_defend_desc_mk2_fact_separatists_granada	На вас напали гр�
 factions_screen_name_att_fact_venedi	Венеди	true
 factions_screen_adjective_mk_fact_staufers	Гогенштауфени	true
 factions_screen_name_when_rebels_mk2_fact_hungary	Угорські бунтівники	true
-factions_screen_name_when_rebels_mk_fact_separatists_tlemcen	Зайянідські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_separatists_tlemcen	Заянідські бунтівники	true
 factions_screen_name_when_rebels_att_fact_roxolani	Роксоланські бунтівники	true
 factions_senator_text_n_out_of_n_bel_fact_byzantine_empire	%n з %n сенаторів	true
 factions_screen_adjective_mk_fact_germiyan	Герміяніди	true
@@ -4044,7 +4044,7 @@ factions_senator_text_lose_1_mk_fact_separatists_khwarazm	Підтримка п�
 factions_screen_name_when_rebels_mk2_fact_trebizond	Трапезундські бунтівники	true
 factions_clan_summary_name_mk_fact_nuremberg	placeholder	true
 factions_screen_name_mk_fact_rebels_african	Африканські бунтівники	true
-factions_screen_name_mk_fact_tlemcen	Султанат Зайянідів	true
+factions_screen_name_mk_fact_tlemcen	Султанат Заянідів	true
 factions_senator_text_n_out_of_n_att_fact_sclaveni	%n з %n вождів	true
 factions_attack_desc_mk_fact_separatists_rus	Ви напали на російських самозванців!	true
 factions_screen_name_mk_fact_shirvan	Держава Ширваншахів	true
@@ -4320,7 +4320,7 @@ factions_defend_desc_mk_fact_separatists_denmark	На вас напали дат
 factions_screen_name_mk_fact_separatists_hafsids	Хафсидські самозванці	true
 factions_senator_text_lose_1_mk_fact_toulouse	Підтримка сенаторів: -%n	true
 factions_screen_name_when_shogun_att_fact_separatist_eastern_roman_npc	placeholder	true
-factions_attack_desc_mk_fact_separatists_tlemcen	Ви напали на зайянідських самозванців!	true
+factions_attack_desc_mk_fact_separatists_tlemcen	Ви напали на заянідських самозванців!	true
 factions_screen_name_when_rebels_mk2_fact_separatists_castile	Кастильські бунтівники	true
 factions_screen_name_when_rebels_mk_fact_muscovy	Московські бунтівники	true
 factions_senator_text_lose_1_mk_fact_abbasids	Підтримка придворних: -%n	true
@@ -4396,7 +4396,7 @@ factions_senator_text_lose_1_mk_fact_ilkhanate	Підтримка знаті: -%
 factions_screen_name_mk2_fact_castile	Кастильська корона	true
 factions_senator_text_n_out_of_n_mk_fact_genoa	%n з %n сенаторів	true
 factions_senator_text_n_out_of_n_mk_fact_turov	%n з %n знаті	true
-factions_screen_adjective_mk_fact_separatists_ayyubids	Айюбіди	true
+factions_screen_adjective_mk_fact_separatists_ayyubids	Аюбіди	true
 factions_clan_summary_name_cha_fact_rebel_viking	placeholder	true
 factions_clan_summary_name_when_shogun_mk_fact_separatists_milan	placeholder	true
 factions_senator_text_lose_n_att_fact_illyricum	Підтримка сенаторів: -%n	true
@@ -4580,7 +4580,7 @@ factions_attack_desc_mk_fact_separatists_antioch	Ви напали на анти
 factions_screen_name_mk_fact_rebels_west_slavic	Західнослов'янські бунтівники	true
 factions_clan_summary_name_mk_fact_turov	placeholder	true
 factions_clan_summary_name_when_shogun_att_fact_separatist_axum	placeholder	true
-factions_screen_name_when_rebels_mk2_fact_separatists_tlemcen	Зайянідські бунтівники	true
+factions_screen_name_when_rebels_mk2_fact_separatists_tlemcen	Заянідські бунтівники	true
 factions_screen_name_when_rebels_mk_fact_hungary	Угорські бунтівники	true
 factions_senator_text_gain_n_mk2_fact_portugal	Підтримка придворних: +%n	true
 factions_senator_text_gain_1_mk2_fact_portugal	Підтримка придворних: +%n	true
@@ -4681,12 +4681,12 @@ factions_screen_name_mk2_fact_shirvan	Держава Ширваншахів	true
 factions_defend_desc_mk2_fact_croatia	На вас напало Королівство Хорватія!	true
 factions_screen_name_att_fact_garamantes	Гараманти	true
 factions_clan_summary_name_when_shogun_cha_fact_gwynedd	placeholder	true
-factions_attack_desc_mk2_fact_tlemcen	Ви напали на султанат Зайянідів!	true
+factions_attack_desc_mk2_fact_tlemcen	Ви напали на султанат Заянідів!	true
 factions_screen_name_when_rebels_mk2_fact_separatists_lorraine	Лотаринзькі бунтівники	true
 factions_screen_name_when_rebels_mk2_fact_separatists_teutonic	Тевтонські бунтівники	true
 factions_senator_text_lose_n_att_fact_septem_provinciem	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_1_att_fact_septem_provinciem	Підтримка сенаторів: -%n	true
-factions_screen_name_mk2_fact_tlemcen	Султанат Зайянідів	true
+factions_screen_name_mk2_fact_tlemcen	Султанат Заянідів	true
 factions_attack_desc_mk2_fact_shirvan	Ви напали на державу Ширваншахів!	true
 factions_screen_name_when_shogun_att_fact_oriens	placeholder	true
 factions_screen_adjective_mk_fact_separatists_novgorod	Новгородці	true
@@ -5110,7 +5110,7 @@ factions_senator_text_n_out_of_n_att_fact_nobatia	%n з %n придворних	
 factions_screen_name_when_shogun_cha_fact_rebel_christian	placeholder	true
 factions_attack_desc_mk2_fact_jalayirids	Ви напали на султанат Джалаїридів!	true
 factions_senator_text_gain_1_mk2_fact_hospitaller	Підтримка сенаторів: +%n	true
-factions_defend_desc_mk_fact_separatists_ayyubids	На вас напали айюбідські самозванці!	true
+factions_defend_desc_mk_fact_separatists_ayyubids	На вас напали аюбідські самозванці!	true
 factions_attack_desc_mk2_fact_separatists_france	Ви напали на французьких самозванців!	true
 factions_screen_name_when_shogun_mk2_fact_venice	placeholder	true
 factions_screen_adjective_mk2_fact_separatists_mihrabanids	Міхрабаніди	true
@@ -5128,7 +5128,7 @@ factions_screen_adjective_mk2_fact_separatists_rasulids	Расуліди	true
 factions_attack_desc_mk_fact_separatists_hafsids	Ви напали на хафсидських самозванців!	true
 factions_screen_name_when_rebels_att_fact_separatist_visigothic	Вестготські бунтівники	true
 factions_screen_adjective_mk_fact_kiev	Кияни	true
-factions_screen_name_mk_fact_separatists_tlemcen	Зайянідські самозванці	true
+factions_screen_name_mk_fact_separatists_tlemcen	Заянідські самозванці	true
 factions_screen_name_when_shogun_cha_fact_rebel_italian	placeholder	true
 factions_clan_summary_name_mk_fact_volga	placeholder	true
 factions_senator_text_gain_n_bel_fact_sardinii	Підтримка сенаторів: +%n	true
@@ -5368,7 +5368,7 @@ factions_screen_name_bel_fact_ostrogothi	Остготське царство	tru
 factions_screen_name_when_rebels_mk_fact_genoa	Генуезькі бунтівники	true
 factions_screen_name_when_shogun_mk_fact_rebels_berber	placeholder	true
 factions_defend_desc_mk2_fact_castile	На вас напала Кастильська корона!	true
-factions_screen_name_when_rebels_mk_fact_savoy	Савойяри-бунтівники	true
+factions_screen_name_when_rebels_mk_fact_savoy	Савояри-бунтівники	true
 factions_screen_name_mk_fact_rebels_turk	Тюркські бунтівники	true
 factions_attack_desc_att_fact_separatist_african	Ви напали на африканських сепаратистів!	true
 factions_screen_name_when_rebels_mk_fact_rasulids	Расулідські бунтівники	true
@@ -5613,7 +5613,7 @@ factions_senator_text_lose_1_mk_fact_portugal	Підтримка сенатор�
 factions_screen_adjective_mk_fact_schwyz	Швейцарці	true
 factions_attack_desc_mk2_fact_croatia	Ви напали на Королівство Хорватія!	true
 factions_clan_summary_name_when_shogun_mk_fact_separatists_zagwe	placeholder	true
-factions_defend_desc_mk2_fact_tlemcen	На вас напав султанат Зайянідів!	true
+factions_defend_desc_mk2_fact_tlemcen	На вас напав султанат Заянідів!	true
 factions_screen_name_mk2_fact_croatia	Королівство Хорватія	true
 factions_screen_name_when_rebels_att_fact_ebdani	Ебданські бунтівники	true
 factions_screen_name_when_shogun_mk_fact_rebels_bulgar	placeholder	true
@@ -6030,14 +6030,14 @@ factions_senator_text_lose_n_att_fact_separatist_lakhmids	Підтримка п�
 factions_clan_summary_name_mk_fact_crimea	placeholder	true
 factions_clan_summary_name_when_shogun_att_fact_britannia	placeholder	true
 factions_screen_name_mk_fact_separatists_novgorod	Новгородські бояри	true
-factions_screen_name_when_rebels_mk_fact_ayyubids	Айюбідські бунтівники	true
+factions_screen_name_when_rebels_mk_fact_ayyubids	Аюбідські бунтівники	true
 factions_senator_text_lose_1_mk2_fact_separatists_granada	Підтримка придворних: -%n	true
 factions_screen_name_when_shogun_mk_fact_khwarazm	placeholder	true
 factions_senator_text_lose_1_mk2_fact_separatists_mentese	Підтримка придворних: -%n	true
 factions_attack_desc_mk_fact_separatists_novgorod	Ви напали на новгородських бояр!	true
 factions_screen_adjective_mk2_fact_shirvan	Ширванці	true
 factions_screen_name_mk2_fact_separatists_sicily	Сицилійські знатні родини	true
-factions_screen_adjective_mk2_fact_tlemcen	Зайяніди	true
+factions_screen_adjective_mk2_fact_tlemcen	Заяніди	true
 factions_attack_desc_mk2_fact_separatists_papacy	Ви напали на римські знатні родини!	true
 factions_senator_text_lose_1_mk_fact_smolensk	Підтримка знаті: -%n	true
 factions_screen_name_when_shogun_mk_fact_bologna	placeholder	true
@@ -6296,8 +6296,8 @@ factions_clan_summary_name_mk_fact_rebels_moorish	placeholder	true
 factions_attack_desc_mk2_fact_separatists_sufids	Ви напали на суфідських самозванців!	true
 factions_screen_adjective_mk2_fact_castile	Кастильці	true
 factions_screen_name_when_rebels_mk_fact_novgorod	Новгородські бунтівники	true
-factions_screen_name_mk_fact_separatists_ayyubids	Айюбідські самозванці	true
-factions_attack_desc_mk_fact_separatists_ayyubids	Ви напали на айюбідських самозванців!	true
+factions_screen_name_mk_fact_separatists_ayyubids	Аюбідські самозванці	true
+factions_attack_desc_mk_fact_separatists_ayyubids	Ви напали на аюбідських самозванців!	true
 factions_senator_text_gain_1_mk2_fact_separatists_austria	Підтримка придворних: +%n	true
 factions_screen_name_when_shogun_mk_fact_timurids	placeholder	true
 factions_senator_text_gain_1_mk2_fact_separatists_brabant	Підтримка придворних: +%n	true
@@ -6309,7 +6309,7 @@ factions_screen_adjective_mk_fact_rebels_french	Французи	true
 factions_senator_text_lose_n_mk2_fact_portugal	Підтримка придворних: -%n	true
 factions_senator_text_lose_1_mk2_fact_portugal	Підтримка придворних: -%n	true
 factions_senator_text_gain_1_mk_fact_burgundy	Підтримка сенаторів: +%n	true
-factions_defend_desc_mk_fact_separatists_tlemcen	На вас напали зайянідські самозванці!	true
+factions_defend_desc_mk_fact_separatists_tlemcen	На вас напали заянідські самозванці!	true
 factions_screen_name_when_shogun_mk2_fact_separatists_muscovy	placeholder	true
 factions_screen_name_when_rebels_att_fact_rebel_african	Африканські бунтівники	true
 factions_attack_desc_mk_fact_rebels_rus	Ви напали на російських бунтівників!	true
@@ -6963,7 +6963,7 @@ factions_screen_adjective_mk_fact_shirvan	Ширванці	true
 factions_senator_text_lose_1_mk_fact_ilkhanatecb	Підтримка знаті: -%n	true
 factions_screen_name_when_shogun_cha_fact_granada	placeholder	true
 factions_screen_name_when_rebels_att_fact_palmyra	Пальмірські бунтівники	true
-factions_screen_adjective_mk_fact_tlemcen	Зайяніди	true
+factions_screen_adjective_mk_fact_tlemcen	Заяніди	true
 factions_screen_name_when_rebels_cha_fact_bohemia	Богемські бунтівники	true
 factions_defend_desc_att_fact_separatist_sclaveni	На вас напали склавінські сепаратисти!	true
 factions_screen_adjective_mk2_fact_nicaea	Ромеї	true
