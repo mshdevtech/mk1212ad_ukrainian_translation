@@ -258,7 +258,7 @@ effects_description_att_effect_agent_recruitment_cap_champion	Максималь
 effects_description_att_effect_edict_eastern_mass_conscription_non_mercenary_cost_mod	Едикт «Масовий призов». Вартість найму (крім найманців): %+n%	true
 effects_description_att_effect_force_army_battle_infantry_heavy_missile_rate	Атака при стрільбі: %+n% для важкої піхоти	true
 effects_description_att_effect_force_army_battle_cavalry_fatigue_resistance	Накопичення втоми: %+n% для всієї кінноти	true
-effects_description_mk_effect_religion_osmosis_ibadi_islam	"Проникнення релігії"" %+n для ібадитського ісламу"	true
+effects_description_mk_effect_religion_osmosis_ibadi_islam	Проникнення релігії %+n для ібадитського ісламу	true
 effects_description_att_effect_province_attribute_subterfuge_unseen	[NOT DISPLAYED] Provincial security: %+n against spy-type agents	true
 effects_description_mk_faction_trait_france_1	Перевага смерті над безчестям. Бойовий дух: %+n для загонів кінноти	true
 effects_description_mk_faction_trait_france_2	Загони списів: посилення натиску для загонів кінноти %+n%, а також приріст чисельності знаті +0.5%	true
@@ -429,8 +429,7 @@ effects_description_mk_faction_trait_zengid_3	Перехрестя культу�
 effects_description_mk_faction_trait_zengid_2	Мосульські майстерні: вартість будівництва для ресурсних і виробничих споруд %+n%, а також багатство від виробництва +10%	true
 effects_description_att_effect_force_all_campaign_military_morale_factor_buildings	Згуртованість: %+n	true
 effects_description_mk_faction_trait_zengid_4	Держава-обрубок. Авторитет: %+n	true
-effects_description_mk_faction_trait_nicaea_2_agent	"Імперська спадковість. Досвід для нових агентів: %+n
-"	true
+effects_description_mk_faction_trait_nicaea_2_agent	Імперська спадковість. Досвід для нових агентів: %+n	true
 effects_description_att_effect_force_army_campaign_recruitment_cost_melee_infantry	Вартість найму: %+n% для піхоти ближнього бою	true
 effects_description_att_effect_plague_infectivity_mod	Хвороба: %+n% до заразності	true
 effects_description_att_effect_siege_engine_number_siege_tower_15m_medium	15-метрові середні облогові вежі за кожну облогову машину: %n	true
@@ -779,7 +778,7 @@ effects_description_att_effect_general_ability_enable_fear_5	Доступ: [[col
 effects_description_att_effect_force_navy_battle_artillery_ship_melee_defence	Захист у ближньому бою: %+n для далекобійних кораблів	true
 effects_description_mk_faction_trait_bohemia_2_growth	Заохочення розселення на схід. Зростання: %+n	true
 effects_description_att_effect_edict_arian_almsgiving_religious_happiness_mod	Едикт «Милостиня». Громад. порядок від наявності аріан: до %+n	true
-effects_description_mk_effect_religion_osmosis_cathar	"Проникнення релігії"" %+n для християнства катарів"	true
+effects_description_mk_effect_religion_osmosis_cathar	Проникнення релігії %+n для християнства катарів	true
 effects_description_att_effect_agent_action_outcome_target_army_battle_morale	Бойовий дух: %+n	true
 effects_description_att_effect_force_army_battle_cavalry_charge_bonus	Посилення натиску: %+n% для кінноти	true
 effects_description_att_effect_agent_enable_recruitment_spy	Можливість наймати агентів-підглядників	true
@@ -986,7 +985,7 @@ effects_description_mk_effect_tech_morale_levy_militia	Бойовий дух: %+
 effects_description_att_effect_province_food_surplus_development_growth_benefit	Зростання: %+n	true
 effects_description_att_effect_general_bodyguard_mod_unit_health	Зброя: %+n% для загону полководця	true
 effects_description_att_effect_force_newhorde_buildings_barbarian	[Не відображається] Набір будівель, що використовується при появі нової орди варварів	true
-effects_description_mk_effect_religion_osmosis_bogomilist	"Проникнення релігії"" %+n для богомильства"	true
+effects_description_mk_effect_religion_osmosis_bogomilist	Проникнення релігії %+n для богомильства	true
 effects_description_att_effect_general_aura_mod_all_during_ambush	Зона впливу полководця: %+n% при засідці	true
 effects_description_mk_faction_trait_hafsids_2_po	Торгова столиця Туніс. Штраф до громад. порядку: %+n% через присутність інших релігій	true
 effects_description_att_effect_force_army_campaign_experience_base_light_units	Досвід: %+n для нових легких загонів	true
@@ -1642,7 +1641,7 @@ effects_description_att_effect_edict_orthodox_divine_liturgy_religious_conversio
 effects_description_att_effect_agent_action_enable_dignitary_hinder_army_encourage_mutiny	Доступ: [[col:yellow]]Розпалювання заколоту[[/col]]	true
 effects_description_mk_faction_trait_georgia_2_time	Грузинська Золота доба. Час будівництва: %+n	true
 effects_description_att_effect_edict_eastern_enlightenment_civic_research	Швидкість досліджень: %+n% для цивільних технологій	true
-effects_description_mk_effect_religion_osmosis_shia_islam	"Проникнення релігії"" %+n для шиїтського ісламу"	true
+effects_description_mk_effect_religion_osmosis_shia_islam	Проникнення релігії %+n для шиїтського ісламу	true
 effects_description_att_effect_food_production_characters_horde	Їжа: +%n від персонажів (в стані орди)	true
 effects_description_att_effect_agent_action_success_chance_spy	Шанс на успіх: %+n% для підглядників	true
 effects_description_att_effect_agent_action_enable_champion_hinder_settlement_sabotage_building	Доступ: [[col:yellow]]Пошкодження споруди[[/col]]	true

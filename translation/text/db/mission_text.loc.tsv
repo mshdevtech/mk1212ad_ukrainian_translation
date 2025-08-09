@@ -1585,7 +1585,7 @@ mission_text_text_att_objective_culture_nomadic_3_1_description	While preferring
 mission_text_text_att_objective_culture_nomadic_4_1_description	Nomads such as the Huns and Scythians before them were unusual in that they comprised many hosts operating under the guidance of a single, supreme monarch.	true
 mission_text_text_att_objective_culture_nomadic_5_1_description	While preferring to live on the move, nomadic tribes such as the Huns would often subjugate weaker factions. To govern was not the aim, they were instead extorted for wealth and military support.	true
 mission_text_text_mis_activity_raise_army	Raise an army	true
-mission_text_text_bel_objective_expedition_3_main_description	"The Empire ascends once more, and the darkening world once again seems bright. Yet Imperial lands are not entirely freed from their barbarous yolk, and so Rome must march against them.” 	true
+mission_text_text_bel_objective_expedition_3_main_description	"The Empire ascends once more, and the darkening world once again seems bright. Yet Imperial lands are not entirely freed from their barbarous yolk, and so Rome must march against them." 	true
 mission_text_text_mis_activity_own_n_provinces_with_cultural_dominance	Hold at least one settlement in %n provinces in which your religion is dominant.	true
 mission_text_text_mis_activity_have_n_satrapies	Maintain sovereignty over %n puppet states.	true
 mission_text_text_mis_activity_raise_army_region	Raise an army at the following settlement: 	true

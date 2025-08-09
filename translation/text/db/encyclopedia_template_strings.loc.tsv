@@ -30,7 +30,7 @@ encyclopedia_template_strings_text_traditions	Traditions	true
 encyclopedia_template_strings_text_requires	Requires	true
 encyclopedia_template_strings_text_eastern_buildings	Eastern Buildings	true
 encyclopedia_template_strings_text_characters	Characters	true
-encyclopedia_template_strings_text_search_results_found_for	"%d search results found for ""%s""."	true
+encyclopedia_template_strings_text_search_results_found_for	%d search results found for "%s".	true
 encyclopedia_template_strings_text_settlement	Settlement	true
 encyclopedia_template_strings_text_region_information	Region Information	true
 encyclopedia_template_strings_text_prologue	(prologue)	true

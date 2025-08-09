@@ -1,34 +1,34 @@
 key	text	tooltip
 #Loc;1;text/db/battles.loc		
-battles_description_prologue_olbia	Битва перший пролог
+battles_description_prologue_olbia	Битва перший пролог	true
 battles_localised_name_Frigidus_River	Річка Фригід	true
 battles_description_test_river_map	PLACEHOLDER	true
 battles_localised_name_Dara	Дара	true
 battles_localised_name_test_coastal_landing	[PLACEHOLDER] тест: битва на узбережжі	true
 battles_localised_name_Utus	Річка Ут	true
-battles_description_Samarra	Влітку 363 р. імператор Юліан успішно переслідував Сасанідів аж до самого Ктесіфона. Зрозумівши що це місто занадто добре укріплене
-battles_description_Cartagena	Ставши імператором Майоріан зібрав у [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_cartagena]]Картахені[[/url]] флот
+battles_description_Samarra	Влітку 363 р. імператор Юліан успішно переслідував Сасанідів аж до самого Ктесіфона. Зрозумівши що це місто занадто добре укріплене	true
+battles_description_Cartagena	Ставши імператором Майоріан зібрав у [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_cartagena]]Картахені[[/url]] флот	true
 battles_localised_name_test_river_map	PLACEHOLDER: River Test	true
-battles_description_Frigidus_River	Поширення християнства в Європі викликало конфлікт в римському Сенаті. Захопивши владу в Західній Римській імперії узурпатор Флавій Євгеній почав призначати на ключові посади сенаторів-язичників. Ображений цим візантійський імператор Феодосій пішов на нього війною. Битва відбулася біля [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_frigidus_river]]річки Фригід[[/url]].
+battles_description_Frigidus_River	Поширення християнства в Європі викликало конфлікт в римському Сенаті. Захопивши владу в Західній Римській імперії узурпатор Флавій Євгеній почав призначати на ключові посади сенаторів-язичників. Ображений цим візантійський імператор Феодосій пішов на нього війною. Битва відбулася біля [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_frigidus_river]]річки Фригід[[/url]].	true
 battles_localised_name_prologue_olbia	Ольвія	true
-battles_description_Ravenna	Герули германські федерати Західної Римської імперії
+battles_description_Ravenna	Герули германські федерати Західної Римської імперії	true
 battles_description_Flat_Map	Проста мапа для перевірки загонів	true
-battles_description_Soissons	Після падіння Західної Римської імперії на землях [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_soissons]]Суассона[[/url]] зберігся її уламок яким правив Сіагрій
+battles_description_Soissons	Після падіння Західної Римської імперії на землях [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_soissons]]Суассона[[/url]] зберігся її уламок яким правив Сіагрій	true
 battles_description_placeholder_ambush	Засідка - тестова битва...	true
 battles_localised_name_Ambush_Dense_Forest_Rugged	Германський ліс	true
 battles_localised_name_Samarra	Самарра	true
-battles_description_Dara	Конфлікт між Римом і державою Сасанідів перейшов у відкрите протистояння. Після того як шахіншах Кавад I спробував насадити зороастризм у кавказькій провінції Іберія
+battles_description_Dara	Конфлікт між Римом і державою Сасанідів перейшов у відкрите протистояння. Після того як шахіншах Кавад I спробував насадити зороастризм у кавказькій провінції Іберія	true
 battles_description_test_coastal_landing	[PLACEHOLDER] тест: битва на узбережжі	true
 battles_localised_name_Ad_Decimum	Децим	true
 battles_description_Utus	У 443 р. Східна Римська імперія відмовилася платити данину гунам. У помсту Аттіла вторгся в її балканські провінції. Назустріч йому виступив римський полководець Арнегіскл Фракійський. Його армія наздогнала гунів на захід від Маркіанополя на березі [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_utus]]річки Ут[[/url]].	true
 battles_localised_name_Adrianople	Адріанополь	true
-battles_description_Catalaunian_Plains	Перейшовши Рейн в 451 році орда Аттіли почала спустошувати галльські міста. Турбуючись про безпеку італійських кордонів
+battles_description_Catalaunian_Plains	Перейшовши Рейн в 451 році орда Аттіли почала спустошувати галльські міста. Турбуючись про безпеку італійських кордонів	true
 battles_localised_name_Ravenna	Равенна	true
 battles_localised_name_Catalaunian_Plains	Каталаунські поля	true
 battles_localised_name_Flat_Map	Проста мапа	true
-battles_description_Adrianople	У 376 р. з відома візантійського імператора Валента готи переселилися на землі Риму але через численні зловживання з боку римської влади підняли заколот. Через два роки Валент повів свою армію до [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_adrianople]]Адріанополя[[/url]] для придушення повсталих готів.
+battles_description_Adrianople	У 376 р. з відома візантійського імператора Валента готи переселилися на землі Риму але через численні зловживання з боку римської влади підняли заколот. Через два роки Валент повів свою армію до [[url:/manual/page/historic/enc_page_historical_battles#enc_text_hist_battles_adrianople]]Адріанополя[[/url]] для придушення повсталих готів.	true
 battles_localised_name_Cartagena	Карфаген	true
 battles_localised_name_Soissons	Суассон	true
-battles_description_Ad_Decimum	У той час як Західна Римська імперія занепадала
+battles_description_Ad_Decimum	У той час як Західна Римська імперія занепадала	true
 battles_description_Ambush_Dense_Forest_Rugged	Вигаданий ліс у Германії.	true
 battles_localised_name_placeholder_ambush	[PLACEHOLDER] тестова засідка	true
