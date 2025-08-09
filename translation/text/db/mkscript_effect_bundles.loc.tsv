@@ -298,7 +298,7 @@ effect_bundles_localised_description_mk_bundle_population_size_450000	Цей р�
 effect_bundles_localised_description_mk_bundle_population_size_500	У цьому поселенні мізерна чисельність населення.	true
 effect_bundles_localised_title_mk_bundle_army_timurid_invasion	Армія вторгнення Тимуридів!	true
 effect_bundles_localised_description_mk_bundle_population_bundle_region	Всього населення:	true
-effect_bundles_localised_title_mk_effect_bundle_unlawful_territory	Незаконна територія	true
+effect_bundles_localised_title_mk_effect_bundle_unlawful_territory	Незаконна територія	
 effect_bundles_localised_title_mk_bundle_crusade_victory	Переможний хрестовий похід	true
 effect_bundles_localised_title_mk_bundle_las_navas_victory	Перемога при Лас Навас де Толоса	true
 effect_bundles_localised_title_mk_bundle_france_victory	Перемога в Нормандії	true
@@ -344,3 +344,5 @@ effect_bundles_localised_title_mk_bundle_islams_outcry	Збурення мусу
 effect_bundles_localised_description_mk_bundle_islams_outcry	Окупація Мекки вашою фракцією сильно обурила мусульман усього світу. Це матиме важкі наслідки для ваших дипломатичних відносин.	true
 effect_bundles_localised_title_mk_bundle_islam_mecca	Мекка	true
 effect_bundles_localised_description_mk_bundle_islam_mecca	Будучи частиною території вашої фракції, священне місто мусульман Мекка знаходиться під вашим захистом. Цей факт не залишається непоміченим ісламським світом.	true
+effect_bundles_localised_title_mk_ty_effect_bundle_reform_8	Imperial Reform - VII	true
+effect_bundles_localised_title_mk_ty_effect_bundle_reform_9	Imperial Reform - VIII	true

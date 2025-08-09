@@ -335,3 +335,5 @@ message_event_text_text_mk_event_faction_rank_title_4	Заснування ко�
 message_event_text_text_mk_event_faction_rank_title_5	Заснування імперії	true
 message_event_text_text_mk_event_hre_war_declared_on_member_state_title	Оголошено війну державі-члену СРІ	true
 message_event_text_text_mk_event_hre_war_declared_on_member_state_secondary	Ви оголосили війну державі-члену Священної Римської імперії і тим самим значно підірвали свій статус імператора, що призвело до значного зниження рівня Імперської влади.	true
+message_event_text_text_mk_event_hre_election_title	Imperial Election	true
+message_event_text_text_mk_event_hre_election_description	The imperial election has ended, bringing the reign of one emperor to a close and ushering in a new leader for the Holy Roman Empire. The newly crowned Emperor takes the helm, ready to shape the next chapter of the Empire’s legacy.	true

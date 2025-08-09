@@ -618,7 +618,7 @@ effect_bundles_localised_title_mk_faction_trait_ayyubid_separatists	Спадщи
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_army_encourage_mutiny_critical_success_actor	Розпалювання заколоту	true
 effect_bundles_localised_title_slav_bundle_antes_barbarian	Примітивні звичаї	true
 effect_bundles_localised_title_att_bundle_rel_celtic	Кельтське язичництво	true
-effect_bundles_localised_description_mk_faction_trait_ghurids''Other monarchs may have one son, or two sons; I have thousands of sons, my Turkish slaves.''	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»
+effect_bundles_localised_description_mk_faction_trait_ghurids	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»	true
 effect_bundles_localised_description_att_faction_trait_himyar	Спосіб життя, спосіб ведення війни - все це диктують суворі умови пустелі.	true
 effect_bundles_localised_description_mk_faction_trait_georgia	«...нині постає для всього Сходу другим Єрусалимом — училищем усякого добра, наставником ученості, другими Афінами, що значно перевершують їх у божественних канонах, дияконом усієї церковної краси.»	true
 effect_bundles_localised_title_bel_bundle_tech_other_civil_1	Цивільні I	true
@@ -1254,7 +1254,7 @@ effect_bundles_localised_description_rom_subject_payload_nisean	Прибуття
 effect_bundles_localised_description_bel_bundle_mission_payload_income_positive_1	Задоволена Антоніна надала Експедиції додаткові джерела доходу.	true
 effect_bundles_localised_title_att_plague_measles_region	Кір!	true
 effect_bundles_localised_title_mk_faction_trait_hungary	Королівство мадярів	true
-effect_bundles_localised_description_mk_faction_trait_lorraine''And thus began wars at the slightest opportunity, as the lords of Lorraine had no other lord than the Emperor, who had never much cared for it.''	«І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.»
+effect_bundles_localised_description_mk_faction_trait_lorraine	«І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.»	true
 effect_bundles_localised_description_att_payload_military_morale_bundle_negative_force	Після недавньої поразки ця армія перебуває не в найкращій формі.	true
 effect_bundles_localised_description_att_faction_trait_votadini	Єдина мета - ось основа могутності каледонців.	true
 effect_bundles_localised_title_cha_wonder_mount_vesuvius	Гора Везувій	true
@@ -1405,7 +1405,7 @@ effect_bundles_localised_description_mk_faction_trait_navarre_separatists	«Ні
 effect_bundles_localised_title_att_public_order_eastern_3_troubled	Населення стурбоване	true
 effect_bundles_localised_title_rom_payload_raw_material	Сировина	true
 effect_bundles_localised_description_cha_bundle_seasonal_catch	Море було щедрим: цього сезону ми всі зможемо їсти досхочу.	true
-effect_bundles_localised_description_mk_faction_trait_ghurid_separatists''Other monarchs may have one son, or two sons; I have thousands of sons, my Turkish slaves.''	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»
+effect_bundles_localised_description_mk_faction_trait_ghurid_separatists	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»	true
 effect_bundles_localised_description_att_wonder_ravenna	[[col:green]]Диво[[/col]]\\n\\nМісто мозаїк.	true
 effect_bundles_localised_title_att_faction_trait_migrators_visigoths_separatist	Криваві гроші	true
 effect_bundles_localised_description_att_public_order_barbarian_2_unhappy	Населення цієї провінції незадоволене поточним станом речей.	true
