@@ -133,7 +133,7 @@ function OnComponentMouseOn_Population_UI(context)
 		local TechTooltipPopup = UIComponent(root:Find("TechTooltipPopup"));
 		local instruction_window_uic = UIComponent(TechTooltipPopup:Find("dy_building_title"));
 
-		if instruction_window_uic:GetStateText() == "Population of" then
+		if instruction_window_uic:GetStateText() == "Населення м." then
 			Change_Tooltip_Population_UI(REGION_SELECTED, POPULATION_CURRENT_TOOLTIP_SELECTED, true);
 		end
 	elseif context.string == "mk_bundle_population_bundle_region" then
@@ -213,7 +213,7 @@ function OnComponentLClickUp_Population_UI(context)
 		local TechTooltipPopup = UIComponent(root:Find("TechTooltipPopup"));
 		local instruction_window_uic = UIComponent(TechTooltipPopup:Find("dy_building_title"));
 
-		if instruction_window_uic:GetStateText() == "Population of" or string.find(instruction_window_uic:GetStateText(), REGIONS_NAMES_LOCALISATION[REGION_SELECTED]) then
+		if instruction_window_uic:GetStateText() == "Населення м." or string.find(instruction_window_uic:GetStateText(), REGIONS_NAMES_LOCALISATION[REGION_SELECTED]) then
 			if POPULATION_CURRENT_TOOLTIP_SELECTED < 5 then
 				POPULATION_CURRENT_TOOLTIP_SELECTED = POPULATION_CURRENT_TOOLTIP_SELECTED + 1;
 			else
