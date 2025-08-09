@@ -1,0 +1,29 @@
+key	text	tooltip
+#Loc;1;text/db/unit_traits.loc		
+unit_traits_bullet_text_climb_fast	able to scale quickly	true
+unit_traits_bullet_text_encourages	provides a morale bonus to nearby allies	true
+unit_traits_bullet_text_immune_cav_penalty	spears don't get a bonus against this cavalry unit	true
+unit_traits_bullet_text_scare_horse	frightens horses	true
+unit_traits_bullet_text_scare_immune	immune to fear effects	true
+unit_traits_bullet_text_mounted_fire_parthian	fire right around	true
+unit_traits_bullet_text_mounted_fire	can fire while on a mount	true
+unit_traits_bullet_text_snipe	Unit remains hidden while firing	true
+unit_traits_bullet_text_stalk	can remain hidden while moving	true
+unit_traits_bullet_text_hide_scrub	can hide in scrub land	true
+unit_traits_bullet_text_formed_attack	This unit tries to stay in formation when in melee	true
+unit_traits_bullet_text_hide_grass	can hide in grass	true
+unit_traits_bullet_text_resist_heat	doesn't take extra casualties from these hot climes	true
+unit_traits_bullet_text_fatigue_res	fatigue doesn't have as much of an effect	true
+unit_traits_bullet_text_disciplined	doesn't suffer morale penalty from general's death	true
+unit_traits_bullet_text_resist_cold	doesn't take extra casualties from these cold climes	true
+unit_traits_bullet_text_hide_building	can hide in buildings	true
+unit_traits_bullet_text_scare_all	frightens everyone	true
+unit_traits_bullet_text_impetuous	extra morale bonus when eager	true
+unit_traits_bullet_text_hide_wood	can hide in forest	true
+unit_traits_bullet_text_all_ranks_fire	all ranks can fire if using a weapon that only allows 1 rank	true
+unit_traits_bullet_text_ignore_ground_move_mod	doesn't get slowed down by terrain	true
+unit_traits_bullet_text_cant_run	generally for limbered artillery	true
+unit_traits_bullet_text_scare_elephant	frightens elephants	true
+unit_traits_bullet_text_campaign_stealth	able to move around the campaign map without being seen	true
+unit_traits_bullet_text_guerrilla_deploy	can deploy outside deployment zone	true
+unit_traits_bullet_text_mounted_fire_move	fire while moving	true

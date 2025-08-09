@@ -1,0 +1,68 @@
+key	text	tooltip
+#Loc;1;text/db/battle_script_strings.loc		
+battle_script_strings_title_Rom.HB.TF_Intro_Date	text_rejected	true
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_01	Our Eagles! We are lost... 	true
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_02	We are lost! Damn you Varus, you spineless coward!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_09	Berserkers! Brace Yourselves!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_08	Go! Get the standards out! The legions do not fail!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_07	Look to the rear! Berserkers!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_06	Rally, men! We're nearly clear of the forest!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_05	Varus! Accursed coward! Push forward while he distracts the enemy!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_04	You… you're on your own. Horsemen - with me! Double-time!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_03	Your orders, General?	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_02	Keep moving! We must get through! Where is Arminius? Someone find Arminius! We need his auxiliaries!	true
+battle_script_strings_string_Rom.HB.TF_Gameplay_01	We're under attack! Look to the eagles! Defend them! Hold on!	true
+battle_script_strings_title_Rom.HB.TF_Intro_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_06	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Outro_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Intro_05	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_01	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_09	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_08	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_02	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_01	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_07	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_06	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_05	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_04	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_11	text_rejected	true
+battle_script_strings_title_Rom.Pro.Capua.Objective_10	text_rejected	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_08	Consul Laenas must survive.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_09	Allies remaining	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_02	Move Silanus' army towards the village ahead.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_01	Scout out the points of tactical interest on the battlefield.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_06	Smash the Samnite siege weapons.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_07	Aid the defence of Capua.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_04	Defeat the Samnite attackers	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_05	Keep the village defenders alive.	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_10	Samnites remaining	true
+battle_script_strings_string_Rom.Pro.Capua.Objective_11	Use the siege weapons on the walls to see off the attack.	true
+battle_script_strings_string_Rom.HB.TF_Intro_Date	Three months earlier...	true
+battle_script_strings_string_Rom.HB.TF_Intro_03	The German will betray you. He will betray Rome!	true
+battle_script_strings_string_Rom.HB.TF_Outro_03	No one knows. Even fewer care.	true
+battle_script_strings_string_Rom.HB.TF_Intro_02	You are walking into a trap, Varus!	true
+battle_script_strings_string_Rom.HB.TF_Outro_02	What about Varus?	true
+battle_script_strings_string_Rom.HB.TF_Intro_01	Varus… O! Quintillus Varus… give me back my legions!	true
+battle_script_strings_string_Rom.HB.TF_Outro_01	Thank the gods we made it out of that infernal forest! May Nerio give strength to those we left behind.	true
+battle_script_strings_string_Rom.HB.TF_Intro_06	But my loyalty is to my people.	true
+battle_script_strings_string_Rom.HB.TF_Intro_05	Rome may have raised me, trained me.	true
+battle_script_strings_string_Rom.HB.TF_Intro_04	Arminius? A traitor? I think not.	true
+battle_script_strings_string_Rom.HB.TF_Outro_04	Arminius… No!	true
+battle_script_strings_title_Rom.HB.TF_Battle_Won_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_05	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_04	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_07	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_06	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_01	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_03	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_02	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_09	text_rejected	true
+battle_script_strings_title_Rom.HB.TF_Gameplay_08	text_rejected	true
+battle_script_strings_string_Rom.HB.TF_Battle_Won_01	We are clear of the woods! The legions are preserved!	true
