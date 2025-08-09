@@ -1,4 +1,7 @@
 # Ignore all files in the _upstream directory
 /_upstream/*
+!_upstream/.gitkeep
 /_dedup/*
+!_dedup/.gitkeep
 /_po/*
+!_po/.gitkeep
