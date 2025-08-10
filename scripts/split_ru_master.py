@@ -29,7 +29,7 @@ from pathlib import Path
 import pandas as pd
 
 ROOT_EN     = Path("_upstream/en/text/db")
-ROOT_RU_DB  = Path("_upstream/ru/text/db")
+ROOT_RU_DB  = Path("_upstream/ru/origin/text/db")
 RU_MASTER   = Path("_upstream/ru/text/localisation.loc.tsv")
 
 def load(p: Path) -> pd.DataFrame:
