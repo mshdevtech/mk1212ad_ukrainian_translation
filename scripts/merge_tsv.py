@@ -85,7 +85,7 @@ def validate_directory(dir_path: pathlib.Path, dir_name: str) -> tuple[bool, dic
             for error in errors:
                 print(f"   • {error}")
         else:
-            print(f"✅ {file_path.name}")
+            pass
     
     print()
     return not has_errors, file_errors
@@ -102,7 +102,7 @@ def ask_continue() -> bool:
             print("Будь ласка, введіть 'y' або 'n'")
 
 # ── Перевірка файлів перед мерджем ──────────────────────────────────
-print("=== ПРЕДВАРИТЕЛЬНА ПЕРЕВІРКА ФАЙЛІВ ===\n")
+print("=== ПОПЕРЕДНЯ ПЕРЕВІРКА ФАЙЛІВ ===\n")
 
 src_valid, src_errors = validate_directory(SRC_DIR, "SRC_DIR")
 trg_valid, trg_errors = validate_directory(TRG_DIR, "TRG_DIR")
