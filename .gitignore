@@ -8,3 +8,6 @@
 
 # Ignore .idea files
 /.idea/*
+
+# Ignore .env files
+.env

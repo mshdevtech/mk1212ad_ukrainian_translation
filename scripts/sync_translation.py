@@ -1,68 +1,90 @@
 """
 sync_translation.py
 ───────────────────
-Скрипт для синхронізації перекладу з папки translation у цільову директорію мода.
+Script for synchronizing translation from the translation folder into the target mod directory.
 
-Що робить:
-  - Копіює всі файли та папки з translation/ у вказану цільову папку (DST)
-  - Перед копіюванням видаляє лише ті підпапки/файли у DST, які є у translation (не чіпає інші файли, наприклад .git)
-  - Якщо цільова папка не існує — виводить підказку користувачу
+What it does:
+  - Copies all files and folders from translation/ into the specified target folder (DST)
+  - Before copying, deletes only those subfolders/files in DST that exist in translation (does not touch other files, such as .git)
+  - If the target folder does not exist — displays a hint to the user
 
-Як запускати:
+How to run:
   python scripts/sync_translation.py
-  (або автоматично через git pre-commit hook, див. README)
+  (or automatically via git pre-commit hook, see README)
 
-Для чого потрібно:
-  - Щоб швидко оновлювати файли перекладу у папці мода для тестування в грі
-  - Щоб уникати помилок через застарілі або зайві файли
+Purpose:
+  - To quickly update translation files in the mod folder for in-game testing
+  - To avoid errors caused by outdated or unnecessary files
 """
 import os
 import shutil
 
-SRC = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'translation'))
-DST = r'C:\Users\YOUR_USERNAME\TWMods\attila\YOUR_MOD_NAME'
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+SRC = os.path.join(PROJECT_ROOT, 'translation')
+ENV_FILE = os.path.join(PROJECT_ROOT, '.env')
+
+# Load .env manually
+if os.path.exists(ENV_FILE):
+    with open(ENV_FILE, 'r', encoding='utf-8') as f:
+        for line in f:
+            if '=' in line:
+                key, value = line.strip().split('=', 1)
+                os.environ[key] = value
+
+DST = os.environ.get("DST")
+
+if not DST:
+    print("[ERROR] 'DST' not set in .env file.")
+    exit(1)
 
 def clear_folder(folder, src):
-    # Видаляємо лише ті папки, які є у SRC
+    # Delete only those folders that exist in SRC
     for item in os.listdir(src):
         src_path = os.path.join(src, item)
         dst_path = os.path.join(folder, item)
         if os.path.isdir(src_path) and os.path.exists(dst_path):
             try:
                 shutil.rmtree(dst_path)
-                print(f'Видалено папку: {dst_path}')
+                print(f'Deleted folder: {dst_path}')
             except Exception as e:
-                print(f'Не вдалося видалити {dst_path}. Причина: {e}')
-        # Якщо у SRC є файл, а у DST — папка з такою ж назвою, теж видалити
+                print(f'Failed to delete {dst_path}. Reason: {e}')
+        # If SRC has a file, but DST has a folder with the same name, also delete it
         elif os.path.isfile(src_path) and os.path.isdir(dst_path):
             try:
                 shutil.rmtree(dst_path)
-                print(f'Видалено папку (замість файлу): {dst_path}')
+                print(f'Deleted folder (instead of file): {dst_path}')
             except Exception as e:
-                print(f'Не вдалося видалити {dst_path}. Причина: {e}')
+                print(f'Failed to delete {dst_path}. Reason: {e}')
 
 def copytree(src, dst):
-    print(f"Копіюю з {src} у {dst}")
+    print(f"Copying from {src} to {dst}")
     for item in os.listdir(src):
         s = os.path.join(src, item)
         d = os.path.join(dst, item)
-        print(f"  Знайдено: {s} -> {d}")
+        print(f"  Found: {s} -> {d}")
         if os.path.isdir(s):
-            print("    Це папка, копіюю рекурсивно")
-            shutil.copytree(s, d, dirs_exist_ok=True)
+            print("    This is a folder, copying recursively")
+            try:
+                shutil.copytree(s, d, dirs_exist_ok=True)
+            except Exception as e:
+                print(f'    [ERROR] Failed to copy folder {s} -> {d}. Reason: {e}')
         else:
-            print("    Це файл, копіюю")
-            shutil.copy2(s, d)
+            print("    This is a file, copying")
+            try:
+                shutil.copy2(s, d)
+            except Exception as e:
+                print(f'    [ERROR] Failed to copy file {s} -> {d}. Reason: {e}')
 
 def main():
     print(f"SRC: {SRC}")
     print(f"DST: {DST}")
     if not os.path.exists(DST):
-        print(f"[ПОМИЛКА] Цільова папка не існує: {DST}\nСтворіть цю папку або змініть шлях у scripts/sync_translation.py")
+        print(f"[ERROR] Target folder does not exist: {DST}\nCreate this folder or change the path in scripts/sync_translation.py")
         exit(1)
     clear_folder(DST, SRC)
     copytree(SRC, DST)
-    print(f'Синхронізація завершена: {SRC} → {DST}')
+    print(f'Synchronization completed: {SRC} -> {DST}')
 
 if __name__ == '__main__':
     main()
