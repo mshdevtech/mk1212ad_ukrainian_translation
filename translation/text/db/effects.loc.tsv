@@ -297,7 +297,7 @@ effects_description_att_effect_melee_defence_against_paganism	Захист в б
 effects_description_att_effect_agent_attribute_subterfuge_mod	Хитрість: %+n	true
 effects_description_mk_faction_trait_kiev_4	Міжкнязівські конфлікти. Дип. відносини: %+n з руськими фракціями	true
 effects_description_att_effect_force_unit_stat_armour	Броня: %+n%	true
-effects_description_mk_faction_trait_kiev_1	Світило руського православ'я. Релігійний вплив: %+n для православ'я	true
+effects_description_mk_faction_trait_kiev_1	Світоч руського православ'я. Релігійний вплив: %+n для православ'я	true
 effects_description_mk_faction_trait_kiev_3	Служба дітей боярських: приріст чисельності знаті +0.5%, а також можливість найму в містах загонів молодшої знаті	true
 effects_description_mk_faction_trait_kiev_2	Володарі Дніпровського торгового шляху: багатство від місцевої торгівлі %+n%, а також дохід від торговельних мит +15%	true
 effects_description_att_effect_force_army_battle_melee_defence_versus_romans	Захист у ближньому бою: %+n у битвах з європейцями	true
