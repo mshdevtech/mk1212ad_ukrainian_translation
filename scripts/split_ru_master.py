@@ -2,8 +2,8 @@
 """
 split_ru_master.py
 ──────────────────
-Розкидає переклади з `_upstream/ru/text/localisation.loc.tsv`
-по окремих файлах  `_upstream/ru/text/db/*.loc.tsv`.
+Розкидає переклади з `_upstream/ru/localisation/localisation.loc.tsv`
+по окремих файлах  `_upstream/ru/origin/text/db/*.loc.tsv`.
 
 • **Чому:** російська локалізація гри зберігається «усім скопом»
   у localisation.loc.tsv, а для зручності редагування треба мати
