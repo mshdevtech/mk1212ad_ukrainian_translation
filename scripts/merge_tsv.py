@@ -32,6 +32,94 @@ files_done   = 0
 total_added  = 0
 total_removed = 0
 
+# ── Функції валідації ─────────────────────────────────────────────────
+def validate_tsv_file(file_path: pathlib.Path) -> tuple[bool, list[str]]:
+    """Валідує один TSV файл та повертає (is_valid, error_messages)."""
+    errors = []
+    try:
+        df = pd.read_csv(file_path, sep="\t", dtype=str, keep_default_na=False)
+    except Exception as e:
+        errors.append(f"не вдалося прочитати файл ({e})")
+        return False, errors
+
+    # Перевіряємо колонки
+    required_cols = ["key", "text", "tooltip"]
+    if list(df.columns) != required_cols:
+        errors.append(f"очікувано колонки {required_cols}, а отримано {list(df.columns)}")
+        return False, errors
+
+    # Порожні key
+    empty_rows = df["key"].str.strip() == ""
+    if empty_rows.any():
+        rows = ", ".join(map(str, (df.index[empty_rows] + 2)))  # +2: header + 0-based
+        errors.append(f"порожній key у рядках {rows}")
+
+    # Дублікати key
+    non_empty_keys = df.loc[~empty_rows, "key"]
+    dup_keys = non_empty_keys[non_empty_keys.duplicated()]
+    if not dup_keys.empty:
+        keys = ", ".join(dup_keys.unique())
+        errors.append(f"дублікати key: {keys}")
+
+    return len(errors) == 0, errors
+
+def validate_directory(dir_path: pathlib.Path, dir_name: str) -> tuple[bool, dict[str, list[str]]]:
+    """Валідує всі TSV файли в директорії та повертає (is_valid, file_errors)."""
+    print(f"🔍 Перевіряємо TSV у {dir_name} ({dir_path})...")
+    
+    if not dir_path.exists():
+        print(f"⚠️  Директорія {dir_name} не існує")
+        return True, {}
+    
+    file_errors = {}
+    has_errors = False
+    
+    for file_path in sorted(dir_path.glob("*.loc.tsv")):
+        is_valid, errors = validate_tsv_file(file_path)
+        if errors:
+            file_errors[file_path.name] = errors
+            has_errors = True
+            print(f"❌ {file_path.name}:")
+            for error in errors:
+                print(f"   • {error}")
+        else:
+            print(f"✅ {file_path.name}")
+    
+    print()
+    return not has_errors, file_errors
+
+def ask_continue() -> bool:
+    """Питає користувача чи продовжувати виконання."""
+    while True:
+        response = input("Продовжити мердж? (y/n): ").lower().strip()
+        if response in ['y', 'yes', 'так', 'т']:
+            return True
+        elif response in ['n', 'no', 'ні', 'н']:
+            return False
+        else:
+            print("Будь ласка, введіть 'y' або 'n'")
+
+# ── Перевірка файлів перед мерджем ──────────────────────────────────
+print("=== ПРЕДВАРИТЕЛЬНА ПЕРЕВІРКА ФАЙЛІВ ===\n")
+
+src_valid, src_errors = validate_directory(SRC_DIR, "SRC_DIR")
+trg_valid, trg_errors = validate_directory(TRG_DIR, "TRG_DIR")
+
+if not src_valid or not trg_valid:
+    print("⚠️  ЗНАЙДЕНО ПОМИЛКИ В ФАЙЛАХ!")
+    print("Скрипт може відпрацювати некоректно і краще виправити проблемні файли власноруч.")
+    print()
+    
+    if not ask_continue():
+        print("Мердж скасовано.")
+        sys.exit(1)
+    
+    print("Продовжуємо мердж...\n")
+else:
+    print("✅ Всі файли валідні, продовжуємо мердж.\n")
+
+print("=== ПОЧИНАЄМО МЕРДЖ ===\n")
+
 for src_path in SRC_DIR.glob("*.loc.tsv"):
     trg_path = TRG_DIR / src_path.name
     read = lambda p: pd.read_csv(
