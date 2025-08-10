@@ -55,11 +55,13 @@ pip install pandas
 
 Щоб швидко скопіювати всі файли перекладу у папку мода для тестування в грі, використовуйте скрипт:
 
-```bash
-python scripts/sync_translation.py
-```
+   ```bash
+      python scripts/sync_translation.py
+   ```
+> **Примітка:**
+> - Щоб скрипт працював, необхідно створити .env-файл у корені репозиторію, скопіювавши його з `.env.example` і відредагувати шлях для DST.
 
-Скрипт повністю очищає папку `c:/users/Max/TWMods/MK1212AD_Ukrainization` і копіює туди всі файли з `translation/`.
+Скрипт повністю очищає папку `C:/Users/YOUR_USERNAME/TWMods/YOUR_MOD_NAME` і копіює туди всі файли з `translation/`.
 
 ## 2.5 Автоматична синхронізація при коміті (pre-commit)
 
@@ -94,6 +96,7 @@ python scripts/sync_translation.py
 > - Файл `.pre-commit-config.yaml` зберігається у git-репозиторії, тому всі учасники отримають однакову конфігурацію.
 > - Не потрібно створювати/редагувати `.git/hooks/pre-commit` вручну.
 > - Для Linux/macOS також працює цей спосіб (Python має бути у PATH).
+> - Щоб видалити pre-commit, просто виконайте `pre-commit uninstall`.
 
 ## 3 Структура репозиторію
 
