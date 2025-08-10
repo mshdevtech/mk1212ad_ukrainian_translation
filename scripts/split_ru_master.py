@@ -30,7 +30,7 @@ import pandas as pd
 
 ROOT_EN     = Path("_upstream/en/text/db")
 ROOT_RU_DB  = Path("_upstream/ru/origin/text/db")
-RU_MASTER   = Path("_upstream/ru/text/localisation.loc.tsv")
+RU_MASTER   = Path("_upstream/ru/localisation/localisation.loc.tsv")
 
 def load(p: Path) -> pd.DataFrame:
     return pd.read_csv(
@@ -40,7 +40,7 @@ def load(p: Path) -> pd.DataFrame:
 
 # ── 1. master-словник ────────────────────────────────────────────────
 if not RU_MASTER.exists():
-    sys.exit("⛔  _upstream/ru/text/localisation.loc.tsv не знайдено.")
+    sys.exit("⛔  _upstream/ru/localisation/localisation.loc.tsv не знайдено.")
 
 master_df = load(RU_MASTER)
 ru_master = dict(zip(master_df["key"], master_df["text"]))
