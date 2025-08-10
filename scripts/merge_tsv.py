@@ -187,7 +187,7 @@ for src_path in SRC_DIR.glob("*.loc.tsv"):
         files_with_changes += 1
 
 if files_with_changes == 0:
-    print("Всі файли актуальні")
+    print("✅ Всі файли актуальні")
 
 print("\n=== Merge completed ===")
 print(f"Processed files : {files_done}")
