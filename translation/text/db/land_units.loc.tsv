@@ -347,7 +347,7 @@ land_units_onscreen_name_mk_nav_t2_dismounted_armados	Піші наваррсь�
 land_units_onscreen_name_mk_nav_t3_dismounted_armados	Піші наваррські латники (Пізні)	true
 land_units_onscreen_name_att_rom_praeventores	Превентори	true
 land_units_onscreen_name_mk_jer_t1_lazarus_knights_dismounted	Піші лицарі ордену св. Лазаря	true
-land_units_onscreen_name_att_des_lancers_of_the_oasis	Кін. списники з оазису	true
+land_units_onscreen_name_att_des_lancers_of_the_oasis	Кінні списники з оазису	true
 land_units_onscreen_name_bel_van_moorish_levy	Новобранці-маври	true
 land_units_onscreen_name_mk_nav_t3_navarrese_guard_archers	Наваррські гвардійці (Пізні)	true
 land_units_onscreen_name_mk_epi_t2_latinikon_armigeri	Латинікон (Старші)	true
@@ -781,8 +781,8 @@ land_units_onscreen_name_mk_ghu_t2_tajik_levy	Таджицькі новобра�
 land_units_onscreen_name_mk_ghu_t3_tajik_levy	Таджицькі новобранці (Пізні)	true
 land_units_onscreen_name_att_est_paighan_band	Загін пайганів	true
 land_units_onscreen_name_mk_abb_t1_turkoman_medium_horse_archer	Туркоманські кінні лучники (Ранні)	true
-land_units_onscreen_name_mk_georg_t1_monaspa_lancers	Кін. списники Монаспа (Ранні)	true
-land_units_onscreen_name_mk_georg_t2_monaspa_lancers	Кін. списники Монаспа (Старші)	true
+land_units_onscreen_name_mk_georg_t1_monaspa_lancers	Кінні списники Монаспа (Ранні)	true
+land_units_onscreen_name_mk_georg_t2_monaspa_lancers	Кінні списники Монаспа (Старші)	true
 land_units_onscreen_name_cha_merc_vik_raiders	Наймані вікінги-нальотники	true
 land_units_onscreen_name_mk_serb_t1_bodyguard	Тілоохоронці полководця (Ранні)	true
 land_units_onscreen_name_mk_serb_t2_bodyguard	Тілоохоронці полководця (Старші)	true
@@ -1058,7 +1058,7 @@ land_units_onscreen_name_mk_cuman_t3_nogers	Половецькі нукери (�
 land_units_onscreen_name_mk_flo_t1_mounted_serjeants	Кінні ординарці (Ранні)	true
 land_units_onscreen_name_mk_flo_t2_mounted_serjeants	Кінні ординарці (Старші)	true
 land_units_onscreen_name_mk_flo_t3_mounted_serjeants	Кінні ординарці (Пізні)	true
-land_units_onscreen_name_att_des_es_almaqahs_lancers	Кін. списники Альмакі	true
+land_units_onscreen_name_att_des_es_almaqahs_lancers	Кінні списники Альмакі	true
 land_units_onscreen_name_att_mar_cel_elite_highland_bowman_marauders	Добірні горяни-грабіжники з луками	true
 land_units_onscreen_name_mk_epi_t2_siphonatores	Сифонатори (Старші)	true
 land_units_onscreen_name_mk_mak_t2_bodyguards	Нубійські тілоохоронці (Старші)	true
@@ -1545,7 +1545,7 @@ land_units_onscreen_name_att_des_es_zealot_sicarius	Зилоти-сикарії	
 land_units_onscreen_name_att_ger_burgundian_axemen	Бургундські сокирники	true
 land_units_onscreen_name_mk_ara_t2_voulgier_sergeants	Арагонські вульжери (Старші)	true
 land_units_onscreen_name_mk_ara_t3_voulgier_sergeants	Арагонські вульжери (Пізні)	true
-land_units_onscreen_name_att_des_es_sandstorm_lancers	Кін. списники Піщаної бурі	true
+land_units_onscreen_name_att_des_es_sandstorm_lancers	Кінні списники Піщаної бурі	true
 land_units_onscreen_name_mk_brab_t1_pikemen	Брабант. ополченці з гелдонами	true
 land_units_onscreen_name_mk_ayy_t2_mamluk_horse_archers	Джулбан (Старші)	true
 land_units_onscreen_name_mk_brab_t3_pikemen	Брабантські пікінери (Пізні)	true
@@ -2116,7 +2116,7 @@ land_units_onscreen_name_att_des_desert_mounted_javelinmen	Кінні метал
 land_units_onscreen_name_mk_merc_andal_t2_andalusian_mounted_crossbow	Наймані андалузькі кінні арбалетники (Старші)	true
 land_units_onscreen_name_mk_merc_andal_t3_andalusian_mounted_crossbow	Наймані андалузькі кінні арбалетники (Пізні)	true
 land_units_onscreen_name_mk_merc_andal_t1_andalusian_mounted_crossbow	Наймані андалузькі кінні арбалетники (Ранні)	true
-land_units_onscreen_name_att_des_es_mavias_lancers	Кін. списники Мавії	true
+land_units_onscreen_name_att_des_es_mavias_lancers	Кінні списники Мавії	true
 land_units_onscreen_name_mk_zag_t1_heroic_horsemen	Хабешські вершники-герої	true
 land_units_onscreen_name_mk_arm_t1_dismounted_archer_dziaworner	Піші дзіавори з луками (Ранні)	true
 land_units_onscreen_name_mk_abb_t1_fursan_ajnad	Аджнад (Ранні)	true
@@ -2152,7 +2152,7 @@ land_units_onscreen_name_mk_hanse_naval_t3_hanseatic_handgunner_marines	Ганз
 land_units_onscreen_name_mk_hun_t3_pavise_spearmen	Щитоносці Чорної армії (Пізні)	true
 land_units_onscreen_name_mk_hun_t2_pavise_spearmen	Угорськ. списоносці з павезами (Старші)	true
 land_units_onscreen_name_mk_merc_afr_t1_habesha_horsemen	Наймані хабешські вершники	true
-land_units_onscreen_name_mk_abb_t1_dariyyah_ghulam_lancers	Кін. списники Дарія	true
+land_units_onscreen_name_mk_abb_t1_dariyyah_ghulam_lancers	Кінні списники Дарія	true
 land_units_onscreen_name_mk_lor_t3_archers	Лотаринзькі вільні стрільці	true
 land_units_onscreen_name_mk_lor_t2_archers	Лотаринзькі новобранці з луками	true
 land_units_onscreen_name_cha_vik_housecarls	Хускарли	true
@@ -3343,7 +3343,7 @@ land_units_onscreen_name_att_ger_scavenger_mob	Юрба грабіжників	t
 land_units_onscreen_name_att_rom_elite_palatina	Елітні палатини	true
 land_units_onscreen_name_att_des_noble_numidian_cavalry	Знатні нумідійці	true
 land_units_onscreen_name_cha_vik_axemen	Сокирники	true
-land_units_onscreen_name_att_nor_nordic_mounted_raiders	Кінні сканд. розбійники	true
+land_units_onscreen_name_att_nor_nordic_mounted_raiders	Cкандинавські кінні розбійники	true
 land_units_onscreen_name_att_mar_cel_highland_archer_marauders	Горці-грабіжники з луками	true
 land_units_onscreen_name_mk_eur_naval_t1_admiral_guard	Гвардія флотоводця (Ранні)	true
 land_units_onscreen_name_mk_eur_naval_t2_admiral_guard	Гвардія флотоводця (Старші)	true
@@ -3738,7 +3738,7 @@ land_units_onscreen_name_mk_georg_t1_aznauri_swordsmen	Піші азнаурі (
 land_units_onscreen_name_mk_georg_t2_aznauri_swordsmen	Піші азнаурі (Старші)	true
 land_units_onscreen_name_mk_georg_t3_aznauri_swordsmen	Піші азнаурі (Пізні)	true
 land_units_onscreen_name_bel_van_noble_vandal_horsemen	Знатні вандальські вершники	true
-land_units_onscreen_name_att_ger_gothic_lancers	Готські списоносці	true
+land_units_onscreen_name_att_ger_gothic_lancers	Готські кін. списники	true
 land_units_onscreen_name_att_cel_celtic_warlord	Кельтський воєначальник	true
 land_units_onscreen_name_att_nor_nordic_warlord	Скандинавський воєначальник	true
 land_units_onscreen_name_mk_ver_t1_sword_militia	Італійські селяни	true
@@ -3804,7 +3804,7 @@ land_units_onscreen_name_mk_abb_t2_jund_spearmen	Джундійські спис
 land_units_onscreen_name_mk_abb_t3_jund_spearmen	Джундійські списоносці (Пізні)	true
 land_units_onscreen_name_mk_rum_t3_peyks	Балтаджі	true
 land_units_onscreen_name_att_nor_heroic_cavalry	Геройська кіннота	true
-land_units_onscreen_name_att_nom_hunnic_lancers	Списоносці гунів	true
+land_units_onscreen_name_att_nom_hunnic_lancers	Гунські кін. списники	true
 land_units_onscreen_name_mk_merc_naval_t1_maniot_peirates	Маніотські пірати	true
 land_units_onscreen_name_mk_vlach_t1_voievod_bodyguard	Тілоохоронці воєводи (Ранні)	true
 land_units_onscreen_name_mk_vlach_t2_voievod_bodyguard	Тілоохоронці воєводи (Старші)	true
@@ -3894,7 +3894,7 @@ land_units_onscreen_name_att_des_es_elite_tor_warriors	Елітні воїни �
 land_units_onscreen_name_mk_volga_t2_light_HA	Кінні тубільці з луками (Старші)	true
 land_units_onscreen_name_att_ger_royal_lancers	Царські воїни з дротиками	true
 land_units_onscreen_name_cha_mus_artillery_crew	Андалузькі інженери	true
-land_units_onscreen_name_att_nom_steppe_lancers	Степові списоносці	true
+land_units_onscreen_name_att_nom_steppe_lancers	Степові кін. списники	true
 land_units_onscreen_name_bel_rom_levis_armaturae	Легкоозброєна піхота	true
 land_units_onscreen_name_att_nom_steppe_raiders	Степові нальотники	true
 land_units_onscreen_name_cha_merc_eng_fyrd_spear	Наймані списоносці фірда	true
@@ -3907,7 +3907,7 @@ land_units_onscreen_name_att_merc_mar_nor_nordic_light_marauders	Наймані 
 land_units_onscreen_name_cha_vik_onager	Онагр	true
 land_units_onscreen_name_mk_mil_t3_light_archers	Чернида з луками (Пізні)	true
 land_units_onscreen_name_att_mar_alan_alani_artillery_dbl_crew	Аланські інженери	true
-land_units_onscreen_name_mk_rum_t1_ghazi_lancers	Газі-списоносці (Ранні)	true
+land_units_onscreen_name_mk_rum_t1_ghazi_lancers	Кінні списники Газі (Ранні)	true
 land_units_onscreen_name_mk_sav_t1_sword_militia	Італійські селяни	true
 land_units_onscreen_name_mk_ilkhan_t3_handgunners	Туфангчі (Пізні)	true
 land_units_onscreen_name_att_nor_viking_captain	Ватажок вікінгів	true
@@ -3968,9 +3968,9 @@ land_units_onscreen_name_att_rom_palatina	Палатини	true
 land_units_onscreen_name_mk_dan_t2_huskarls	Хускарли (Старші)	true
 land_units_onscreen_name_mk_bos_t1_vojnici_axemen	Боснійські войники з сокирами	true
 land_units_onscreen_name_mk_eng_t2_hobilars	Англійські хобілари (Старші)	true
-land_units_onscreen_name_mk_merc_cuman_t1_light_lancers	Наймані половецькі списоносці (Ранні)	true
-land_units_onscreen_name_mk_merc_cuman_t2_light_lancers	Наймані половецькі списоносці (Старші)	true
-land_units_onscreen_name_mk_merc_cuman_t3_light_lancers	Наймані половецькі списоносці (Пізні)	true
+land_units_onscreen_name_mk_merc_cuman_t1_light_lancers	Наймані половецькі кінні списники (Ранні)	true
+land_units_onscreen_name_mk_merc_cuman_t2_light_lancers	Наймані половецькі кінні списники (Старші)	true
+land_units_onscreen_name_mk_merc_cuman_t3_light_lancers	Наймані половецькі кінні списники (Пізні)	true
 land_units_onscreen_name_att_slav_axe_warriors	Слов'янські воїни з сокирами	true
 land_units_onscreen_name_cha_merc_eng_horsemen	Наймані англійські кіннотники	true
 land_units_onscreen_name_mk_abb_t1_dariyyah_ghulam_horse_archers	Дарія-лучники	true
@@ -5315,7 +5315,7 @@ land_units_onscreen_name_mk_rum_t3_axemen	Джанбазан (Пізні)	true
 land_units_onscreen_name_mk_hre_t2_armbrustschutzen	Німецькі арбалетники (Старші)	true
 land_units_onscreen_name_mk_flo_t1_archer_militia	Італійські селяни з луками	true
 land_units_onscreen_name_mk_rus_t2_otroki	Отроки	true
-land_units_onscreen_name_mk_merc_steppe_t1_berendei_lancers	Берендейські списоносці (Ранні)	true
+land_units_onscreen_name_mk_merc_steppe_t1_berendei_lancers	Берендейські кінні списники (Ранні)	true
 land_units_onscreen_name_att_est_civilian_farmers	Мирні жителі	true
 land_units_onscreen_name_att_rom_matiarii	Матіарії	true
 land_units_onscreen_name_mk_khw_t2_sipahsalar_and_retinue	Свита сіпахсалара (Старші)	true

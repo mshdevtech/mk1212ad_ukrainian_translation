@@ -114,7 +114,7 @@ ui_unit_groupings_onscreen_att_art_field_naval	Корабель з арт. зн�
 ui_unit_groupings_tooltip_cav_mel	Це легкі, маневрені вершники. Втім, навіть щити не захистять їх від більш сильних військ.	true
 ui_unit_groupings_tooltip_att_inf_spear_bow_land	Солдати «подвійного призначення», здатні як битися в передніх рядах, так і обстрілювати ворога здалеку.	true
 ui_unit_groupings_onscreen_att_inf_sword_naval	Корабель ближнього бою	true
-ui_unit_groupings_onscreen_att_cav_javelin_land	Кін. застрільники	true
+ui_unit_groupings_onscreen_att_cav_javelin_land	Кінні застрільники	true
 ui_unit_groupings_tooltip_shp_mis	Вони можуть обрушити на ворога град стріл і снарядів, але в ближньому бою вони беззахисні.	true
 ui_unit_groupings_onscreen_att_inf_javelin_marine	Застрільники	true
 ui_unit_groupings_onscreen_att_inf_sling_naval	Корабель з пращниками	true

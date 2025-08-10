@@ -52,7 +52,7 @@ effect_bundles_localised_title_rom_tech_module_philosophy_3	Філософія I
 effect_bundles_localised_title_rom_tech_module_philosophy_2	Філософія II	true
 effect_bundles_localised_title_att_payload_resolution_dummy	Дозвіл	true
 effect_bundles_localised_description_att_bundle_stance_army_fortification_barbarian	Облаштування укріпленого табору.	true
-effect_bundles_localised_description_mk_faction_trait_trebizond_separatists	«Високий колос, що пронизує повітря, він прагне досягти неба...»	true
+effect_bundles_localised_description_mk_faction_trait_trebizond_separatists	„Високий колос, що пронизує повітря, він прагне досягти неба...“	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_settlement_encourage_dissent_critical_success_actor	Підбурювання	true
 effect_bundles_localised_description_att_bundle_stance_navy_patrol	Патрулювання морів.	true
 effect_bundles_localised_description_bel_bundle_stance_navy_patrol	Патрулювання морів.	true
@@ -89,7 +89,7 @@ effect_bundles_localised_title_mk_group_trait_ruthenia_et_balticus	Рутені�
 effect_bundles_localised_description_att_payload_agent_champion_cost_faction	Непохитні як скеля, ваші воїни завжди доводять справу до кінця.	true
 effect_bundles_localised_title_rom_payload_grateful_populace	Вдячні жителі	true
 effect_bundles_localised_title_att_bundle_edict_catholic_ecumenical_matters	Питання екуменізму	true
-effect_bundles_localised_description_cha_bundle_hre_formed	Ви удостоїлися титулу Імператора римлян - Imperator Romanorum. Це справді найбільше досягнення. Ваше правління увійде в історію як золотий вік благочестя і процвітання; нащадки назвуть його «епохою Карла Великого».	true
+effect_bundles_localised_description_cha_bundle_hre_formed	Ви удостоїлися титулу Імператора римлян - Imperator Romanorum. Це справді найбільше досягнення. Ваше правління увійде в історію як золотий вік благочестя і процвітання; нащадки назвуть його "епохою Карла Великого".	true
 effect_bundles_localised_title_att_bundle_season_spring_south_average	Весна	true
 effect_bundles_localised_description_mk_bundle_rel_bogomilism	Державна релігія	true
 effect_bundles_localised_title_att_bundle_season_spring_north_average	Весна	true
@@ -143,8 +143,8 @@ effect_bundles_localised_title_att_payload_growth_religious_tengri_negative_fact
 effect_bundles_localised_title_att_bundle_agent_action_spy_hinder_character_deceive_success_target	Обман	true
 effect_bundles_localised_description_att_public_order_eastern_7_jubilant	Населення цієї провінції натхненне поточним станом речей.	true
 effect_bundles_localised_title_mk_bundle_edict_all_levy_taxes	Стягнення податків	true
-effect_bundles_localised_description_rom_tech_module_siege_2	Щоб відкрити цей ефект, вам потрібні «Облога I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_siege_3	Щоб відкрити цей ефект, вам потрібні «Облога II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_siege_2	Щоб відкрити цей ефект, вам потрібні "Облога I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_siege_3	Щоб відкрити цей ефект, вам потрібні "Облога II" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_module_siege_1	Щоб відкрити цей ефект, потрібні і перераховані нижче технології.	true
 effect_bundles_localised_title_cha_objective_payload_religious_4a	Релігійна спеціалізація IV	true
 effect_bundles_localised_title_cha_objective_payload_religious_4b	Покровительство релігії IV	true
@@ -304,7 +304,7 @@ effect_bundles_localised_description_att_bundle_war_weariness_47	Протяго�
 effect_bundles_localised_description_att_bundle_war_weariness_48	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
 effect_bundles_localised_description_att_bundle_war_weariness_49	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
 effect_bundles_localised_title_att_bundle_agent_action_spy_hinder_army_misdirect_army_critical_success_actor	Дезінформація військ	true
-effect_bundles_localised_description_mk_bundle_edict_all_levy_taxes	«У цьому світі неминучі тільки смерть і податки».	true
+effect_bundles_localised_description_mk_bundle_edict_all_levy_taxes	„У цьому світі неминучі тільки смерть і податки“.	true
 effect_bundles_localised_description_mk_bundle_rel_eastern_christian	Державна релігія	true
 effect_bundles_localised_title_att_faction_trait_eastern_sassanid_separatist	Цар царів	true
 effect_bundles_localised_title_att_payload_urban_emmigration_faction	Відтік населення з міст	true
@@ -445,7 +445,7 @@ effect_bundles_localised_description_att_payload_osmosis_religious_germanic_nega
 effect_bundles_localised_title_bel_bundle_invasion_force_langobards	Армія вторгнення	true
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_settlement_hinder_development_success_target	Розвиток цього поселення затримано ворожим підглядником.	true
 effect_bundles_localised_title_att_payload_agent_champion_experience_faction	Військова підготовка	true
-effect_bundles_localised_description_mk_faction_trait_volga	„Почувши про їхнє наближення, жителі Болгара влаштували їм у кількох місцях засідки і виступили проти них. Зустрівшись з ними, вони (болгари) потягли їх за собою, поки не пройшли місця, де були засідки, після чого ті, що сиділи там, виступили проти них ззаду, так що татари опинилися в середині, і їх почали рубати з усіх боків. Більшість з них було перебито, і лише небагато хто з них врятувався».	true
+effect_bundles_localised_description_mk_faction_trait_volga	„Почувши про їхнє наближення, жителі Болгара влаштували їм у кількох місцях засідки і виступили проти них. Зустрівшись з ними, вони (болгари) потягли їх за собою, поки не пройшли місця, де були засідки, після чого ті, що сиділи там, виступили проти них ззаду, так що татари опинилися в середині, і їх почали рубати з усіх боків. Більшість з них було перебито, і лише небагато хто з них врятувався“.	true
 effect_bundles_localised_title_att_bundle_stance_army_fortification_barbarian	Режим: укріплення	true
 effect_bundles_localised_description_att_bundle_war_weariness_100	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
 effect_bundles_localised_title_mk_faction_trait_trebizond_separatists	Великі Комніни	true
@@ -586,7 +586,7 @@ effect_bundles_localised_title_bel_bundle_mission_payload_corruption_negative	З
 effect_bundles_localised_description_att_faction_trait_ebdani	Звичай жорстоко мститися ворогам робить цей народ вічною занозою в боці будь-яких загарбників.	true
 effect_bundles_localised_description_cha_objective_payload_economic_4a	Ваше мудре керівництво і виважена фінансова політика дозволили створити процвітаючу торговельну державу.	true
 effect_bundles_localised_description_cha_objective_payload_economic_4b	Ваше цілеспрямоване прагнення до багатства зміцнило фінансове становище держави.	true
-effect_bundles_localised_description_mk_faction_trait_seljuks	„...правителі міст... перейнялися ще більшою повагою до султана, «бачачи велич його армії, її екіпіровку і коней».“	true
+effect_bundles_localised_description_mk_faction_trait_seljuks	„...правителі міст... перейнялися ще більшою повагою до султана, бачачи велич його армії, її екіпіровку і коней.“	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_army_undermine_command_success_target	Саботаж командування	true
 effect_bundles_localised_title_att_bundle_edict_manichaeist_induction_hearers	Ритуал посвяти	true
 effect_bundles_localised_title_mk_bundle_rel_orthodox	Православ'я	true
@@ -602,8 +602,8 @@ effect_bundles_localised_description_att_faction_trait_celtic	Багатства
 effect_bundles_localised_description_cha_objective_payload_economic_5a	Ваше мудре керівництво і виважена фінансова політика дозволили створити процвітаючу торгову державу.	true
 effect_bundles_localised_description_cha_objective_payload_economic_5b	Ваше цілеспрямоване прагнення до багатства зміцнило фінансове становище держави.	true
 effect_bundles_localised_description_att_faction_trait_migrators_visigoths_separatist	Без данини можна обійтися, але, принаймні, вона справедлива.	true
-effect_bundles_localised_description_rom_tech_module_construction_3	Щоб відкрити цей ефект, вам потрібні «Будівництво II» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_construction_2	Щоб відкрити цей ефект, вам потрібні «Будівництво I» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_construction_3	Щоб відкрити цей ефект, вам потрібні "Будівництво II" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_construction_2	Щоб відкрити цей ефект, вам потрібні "Будівництво I" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_module_construction_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
 effect_bundles_localised_title_att_payload_urban_emmigration_province	Відтік населення з міст	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_army_undermine_command_critical_success_actor	Саботаж командування	true
@@ -618,9 +618,9 @@ effect_bundles_localised_title_mk_faction_trait_ayyubid_separatists	Спадщи
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_army_encourage_mutiny_critical_success_actor	Розпалювання заколоту	true
 effect_bundles_localised_title_slav_bundle_antes_barbarian	Примітивні звичаї	true
 effect_bundles_localised_title_att_bundle_rel_celtic	Кельтське язичництво	true
-effect_bundles_localised_description_mk_faction_trait_ghurids	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»	true
+effect_bundles_localised_description_mk_faction_trait_ghurids	„Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.“	true
 effect_bundles_localised_description_att_faction_trait_himyar	Спосіб життя, спосіб ведення війни - все це диктують суворі умови пустелі.	true
-effect_bundles_localised_description_mk_faction_trait_georgia	«...нині постає для всього Сходу другим Єрусалимом — училищем усякого добра, наставником ученості, другими Афінами, що значно перевершують їх у божественних канонах, дияконом усієї церковної краси.»	true
+effect_bundles_localised_description_mk_faction_trait_georgia	„...нині постає для всього Сходу другим Єрусалимом — училищем усякого добра, наставником ученості, другими Афінами, що значно перевершують їх у божественних канонах, дияконом усієї церковної краси.“	true
 effect_bundles_localised_title_bel_bundle_tech_other_civil_1	Цивільні I	true
 effect_bundles_localised_title_bel_bundle_tech_other_civil_2	Цивільні II	true
 effect_bundles_localised_title_bel_bundle_tech_other_civil_3	Цивільні III	true
@@ -644,7 +644,7 @@ effect_bundles_localised_description_mk_faction_trait_castile	„І з мавр�
 effect_bundles_localised_description_mk_faction_trait_antioch	„Антіохії не страшні ні облогові машини, ні люди, навіть якщо її візьме в облогу все людство.“	true
 effect_bundles_localised_description_att_public_order_eastern_6_happy	Населення цієї провінції задоволене поточним станом речей.	true
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_army_misdirect_army_success_target	Ця армія збилася зі шляху через хитрощі ворожої Підглядника.	true
-effect_bundles_localised_description_mk_faction_trait_khwarazm_separatists	«Його володіння стали просторими, а становище - величним. Йому підкорився весь світ, і після Сельджукидів ніхто не мав такого, що мав він.»	true
+effect_bundles_localised_description_mk_faction_trait_khwarazm_separatists	„Його володіння стали просторими, а становище - величним. Йому підкорився весь світ, і після Сельджукидів ніхто не мав такого, що мав він.“	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_army_encourage_mutiny_critical_success_target	У цій армії піднявся бунт через підбурювання ворожого священника.	true
 effect_bundles_localised_title_att_bundle_rel_roman	Римське язичництво	true
 effect_bundles_localised_title_cha_bundle_abbasid_unsure_leadership	Ненадійна влада	true
@@ -672,7 +672,7 @@ effect_bundles_localised_description_att_payload_urban_emmigration_faction	По�
 effect_bundles_localised_title_rom_payload_religion_rom_mars_wrath	Гнів Марса	true
 effect_bundles_localised_description_att_plague_bubonic_army	[[col:red]]Пошесть[[/col]]\\n\\nЧуму розносять щури і блохи. Спочатку з'являються жахливі бубони, за ними слідують некроз і гангрена, а потім - болісна смерть.	true
 effect_bundles_localised_title_att_faction_trait_barbarian_alamanni	Єдність германців	true
-effect_bundles_localised_description_mk_faction_trait_sweden	«Ерік з усієї країни зібрав лицарів, тих, хто рівний їм був, воїнів і бондів у призначену годину (так чинять і нині пани), щоб оголосити свій наказ — усіх у воєнний похід спорядити, шлях на землі язичників вказав.»	true
+effect_bundles_localised_description_mk_faction_trait_sweden	„Ерік з усієї країни зібрав лицарів, тих, хто рівний їм був, воїнів і бондів у призначену годину (так чинять і нині пани), щоб оголосити свій наказ — усіх у воєнний похід спорядити, шлях на землі язичників вказав.“	true
 effect_bundles_localised_description_att_faction_trait_eastern_sassanid_separatist	Владне й пильне око шаха стежить за всім, що відбувається.	true
 effect_bundles_localised_description_bel_bundle_mission_payload_byzantine_diplomacy_positive	Останні рішення Велісарія поліпшили його ставлення до Римської імперії.	true
 effect_bundles_localised_description_att_bundle_edict_barbarian_resettlement	Життя знайде шлях.	true
@@ -689,8 +689,8 @@ effect_bundles_localised_title_att_payload_disaster_eruption_region	Виверж
 effect_bundles_localised_title_rom_payload_call_sea	Поклик моря	true
 effect_bundles_localised_description_att_bundle_eos_inspired_farmers	Успішний ремонт Марібської греблі надихнув місцевих фермерів. Переконавшись у надійності вашої підтримки, вони засіяли більше полів.	true
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_character_assassinate_success_actor	Цей агент скоїв замах на вбивство, але зміг лише поранити свою жертву.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_warrior_code_2	Для отримання доступу до цього ефекту вам потрібен «Порядок у військах I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_warrior_code_3	Для отримання доступу до цього ефекту вам потрібен «Порядок у військах II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_warrior_code_2	Для отримання доступу до цього ефекту вам потрібен "Порядок у військах I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_warrior_code_3	Для отримання доступу до цього ефекту вам потрібен "Порядок у військах II" і перераховані нижче технології.	true
 effect_bundles_localised_title_att_faction_trait_barbarian	Нові царства	true
 effect_bundles_localised_description_rom_tech_barbarian_module_warrior_code_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
 effect_bundles_localised_title_att_bundle_religious_semitic_paganism	Сунітський іслам	true
@@ -773,7 +773,7 @@ effect_bundles_localised_title_att_faction_trait_migrators_vandals_separatist	В
 effect_bundles_localised_title_rom_tech_barbarian_module_druidic_council_1	Рада друїдів I	true
 effect_bundles_localised_title_rom_tech_barbarian_module_druidic_council_2	Рада друїдів II	true
 effect_bundles_localised_title_rom_tech_barbarian_module_druidic_council_3	Рада друїдів III	true
-effect_bundles_localised_description_mk_faction_trait_hungary	«Прийміть чужинців у цій землі з гостинністю — нехай зберігають свої мови й звичаї, бо слабким і крихким є те царство, що спирається лише на одну мову чи один набір традицій.»	true
+effect_bundles_localised_description_mk_faction_trait_hungary	„Прийміть чужинців у цій землі з гостинністю — нехай зберігають свої мови й звичаї, бо слабким і крихким є те царство, що спирається лише на одну мову чи один набір традицій.“	true
 effect_bundles_localised_title_cha_bundle_christendoms_outcry	Протест християн	true
 effect_bundles_localised_title_bel_bundle_mission_payload_income_positive_1	Підтримка Антоніни	true
 effect_bundles_localised_description_att_public_order_eastern_4_indifferent	Населення цієї провінції байдуже до поточного стану речей.	true
@@ -781,7 +781,7 @@ effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_settleme
 effect_bundles_localised_description_att_payload_tax_positive_faction	Кожен повинен платити свої борги.	true
 effect_bundles_localised_title_att_payload_festival_faction	Хліб і видовища	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_character_intimidate_success_target	Придушити	true
-effect_bundles_localised_description_mk_faction_trait_pisa	«Вони повернулися до Пізи в тріумфі, зі славою та хвалою, співаючи радісними голосами: Не нам, Господи, не нам слава, але Імені Твоєму — на віки вічні.»	true
+effect_bundles_localised_description_mk_faction_trait_pisa	„Вони повернулися до Пізи в тріумфі, зі славою та хвалою, співаючи радісними голосами: Не нам, Господи, не нам слава, але Імені Твоєму — на віки вічні.“	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_army_preach_doom_success_actor	Цей священнослужитель підірвав бойовий дух ворожої армії.	true
 effect_bundles_localised_description_mk_bundle_rel_catharism	Державна релігія	true
 effect_bundles_localised_description_att_faction_trait_axum	Центр торгівлі і багатства, де Схід зустрічається із Заходом.	true
@@ -821,7 +821,7 @@ effect_bundles_localised_description_att_bundle_edict_rome_west_auxiliary_recrui
 effect_bundles_localised_title_att_payload_osmosis_religious_celtic_positive_faction	Сильний вплив кельтського язичництва	true
 effect_bundles_localised_description_att_payload_cavalry_experience_positive_faction	Розвиток верхової їзди дає нещодавно завербованим кінним загонам більше шансів у бою.	true
 effect_bundles_localised_title_rom_payload_inspired_endeavours_local	Натхнення	true
-effect_bundles_localised_description_mk_faction_trait_bulgaria_separatists	„...і зайняв грецькі землі від Одріна до Драча, а також землі Арбанасські та Сербські. Франки володіли тільки містами навколо Царьграда і цим містом теж, але і вони підкорялися всесильній правиці мого царства, бо не було у них іншого царя, крім мене, і завдяки мені вони проживали свої дні...»	true
+effect_bundles_localised_description_mk_faction_trait_bulgaria_separatists	„...і зайняв грецькі землі від Одріна до Драча, а також землі Арбанасські та Сербські. Франки володіли тільки містами навколо Царьграда і цим містом теж, але і вони підкорялися всесильній правиці мого царства, бо не було у них іншого царя, крім мене, і завдяки мені вони проживали свої дні...“	true
 effect_bundles_localised_description_att_payload_agent_spy_success_faction	Відточена майстерність дозволяє вашим підглядачам провертати найхитріші справи.	true
 effect_bundles_localised_description_mk_faction_trait_sicily	„Після тривалої наради і ретельного обговорення Квірити за царським правом передали римському імператору право створення законів і владу над імперією, щоб він, взявши на себе цей тягар, панував над народами, щоб він був джерелом і захисником правосуддя.“	true
 effect_bundles_localised_description_att_payload_growth_religious_christian_positive_faction	Ці релігії набувають послідовників у зв'язку з недавніми подіями.	true
@@ -957,7 +957,7 @@ effect_bundles_localised_description_cha_agent_action_sabotage_building_success_
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_settlement_hinder_development_critical_success_target	Розвиток цього поселення серйозно сповільнено ворожим підглядником.	true
 effect_bundles_localised_title_mk_faction_trait_bohemia_separatists	Королі серед князів	true
 effect_bundles_localised_title_mk_faction_trait_latinempire	Imperium Romanae	true
-effect_bundles_localised_description_mk_bundle_edict_all_religious_tolerance	«У релігії немає примусу».	true
+effect_bundles_localised_description_mk_bundle_edict_all_religious_tolerance	„У релігії немає примусу“.	true
 effect_bundles_localised_title_slav_bundle_venedi_population_boost	Достаток для всіх	true
 effect_bundles_localised_title_rom_subject_disgrace	Ганьба	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_character_trap_success_target	Пастка	true
@@ -975,7 +975,7 @@ effect_bundles_localised_description_att_bundle_tech_roman_military_4	Небес
 effect_bundles_localised_description_att_bundle_tech_roman_military_3	Смертоносні пристрої, випробувані на практиці.\\n\\nДля доступу до ефекту досліджуйте всі технології цього модуля.	true
 effect_bundles_localised_description_att_bundle_tech_roman_military_2	Вони прийдуть битися - і нехай.\\n\\nДля доступу до ефекту досліджуйте всі технології цього модуля.	true
 effect_bundles_localised_description_att_bundle_tech_roman_military_1	Від безладного натовпу до організованої армії.\\n\\nДля доступу до ефекту дослідіть усі технології цього модуля.	true
-effect_bundles_localised_description_mk_faction_trait_lorraine_separatists	«І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.»	true
+effect_bundles_localised_description_mk_faction_trait_lorraine_separatists	„І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.“	true
 effect_bundles_localised_description_att_payload_good_omen_faction	Знамення сприятливі. Жителі цієї країни радіють.	true
 effect_bundles_localised_title_cha_agent_action_sabotage_walls_success_actor	Пошкодження стін	true
 effect_bundles_localised_title_rom_payload_religion_rom_mercury_way	Шлях Меркурія	true
@@ -1254,7 +1254,7 @@ effect_bundles_localised_description_rom_subject_payload_nisean	Прибуття
 effect_bundles_localised_description_bel_bundle_mission_payload_income_positive_1	Задоволена Антоніна надала Експедиції додаткові джерела доходу.	true
 effect_bundles_localised_title_att_plague_measles_region	Кір!	true
 effect_bundles_localised_title_mk_faction_trait_hungary	Королівство мадярів	true
-effect_bundles_localised_description_mk_faction_trait_lorraine	«І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.»	true
+effect_bundles_localised_description_mk_faction_trait_lorraine	„І так почалися війни при найменшій нагоді, адже володарі Лотарингії не визнавали іншого сюзерена, окрім Імператора, якому, втім, ніколи особливо не було діла до цих земель.“	true
 effect_bundles_localised_description_att_payload_military_morale_bundle_negative_force	Після недавньої поразки ця армія перебуває не в найкращій формі.	true
 effect_bundles_localised_description_att_faction_trait_votadini	Єдина мета - ось основа могутності каледонців.	true
 effect_bundles_localised_title_cha_wonder_mount_vesuvius	Гора Везувій	true
@@ -1401,11 +1401,11 @@ effect_bundles_localised_title_att_payload_cavalry_cost_positive_faction	Наб�
 effect_bundles_localised_title_rom_subject_payload_purple	Зростання	true
 effect_bundles_localised_description_att_bundle_stance_army_fortification_eastern	Облаштування укріпленого табору.	true
 effect_bundles_localised_title_att_payload_osmosis_religious_zoroastrian_positive_faction	Сильний вплив зороастризму	true
-effect_bundles_localised_description_mk_faction_trait_navarre_separatists	«Ніколи більше Баскські гори не народять інших таких героїв».	true
+effect_bundles_localised_description_mk_faction_trait_navarre_separatists	„Ніколи більше Баскські гори не народять інших таких героїв“.	true
 effect_bundles_localised_title_att_public_order_eastern_3_troubled	Населення стурбоване	true
 effect_bundles_localised_title_rom_payload_raw_material	Сировина	true
 effect_bundles_localised_description_cha_bundle_seasonal_catch	Море було щедрим: цього сезону ми всі зможемо їсти досхочу.	true
-effect_bundles_localised_description_mk_faction_trait_ghurid_separatists	«Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.»	true
+effect_bundles_localised_description_mk_faction_trait_ghurid_separatists	„Інші монархи мають одного або двох синів; у мене ж тисячі синів — мої турецькі раби.“	true
 effect_bundles_localised_description_att_wonder_ravenna	[[col:green]]Диво[[/col]]\\n\\nМісто мозаїк.	true
 effect_bundles_localised_title_att_faction_trait_migrators_visigoths_separatist	Криваві гроші	true
 effect_bundles_localised_description_att_public_order_barbarian_2_unhappy	Населення цієї провінції незадоволене поточним станом речей.	true
@@ -1459,7 +1459,7 @@ effect_bundles_localised_title_att_bundle_season_winter_east_bad	Погана з
 effect_bundles_localised_description_mk_faction_trait_burgundy	Герцогство має намір залишатися герцогством; воно не бажає бути королівською провінцією.	true
 effect_bundles_localised_description_mk_faction_trait_marinids	Наш народ підкорив землі вістрям списів, а мечі в руках наших лютих воїнів зрубали голови невірним.	true
 effect_bundles_localised_title_cha_bundle_captives_return	Повернення полонених	true
-effect_bundles_localised_description_mk_faction_trait_seljuks_separatists	„...правителі міст... перейнялися ще більшою повагою до султана, «бачачи велич його армії, її екіпіровку і коней».	true
+effect_bundles_localised_description_mk_faction_trait_seljuks_separatists	„...правителі міст... перейнялися ще більшою повагою до султана, бачачи велич його армії, її екіпіровку і коней“.	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_character_intimidate_success_actor	Придушити	true
 effect_bundles_localised_description_att_payload_osmosis_religious_roman_positive_faction	Вплив цієї релігії на сусідні землі зріс.	true
 effect_bundles_localised_description_cha_faction_trait_westphalia	Якщо люди хочуть війни, вони її отримають.	true
@@ -1501,7 +1501,7 @@ effect_bundles_localised_title_att_bundle_war_weariness_13	Втома від в�
 effect_bundles_localised_title_att_wonder_colossus_rhodes	Руїни колоса	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_settlement_preach_intolerance_success_actor	Цей священнослужитель посіяв релігійну нетерпимість у ворожому поселенні.	true
 effect_bundles_localised_title_att_bundle_agent_action_all_failure_army_actor_compromised	Провал	true
-effect_bundles_localised_description_mk_faction_trait_georgia_separatists	«...нині постає для всього Сходу другим Єрусалимом — училищем усякого добра, наставником ученості, другими Афінами, що значно перевершують їх у божественних канонах, дияконом усієї церковної краси.»	true
+effect_bundles_localised_description_mk_faction_trait_georgia_separatists	„...нині постає для всього Сходу другим Єрусалимом — училищем усякого добра, наставником ученості, другими Афінами, що значно перевершують їх у божественних канонах, дияконом усієї церковної краси.“	true
 effect_bundles_localised_title_att_faction_trait_barbarian_franks	Люті воїни	true
 effect_bundles_localised_description_bel_bundle_mission_payload_control_negative	Останні рішення Велісарія послабили його владу.	true
 effect_bundles_localised_title_att_bundle_edict_rome_west_bread_circuses	Хліб і видовища	true
@@ -1532,7 +1532,7 @@ effect_bundles_localised_description_mk_faction_trait_antioch_separatists	„А�
 effect_bundles_localised_description_rom_payload_research	Знання, що містяться в цих сувоях, можуть виявитися безцінними.	true
 effect_bundles_localised_description_rom_payload_precious	Зосередившись на обробці дорогоцінних металів, ви почнете отримувати більше золота і срібла, що сприятиме розвитку торгівлі.	true
 effect_bundles_localised_title_att_faction_trait_roman_west_separatist	Інтеграція культури	true
-effect_bundles_localised_description_mk_faction_trait_epirus_separatists	«Якщо ж вороги не проявлять розсудливості, а продемонструють несправедливість, вторгнувшись на нашу землю, тоді виникне законна причина рішуче і сміливо вести війну проти них...»	true
+effect_bundles_localised_description_mk_faction_trait_epirus_separatists	„Якщо ж вороги не проявлять розсудливості, а продемонструють несправедливість, вторгнувшись на нашу землю, тоді виникне законна причина рішуче і сміливо вести війну проти них...“	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_character_betray_success_actor	Зрада	true
 effect_bundles_localised_title_att_bundle_stance_army_garrisoned	Режим: гарнізон	true
 effect_bundles_localised_title_att_faction_trait_barbarian_burgindians	Природжені мисливці	true
@@ -1552,8 +1552,8 @@ effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_settlemen
 effect_bundles_localised_title_att_bundle_season_summer_east_bad	Погане літо	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_hinder_character_betray_success_target	Зрада	true
 effect_bundles_localised_description_att_payload_public_order_religious_germanic_positive_faction	Прихильники цієї релігії у захваті від недавніх подій.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_war_exorcises_3	Щоб відкрити цей ефект, вам потрібні «Військові вправи II» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_war_exorcises_2	Щоб відкрити цей ефект, вам потрібні «Військові вправи I» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_war_exorcises_3	Щоб відкрити цей ефект, вам потрібні "Військові вправи II" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_war_exorcises_2	Щоб відкрити цей ефект, вам потрібні "Військові вправи I" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_barbarian_module_war_exorcises_1	Щоб відкрити цей ефект, потрібні перераховані нижче технології.	true
 effect_bundles_localised_title_att_public_order_eastern_1_outraged	Населення в гніві	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_character_betray_critical_success_target	[Unused]	true
@@ -1567,7 +1567,7 @@ effect_bundles_localised_title_att_bundle_war_weariness_44	Втома від в�
 effect_bundles_localised_title_att_bundle_war_weariness_45	Втома від воєн V	true
 effect_bundles_localised_title_att_bundle_agent_action_dignitary_assist_army_inspire_troops_cannot_fail_target	Натхнення військ	true
 effect_bundles_localised_title_att_bundle_war_weariness_46	Втома від воєн V	true
-effect_bundles_localised_description_mk_faction_trait_khwarazm	«Його володіння стали просторими, а становище - величним. Йому підкорився весь світ, і після Сельджукидів ніхто не мав такого, що мав він.»	true
+effect_bundles_localised_description_mk_faction_trait_khwarazm	„Його володіння стали просторими, а становище - величним. Йому підкорився весь світ, і після Сельджукидів ніхто не мав такого, що мав він.“	true
 effect_bundles_localised_title_att_bundle_war_weariness_47	Втома від воєн V	true
 effect_bundles_localised_title_att_bundle_war_weariness_40	Втома від воєн V	true
 effect_bundles_localised_title_att_bundle_war_weariness_41	Втома від воєн V	true
@@ -1584,7 +1584,7 @@ effect_bundles_localised_description_mk_faction_trait_abbasid_separatists	„В�
 effect_bundles_localised_title_att_public_order_eastern_5_content	Населення підбадьорене	true
 effect_bundles_localised_description_att_wonder_pillars_hercules	[[col:green]]Диво[[/col]]\\n\\nВеликі стовпи, створені могутнім Геркулесом.	true
 effect_bundles_localised_description_att_plague_smallpox_region	[[col:red]]Пошесть[[/col]]\\n\\nНа зміну невеликому висипу приходять гнійні виразки і внутрішні кровотечі. Максимум через тиждень хворий помирає.	true
-effect_bundles_localised_description_mk_faction_trait_sweden_separatists	«Ерік з усієї країни зібрав лицарів, тих, хто рівний їм був, воїнів і бондів у призначену годину (так чинять і нині пани), щоб оголосити свій наказ — усіх у воєнний похід спорядити, шлях на землі язичників вказав.»	true
+effect_bundles_localised_description_mk_faction_trait_sweden_separatists	„Ерік з усієї країни зібрав лицарів, тих, хто рівний їм був, воїнів і бондів у призначену годину (так чинять і нині пани), щоб оголосити свій наказ — усіх у воєнний похід спорядити, шлях на землі язичників вказав.“	true
 effect_bundles_localised_title_bel_bundle_event_confederation_help_independence	Імператор	true
 effect_bundles_localised_title_att_bundle_war_weariness_58	Втома від воєн VI	true
 effect_bundles_localised_title_att_bundle_war_weariness_59	Втома від воєн VI	true
@@ -1689,7 +1689,7 @@ effect_bundles_localised_title_att_bundle_tech_hunnic_military_2	Військо�
 effect_bundles_localised_title_att_bundle_tech_hunnic_military_4	Військова сила IV	true
 effect_bundles_localised_title_att_public_order_barbarian_4_indifferent	Населення байдуже	true
 effect_bundles_localised_title_att_payload_osmosis_religious_zoroastrian_negative_faction	Слабкий вплив зороастризму	true
-effect_bundles_localised_description_mk_faction_trait_hungary_separatists	«Прийміть чужинців у цій землі з гостинністю — нехай зберігають свої мови й звичаї, бо слабким і крихким є те царство, що спирається лише на одну мову чи один набір традицій.»	true
+effect_bundles_localised_description_mk_faction_trait_hungary_separatists	„Прийміть чужинців у цій землі з гостинністю — нехай зберігають свої мови й звичаї, бо слабким і крихким є те царство, що спирається лише на одну мову чи один набір традицій.“	true
 effect_bundles_localised_title_att_bundle_tech_roman_military_1	Військова сила I	true
 effect_bundles_localised_title_att_bundle_tech_roman_military_2	Військова сила II	true
 effect_bundles_localised_title_att_bundle_tech_roman_military_3	Військова сила III	true
@@ -1726,7 +1726,7 @@ effect_bundles_localised_description_rom_payload_cultural_unrest	Зростаю�
 effect_bundles_localised_description_att_payload_growth_religious_roman_negative_faction	Кількість послідовників цієї релігії зменшується.	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_army_preach_doom_critical_success_target	Бойовий дух цієї армії зламаний ворожним священнослужителем.	true
 effect_bundles_localised_title_att_payload_tax_negative_province	Податковий дефіцит	true
-effect_bundles_localised_description_mk_faction_trait_pisa_separatists	«Вони повернулися до Пізи в тріумфі, зі славою та хвалою, співаючи радісними голосами: Не нам, Господи, не нам слава, але Імені Твоєму — на віки вічні.»	true
+effect_bundles_localised_description_mk_faction_trait_pisa_separatists	„Вони повернулися до Пізи в тріумфі, зі славою та хвалою, співаючи радісними голосами: Не нам, Господи, не нам слава, але Імені Твоєму — на віки вічні.“	true
 effect_bundles_localised_title_att_payload_agent_spy_experience_faction	Таємне знання	true
 effect_bundles_localised_title_cha_bundle_day_of_mourning	День скорботи	true
 effect_bundles_localised_description_mk_faction_trait_hafsids_separatists	„Гроші є прикрасою світу і силою духу.“	true
@@ -1745,7 +1745,7 @@ effect_bundles_localised_description_att_bundle_agent_action_champion_passive_ab
 effect_bundles_localised_description_att_payload_military_morale_bundle_positive_force	Ваші воїни відчувають піднесення духу.	true
 effect_bundles_localised_title_mk_bundle_rel_shia_islam	Шиїтський іслам	true
 effect_bundles_localised_title_att_wonder_olympia	Статуя Зевса Олімпійського	true
-effect_bundles_localised_description_mk_faction_trait_hre	«Як на небі тільки один Бог, так і на землі тільки один папа і один імператор».	true
+effect_bundles_localised_description_mk_faction_trait_hre	„Як на небі тільки один Бог, так і на землі тільки один папа і один імператор“.	true
 effect_bundles_localised_title_rom_tech_module_economy_1	Економіка I	true
 effect_bundles_localised_title_rom_tech_module_economy_2	Економіка II	true
 effect_bundles_localised_title_rom_tech_module_economy_3	Економіка III	true
@@ -1758,7 +1758,7 @@ effect_bundles_localised_description_mk_faction_trait_sicily_separatists	„Пі
 effect_bundles_localised_title_att_food_bundle_faction_positive	Надлишок продовольства	true
 effect_bundles_localised_description_att_payload_growth_religious_zoroastrian_negative_faction	Кількість послідовників цієї релігії зменшується.	true
 effect_bundles_localised_title_cha_faction_trait_danes	Вікінги-нальотники	true
-effect_bundles_localised_description_mk_faction_trait_bulgaria	„...і зайняв грецькі землі від Одріна до Драча, а також землі Арбанасські і Сербські. Франки володіли тільки містами навколо Царгорода і цим містом теж, але і вони підкорялися всесильній правиці мого царства, бо не було у них іншого царя, крім мене, і завдяки мені вони проживали свої дні...»	true
+effect_bundles_localised_description_mk_faction_trait_bulgaria	„...і зайняв грецькі землі від Одріна до Драча, а також землі Арбанасські і Сербські. Франки володіли тільки містами навколо Царгорода і цим містом теж, але і вони підкорялися всесильній правиці мого царства, бо не було у них іншого царя, крім мене, і завдяки мені вони проживали свої дні...“	true
 effect_bundles_localised_title_att_bundle_agent_action_all_failure_character_actor_compromised	Провал	true
 effect_bundles_localised_title_bel_bundle_invasion_force_moors	Армія вторгнення	true
 effect_bundles_localised_description_att_effect_east_zoroastrian	Релігія	true
@@ -1935,12 +1935,12 @@ effect_bundles_localised_description_att_payload_slave_economic_negative_provinc
 effect_bundles_localised_title_cha_political_power_02	Влада: жалюгідна	true
 effect_bundles_localised_title_cha_political_power_03	Влада: слабка	true
 effect_bundles_localised_title_cha_political_power_01	Влада: нікчемна	true
-effect_bundles_localised_description_rom_tech_barbarian_module_tribal_council_2	Щоб відкрити цей ефект, вам потрібні «Рада племені I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_tribal_council_3	Щоб відкрити цей ефект, вам потрібні «Рада племені II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_tribal_council_2	Щоб відкрити цей ефект, вам потрібні "Рада племені I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_tribal_council_3	Щоб відкрити цей ефект, вам потрібні "Рада племені II" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_barbarian_module_tribal_council_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
 effect_bundles_localised_description_rom_tech_barbarian_module_tribal_economy_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_tribal_economy_2	Щоб відкрити цей ефект, вам потрібні «Економіка племені I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_tribal_economy_3	Щоб відкрити цей ефект, вам потрібні «Економіка племені II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_tribal_economy_2	Щоб відкрити цей ефект, вам потрібні "Економіка племені I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_tribal_economy_3	Щоб відкрити цей ефект, вам потрібні "Економіка племені II" і перераховані нижче технології.	true
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_assist_province_inspire_populace_cannot_fail_actor	Цей священнослужитель служить місцевому населенню.	true
 effect_bundles_localised_title_mk_faction_trait_papacy	Спадкоємці святого Петра	true
 effect_bundles_localised_title_cha_bundle_abbasid_peaceful_lands	Мирні землі	true
@@ -2011,8 +2011,8 @@ effect_bundles_localised_description_att_bundle_war_weariness_2	Протягом
 effect_bundles_localised_description_att_bundle_war_weariness_3	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
 effect_bundles_localised_description_att_bundle_war_weariness_0	Ваш народ не відчуває втоми від воєн: він цілком задоволений поточним станом справ.	true
 effect_bundles_localised_description_att_bundle_war_weariness_1	Протягом усього свого правління ви безперервно вели війни. Не дивно, що народ незадоволений таким станом справ. Втомившись від нескінченних смертей і поневірянь, він мріє про мир.	true
-effect_bundles_localised_description_rom_tech_module_economy_3	Щоб відкрити цей ефект, вам потрібні «Економіка II» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_economy_2	Щоб відкрити цей ефект, вам потрібні «Економіка I» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_economy_3	Щоб відкрити цей ефект, вам потрібні "Економіка II" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_economy_2	Щоб відкрити цей ефект, вам потрібні "Економіка I" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_module_economy_1	Щоб відкрити цей ефект, потрібні перераховані нижче технології.	true
 effect_bundles_localised_description_slav_bundle_antes_civilized	Бажаючи благополуччя і просвіти для свого народу, ви вирішили укласти мир з Римом. Тепер народ не тільки поважає вас, але і підтримує ваше прагнення до цивілізації.	true
 effect_bundles_localised_title_att_payload_growth_religious_zoroastrian_negative_faction	Занепад зороастризму	true
@@ -2025,8 +2025,8 @@ effect_bundles_localised_title_bel_bundle_mission_payload_ostrogoth_diplomacy_po
 effect_bundles_localised_description_att_bundle_agent_action_spy_hinder_army_gather_intelligence_critical_success_actor	Цей підглядник добув важливу інформацію про володіння ворога.	true
 effect_bundles_localised_description_att_bundle_season_autumn_north_bad	Цього року дуже швидко холоднішає.	true
 effect_bundles_localised_title_att_payload_mercenary_compensation_force	Нагорода найманцям	true
-effect_bundles_localised_description_rom_tech_module_management_2	Щоб відкрити цей ефект, вам потрібні «Управління I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_management_3	Щоб відкрити цей ефект, вам потрібні «Управління II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_management_2	Щоб відкрити цей ефект, вам потрібні "Управління I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_management_3	Щоб відкрити цей ефект, вам потрібні "Управління II" і перераховані нижче технології.	true
 effect_bundles_localised_description_rom_tech_module_management_1	Щоб відкрити цей ефект, потрібні перераховані нижче технології.	true
 effect_bundles_localised_title_mk_faction_trait_bulgaria	Поборники православної віри	true
 effect_bundles_localised_description_att_bundle_season_autumn_south_bad	Цього року дуже швидко холоднішає.	true
@@ -2084,8 +2084,8 @@ effect_bundles_localised_description_att_bundle_season_spring_north_good	Цьо�
 effect_bundles_localised_title_mk_bundle_edict_all_settle_tribes	Розселення племен	true
 effect_bundles_localised_description_att_bundle_season_winter_south_good	Цього року сніг лише злегка припорошив землю.	true
 effect_bundles_localised_description_mk_faction_trait_milan_separatists	Для нас настав доленосний день, жителі Мілана, і нам необхідно здобути перемогу.	true
-effect_bundles_localised_description_rom_tech_module_philosophy_2	Щоб відкрити цей ефект, потрібні «Філософія I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_philosophy_3	Щоб відкрити цей ефект, потрібні «Філософія II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_philosophy_2	Щоб відкрити цей ефект, потрібні "Філософія I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_philosophy_3	Щоб відкрити цей ефект, потрібні "Філософія II" і перераховані нижче технології.	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_hinder_army_assault_unit_success_actor	Напад на загін	true
 effect_bundles_localised_description_rom_tech_module_philosophy_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
 effect_bundles_localised_description_att_plague_justinian_army	Ця армія охоплена жахливою моровою пошестю. Хворі вкриваються струпами, корчаться в судомах і незабаром помирають. Зупинити лихо може тільки виключно високий рівень санітарії.	true
@@ -2096,8 +2096,8 @@ effect_bundles_localised_description_att_payload_growth_religious_celtic_negativ
 effect_bundles_localised_description_att_bundle_agent_action_dignitary_hinder_settlement_encourage_dissent_critical_success_actor	Цей жрець посіяв бунтівні настрої у ворожому поселенні.	true
 effect_bundles_localised_title_att_public_order_barbarian_7_jubilant	Населення натхненне	true
 effect_bundles_localised_description_rom_tech_barbarian_module_druidic_council_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_druidic_council_2	Для отримання доступу до цього ефекту вам потрібна «Рада друїдів I» і перераховані нижче технології.	true
-effect_bundles_localised_description_rom_tech_barbarian_module_druidic_council_3	Для отримання доступу до цього ефекту вам потрібна «Рада друїдів II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_druidic_council_2	Для отримання доступу до цього ефекту вам потрібна "Рада друїдів I" і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_barbarian_module_druidic_council_3	Для отримання доступу до цього ефекту вам потрібна "Рада друїдів II" і перераховані нижче технології.	true
 effect_bundles_localised_title_att_payload_public_order_religious_tengri_negative_faction	Неприйняття культу Тенгрі	true
 effect_bundles_localised_title_cha_agent_action_spy_network_actor	Шпигунська мережа	true
 effect_bundles_localised_description_att_payload_resolution_dummy	Наслідки вашого вибору поки невідомі...	true
@@ -2137,8 +2137,8 @@ effect_bundles_localised_title_mk_faction_trait_trier_separatists	Архієпи
 effect_bundles_localised_title_att_bundle_agent_action_spy_hinder_army_gather_intelligence_success_target	Збір інформації	true
 effect_bundles_localised_description_att_bundle_agent_action_all_failure_character_target	Після недавньої спроби шпигунства цей персонаж особливо пильний.	true
 effect_bundles_localised_description_rom_tech_module_tactics_1	Щоб відкрити цей ефект, потрібні нижчеперелічені технології.	true
-effect_bundles_localised_description_rom_tech_module_tactics_2	Щоб відкрити цей ефект, вам потрібні «Тактика I» та перелічені нижче технології.	true
-effect_bundles_localised_description_rom_tech_module_tactics_3	Щоб відкрити цей ефект, вам потрібні «Тактика II» і перераховані нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_tactics_2	Щоб відкрити цей ефект, вам потрібні "Тактика I" та перелічені нижче технології.	true
+effect_bundles_localised_description_rom_tech_module_tactics_3	Щоб відкрити цей ефект, вам потрібні "Тактика II" і перераховані нижче технології.	true
 effect_bundles_localised_title_att_payload_public_order_religious_celtic_positive_faction	Підтримка кельтського язичництва	true
 effect_bundles_localised_description_att_payload_agent_action_security_province	Гарнізони в цій провінції приведені в підвищену готовність. Солдати допитують усіх, хто здається підозрілим.	true
 effect_bundles_localised_title_att_bundle_agent_action_champion_assist_province_rally_troops_cannot_fail_actor	Заклик до зброї	true
@@ -2341,7 +2341,7 @@ effect_bundles_localised_title_att_payload_growth_religious_christian_negative_f
 effect_bundles_localised_description_mk_bundle_republic_political_power_08	Невимірна і незламна могутність, гідна гірських вершин.	true
 effect_bundles_localised_description_att_payload_urban_migration_faction	Сільські жителі ваших володінь масово переселяються до міст у пошуках кращого життя.	true
 effect_bundles_localised_title_mk_faction_trait_nicaea	Справжні василевси ромеїв	true
-effect_bundles_localised_description_mk_faction_trait_lithuania	«Великий князь викликав такий жах у всіх своїх лицарів, що вони тремтіли перед ним, як листя».	true
+effect_bundles_localised_description_mk_faction_trait_lithuania	„Великий князь викликав такий жах у всіх своїх лицарів, що вони тремтіли перед ним, як листя“.	true
 effect_bundles_localised_title_att_bundle_agent_action_spy_hinder_settlement_exploit_corruption_critical_success_actor	Користування корупцією	true
 effect_bundles_localised_description_att_payload_local_trade_negative_province	Місцева торгівля занепадає.	true
 effect_bundles_localised_description_mk_bundle_edict_all_organize_raids	„О, на скільки ж краще лежати на смертному одрі, ніж бути полоненим на шляху до татар.“	true
