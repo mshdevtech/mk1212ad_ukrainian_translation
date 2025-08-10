@@ -61,28 +61,39 @@ python scripts/sync_translation.py
 
 Скрипт повністю очищає папку `c:/users/Max/TWMods/MK1212AD_Ukrainization` і копіює туди всі файли з `translation/`.
 
-## 2.5 Автоматична синхронізація при коміті (pre-commit hook)
+## 2.5 Автоматична синхронізація при коміті (pre-commit)
 
-Щоб переклад автоматично синхронізувався при кожному git commit, додайте pre-commit hook:
+Щоб переклад автоматично синхронізувався при кожному git commit, використовуйте [pre-commit](https://pre-commit.com/):
 
-1. Створіть (або відредагуйте) файл `.git/hooks/pre-commit` у корені репозиторію.
-2. Додайте у файл такий вміст (для Windows):
-
-    ```bat
-    @echo off
-    REM Pre-commit hook: синхронізація перекладу
-    python scripts/sync_translation.py
-    if errorlevel 1 (
-      echo Синхронізація не вдалася. Коміт скасовано.
-      exit /b 1
-    )
-    ```
-3. Збережіть файл **без розширення** (`pre-commit`, не `pre-commit.txt`).
-4. Тепер при кожному коміті скрипт буде запускатися автоматично.
+1. Встановіть pre-commit (один раз):
+   ```bash
+   pip install pre-commit
+   ```
+2. Додайте файл `.pre-commit-config.yaml` у корінь репозиторію з таким вмістом:
+   ```yaml
+   repos:
+     - repo: local
+       hooks:
+         - id: sync-translation
+           name: Sync Translation
+           entry: python scripts/sync_translation.py
+           language: system
+           types: [file]
+   ```
+3. Активуйте хуки (один раз):
+   ```bash
+   pre-commit install
+   ```
+4. Тепер при кожному коміті буде запускатися sync_translation.py автоматично.
+   - Для ручного запуску на всіх файлах:
+     ```bash
+     pre-commit run sync-translation --all-files
+     ```
 
 > **Примітка:**
-> - Файл `.git/hooks/pre-commit` не потрапляє у git-репозиторій, тому кожен учасник має налаштувати його самостійно.
-> - Для Linux/macOS використовуйте bash-версію hook (запитайте, якщо потрібно).
+> - Файл `.pre-commit-config.yaml` зберігається у git-репозиторії, тому всі учасники отримають однакову конфігурацію.
+> - Не потрібно створювати/редагувати `.git/hooks/pre-commit` вручну.
+> - Для Linux/macOS також працює цей спосіб (Python має бути у PATH).
 
 ## 3 Структура репозиторію
 
