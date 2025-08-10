@@ -20,7 +20,7 @@ tsv2po.py
       python tsv2po.py \
           --srcdir _upstream/en/text/db \
           --trgdir translation/text/db \
-          --outdir po
+          --outdir _tmp
 """
 
 import argparse, csv, datetime
