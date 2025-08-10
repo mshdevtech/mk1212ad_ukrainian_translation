@@ -122,6 +122,8 @@ else:
 
 print("=== ПОЧИНАЄМО МЕРДЖ ===\n")
 
+files_with_changes = 0
+
 for src_path in SRC_DIR.glob("*.loc.tsv"):
     trg_path = TRG_DIR / src_path.name
     read = lambda p: pd.read_csv(
@@ -182,6 +184,10 @@ for src_path in SRC_DIR.glob("*.loc.tsv"):
     files_done += 1
     if len(new_keys) > 0 or len(removed) > 0 or modified_count > 0:
         print(f"✓ {src_path.name}: +{len(new_keys)} new, -{len(removed)} removed, ~{modified_count} modified")
+        files_with_changes += 1
+
+if files_with_changes == 0:
+    print("Всі файли актуальні")
 
 print("\n=== Merge completed ===")
 print(f"Processed files : {files_done}")
