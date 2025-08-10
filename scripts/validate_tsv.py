@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-validate_tsv.py – швидка перевірка всіх *.loc.tsv у translation/text/db/
+validate_tsv.py – швидка перевірка всіх *.loc.tsv у вказаній папці або translation/text/db/
 
 • 3 колонки у порядку: key, text, tooltip
 • key не порожній
@@ -8,13 +8,22 @@ validate_tsv.py – швидка перевірка всіх *.loc.tsv у transl
 • TSV-розділювач = \t
 
 Колонка tooltip не аналізується – грі потрібна, але її вміст нас не цікавить.
+
+Використання:
+    python scripts/validate_tsv.py                    # перевіряє translation/text/db/
+    python scripts/validate_tsv.py path/to/folder     # перевіряє вказану папку
 """
 
 from pathlib import Path
 import sys
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[1] / "translation" / "text" / "db"
+# Визначаємо шлях до папки для перевірки
+if len(sys.argv) > 1:
+    ROOT = Path(sys.argv[1])
+else:
+    ROOT = Path("translation/text/db")
+
 REQUIRED_COLS = ["key", "text", "tooltip"]
 EXIT_CODE = 0
 
