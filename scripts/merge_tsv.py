@@ -22,6 +22,7 @@
 # - Run the script. The merged files will be saved in `translation/text/db`,
 #   and removed keys will be archived in the `obsolete` directory.
 import pandas as pd, pathlib, sys
+import csv
 
 SRC_DIR = pathlib.Path("_upstream/en/text/db")
 TRG_DIR = pathlib.Path("translation/text/db")
@@ -31,13 +32,14 @@ OBS_DIR = pathlib.Path("obsolete")
 files_done   = 0
 total_added  = 0
 total_removed = 0
+total_modified = 0
 
 # ── Функції валідації ─────────────────────────────────────────────────
 def validate_tsv_file(file_path: pathlib.Path) -> tuple[bool, list[str]]:
     """Валідує один TSV файл та повертає (is_valid, error_messages)."""
     errors = []
     try:
-        df = pd.read_csv(file_path, sep="\t", dtype=str, keep_default_na=False)
+        df = pd.read_csv(file_path, sep="\t", dtype=str, keep_default_na=False, quoting=csv.QUOTE_NONE, encoding_errors='ignore')
     except Exception as e:
         errors.append(f"не вдалося прочитати файл ({e})")
         return False, errors
@@ -123,7 +125,8 @@ print("=== ПОЧИНАЄМО МЕРДЖ ===\n")
 for src_path in SRC_DIR.glob("*.loc.tsv"):
     trg_path = TRG_DIR / src_path.name
     read = lambda p: pd.read_csv(
-        p, sep="\t", dtype=str, keep_default_na=False, na_filter=False
+        p, sep="\t", dtype=str, keep_default_na=False, na_filter=False, 
+        quoting=csv.QUOTE_NONE, encoding_errors='ignore'
     )
 
     src = read(src_path)
@@ -143,13 +146,23 @@ for src_path in SRC_DIR.glob("*.loc.tsv"):
         merged["text"]                     # інакше беремо значення з text
     )
 
+    # - Count actually modified rows (where translation appeared or changed) -
+    modified_count = 0
+    if "text_old" in merged.columns:
+        modified_mask = (merged["text"].notna()) & (merged["text"] != "") & (
+            merged["text_old"].isna() | (merged["text_old"] == "") | (merged["text"] != merged["text_old"]))
+        modified_count = modified_mask.sum()
+    total_modified += modified_count
+
     merged = merged[src.columns]   # return column order
 
     # NaN → ""
     merged = merged.fillna("")
 
     trg_path.parent.mkdir(parents=True, exist_ok=True)
-    merged.to_csv(trg_path, sep="\t", index=False, na_rep="")
+    
+    # Зберігаємо з pandas to_csv, використовуючи QUOTE_NONE
+    merged.to_csv(trg_path, sep='\t', index=False, quoting=csv.QUOTE_NONE, encoding='utf-8')
 
     # - statistic for new keys -
     new_keys = src.loc[~src["key"].isin(trg["key"])]
@@ -159,16 +172,22 @@ for src_path in SRC_DIR.glob("*.loc.tsv"):
     removed = trg.loc[~trg["key"].isin(src["key"])]
     if not removed.empty:
         OBS_DIR.mkdir(parents=True, exist_ok=True)
-        removed.to_csv(OBS_DIR / src_path.name, sep="\t", index=False)
+        
+        # Зберігаємо архівний файл з pandas to_csv
+        archive_path = OBS_DIR / src_path.name
+        removed.to_csv(archive_path, sep='\t', index=False, quoting=csv.QUOTE_NONE, encoding='utf-8')
+        
         total_removed += len(removed)
 
     files_done += 1
-    print(f"✓ {src_path.name}: +{len(new_keys)} new, -{len(removed)} removed")
+    if len(new_keys) > 0 or len(removed) > 0 or modified_count > 0:
+        print(f"✓ {src_path.name}: +{len(new_keys)} new, -{len(removed)} removed, ~{modified_count} modified")
 
 print("\n=== Merge completed ===")
 print(f"Processed files : {files_done}")
 print(f"New keys added  : {total_added}")
 print(f"Keys archived   : {total_removed}")
+print(f"Rows modified   : {total_modified}")
 print("Done!")
 
 sys.exit(0)
