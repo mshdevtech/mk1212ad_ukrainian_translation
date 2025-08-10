@@ -2,6 +2,10 @@
 /_upstream/*
 !_upstream/.gitkeep
 
+# Ignore all files in the _obsolete directory
+/_obsolete/*
+!_obsolete/.gitkeep
+
 # ignore all files in the _temp directory
 /_temp/*
 !_temp/.gitkeep

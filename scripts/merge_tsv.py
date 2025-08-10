@@ -24,7 +24,7 @@ import csv
 
 SRC_DIR = pathlib.Path("_upstream/en/text/db")
 TRG_DIR = pathlib.Path("translation/text/db")
-OBS_DIR = pathlib.Path("obsolete")
+OBS_DIR = pathlib.Path("_obsolete")
 
 # - stat counters -
 files_done   = 0
