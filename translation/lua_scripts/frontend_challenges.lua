@@ -114,7 +114,7 @@ function OnComponentLClickUp_Challenge_Menu(context)
 			sp_challenge_menu_uic:SetVisible(false);
 			sp_challenge_menu_uic:UnLockPriority();
 			checkbox_ironman_uic:SetVisible(true);
-			text_ironman_uic:SetStateText("[[rgba:255:255:242:150]]Активувати режим 'Незламний'[[/rgba:255:255:242:150]]");
+			text_ironman_uic:SetStateText("[[rgba:255:255:242:150]]Активувати режим «Незламний»[[/rgba:255:255:242:150]]");
 			text_ironman_uic:SetVisible(true);
 		else
 			sp_challenge_menu_uic:SetVisible(true);
