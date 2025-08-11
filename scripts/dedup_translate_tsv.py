@@ -33,7 +33,7 @@ python dedup_translate_tsv.py apply   _dedup/names.loc._dedup.tsv \
 from pathlib import Path
 import sys, csv, pandas as pd
 
-DEDUP_DIR = Path("_tmp")          # каталог, куди кладемо _dedup-файли
+DEDUP_DIR = Path("_temp")          # каталог, куди кладемо _dedup-файли
 DEDUP_DIR.mkdir(exist_ok=True)
 
 def extract(src: Path) -> None:
