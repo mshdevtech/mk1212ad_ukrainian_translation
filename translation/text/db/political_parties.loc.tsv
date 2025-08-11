@@ -322,7 +322,7 @@ political_parties_name_localised_mk_politics_marinid_council	Інші родин
 political_parties_name_localised_mk_politics_bavaria_council	Інші родини	true
 political_parties_name_localised_mk_politics_scotland_ruler	Данкельдська династія	true
 political_parties_description_localised_mk_politics_separatists_goldenhorde_council	Старійшини знатних монгольських родів вважаються особливо мудрими, тому їхні поради мають найбільшу цінність для воєначальника.	true
-political_parties_name_localised_mk_politics_vladimir_ruler	Княжий дім	true
+political_parties_name_localised_mk_politics_vladimir_ruler	Великокняжий дім	true
 political_parties_name_localised_mk_politics_makuria_council	Інші родини	true
 political_parties_description_localised_mk_politics_dauphine_ruler	Коли король вважає за потрібне, він радиться з наймудрішими і найдосвідченішими представниками знаті.	true
 political_parties_name_localised_mk_politics_ayyubid_ruler	Династія Аюбідів	true
@@ -408,7 +408,7 @@ political_parties_description_localised_mk_politics_navarre_council	Коли к�
 political_parties_name_localised_att_politics_himyar_ruler	Хім'яр	true
 political_parties_name_localised_att_politics_gauti_council	Інші родини	true
 political_parties_name_localised_mk2_politics_separatists_muzaffarids_ruler	Династія Музаффаридів	true
-political_parties_name_localised_mk_politics_separatists_kiev_ruler	Княжа династія	true
+political_parties_name_localised_mk_politics_separatists_kiev_ruler	Великокняжа династія	true
 political_parties_description_localised_cha_politics_danes_council	Хоча в цивільних справах беруть участь і звичайні люди, старійшини знатних родів вважаються особливо мудрими, тому їхня думка має найбільшу вагу.	true
 political_parties_name_localised_att_politics_ostrogothi_separatist_council	Інша знать	true
 political_parties_name_localised_mk2_politics_separatists_castile_council	Інші родини	true
@@ -592,7 +592,7 @@ political_parties_description_localised_mk_politics_achaea_council	Коли ко
 political_parties_description_localised_mk2_politics_bohemia_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
 political_parties_name_localised_mk2_politics_separatists_bluehorde_ruler	Рід Борджигін	true
 political_parties_description_localised_att_politics_vandali_council	Хоча в цивільних справах беруть участь і звичайні люди, старійшини знатних родів вважаються особливо мудрими, тому їхня думка має найбільшу вагу.	true
-political_parties_name_localised_mk_politics_chernigov_ruler	Княжий дім	true
+political_parties_name_localised_mk_politics_chernigov_ruler	Великокняжий дім	true
 political_parties_description_localised_att_politics_gauti_separatist_ruler	Воїни цього войовничого племені, спорідненого з готами, звикли брати силою все, що забажають, будь то земля, багатства, раби або чужі життя.	true
 political_parties_name_localised_mk_politics_sweden_council	Інші родини	true
 political_parties_description_localised_att_politics_western_roman_separatist_ruler	Формально Римська імперія поділена між двома спадкоємцями Феодосія, проте фактична влада в обох її частинах належить сановникам, які контролюють усі аспекти заплутаної імперської бюрократії.	true
@@ -754,7 +754,7 @@ political_parties_description_localised_mk2_politics_teutonic_council	Коли �
 political_parties_name_localised_mk_politics_separatists_schwyz_ruler	Швейцарський сейм	true
 political_parties_name_localised_mk_politics_candar_council	Інші родини	true
 political_parties_name_localised_att_politics_saxones_ruler	Сакси	true
-political_parties_name_localised_mk2_politics_muscovy_ruler	Княжа династія	true
+political_parties_name_localised_mk2_politics_muscovy_ruler	Великокняжа династія	true
 political_parties_description_localised_mk_politics_trebizond_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
 political_parties_description_localised_mk_politics_separatists_cumans_ruler	Ці кочові воїни, загартовані в суворих азіатських степах, вирушили на захід заради підкорення нових земель.	true
 political_parties_description_localised_mk_politics_lithuania_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
@@ -916,7 +916,7 @@ political_parties_description_localised_mk2_politics_separatists_moldavia_ruler	
 political_parties_name_localised_mk_politics_alania_ruler	Династія Багратіонів	true
 political_parties_name_localised_mk_politics_france_ruler	Династія Капетингів	true
 political_parties_name_localised_mk_politics_aragon_ruler	Барселонська династія	true
-political_parties_name_localised_mk_politics_ryazan_ruler	Княжий дім	true
+political_parties_name_localised_mk_politics_ryazan_ruler	Великокняжий дім	true
 political_parties_description_localised_mk_politics_sweden_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
 political_parties_name_localised_mk2_politics_separatists_milan_ruler	Дім Вісконті	true
 political_parties_name_localised_mk2_politics_mihrabanids_ruler	Династія Міхрабанідів	true
@@ -977,7 +977,7 @@ political_parties_description_localised_mk_politics_separatists_epirus_council	�
 political_parties_name_localised_mk2_politics_holstein_council	Інші родини	true
 political_parties_name_localised_mk2_politics_separatists_holstein_ruler	Гессенський дім	true
 political_parties_name_localised_mk_politics_poland_ruler	Династія Пястових	true
-political_parties_name_localised_mk_politics_halych_ruler	Княжий дім	true
+political_parties_name_localised_mk_politics_halych_ruler	Великокняжий дім	true
 political_parties_description_localised_mk_politics_achaea_ruler	Коли король вважає за потрібне, він радиться з наймудрішими і найдосвідченішими представниками знаті.	true
 political_parties_description_localised_mk_politics_schwyz_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
 political_parties_name_localised_mk2_politics_hazaraspids_ruler	Династія Хазараспідів	true
@@ -1409,7 +1409,7 @@ political_parties_name_localised_mk2_politics_separatists_croatia_ruler	Рід �
 political_parties_name_localised_mk2_politics_separatists_ramadan_ruler	Династія Рамазанідів	true
 political_parties_name_localised_mk2_politics_separatists_bavaria_ruler	Рід Віттельсбахів	true
 political_parties_name_localised_mk_politics_separatists_georgia_council	Інші родини	true
-political_parties_name_localised_mk_politics_kiev_ruler	Княжа династія	true
+political_parties_name_localised_mk_politics_kiev_ruler	Великокняжа династія	true
 political_parties_description_localised_mk2_politics_separatists_georgia_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
 political_parties_name_localised_mk2_politics_separatists_navarre_ruler	Дім д'Евре	true
 political_parties_description_localised_mk2_politics_separatists_shirvan_ruler	Змістивши Меровінгів, нащадки Карла Мартелла стали правити землями франків з благословення Папи Римського.	true
@@ -1444,7 +1444,7 @@ political_parties_name_localised_mk_politics_separatists_toulouse_ruler	Тулу
 political_parties_description_localised_att_politics_antean_separatist_council	Завдяки віку і досвіду старійшини переважають інших своєю мудрістю. Отже, їхні поради мають найвищу цінність.	true
 political_parties_name_localised_mk_politics_thessalonica_ruler	Рід Алерамічі	true
 political_parties_name_localised_mk_politics_separatists_seljuks_council	Інші родини	true
-political_parties_name_localised_mk2_politics_separatists_muscovy_ruler	Княжа династія	true
+political_parties_name_localised_mk2_politics_separatists_muscovy_ruler	Великокняжа династія	true
 political_parties_description_localised_mk_politics_separatists_abbasids_council	Сановники - це урядові чиновники, міністри і високопоставлені воєначальники, що обмежують вплив могутніх знатних родів.	true
 political_parties_description_localised_mk_politics_separatists_navarre_council	Коли король вважає за потрібне, він радиться з наймудрішими і найдосвідченішими представниками знаті.	true
 political_parties_description_localised_att_politics_venedi_separatist_council	Завдяки віку і досвіду старійшини переважають інших своєю мудрістю. Отже, їх поради мають найвищу цінність.	true
