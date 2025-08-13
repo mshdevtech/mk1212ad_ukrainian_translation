@@ -2609,7 +2609,7 @@ factions_senator_text_lose_n_att_fact_rugii	Підтримка вождів: -%n
 factions_attack_desc_att_fact_africa	Ви напали на Африку!	true
 factions_senator_text_lose_1_att_fact_rugii	Підтримка вождів: -%n	true
 factions_senator_text_lose_1_mk_fact_separatists_rasulids	Підтримка знаті: -%n	true
-factions_screen_name_cha_fact_wessex	Королівство Уессекс	true
+factions_screen_name_cha_fact_wessex	Королівство Вессекс	true
 factions_senator_text_lose_n_mk2_fact_separatists_lorraine	Підтримка придворних: -%n	true
 factions_senator_text_lose_n_mk2_fact_separatists_teutonic	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_1_mk2_fact_separatists_lorraine	Підтримка придворних: -%n	true
@@ -2893,7 +2893,7 @@ factions_screen_name_when_shogun_mk_fact_yaroslavl	placeholder	true
 factions_screen_name_att_fact_africa	Африка	true
 factions_screen_name_when_shogun_att_fact_marcomanni	placeholder	true
 factions_screen_name_when_rebels_bel_fact_separatist_western	Німецькі бунтівники	true
-factions_attack_desc_cha_fact_wessex	Ви напали на королівство Уессекс!	true
+factions_attack_desc_cha_fact_wessex	Ви напали на королівство Вессекс!	true
 factions_screen_name_mk2_fact_hazaraspids	Атабекство Хазараспідів	true
 factions_senator_text_lose_n_mk2_fact_hamid	Підтримка придворних: -%n	true
 factions_clan_summary_name_mk2_fact_germiyan	placeholder	true
@@ -3526,7 +3526,7 @@ factions_senator_text_gain_1_cha_fact_avars	Підтримка знаті: +%n	t
 factions_senator_text_n_out_of_n_mk2_fact_bluehorde	%n з %n знаті	true
 factions_screen_name_when_shogun_cha_fact_westphalia	placeholder	true
 factions_screen_name_when_shogun_mk_fact_rheinland	placeholder	true
-factions_defend_desc_cha_fact_wessex	На вас напало королівство Уессекс!	true
+factions_defend_desc_cha_fact_wessex	На вас напало королівство Вессекс!	true
 factions_senator_text_n_out_of_n_att_fact_afrighids	%n з %n придворних	true
 factions_screen_name_mk2_fact_separatists_mamluks	Мамлюки-самозванці	true
 factions_senator_text_gain_n_att_fact_separatist_visigothic	Підтримка вождів: +%n	true
@@ -5415,7 +5415,7 @@ factions_senator_text_lose_1_mk_fact_separatists_ifat	Підтримка зна�
 factions_senator_text_gain_1_mk_fact_separatists_leon	Підтримка знаті: +%n	true
 factions_screen_name_when_shogun_mk_fact_rebels_german	placeholder	true
 factions_screen_name_when_rebels_mk_fact_mainz	Майнцські бунтівники	true
-factions_screen_name_when_rebels_cha_fact_wessex	Уессекські бунтівники	true
+factions_screen_name_when_rebels_cha_fact_wessex	Вессекські бунтівники	true
 factions_screen_name_when_rebels_mk_fact_rebels_baltic	Балтійські бунтівники	true
 factions_screen_adjective_mk_fact_norway	Норвежці	true
 factions_clan_summary_name_att_fact_aria	placeholder	true
@@ -7604,7 +7604,7 @@ factions_clan_summary_name_when_shogun_mk_fact_separatists_papacy	placeholder	tr
 factions_clan_summary_name_when_shogun_mk_fact_rebels_west_slavic	placeholder	true
 factions_senator_text_lose_n_mk2_fact_separatists_nicaea	Підтримка сенаторів: -%n	true
 factions_senator_text_n_out_of_n_mk_fact_separatists_pisa	%n з %n сенаторів	true
-factions_screen_adjective_cha_fact_wessex	Уессекс	true
+factions_screen_adjective_cha_fact_wessex	Вессекс	true
 factions_senator_text_lose_n_mk2_fact_separatists_bosnia	Підтримка придворних: -%n	true
 factions_senator_text_lose_n_mk_fact_separatists_lorraine	Підтримка сенаторів: -%n	true
 factions_senator_text_lose_n_mk_fact_separatists_teutonic	Підтримка сенаторів: -%n	true

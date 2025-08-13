@@ -351,7 +351,7 @@ campaign_localised_strings_string_garrison_no_units_momentarily	Немає га�
 campaign_localised_strings_string_public_order_culture_tooltip	Зіткнення культур і релігій може створити ефект «плавильного котла» - або призвести до конфліктів.	true
 campaign_localised_strings_string_building_restriction_att_bld_barbarian_civic_market_general_5_legendary_celts	Королівський ринок буде доступний при виконанні наступних умов: \\n\\n - Отримано доступ до 9 видів торгових ресурсів.	true
 campaign_localised_strings_string_politics_action_impossible_actor_not_politician	[[col:red]]Тільки державні діячі можуть ставати слугами інших персонажів.[[/col]]	true
-campaign_localised_strings_string_cha_mission_vikings_1	Зруйнуйте 5 поселень в Англії (провінції Уессекс, Мерсія і Нортумбрія).	true
+campaign_localised_strings_string_cha_mission_vikings_1	Зруйнуйте 5 поселень в Англії (провінції Вессекс, Мерсія і Нортумбрія).	true
 campaign_localised_strings_string_unit_upgrade_retrain_cannot_reason_none_multiple_horde	У даному ордені ці загони вже не навчаться нічому новому.	true
 campaign_localised_strings_string_details_panel_tradition_select	Ця частина може засвоїти ще одну традицію.\\nКлацніть ЛКМ по традиції, щоб засвоїти її.	true
 campaign_localised_strings_string_politics_action_impossible_actor_gravitas_insufficient	[[col:red]]Цей персонаж недостатньо впливовий для виконання даної дії.[[/col]]\\n\\nПерсонажі набувають впливу, досягаючи успіхів на посаді командира або губернатора, а також беручи участь у столичній політиці.	true
@@ -516,7 +516,7 @@ campaign_localised_strings_string_politics_character_cannot_act_wounded	Поки
 campaign_localised_strings_string_public_order_buildings_squalor	Будівлі	true
 campaign_localised_strings_string_public_order_banditry	Розбійники	true
 campaign_localised_strings_string_military_force_morale_bonus_value_guarded_navy	Супровід суден	true
-campaign_localised_strings_string_cha_faction_english_kingdom_objective	Контролюйте провінції Уессекс, Мерсія і Нортумбрія.	true
+campaign_localised_strings_string_cha_faction_english_kingdom_objective	Контролюйте провінції Вессекс, Мерсія і Нортумбрія.	true
 campaign_localised_strings_string_cha_faction_italian_kingdom_objective	Контролюйте провінції Фріулі, Ломбардія, Екзархат, Беневенто, Калабрія, Сицилія і Рим (крім м. Риму).	true
 campaign_localised_strings_string_military_force_morale_raiding	Наліт	true
 campaign_localised_strings_string_raise_legacy_no_legacy	Неможливо відновити спадщину.||У вас немає спадщини, яку можна було б відновити.	true
