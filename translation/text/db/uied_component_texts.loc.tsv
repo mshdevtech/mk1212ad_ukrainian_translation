@@ -88,7 +88,7 @@ uied_component_texts_localised_string_experience_1_Tooltip_60027	1-й ранг �
 uied_component_texts_localised_string_icon_vassals_vassal_Tooltip_72004do	Ваші маріонеткові держави||Вважайте їх сильними військовими союзниками, а також джерелом доходу, оскільки ви отримуєте від них данину кожного ходу.	true
 uied_component_texts_localised_string_StatusIcon_Moving_Fast_Tooltip_740060	На прискоренному марші	true
 uied_component_texts_localised_string_army_value_label_NewState_Text_2b005b	Залишок коштів:	true
-uied_component_texts_localised_string_pay_once_Tooltip_2d0035r	Одноразовій виплаті не завадять ні спустошення, ні війна.||Однак слід врахувати, що один раз виплатити велику суму може бути складніше, ніж вносити регулярні дрібні платежі.	true
+uied_component_texts_localised_string_pay_once_Tooltip_2d0035r	Одноразовій виплаті не завадять ні розорення, ні війна.||Однак слід врахувати, що один раз виплатити велику суму може бути складніше, ніж вносити регулярні дрібні платежі.	true
 uied_component_texts_localised_string_icon_status_politician_Tooltip_120054	Держ. діяч	true
 uied_component_texts_localised_string_max_units_blocked_Text_35	5	true
 uied_component_texts_localised_string_button_surround_Tooltip_390057	Оточити ||Оточити поселення і взяти захисників виснаженням.	true
@@ -244,7 +244,7 @@ uied_component_texts_localised_string_label_tx_NewState_Text_260039	Назва �
 uied_component_texts_localised_string_tx_your_forces_enemy_Text_5c0008n	Ворожі війська	true
 uied_component_texts_localised_string_deployed_Tooltip_12001bx	Кількість людей у битві на момент розгортання.	true
 uied_component_texts_localised_string_auto_trigger_icon_active_Tooltip_2c0031b	Автозастосування увімкнено||Клацніть ПКМ на кнопці вміння, щоб увімкнути або вимкнути його автозастосування для обраного загону.	true
-uied_component_texts_localised_string_pay_repeatedly_Tooltip_520013	Регулярно виплачувати невелику суму порівняно просто.||Укладена угода про виплати може бути розірвана тільки в разі спустошення держави або оголошення війни.	true
+uied_component_texts_localised_string_pay_repeatedly_Tooltip_520013	Регулярно виплачувати невелику суму порівняно просто.||Укладена угода про виплати може бути розірвана тільки в разі розорення держави або оголошення війни.	true
 uied_component_texts_localised_string_button_migrate_selected_Tooltip_2e006c	Усі поселення вашої країни будуть покинуті. [ЛКМ - скасування]	true
 uied_component_texts_localised_string_subtitle_tx_theirs_Text_410077	Вони вимагають	true
 uied_component_texts_localised_string_tx_enables_recruitment_NewState_Text_b007c	Надає доступ до будівель:	true
@@ -303,7 +303,7 @@ uied_component_texts_localised_string_tab_trade_inactive_Tooltip_20074	Орди 
 uied_component_texts_localised_string_l_arrow_amount_Tooltip_66002a	Зменшити кількість ходів	true
 uied_component_texts_localised_string_button_tx_peace_Text_450046m	Запропонувати мир	true
 uied_component_texts_localised_string_tab_room_list_Tooltip_1d0000	Список кімнат	true
-uied_component_texts_localised_string_tooltip_Tooltip_76004c	Спустошити||Ви не захоплюєте поселення, але забираєте з нього гроші і пошкоджуєте його будівлі. Всі полонені будуть вбиті.||Фракція-власник буде ставитися до вас значно гірше, а рівень громадського порядку знизиться.	true
+uied_component_texts_localised_string_tooltip_Tooltip_76004c	Розорити||Ви не захоплюєте поселення, але забираєте з нього гроші і пошкоджуєте його будівлі. Всі полонені будуть вбиті.||Фракція-власник буде ставитися до вас значно гірше, а рівень громадського порядку знизиться.	true
 uied_component_texts_localised_string_nav_button_board_Tooltip_7d006f	Абордаж||Коли ця кнопка активна, ви можете взяти ворожий корабель на абордаж.	true
 uied_component_texts_localised_string_label_tx_NewState_Text_78000c	Субтитри	true
 uied_component_texts_localised_string_tooltip_Tooltip_67005f	Розграбувати||В результаті розграбування ви отримаєте гроші, але споруди в цьому поселенні будуть пошкоджені. Всі полонені будуть перетворені на рабів.||Показник громадського порядку сильно впаде. Дипломатичні відносини з колишнім власником цих земель сильно постраждають.	true
@@ -523,7 +523,7 @@ uied_component_texts_localised_string_terrain_Tooltip_30040h	Намагайте�
 uied_component_texts_localised_string_icon_status_Capturing_Tooltip_90048	Захоплення	true
 uied_component_texts_localised_string_button_add_ai_Tooltip_790023	Додати ШІ	true
 uied_component_texts_localised_string_icon_vassals_vassal_Text_1c0016nu	Маріонетки:	true
-uied_component_texts_localised_string_pay_once_Tooltip_2d0035	Одноразовій виплаті не завадять ні спустошення, ні війна.||Однак слід врахувати, що один раз виплатити велику суму може бути складніше, ніж вносити регулярні дрібні платежі.	true
+uied_component_texts_localised_string_pay_once_Tooltip_2d0035	Одноразовій виплаті не завадять ні розорення, ні війна.||Однак слід врахувати, що один раз виплатити велику суму може бути складніше, ніж вносити регулярні дрібні платежі.	true
 uied_component_texts_localised_string_icon_Tooltip_3002e	Gravitas (вага)	true
 uied_component_texts_localised_string_label_txt_NewState_Text_180049[	Військовий радник	true
 uied_component_texts_localised_string_pip_status_vassal_player_Tooltip_5f0000fqv	Ви є маріонетковою державою цієї фракції.	true
@@ -923,7 +923,7 @@ uied_component_texts_localised_string_tab_victory_conditions_Tooltip_4b006er	У�
 uied_component_texts_localised_string_tx_generals_killed_NewState_Text_700076	Вражених полководців вбито	true
 uied_component_texts_localised_string_XP_frame_Tooltip_120015	Поточна чисельність цього загону.||Максимальна чисельність вказана в дужках.||При додаванні нових бійців загальний рівень загону знизиться.	true
 uied_component_texts_localised_string_clan_fame_fame_3_Tooltip_300028	Страхітлива||Ваші люди зробили багато великих справ. Вороги бояться їх і самі мріють здобути таку владу. Назріває громадянська війна.	true
-uied_component_texts_localised_string_pay_repeatedly_Tooltip_520013g	Регулярно виплачувати невелику суму порівняно просто.||Укладена угода про виплати може бути розірвана тільки в разі спустошення або оголошення війни.	true
+uied_component_texts_localised_string_pay_repeatedly_Tooltip_520013g	Регулярно виплачувати невелику суму порівняно просто.||Укладена угода про виплати може бути розірвана тільки в разі розорення або оголошення війни.	true
 uied_component_texts_localised_string_button_options_Tooltip_3f0004	Налаштування кампанії	true
 uied_component_texts_localised_string_tx_growth_NewState_Text_6d0066	Зростання:	true
 uied_component_texts_localised_string_tx_skills_NewState_Text_3d0015	Ефекти	true
@@ -1714,7 +1714,7 @@ uied_component_texts_localised_string_template_trade_resource_importing_no_value
 uied_component_texts_localised_string_offer_access_tx_NewState_Text_56000ar	Запропонувати право проходу	true
 uied_component_texts_localised_string_cmp_diff_tx_NewState_Text_540073	Складність:	true
 uied_component_texts_localised_string_button_army_Tooltip_210064j	Про армію	true
-uied_component_texts_localised_string_tooltip_Tooltip_a0030	Спустошити||Ви не захопите поселення, але заберете з нього гроші і пошкодите будівлі. Всі полонені будуть вбиті.||Громадський порядок погіршиться, ставлення колишніх власників поселення до вас сильно погіршиться.	true
+uied_component_texts_localised_string_tooltip_Tooltip_a0030	Розорити||Ви не захопите поселення, але заберете з нього гроші і пошкодите будівлі. Всі полонені будуть вбиті.||Громадський порядок погіршиться, ставлення колишніх власників поселення до вас сильно погіршиться.	true
 uied_component_texts_localised_string_button_tactical_map_Tooltip_130058v	Тактична карта||Двічі клацніть або натисніть гарячу клавішу, щоб відкрити/закрити карту.	true
 uied_component_texts_localised_string_string_NewState_Text_26002f	У головне меню	true
 uied_component_texts_localised_string_mountable_cap_NewState_Text_210045	Стаціонарних машин:	true
@@ -1800,7 +1800,7 @@ uied_component_texts_localised_string_tx_title_NewState_Text_f0020	Суб'єкт
 uied_component_texts_localised_string_merch_type_faction_Tooltip_6f004d	Найманець фракції ||Цей загін знаходиться в резерві найманців фракції, і найняти його можете тільки ви особисто. На суші ви отримуєте доступ до таких загонів, якщо у вас є поселення в провінції, а на морі - якщо у вас є порт в цьому морському регіоні.	true
 uied_component_texts_localised_string_tx_founding_location_NewState_Text_210010	Місце заснування:	true
 uied_component_texts_localised_string_tx_characters_NewState_Text_740056	Навички	true
-uied_component_texts_localised_string_button_sack_Tooltip_30002fmgbhmttvixwflblmdd	Спустошення	true
+uied_component_texts_localised_string_button_sack_Tooltip_30002fmgbhmttvixwflblmdd	Розорення	true
 uied_component_texts_localised_string_button_technology_Tooltip_740052	Технології	true
 uied_component_texts_localised_string_button_txt_ancillary_Text_220065	Вибрати домочадця/предмет	true
 uied_component_texts_localised_string_dy_text_they_accepted_Text_210042	Вони [[col:dark_g]]прийняли[[/col]] вашу пропозицію	true

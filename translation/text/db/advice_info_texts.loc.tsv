@@ -402,7 +402,7 @@ advice_info_texts_localised_text_Att.Pro.Camp.Info.384	Торгові угоди
 advice_info_texts_localised_text_Att.Pro.Battle.Info.082	Якщо ви увімкнете цей режим, воїни загону розсіються.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.285	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Навички армій:[[/url]]	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.082	Поповнити скарбницю можна за рахунок торгівлі, податків і грабежу.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.182	Спустошивши поселення, ви залишите його колишньому власнику, але заберете з нього всі цінності.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.182	Розоривши поселення, ви залишите його колишньому власнику, але заберете з нього всі цінності.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.282	Повстання викликають розлад в державі. Їх слід придушувати силами армії.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.382	Завдяки торгівлі ви можете отримати ресурси, яких немає у ваших регіонах.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.482	Досвід загону позначається шевронами на його картці.	true
@@ -417,7 +417,7 @@ advice_info_texts_localised_text_Att.Pro.Camp.Info.280	[[url:/manual/page/single
 advice_info_texts_localised_text_Att.Pro.Camp.Info.380	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy#enc_text_manual_hud_diplomacy_options_trade_agreement]]Торгівля:[[/url]]	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.480	[[url:/manual/page/single-player/0028_enc_page_campaign_play_military_experience#enc_text_manual_army_experience]]Досвід загонів:[[/url]]	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.081	Витрати на армію та будівництво можуть спустошити вашу скарбницю.	true
-advice_info_texts_localised_text_Att.Pro.Camp.Info.181	Захоплене поселення можна окупувати, розграбувати, спустошити або зруйнувати дощенту.	true
+advice_info_texts_localised_text_Att.Pro.Camp.Info.181	Захоплене поселення можна окупувати, розграбувати, розорити або зруйнувати дощенту.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.281	Якщо рівень громадського порядку в провінції буде занадто низьким, населення може повстати.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.381	Торгові угоди приносять фінансову вигоду обом сторонам.	true
 advice_info_texts_localised_text_Att.Pro.Camp.Info.481	Війська набираються досвіду, беручи участь у битвах.	true

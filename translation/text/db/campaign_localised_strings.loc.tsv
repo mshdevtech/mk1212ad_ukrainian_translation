@@ -92,7 +92,7 @@ campaign_localised_strings_string_end_turn_warning_legacy_skill_to_be_picked	У 
 campaign_localised_strings_string_growth_characters	Персонажі	true
 campaign_localised_strings_string_raise_army_capped	Неможливо створити армію.||У вас недостатньо імперіуму.	true
 campaign_localised_strings_string_politics_character_joined_your_family_from	Цей персонаж перейшов до вашої родини з наступної фракції:	true
-campaign_localised_strings_string_cha_mission_avars_1	Спустоште 5 поселень.	true
+campaign_localised_strings_string_cha_mission_avars_1	Розоріть 5 поселень.	true
 campaign_localised_strings_string_details_panel_character_age	Епоха:	true
 campaign_localised_strings_string_politics_action_impossible	Ця політична дія не може бути виконана:	true
 campaign_localised_strings_string_recruitment_hire_mercenary	Найняти найманців	true
@@ -441,7 +441,7 @@ campaign_localised_strings_string_raise_legacy_besieged	Неможливо ві�
 campaign_localised_strings_string_battle_ambush_they_intercept	Ваше військо помітило засідку ворога. Хоча його плани розкриті, ворог йде в бій!	true
 campaign_localised_strings_string_military_force_morale_kings_own	Царські воїни	true
 campaign_localised_strings_string_politics_action_cancel	Скасування цієї політичної дії.	true
-campaign_localised_strings_string_cha_mission_pope_help_1	Захопіть або спустоште ломбардську столицю.	true
+campaign_localised_strings_string_cha_mission_pope_help_1	Захопіть або розоріть ломбардську столицю.	true
 campaign_localised_strings_string_military_force_morale_concurrent_wars	Кілька воєн	true
 campaign_localised_strings_string_development_points_tooltip_hordes_growth_max	[[col:yellow]]У цій орді досягнуто максимальний надлишок населення.[[/col]]	true
 campaign_localised_strings_string_building_restriction_att_bld_eos_mint	Царський монетний двір буде доступний при виконанні наступних умов:\\n[[col:yellow]]• Наявність родовища золота.\\n• Монополія на прянощі.[[/col]]	true
@@ -510,7 +510,7 @@ campaign_localised_strings_string_public_order_banditry_tooltip	Бродяги �
 campaign_localised_strings_string_details_panel_ancillary_none	Немає домочадців і предметів, які можна було б дати персонажу.	true
 campaign_localised_strings_string_public_order_conquest_tooltip	Тяготи війни та окупації штовхають людей до заколоту.	true
 campaign_localised_strings_string_public_order_baseline_tooltip	Рівень складності вплине на громадський порядок.	true
-campaign_localised_strings_string_cha_faction_viking_kingdom_objective	Спустоште не менше 25 поселень.	true
+campaign_localised_strings_string_cha_faction_viking_kingdom_objective	Розоріть не менше 25 поселень.	true
 campaign_localised_strings_string_province_fertility_factor_base	Базова родючість	true
 campaign_localised_strings_string_politics_character_cannot_act_wounded	Поки цей персонаж поранений, він не може ні здійснювати політичні дії, ні бути їх метою.	true
 campaign_localised_strings_string_public_order_buildings_squalor	Будівлі	true

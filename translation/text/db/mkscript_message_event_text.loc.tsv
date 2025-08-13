@@ -261,7 +261,7 @@ message_event_text_text_mk_event_pope_favour_decrease_secondary_mission_fail_tak
 message_event_text_text_mk_event_pope_favour_decrease_secondary_refused_but_gave_target	Ви знехтували волею Папи, відмовившись тільки від цільового міста хрестового походу. Прихильність Папи Римського до вас значно зменшилася, але ви зберегли за собою всі інші землі, завойовані під час хрестового походу.	true
 message_event_text_text_mk_event_pope_favour_decrease_secondary_refused_demands	Ви відмовили Папі в його вимогах, чим сильно його розгнівали. Прихильність Папи Римського до вас знизилася до надзвичайно високого рівня.	true
 message_event_text_text_mk_event_pope_favour_decrease_secondary_refused_pretender	Ви відмовилися від запропонованого Папою Римським висунення на титул імператора Священної Римської імперії, тим самим уникаючи втягування себе у війну з нинішнім імператором, але розгнівавши при цьому Папу. Прихильність Папи Римського до вас зменшилася.	true
-message_event_text_text_mk_event_pope_favour_decrease_secondary_sacked_settlement	Ви спустошили беззахисне християнське поселення після того, як воно здалося вашим військам, і Папа дуже цим розчарований. Прихильність Папи Римського до вас знизилася.	true
+message_event_text_text_mk_event_pope_favour_decrease_secondary_sacked_settlement	Ви розорили беззахисне християнське поселення після того, як воно здалося вашим військам, і Папа дуже цим розчарований. Прихильність Папи Римського до вас знизилася.	true
 message_event_text_text_mk_event_pope_favour_decrease_secondary_slaughtered_captives	Навіть якщо б вони це заслужили, масове вбивство вами беззахисних полонених-християн засмутило Папу. Прихильність Папи Римського до вас знизилася.	true
 message_event_text_text_mk_event_pope_favour_decrease_secondary_supported_toulouse	Ви викликали невдоволення Його Святості, підтримавши графство Тулуза зброєю і людьми. Прихильність Папи Римського до вас знизилася.	true
 message_event_text_text_mk_event_pope_favour_decrease_title	Зниження прихильності Папи Римського	true
@@ -328,7 +328,7 @@ message_event_text_text_mk_event_mecca_attacked_title	Падіння Мекки	
 message_event_text_text_mk_event_mecca_liberated_secondary	Мекка, священне місто мусульман, нарешті була звільнена прихильниками ісламської віри. Радість огорнула серце кожного мусульманина в усьому світі.	true
 message_event_text_text_mk_event_mecca_liberated_title	Відвоювання Мекки	true
 message_event_text_text_mk_event_mecca_destroyed_title	Руйнування Мекки	true
-message_event_text_text_mk_event_mecca_destroyed_secondary	Для мусульман усього світу настав найгірший день в історії: священне місто Мекка було повністю зруйновано, а всі його святині спустошені і знищені чужинцями-загарбниками. Іслам, можливо, і не оговтається від такого серйозного удару, але точно, що у правовірних з'явиться жага помсти.	true
+message_event_text_text_mk_event_mecca_destroyed_secondary	Для мусульман усього світу настав найгірший день в історії: священне місто Мекка було повністю зруйновано, а всі його святині розорені і знищені чужинцями-загарбниками. Іслам, можливо, і не оговтається від такого серйозного удару, але точно, що у правовірних з'явиться жага помсти.	true
 message_event_text_text_mk_event_faction_rank_secondary_4	Ваша фракція досягла рангу «королівства», що вказує на її статус регіональної держави.	true
 message_event_text_text_mk_event_faction_rank_secondary_5	Ваша фракція досягла рангу «імперії», що вказує на її статус великої держави.	true
 message_event_text_text_mk_event_faction_rank_title_4	Заснування королівства	true
